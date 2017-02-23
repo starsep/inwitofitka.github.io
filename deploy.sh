@@ -53,7 +53,7 @@ function check_init {
 }
 
 function deploy {
-  blue_head_body "WYSYŁANIE" "\nSpróbuję wysłać wyniki na serwer :)\n"
+  blue_head_body "\nWYSYŁANIE" "Spróbuję wysłać wyniki na serwer :)\n"
 
   stashes_before=`git stash list | wc -l`
   git stash
