@@ -54,7 +54,11 @@ function check_init {
 
 function deploy {
   blue_head_body "WYSYŁANIE" "\nSpróbuję wysłać wyniki na serwer :)\n"
+
+  stashes_before=`git stash list | wc -l`
   git stash
+  stashes_after=`git stash list | wc -l`
+
   git fetch && \
   git rebase origin/master && \
   git add $name && \
@@ -62,11 +66,14 @@ function deploy {
   git commit -m "$name: autoupdate $current_time." && \
   git push && \
   green_head_body "SUKCES!" "Wyniki powinny być na inwitofitka.club/$name"
+
   if [ $? != 0 ] ; then
     error "Coś nie wyszło :c"
   fi
-  git stash apply
 
+  if [ stashes_before != stashes_after ] ; then
+    git stash apply
+  fi
 }
 
 function run {
