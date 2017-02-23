@@ -53,6 +53,8 @@ function check_init {
     echo "Turniej $name, jeszcze tu nic nie ma" > $name/index.html
     log "Proszę stworzyć turniej o nazwie $name i zapisać go w $name/$name.rrt"
     log "oraz ustawić katalog roboczy turnieju na $name"
+    echo "- $name" >> _data/tournaments.yml
+    git add _data/tournaments.yml
   fi
 }
 
