@@ -66,12 +66,13 @@ function deploy {
   blue_head_body "\nPOBIERANIE" "Pobieram dane z serwera.\n"
 
   git fetch && \
-  git rebase origin/master
+  git rebase origin/master &&
+  git add $name
 
   if ! git diff-index --quiet HEAD -- ; then
     blue_head_body "\nMamy" "lokalne zmiany, wysyłam na serwer.\n"
-    git add $name && \
-    current_time=`date "+%Y-%m-%d %H:%M:%S"` && \
+    current_time=`date "+%Y-%m-%d %H:%M:%S"`
+
     git commit -m "$name: autoupdate $current_time." && \
     git push && \
     success "Wyniki powinny być na inwitofitka.club/$name"
