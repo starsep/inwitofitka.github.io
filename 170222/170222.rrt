@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <turniej>
 <ustawienia>
-<outputDir>/media/starsep/Shared/Pobrane/Brydż/rrbridge/rrbridge/rrbridge - turnieje</outputDir>
+<outputDir>/home/starsep/projects/inwitofitka.github.io/170222</outputDir>
 <plikPBN/>
 <favicon/>
 <nabiezaco>0</nabiezaco>
-<adresFTP/>
+<adresFTP>ftp://</adresFTP>
 <loginFTP/>
 <nazwa>Szkoła IF 170222</nazwa>
 <data>2017-02-53</data>
@@ -423,8 +423,8 @@
 <numerNaSali>1</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "N:T95.J953.J9652.3 AKJ32..K74.K9842 64.AT8764.A83.T6 Q87.KQ2.QT.AQJ75"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:21760 E:BB67C S:21760 W:BB67C"]</ability>
+<minimax>[Minimax "6CW-920"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>1</ew>
@@ -479,8 +479,8 @@
 <numerNaSali>2</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "E:T86.KQ73.Q83.AQ6 75.86.KJ952.T854 Q942.AT.T764.972 AKJ3.J9542.A.KJ3"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:77778 E:66555 S:77778 W:66565"]</ability>
+<minimax>[Minimax "1CS90"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>1</ew>
@@ -535,8 +535,8 @@
 <numerNaSali>3</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "S:AK743.AK762.32.4 QT.J943.76.AT963 86.85.QT98.QJ852 J952.QT.AKJ54.K7"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:56756 E:86676 S:56755 W:86676"]</ability>
+<minimax>[Minimax "2NW-120"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>1</ew>
@@ -591,8 +591,8 @@
 <numerNaSali>4</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "W:J973.76.KQ6.KJT5 A2.KJ93.A73.Q632 Q64.852.JT52.A84 KT85.AQT4.984.97"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:76976 E:66466 S:76976 W:66466"]</ability>
+<minimax>[Minimax "1HS140"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>1</ew>
@@ -647,8 +647,8 @@
 <numerNaSali>5</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "N:K32.632.J9.JT987 A765.K84.AT72.62 QT84.AQJ9.Q43.A3 J9.T75.K865.KQ54"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:67747 E:66686 S:67757 W:65586"]</ability>
+<minimax>[Minimax "2DW-90"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>2</ew>
@@ -703,8 +703,8 @@
 <numerNaSali>6</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "E:T97432.6.JT2.K65 AQ5.T75.AQ53.A82 J8.AKQJ92.K.QJT7 K6.843.98764.943"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:65484 E:77958 S:65484 W:77958"]</ability>
+<minimax>[Minimax "3HW-140"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>2</ew>
@@ -759,8 +759,8 @@
 <numerNaSali>7</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "S:KQ85.984.T5.Q653 T96.KJ5.J6.AT942 43.Q63.AK98742.K AJ72.AT72.Q3.J87"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:75474 E:67958 S:75474 W:67958"]</ability>
+<minimax>[Minimax "2HE-140"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>2</ew>
@@ -815,8 +815,8 @@
 <numerNaSali>8</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "W:T5.A876532.Q74.9 A6.KQJT9.J963.53 QJ8743..KT852.J4 K92.4.A.AKQT8762"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:B695C E:17471 S:B585C W:17471"]</ability>
+<minimax>[Minimax "6CS920"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>2</ew>
@@ -871,8 +871,8 @@
 <numerNaSali>9</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "N:T976.K5.Q4.KT762 K.AT9862.876.Q53 A852.Q73.K932.94 QJ43.J4.AJT5.AJ8"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:46446 E:86987 S:46346 W:96987"]</ability>
+<minimax>[Minimax "3NW-600"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>3</ew>
@@ -927,8 +927,8 @@
 <numerNaSali>10</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "E:J987.Q3.Q8.A8642 AK42.A985.AK.KQ5 3.KJ642.743.J973 QT65.T7.JT9652.T"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:BA8B6 E:22517 S:BA8B6 W:12517"]</ability>
+<minimax>[Minimax "3NN660"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>3</ew>
@@ -983,8 +983,8 @@
 <numerNaSali>11</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "S:AQ86.84.AJT76.AT K953.AK5.KQ42.52 J42.Q976..KJ8764 T7.JT32.9853.Q93"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:8986A E:54453 S:8998A W:34453"]</ability>
+<minimax>[Minimax "1HS140"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>3</ew>
@@ -1039,8 +1039,8 @@
 <numerNaSali>12</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "W:.AQ87.QJT43.AKQ3 Q964.K6532.A86.5 AJT32.J94.7.T862 K875.T.K952.J974"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:57554 E:86779 S:57554 W:86879"]</ability>
+<minimax>[Minimax "1NE-120"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>3</ew>
@@ -1095,8 +1095,8 @@
 <numerNaSali>13</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "N:763.J762.T8.A764 KQJ2.Q3.A3.QJ953 AT984.95.KJ654.2 5.AKT84.Q972.KT8"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:36352 E:A7A7B S:35252 W:A697A"]</ability>
+<minimax>[Minimax "3NW-630"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>4</ew>
@@ -1151,8 +1151,8 @@
 <numerNaSali>14</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "E:KT2.876.K96.KJT5 QJ63.A954.875.Q6 98.JT2.AJT43.A74 A754.KQ3.Q2.9832"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:48634 E:85699 S:48634 W:85699"]</ability>
+<minimax>[Minimax "3SDS-100"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>4</ew>
@@ -1207,8 +1207,8 @@
 <numerNaSali>15</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "S:JT2.87.A92.AQ753 Q954.AKQ92.J.864 873..T8754.KJT92 AK6.JT6543.KQ63."]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:32178 E:7AC65 S:32178 W:7AC65"]</ability>
+<minimax>[Minimax "6HE-980"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>4</ew>
@@ -1263,8 +1263,8 @@
 <numerNaSali>16</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "W:J953.K3.8.JT9543 4.AJT874.AJ73.87 AKT87.Q2.Q5.AQ62 Q62.965.KT9642.K"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:53AA3 E:6A33A S:53AA3 W:6A33A"]</ability>
+<minimax>[Minimax "5DDS-100"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>4</ew>
@@ -1319,8 +1319,8 @@
 <numerNaSali>17</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "N:9753.T953.76.K92 64.8.KQ9853.AQJ4 AT2.J62.JT4.8765 KQJ8.AKQ74.A2.T3"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:01201 E:CBBCB S:01201 W:CBBCB"]</ability>
+<minimax>[Minimax "6NW-990"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>5</ew>
@@ -1375,8 +1375,8 @@
 <numerNaSali>18</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "E:KQ6.K.AJ42.AKJ86 A4.T98732.Q5.Q93 932.654.K93.7542 JT875.AQJ.T876.T"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:76954 E:67479 S:76954 W:66479"]</ability>
+<minimax>[Minimax "4CDE100"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>5</ew>
@@ -1431,8 +1431,8 @@
 <numerNaSali>19</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "S:A9.63.QJT852.K83 J65.AT854.A3.J94 KQ842.Q72.K97.T7 T73.KJ9.64.AQ652"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:68494 E:75838 S:68494 W:75838"]</ability>
+<minimax>[Minimax "2SN110"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>5</ew>
@@ -1487,8 +1487,8 @@
 <numerNaSali>20</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "W:K7.AK875.5.QT652 T63.J42.9632.AK7 AQJ54.Q963.QJ8.4 982.T.AKT74.J983"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:32185 E:5AB57 S:32185 W:5AB47"]</ability>
+<minimax>[Minimax "4HW-650"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>5</ew>
@@ -1543,8 +1543,8 @@
 <numerNaSali>21</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "N:976.QT3.KJ76.J74 KT83.A942.T5.A32 AQJ5.KJ76.942.Q8 42.85.AQ83.KT965"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:77885 E:65558 S:77885 W:65558"]</ability>
+<minimax>[Minimax "3CDW100"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>6</ew>
@@ -1599,8 +1599,8 @@
 <numerNaSali>22</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "E:KQ432.5.T853.A32 T98.KJT32.A6.J84 A765.Q864.QJ2.T9 J.A97.K974.KQ765"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:7497A E:58462 S:7497A W:58462"]</ability>
+<minimax>[Minimax "3HS140"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>6</ew>
@@ -1655,8 +1655,8 @@
 <numerNaSali>23</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "S:T7.J6432.K42.T62 4.K.AQ9875.J9754 AKJ65.AQT85.6.AQ Q9832.97.JT3.K83"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:78B34 E:542A9 S:88B34 W:542A9"]</ability>
+<minimax>[Minimax "6DDW500"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>6</ew>
@@ -1711,8 +1711,8 @@
 <numerNaSali>24</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "W:K542.75.KQT4.T64 3.KQ842.J753.QJ9 AQT98.AJT963.9.8 J76..A862.AK7532"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:73599 E:69833 S:7349A W:69833"]</ability>
+<minimax>[Minimax "4SDE100"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>6</ew>
@@ -1767,8 +1767,8 @@
 <numerNaSali>25</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "N:8643.3.K762.JT93 AQJ97.JT6.AJ.A42 KT.AKQ972.T5.Q75 52.854.Q9843.K86"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:75867 E:68576 S:75867 W:68576"]</ability>
+<minimax>[Minimax "2NDS-100"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>7</ew>
@@ -1823,8 +1823,8 @@
 <numerNaSali>26</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "E:J87543.42.9.KJT3 QT.KJ3.K84.96542 A96.Q9876.JT32.7 K2.AT5.AQ765.AQ8"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:A59A9 E:38434 S:A59A9 W:38434"]</ability>
+<minimax>[Minimax "4NS630"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>7</ew>
@@ -1879,8 +1879,8 @@
 <numerNaSali>27</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "S:AKT75.A654.QJ6.8 Q93.8.AT5.AKQ542 J864.KT9.K983.76 2.QJ732.742.JT93"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:6A883 E:73549 S:6A883 W:73549"]</ability>
+<minimax>[Minimax "5CDW300"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>7</ew>
@@ -1935,8 +1935,8 @@
 <numerNaSali>28</numerNaSali>
 <rozdAktywne>1</rozdAktywne>
 <diagram>[Deal "W:A8762.K6.Q2.J965 Q93.8.AJT9765.T8 KJ5.QT975.K83.K4 T4.AJ432.4.AQ732"]</diagram>
-<ability/>
-<minimax/>
+<ability>[Ability "N:44697 E:97746 S:44697 W:97746"]</ability>
+<minimax>[Minimax "4DDN-200"]</minimax>
 <wpis>
 <ns>8</ns>
 <ew>7</ew>

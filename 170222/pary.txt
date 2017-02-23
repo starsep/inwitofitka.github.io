@@ -132,7 +132,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 23-02-2017 13:35:13
+, znacznik czasowy: 23-02-2017 14:46:51
 <br />Sędzia: Filip Czaplicki
 , e-mail: <a href="mailto:filipczaplicki@gmail.com">filipczaplicki@gmail.com</a>
 </div>
