@@ -69,7 +69,7 @@ function deploy {
   # git rebase origin/master &&
   git add $name
 
-  if ! git diff-index --quiet HEAD -- ; then
+  if ! git diff --cached --exit-code --quiet ; then
     blue_head_body "\nMamy" "lokalne zmiany, wysyłam na serwer.\n"
     current_time=`date "+%Y-%m-%d %H:%M:%S"`
 
