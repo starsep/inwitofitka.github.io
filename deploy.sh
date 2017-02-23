@@ -44,7 +44,7 @@ function delay {
 function check_init {
   log "Sprawdzam czy istnieje katalog $name."
   if [ ! -d $name ]; then
-    log "Nie istnieje katalog $name, tworzę go."
+    green_head_body "Inicjalizacja:" "Nie istnieje katalog $name, tworzę go."
     mkdir $name
     touch $name/.gitkeep
     log "Proszę stworzyć turniej o nazwie $name i zapisać go w $name/$name.rrt"
@@ -53,7 +53,7 @@ function check_init {
 }
 
 function deploy {
-  blue_head_body "WYSYŁANIE" "Spróbuję wysłać wyniki na serwer :)"
+  blue_head_body "WYSYŁANIE" "\nSpróbuję wysłać wyniki na serwer :)\n"
   git stash
   git fetch && \
   git rebase origin/master && \
