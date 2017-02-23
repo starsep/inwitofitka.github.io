@@ -21,6 +21,10 @@ function green_head_body {
   log "$2"
 }
 
+function success {
+  green_head_body "SUKCES!" "$1"
+}
+
 function check_args {
   if [ $# != 1 ] && [ $# != 2 ] ; then
     error "Zła liczba parametrów.\n"
@@ -65,7 +69,7 @@ function deploy {
   current_time=`date "+%Y-%m-%d %H:%M:%S"` && \
   git commit -m "$name: autoupdate $current_time." && \
   git push && \
-  green_head_body "SUKCES!" "Wyniki powinny być na inwitofitka.club/$name"
+  success "Wyniki powinny być na inwitofitka.club/$name"
 
   if [ $? != 0 ] ; then
     error "Coś nie wyszło :c"
