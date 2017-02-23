@@ -12,25 +12,25 @@ function error {
 }
 
 function blue_head_body {
-  echo -ne "\e[94m$1\e[0m"
+  echo -ne "\e[94m$1 \e[0m"
   log "$2"
 }
 
 function green_head_body {
-  echo -ne "\e[92m$1\e[0m"
+  echo -ne "\e[92m$1 \e[0m"
   log "$2"
 }
 
 function check_args {
   if [ $# != 1 ] && [ $# != 2 ] ; then
     error "Zła liczba parametrów.\n"
-    blue_head_body "Użycie: " "$0 nazwa [czas]\n"
-    blue_head_body "Przykład: " "$0 170223"
-    blue_head_body "Przykład: " "$0 fajnyturniej 42"
-    green_head_body "\nnazwa " "to nazwa turnieju"
+    blue_head_body "Użycie:" "$0 nazwa [czas]\n"
+    blue_head_body "Przykład:" "$0 170223"
+    blue_head_body "Przykład:" "$0 fajnyturniej 42"
+    green_head_body "\nnazwa" "to nazwa turnieju"
     log "\tnp. data w formacie YYMMDD np. 170223"
     log "\tnie polecam polskich znaków i/lub spacji"
-    green_head_body "\nczas " "to opcjonalny argument - czas czekania pomiędzy aktualizacjami"
+    green_head_body "\nczas" "to opcjonalny argument - czas czekania pomiędzy aktualizacjami"
     log "\tdomyślna wartość to $DEFAULT_TIME"
     exit 1
   fi
@@ -45,21 +45,33 @@ function check_init {
   if [ ! -d $nazwa ]; then
     echo "Nie istnieje katalog $nazwa, tworzę go."
     mkdir $nazwa
+    touch $nazwa/.gitkeep
     echo "Proszę stworzyć turniej o nazwie $nazwa i zapisać go w $nazwa/$nazwa.rrt"
     echo "oraz ustawić katalog roboczy turnieju na $nazwa"
   fi
 }
 
 function deploy {
-  git fetch
+  blue_head_body "WYSYŁANIE" "Spróbuję wysłać wyniki na serwer :)"
   git stash
-  git rebase master
-  git add $name
-  current_time=`date "+%Y-%m-%d %H:%M:%S"`
-  git commit -m "$name: autoupdate $current_time."
-  git push
+  git fetch && \
+  git rebase origin/master && \
+  git add $name && \
+  current_time=`date "+%Y-%m-%d %H:%M:%S"` && \
+  git commit -m "$name: autoupdate $current_time." && \
+  git push && \
+  green_head_body "SUKCES!" "Wyniki powinny być na inwitofitka.club/$name"
+  if [ $? != 0 ] ; then
+    error "Coś nie wyszło :c"
+  fi
   git stash apply
-  log "Wyniki powinny być na inwitofitka.club/$name"
+
+}
+
+function run {
+  deploy
+  delay $time
+  run
 }
 
 check_args $*
@@ -72,6 +84,5 @@ if [ $# = 2 ] ; then
 fi
 
 check_init
-delay $time
 
-deploy
+run
