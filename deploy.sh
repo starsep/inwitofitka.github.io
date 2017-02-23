@@ -59,14 +59,14 @@ function check_init {
 function deploy {
   blue_head_body "\nWYSYŁANIE" "Spróbuję wysłać wyniki na serwer :)\n"
 
-  stashes_before=`git stash list | wc -l`
-  git stash
-  stashes_after=`git stash list | wc -l`
+  # stashes_before=`git stash list | wc -l`
+  # git stash
+  # stashes_after=`git stash list | wc -l`
 
-  blue_head_body "\nPOBIERANIE" "Pobieram dane z serwera.\n"
+  # blue_head_body "\nPOBIERANIE" "Pobieram dane z serwera.\n"
 
-  git fetch && \
-  git rebase origin/master &&
+  # git fetch && \
+  # git rebase origin/master &&
   git add $name
 
   if ! git diff-index --quiet HEAD -- ; then
@@ -84,9 +84,9 @@ function deploy {
     error "Coś nie wyszło :c"
   fi
 
-  if [ stashes_before != stashes_after ] ; then
-    git stash apply
-  fi
+  # if [ stashes_before != stashes_after ] ; then
+  #   git stash apply
+  # fi
 }
 
 function run {
