@@ -1,4 +1,4 @@
-000000006580
+000000007738
 <h2>2: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -183,6 +183,48 @@
 <td class="right">-1.33</td>
 </tr>
 <tr>
+<td rowspan="4">5</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(1);">Anna Nożyńska - Ewa Łukowska</a></td>
+<td><a href="javascript:loadBoard(17);">17</td><td>EW</td>
+<td>6<img src="img/notrump.gif" /></td>
+<td>W</td>
+<td><img src="img/spades.gif" />7</td>
+<td>=</td>
+<td class="right">-990</td>
+<td class="right">5.00</td>
+<td class="right">3.67</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>W</td>
+<td><img src="img/spades.gif" />7</td>
+<td>-4</td>
+<td class="right">+200</td>
+<td class="right">-3.67</td>
+<td class="right">-0.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(19);">19</td><td>EW</td>
+<td>3<img src="img/diamonds.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />5</td>
+<td>=</td>
+<td class="right">+110</td>
+<td class="right">-3.00</td>
+<td class="right">-3.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>W</td>
+<td><img src="img/diamonds.gif" />6</td>
+<td>+1</td>
+<td class="right">-650</td>
+<td class="right">-0.67</td>
+<td class="right">-3.67</td>
+</tr>
+<tr>
 <td rowspan="4">6</td>
 <td class="left" rowspan="4"><a href="javascript:loadHistory(3);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
 <td><a href="javascript:loadBoard(21);">21</td><td>NS</td>
@@ -192,7 +234,7 @@
 <td>-2</td>
 <td class="right">+100</td>
 <td class="right">3.00</td>
-<td class="right">1.67</td>
+<td class="right">-0.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(22);">22</td><td>NS</td>
@@ -202,7 +244,7 @@
 <td>-1</td>
 <td class="right">-50</td>
 <td class="right">-3.67</td>
-<td class="right">-2.00</td>
+<td class="right">-4.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(23);">23</td><td>NS</td>
@@ -212,7 +254,7 @@
 <td>+2</td>
 <td class="right">+200</td>
 <td class="right">-10.00</td>
-<td class="right">-12.00</td>
+<td class="right">-14.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(24);">24</td><td>NS</td>
@@ -222,13 +264,13 @@
 <td>-2</td>
 <td class="right">+300</td>
 <td class="right">7.33</td>
-<td class="right">-4.67</td>
+<td class="right">-7.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-4.67</td>
+<td>-7.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
