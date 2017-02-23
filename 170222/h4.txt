@@ -1,4 +1,4 @@
-000000008391
+000000008845
 <h2>4: Łukasz Trendak - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -267,16 +267,16 @@
 <td class="right">10.00</td>
 </tr>
 <tr>
-<td rowspan="2">7</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(3);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
+<td rowspan="4">7</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(3);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
 <td><a href="javascript:loadBoard(25);">25</td><td>EW</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>E</td>
 <td><img src="img/hearts.gif" />A</td>
 <td>-2</td>
 <td class="right">+200</td>
-<td class="right">0.00</td>
-<td class="right">10.00</td>
+<td class="right">-4.00</td>
+<td class="right">6.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(26);">26</td><td>EW</td>
@@ -285,14 +285,34 @@
 <td><img src="img/spades.gif" />5</td>
 <td>-2</td>
 <td class="right">-200</td>
-<td class="right">0.00</td>
-<td class="right">10.00</td>
+<td class="right">6.33</td>
+<td class="right">12.33</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(27);">27</td><td>EW</td>
+<td>5<img src="img/spades.gif" /></td>
+<td>S</td>
+<td></td>
+<td>-2</td>
+<td class="right">-100</td>
+<td class="right">0.33</td>
+<td class="right">12.67</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(28);">28</td><td>EW</td>
+<td>3<img src="img/diamonds.gif" /></td>
+<td>N</td>
+<td></td>
+<td>=</td>
+<td class="right">+110</td>
+<td class="right">-3.00</td>
+<td class="right">9.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>10.00</td>
+<td>9.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
