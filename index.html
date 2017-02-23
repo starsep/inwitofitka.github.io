@@ -1,0 +1,7 @@
+---
+---
+<h1>Wyniki Szkoła IF</h1>
+
+{% for tournament in site.data.tournaments %}
+    <a href="{{ tournament }}">{{ tournament }}<a/>
+{% endfor %}
