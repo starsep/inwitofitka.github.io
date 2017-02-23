@@ -50,7 +50,7 @@ function check_init {
   if [ ! -d $name ]; then
     green_head_body "Inicjalizacja:" "Nie istnieje katalog $name, tworzę go."
     mkdir $name
-    touch $name/.gitkeep
+    echo "Turniej $name, jeszcze tu nic nie ma" > $name/index.html
     log "Proszę stworzyć turniej o nazwie $name i zapisać go w $name/$name.rrt"
     log "oraz ustawić katalog roboczy turnieju na $name"
   fi
