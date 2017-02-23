@@ -42,12 +42,13 @@ function delay {
 }
 
 function check_init {
-  if [ ! -d $nazwa ]; then
-    echo "Nie istnieje katalog $nazwa, tworzę go."
-    mkdir $nazwa
-    touch $nazwa/.gitkeep
-    echo "Proszę stworzyć turniej o nazwie $nazwa i zapisać go w $nazwa/$nazwa.rrt"
-    echo "oraz ustawić katalog roboczy turnieju na $nazwa"
+  log "Sprawdzam czy istnieje katalog $name."
+  if [ ! -d $name ]; then
+    log "Nie istnieje katalog $name, tworzę go."
+    mkdir $name
+    touch $name/.gitkeep
+    log "Proszę stworzyć turniej o nazwie $name i zapisać go w $name/$name.rrt"
+    log "oraz ustawić katalog roboczy turnieju na $name"
   fi
 }
 
