@@ -1,0 +1,36 @@
+000000000964
+<table class="noborder">
+<tr>
+<td>
+<table id="diagram">
+<tr>
+<td style="text-align: center">
+<h1 style="margin-bottom: 0px">24</h1>
+<p class="small" style="margin-top: 0px">obie przed / W</p>
+</td><td>
+<img src="img/spades.gif" /> 3<br />
+<img src="img/hearts.gif" /> KQ842<br />
+<img src="img/diamonds.gif" /> J753<br />
+<img src="img/clubs.gif" /> QJ9
+</td><td></td></tr><tr><td>
+<img src="img/spades.gif" /> K542<br />
+<img src="img/hearts.gif" /> 75<br />
+<img src="img/diamonds.gif" /> KQ104<br />
+<img src="img/clubs.gif" /> 1064
+</td><td>
+<img src="img/8.gif" />
+</td><td>
+<img src="img/spades.gif" /> AQ1098<br />
+<img src="img/hearts.gif" /> AJ10963<br />
+<img src="img/diamonds.gif" /> 9<br />
+<img src="img/clubs.gif" /> 8
+</td></tr><tr><td></td><td>
+<img src="img/spades.gif" /> J76<br />
+<img src="img/hearts.gif" /> <br />
+<img src="img/diamonds.gif" /> A862<br />
+<img src="img/clubs.gif" /> AK7532
+</td><td></td></tr>
+</table>
+</td>
+</tr>
+</table>

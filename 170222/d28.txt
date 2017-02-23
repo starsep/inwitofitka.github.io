@@ -1,0 +1,36 @@
+000000000957
+<table class="noborder">
+<tr>
+<td>
+<table id="diagram">
+<tr>
+<td style="text-align: center">
+<h1 style="margin-bottom: 0px">28</h1>
+<p class="small" style="margin-top: 0px">NS / W</p>
+</td><td>
+<img src="img/spades.gif" /> Q93<br />
+<img src="img/hearts.gif" /> 8<br />
+<img src="img/diamonds.gif" /> AJ109765<br />
+<img src="img/clubs.gif" /> 108
+</td><td></td></tr><tr><td>
+<img src="img/spades.gif" /> A8762<br />
+<img src="img/hearts.gif" /> K6<br />
+<img src="img/diamonds.gif" /> Q2<br />
+<img src="img/clubs.gif" /> J965
+</td><td>
+<img src="img/12.gif" />
+</td><td>
+<img src="img/spades.gif" /> KJ5<br />
+<img src="img/hearts.gif" /> Q10975<br />
+<img src="img/diamonds.gif" /> K83<br />
+<img src="img/clubs.gif" /> K4
+</td></tr><tr><td></td><td>
+<img src="img/spades.gif" /> 104<br />
+<img src="img/hearts.gif" /> AJ432<br />
+<img src="img/diamonds.gif" /> 4<br />
+<img src="img/clubs.gif" /> AQ732
+</td><td></td></tr>
+</table>
+</td>
+</tr>
+</table>

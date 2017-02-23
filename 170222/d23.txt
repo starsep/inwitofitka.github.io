@@ -1,0 +1,36 @@
+000000000961
+<table class="noborder">
+<tr>
+<td>
+<table id="diagram">
+<tr>
+<td style="text-align: center">
+<h1 style="margin-bottom: 0px">23</h1>
+<p class="small" style="margin-top: 0px">obie po / S</p>
+</td><td>
+<img src="img/spades.gif" /> AKJ65<br />
+<img src="img/hearts.gif" /> AQ1085<br />
+<img src="img/diamonds.gif" /> 6<br />
+<img src="img/clubs.gif" /> AQ
+</td><td></td></tr><tr><td>
+<img src="img/spades.gif" /> 4<br />
+<img src="img/hearts.gif" /> K<br />
+<img src="img/diamonds.gif" /> AQ9875<br />
+<img src="img/clubs.gif" /> J9754
+</td><td>
+<img src="img/7.gif" />
+</td><td>
+<img src="img/spades.gif" /> Q9832<br />
+<img src="img/hearts.gif" /> 97<br />
+<img src="img/diamonds.gif" /> J103<br />
+<img src="img/clubs.gif" /> K83
+</td></tr><tr><td></td><td>
+<img src="img/spades.gif" /> 107<br />
+<img src="img/hearts.gif" /> J6432<br />
+<img src="img/diamonds.gif" /> K42<br />
+<img src="img/clubs.gif" /> 1062
+</td><td></td></tr>
+</table>
+</td>
+</tr>
+</table>

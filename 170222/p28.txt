@@ -1,0 +1,14 @@
+000000000324
+<table id="protocol" class="datatable">
+<thead>
+<tr>
+<td rowspan="2">ns</td><td rowspan="2">ew</td><td rowspan="2">kont.</td><td rowspan="2">rg.</td><td rowspan="2">lew</td><td colspan="2">zapis</td><td colspan="2">wynik</td>
+</tr>
+<tr>
+<td>ns</td><td>ew</td>
+<td>ns</td><td>ew</td>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
