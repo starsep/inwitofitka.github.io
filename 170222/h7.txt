@@ -295,24 +295,24 @@
 <td></td>
 <td>-2</td>
 <td class="right">+300</td>
-<td class="right">-5.67</td>
-<td class="right">42.67</td>
+<td class="right">-10.00</td>
+<td class="right">38.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(28);">28</td><td>EW</td>
 <td>2<img src="img/spades.gif" /></td>
-<td>S</td>
+<td>W</td>
 <td></td>
 <td>-1</td>
-<td class="right">-100</td>
-<td class="right">3.67</td>
-<td class="right">46.33</td>
+<td class="right">+50</td>
+<td class="right">0.33</td>
+<td class="right">38.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>46.33</td>
+<td>38.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
