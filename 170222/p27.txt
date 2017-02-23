@@ -1,4 +1,4 @@
-000000002356
+000000002353
 <table id="protocol" class="datatable">
 <thead>
 <tr>
@@ -11,14 +11,24 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="javascript:hideTooltip();loadHistory(8);"onmouseover="showTooltip('Jarek Markowski - Grzegorz Gardynik', event);"onmouseout="hideTooltip();">8</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(7);"onmouseover="showTooltip('Rafał Marks - Aleksander Krych', event);"onmouseout="hideTooltip();">7</a></td>
+<td>5<img src="img/clubs.gif" />x</td>
+<td>W</td>
+<td>-2</td>
+<td class="zapis">300</td><td class="zapis"></td>
+<td class="right">5.67</td>
+<td class="right">-5.67</td>
+</tr>
+<tr>
 <td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Anna Zaręba - Hanna Ciuńczyk', event);"onmouseout="hideTooltip();">6</a></td>
 <td><a href="javascript:hideTooltip();loadHistory(1);"onmouseover="showTooltip('Anna Nożyńska - Ewa Łukowska', event);"onmouseout="hideTooltip();">1</a></td>
 <td>5<img src="img/clubs.gif" />x</td>
 <td>W</td>
 <td>-2</td>
 <td class="zapis">300</td><td class="zapis"></td>
-<td class="right">10.00</td>
-<td class="right">-10.00</td>
+<td class="right">5.67</td>
+<td class="right">-5.67</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip('Krystyna Jędrzejewska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">5</a></td>
@@ -27,8 +37,8 @@
 <td>S</td>
 <td>-1</td>
 <td class="zapis"></td><td class="zapis">50</td>
-<td class="right">1.67</td>
-<td class="right">-1.67</td>
+<td class="right">-4.67</td>
+<td class="right">4.67</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(3);"onmouseover="showTooltip('Wojciech Grzegorzewski - Filip Czaplicki', event);"onmouseout="hideTooltip();">3</a></td>
@@ -37,18 +47,8 @@
 <td>S</td>
 <td>-2</td>
 <td class="zapis"></td><td class="zapis">100</td>
-<td class="right">-0.33</td>
-<td class="right">0.33</td>
-</tr>
-<tr>
-<td><a href="javascript:hideTooltip();loadHistory(8);"onmouseover="showTooltip('Jarek Markowski - Grzegorz Gardynik', event);"onmouseout="hideTooltip();">8</a></td>
-<td><a href="javascript:hideTooltip();loadHistory(7);"onmouseover="showTooltip('Rafał Marks - Aleksander Krych', event);"onmouseout="hideTooltip();">7</a></td>
-<td>5<img src="img/clubs.gif" />x</td>
-<td>W</td>
-<td>=</td>
-<td class="zapis"></td><td class="zapis">550</td>
-<td class="right">-11.33</td>
-<td class="right">11.33</td>
+<td class="right">-6.67</td>
+<td class="right">6.67</td>
 </tr>
 </tbody>
 </table>

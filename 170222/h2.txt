@@ -1,4 +1,4 @@
-000000008792
+000000008788
 <h2>2: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -295,8 +295,8 @@
 <td></td>
 <td>-1</td>
 <td class="right">-50</td>
-<td class="right">-1.67</td>
-<td class="right">-6.00</td>
+<td class="right">4.67</td>
+<td class="right">0.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(28);">28</td><td>EW</td>
@@ -306,13 +306,13 @@
 <td>-1</td>
 <td class="right">-100</td>
 <td class="right">3.67</td>
-<td class="right">-2.33</td>
+<td class="right">4.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-2.33</td>
+<td>4.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>

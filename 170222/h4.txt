@@ -1,4 +1,4 @@
-000000008845
+000000008847
 <h2>4: Łukasz Trendak - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -295,8 +295,8 @@
 <td></td>
 <td>-2</td>
 <td class="right">-100</td>
-<td class="right">0.33</td>
-<td class="right">12.67</td>
+<td class="right">6.67</td>
+<td class="right">19.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(28);">28</td><td>EW</td>
@@ -306,13 +306,13 @@
 <td>=</td>
 <td class="right">+110</td>
 <td class="right">-3.00</td>
-<td class="right">9.67</td>
+<td class="right">16.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>9.67</td>
+<td>16.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
