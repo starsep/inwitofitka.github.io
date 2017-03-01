@@ -1,4 +1,4 @@
-000000006893
+000000006894
 <h2>7: Lena Ostrowska - Marta Makarewicz</h2>
 <table class="datatable">
 <thead>
@@ -221,26 +221,26 @@
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-5.00</td>
+<td class="right">19.00</td>
+<td class="right">14.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(21);">21</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
-<td class="right">-5.00</td>
+<td class="right">14.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-5.00</td>
+<td>14.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>5</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
