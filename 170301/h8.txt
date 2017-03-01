@@ -1,4 +1,4 @@
-000000006811
+000000006917
 <h2>8: Cezary Przasnek - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -210,7 +210,11 @@
 <td rowspan="3">7</td>
 <td class="left" rowspan="3"><a href="javascript:loadHistory(7);">Lena Ostrowska - Marta Makarewicz</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
-<td colspan="5"></td>
+<td>3<img src="img/clubs.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />3</td>
+<td>-2</td>
+<td class="right">-100</td>
 <td class="right">2.00</td>
 <td class="right">-25.00</td>
 </tr>

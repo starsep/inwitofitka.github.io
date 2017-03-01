@@ -1,4 +1,4 @@
-000000006219
+000000006581
 <h2>5: Ewa Łukowska - Anna Nożyńska</h2>
 <table class="datatable">
 <thead>
@@ -204,6 +204,18 @@
 <td>-2</td>
 <td class="right">-200</td>
 <td class="right">4.00</td>
+<td class="right">-13.00</td>
+</tr>
+<tr>
+<td>7</td>
+<td class="left"><a href="javascript:loadHistory(2);">Anna Zaręba - Hanna Ciuńczyk</a></td>
+<td><a href="javascript:loadBoard(19);">19</td><td>EW</td>
+<td>5<img src="img/diamonds.gif" /></td>
+<td>S</td>
+<td><img src="img/spades.gif" />5</td>
+<td>-3</td>
+<td class="right">-150</td>
+<td class="right">0.00</td>
 <td class="right">-13.00</td>
 </tr>
 <tr>

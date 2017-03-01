@@ -1,4 +1,4 @@
-000000006448
+000000006557
 <h2>1: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -210,7 +210,11 @@
 <td>7</td>
 <td class="left"><a href="javascript:loadHistory(6);">Bartosz Ćwiek - Karol Konopko</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
-<td colspan="5"></td>
+<td>5<img src="img/diamonds.gif" /></td>
+<td>S</td>
+<td><img src="img/spades.gif" />5</td>
+<td>-4</td>
+<td class="right">-200</td>
 <td class="right">-2.00</td>
 <td class="right">2.00</td>
 </tr>
