@@ -1,7 +1,7 @@
-000000002569
+000000002567
 <table id="protocol" class="datatable">
 <thead>
-<td colspan="10">średnia: -30</td>
+<td colspan="10">średnia: 0</td>
 <tr>
 <td rowspan="2">ns</td><td rowspan="2">ew</td><td rowspan="2">kont.</td><td rowspan="2">rg.</td><td rowspan="2">wist</td><td rowspan="2">lew</td><td colspan="2">zapis</td><td colspan="2">wynik</td>
 </tr>
@@ -19,19 +19,19 @@
 <td><img src="img/hearts.gif" />K</td>
 <td>=</td>
 <td class="zapis">110</td><td class="zapis"></td>
-<td class="right">4.00</td>
-<td class="right">-4.00</td>
+<td class="right">3.00</td>
+<td class="right">-3.00</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(7);"onmouseover="showTooltip('Lena Ostrowska - Marta Makarewicz', event);"onmouseout="hideTooltip();">7</a></td>
 <td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Bartosz Ćwiek - Karol Konopko', event);"onmouseout="hideTooltip();">6</a></td>
 <td>4<img src="img/hearts.gif" /></td>
-<td>N</td>
+<td>E</td>
 <td><img src="img/diamonds.gif" />3</td>
 <td>-1</td>
-<td class="zapis"></td><td class="zapis">50</td>
-<td class="right">-1.00</td>
-<td class="right">1.00</td>
+<td class="zapis">50</td><td class="zapis"></td>
+<td class="right">2.00</td>
+<td class="right">-2.00</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip('Ewa Łukowska - Anna Nożyńska', event);"onmouseout="hideTooltip();">5</a></td>
@@ -41,8 +41,8 @@
 <td><img src="img/hearts.gif" />K</td>
 <td>-1</td>
 <td class="zapis"></td><td class="zapis">50</td>
-<td class="right">-1.00</td>
-<td class="right">1.00</td>
+<td class="right">-2.00</td>
+<td class="right">2.00</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Krystyna Jędrzejewska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">4</a></td>
@@ -52,8 +52,8 @@
 <td><img src="img/clubs.gif" />T</td>
 <td>=</td>
 <td class="zapis"></td><td class="zapis">140</td>
-<td class="right">-3.00</td>
-<td class="right">3.00</td>
+<td class="right">-4.00</td>
+<td class="right">4.00</td>
 </tr>
 </tbody>
 </table>
