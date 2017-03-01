@@ -1,4 +1,4 @@
-000000001048
+000000001218
 <h2>7: Lena Ostrowska - Marta Makarewicz</h2>
 <table class="datatable">
 <thead>
@@ -15,11 +15,17 @@
 </thead>
 <tbody>
 <tr>
-<td>1</td>
-<td class="left"><a href="javascript:loadHistory(2);">Anna Zaręba - Hanna Ciuńczyk</a></td>
+<td rowspan="2">1</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(2);">Anna Zaręba - Hanna Ciuńczyk</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">2.00</td>
+<td class="right">2.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(2);">2</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">2.00</td>
 </tr>
 <tr>

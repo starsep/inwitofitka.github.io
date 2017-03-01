@@ -1,5 +1,5 @@
-000000000769
-<h2>8:  - </h2>
+000000000801
+<h2>8: Cezary Przasnek - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
 <tr>
@@ -24,7 +24,7 @@
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>3</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
