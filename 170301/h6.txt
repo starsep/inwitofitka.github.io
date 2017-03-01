@@ -1,5 +1,5 @@
-000000000769
-<h2>6:  - </h2>
+000000000795
+<h2>6: Bartosz Ćwiek - Karol Konopko</h2>
 <table class="datatable">
 <thead>
 <tr>
