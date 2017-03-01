@@ -38,7 +38,7 @@
 <td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Krystyna Jędrzejewska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">4</a></td>
 <td>4<img src="img/hearts.gif" /></td>
 <td>N</td>
-<td><img src="img/diamonds.gif" />8</td>
+<td><img src="img/diamonds.gif" />6</td>
 <td>+1</td>
 <td class="zapis">450</td><td class="zapis"></td>
 <td class="right">-4.00</td>
