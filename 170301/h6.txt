@@ -1,4 +1,4 @@
-000000002836
+000000002944
 <h2>6: Bartosz Ćwiek - Karol Konopko</h2>
 <table class="datatable">
 <thead>
@@ -82,21 +82,25 @@
 <td>3</td>
 <td class="left"><a href="javascript:loadHistory(7);">Lena Ostrowska - Marta Makarewicz</a></td>
 <td><a href="javascript:loadBoard(7);">7</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">6.00</td>
+<td>3<img src="img/hearts.gif" /></td>
+<td>E</td>
+<td><img src="img/spades.gif" />A</td>
+<td>+1</td>
+<td class="right">-170</td>
+<td class="right">-4.00</td>
+<td class="right">2.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>6.00</td>
+<td>2.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>3</td>
+<td>5</td>
 </tr>
 </tbody>
 </table>
