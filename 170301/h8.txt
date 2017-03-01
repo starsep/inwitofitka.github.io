@@ -1,4 +1,4 @@
-000000001710
+000000001961
 <h2>8: Cezary Przasnek - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -44,6 +44,14 @@
 <td>-1</td>
 <td class="right">-50</td>
 <td class="right">-8.00</td>
+<td class="right">-11.00</td>
+</tr>
+<tr>
+<td>2</td>
+<td class="left"><a href="javascript:loadHistory(2);">Anna Zaręba - Hanna Ciuńczyk</a></td>
+<td><a href="javascript:loadBoard(4);">4</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-11.00</td>
 </tr>
 <tr>
