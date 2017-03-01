@@ -1,4 +1,4 @@
-000000006572
+000000006854
 <h2>3: Jarek Markowski - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -207,8 +207,8 @@
 <td class="right">32.00</td>
 </tr>
 <tr>
-<td>7</td>
-<td class="left"><a href="javascript:loadHistory(4);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
+<td rowspan="2">7</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(4);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>EW</td>
 <td>4<img src="img/diamonds.gif" /></td>
 <td>S</td>
@@ -219,16 +219,26 @@
 <td class="right">32.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
+<td>6<img src="img/spades.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />4</td>
+<td>=</td>
+<td class="right">+1430</td>
+<td class="right">-11.00</td>
+<td class="right">21.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>32.00</td>
+<td>21.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>1</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>

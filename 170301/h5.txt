@@ -1,4 +1,4 @@
-000000006757
+000000006864
 <h2>5: Ewa Łukowska - Anna Nożyńska</h2>
 <table class="datatable">
 <thead>
@@ -220,15 +220,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">-12.00</td>
-<td class="right">-25.00</td>
+<td>6<img src="img/spades.gif" /></td>
+<td>N</td>
+<td><img src="img/clubs.gif" />6</td>
+<td>+1</td>
+<td class="right">+1460</td>
+<td class="right">-11.00</td>
+<td class="right">-24.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-25.00</td>
+<td>-24.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
