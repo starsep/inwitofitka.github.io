@@ -1,4 +1,4 @@
-000000006637
+000000006638
 <h2>7: Lena Ostrowska - Marta Makarewicz</h2>
 <table class="datatable">
 <thead>
@@ -211,20 +211,20 @@
 <td class="left" rowspan="2"><a href="javascript:loadHistory(8);">Cezary Przasnek - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>EW</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
 <td class="right">-3.00</td>
+<td class="right">-6.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
-<td class="right">-3.00</td>
+<td class="right">-6.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-3.00</td>
+<td>-6.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
