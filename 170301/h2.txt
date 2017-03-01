@@ -1,4 +1,4 @@
-000000002331
+000000002587
 <h2>2: Anna Zaręba - Hanna Ciuńczyk</h2>
 <table class="datatable">
 <thead>
@@ -47,8 +47,8 @@
 <td class="right">6.00</td>
 </tr>
 <tr>
-<td rowspan="2">2</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(8);">Cezary Przasnek - Grzegorz Gardynik</a></td>
+<td rowspan="3">2</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(8);">Cezary Przasnek - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
 <td>2<img src="img/hearts.gif" /></td>
 <td>N</td>
@@ -66,6 +66,16 @@
 <td>-1</td>
 <td class="right">-200</td>
 <td class="right">5.00</td>
+<td class="right">19.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(6);">6</td><td>EW</td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />A</td>
+<td>+2</td>
+<td class="right">+480</td>
+<td class="right">0.00</td>
 <td class="right">19.00</td>
 </tr>
 <tr>
