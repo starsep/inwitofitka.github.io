@@ -1,4 +1,4 @@
-000000002587
+000000002854
 <h2>2: Anna Zaręba - Hanna Ciuńczyk</h2>
 <table class="datatable">
 <thead>
@@ -75,6 +75,14 @@
 <td><img src="img/diamonds.gif" />A</td>
 <td>+2</td>
 <td class="right">+480</td>
+<td class="right">0.00</td>
+<td class="right">19.00</td>
+</tr>
+<tr>
+<td>3</td>
+<td class="left"><a href="javascript:loadHistory(4);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
+<td><a href="javascript:loadBoard(7);">7</td><td>EW</td>
+<td colspan="5"></td>
 <td class="right">0.00</td>
 <td class="right">19.00</td>
 </tr>
