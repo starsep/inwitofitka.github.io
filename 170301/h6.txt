@@ -1,4 +1,4 @@
-000000002330
+000000002476
 <h2>6: Bartosz Ćwiek - Karol Konopko</h2>
 <table class="datatable">
 <thead>
@@ -47,8 +47,8 @@
 <td class="right">-2.00</td>
 </tr>
 <tr>
-<td rowspan="2">2</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(5);">Ewa Łukowska - Anna Nożyńska</a></td>
+<td rowspan="3">2</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(5);">Ewa Łukowska - Anna Nożyńska</a></td>
 <td><a href="javascript:loadBoard(4);">4</td><td>NS</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>N</td>
@@ -66,6 +66,12 @@
 <td>-2</td>
 <td class="right">+100</td>
 <td class="right">4.00</td>
+<td class="right">6.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(6);">6</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">6.00</td>
 </tr>
 <tr>
