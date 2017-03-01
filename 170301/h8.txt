@@ -1,4 +1,4 @@
-000000002976
+000000003253
 <h2>8: Cezary Przasnek - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -79,8 +79,8 @@
 <td class="right">-24.00</td>
 </tr>
 <tr>
-<td>3</td>
-<td class="left"><a href="javascript:loadHistory(3);">Jarek Markowski - Maksym Wałaszewski</a></td>
+<td rowspan="2">3</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(3);">Jarek Markowski - Maksym Wałaszewski</a></td>
 <td><a href="javascript:loadBoard(7);">7</td><td>NS</td>
 <td>3<img src="img/spades.gif" />x</td>
 <td>N</td>
@@ -91,10 +91,20 @@
 <td class="right">-34.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(8);">8</td><td>NS</td>
+<td>3<img src="img/clubs.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />K</td>
+<td>=</td>
+<td class="right">+110</td>
+<td class="right">4.00</td>
+<td class="right">-30.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-34.00</td>
+<td>-30.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
