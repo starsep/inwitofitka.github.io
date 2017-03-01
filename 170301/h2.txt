@@ -1,4 +1,4 @@
-000000005559
+000000005666
 <h2>2: Anna Zaręba - Hanna Ciuńczyk</h2>
 <table class="datatable">
 <thead>
@@ -178,7 +178,11 @@
 <td>6</td>
 <td class="left"><a href="javascript:loadHistory(3);">Jarek Markowski - Maksym Wałaszewski</a></td>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />T</td>
+<td>=</td>
+<td class="right">+400</td>
 <td class="right">0.00</td>
 <td class="right">13.00</td>
 </tr>

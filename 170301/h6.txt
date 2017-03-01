@@ -1,4 +1,4 @@
-000000005549
+000000005654
 <h2>6: Bartosz Ćwiek - Karol Konopko</h2>
 <table class="datatable">
 <thead>
@@ -178,7 +178,11 @@
 <td>6</td>
 <td class="left"><a href="javascript:loadHistory(8);">Cezary Przasnek - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
-<td colspan="5"></td>
+<td>5<img src="img/clubs.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />T</td>
+<td>=</td>
+<td class="right">+400</td>
 <td class="right">0.00</td>
 <td class="right">2.00</td>
 </tr>
