@@ -1,4 +1,4 @@
-000000004031
+000000004139
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -124,7 +124,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(11);">11</td><td>EW</td>
-<td colspan="5"></td>
+<td>3<img src="img/hearts.gif" /></td>
+<td>E</td>
+<td><img src="img/diamonds.gif" />A</td>
+<td>=</td>
+<td class="right">-140</td>
 <td class="right">3.00</td>
 <td class="right">-10.00</td>
 </tr>

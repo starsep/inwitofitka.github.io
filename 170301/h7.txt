@@ -1,4 +1,4 @@
-000000004187
+000000004295
 <h2>7: Lena Ostrowska - Marta Makarewicz</h2>
 <table class="datatable">
 <thead>
@@ -124,7 +124,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(11);">11</td><td>EW</td>
-<td colspan="5"></td>
+<td>2<img src="img/notrump.gif" />x</td>
+<td>S</td>
+<td><img src="img/clubs.gif" />Q</td>
+<td>-1</td>
+<td class="right">-100</td>
 <td class="right">2.00</td>
 <td class="right">-1.00</td>
 </tr>
