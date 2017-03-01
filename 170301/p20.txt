@@ -1,7 +1,7 @@
-000000002582
+000000002577
 <table id="protocol" class="datatable">
 <thead>
-<td colspan="10">średnia: 910</td>
+<td colspan="10">średnia: 1260</td>
 <tr>
 <td rowspan="2">ns</td><td rowspan="2">ew</td><td rowspan="2">kont.</td><td rowspan="2">rg.</td><td rowspan="2">wist</td><td rowspan="2">lew</td><td colspan="2">zapis</td><td colspan="2">wynik</td>
 </tr>
@@ -19,8 +19,8 @@
 <td><img src="img/clubs.gif" />6</td>
 <td>+1</td>
 <td class="zapis">1460</td><td class="zapis"></td>
-<td class="right">11.00</td>
-<td class="right">-11.00</td>
+<td class="right">5.00</td>
+<td class="right">-5.00</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(2);"onmouseover="showTooltip('Anna Zaręba - Hanna Ciuńczyk', event);"onmouseout="hideTooltip();">2</a></td>
@@ -30,8 +30,8 @@
 <td><img src="img/clubs.gif" />6</td>
 <td>+1</td>
 <td class="zapis">1460</td><td class="zapis"></td>
-<td class="right">11.00</td>
-<td class="right">-11.00</td>
+<td class="right">5.00</td>
+<td class="right">-5.00</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Krystyna Jędrzejewska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">4</a></td>
@@ -41,19 +41,19 @@
 <td><img src="img/spades.gif" />4</td>
 <td>=</td>
 <td class="zapis">1430</td><td class="zapis"></td>
-<td class="right">11.00</td>
-<td class="right">-11.00</td>
+<td class="right">5.00</td>
+<td class="right">-5.00</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(8);"onmouseover="showTooltip('Cezary Przasnek - Grzegorz Gardynik', event);"onmouseout="hideTooltip();">8</a></td>
 <td><a href="javascript:hideTooltip();loadHistory(7);"onmouseover="showTooltip('Lena Ostrowska - Marta Makarewicz', event);"onmouseout="hideTooltip();">7</a></td>
 <td>4<img src="img/spades.gif" /></td>
-<td>W</td>
+<td>N</td>
 <td><img src="img/hearts.gif" />Q</td>
 <td>+3</td>
-<td class="zapis"></td><td class="zapis">710</td>
-<td class="right">-17.00</td>
-<td class="right">17.00</td>
+<td class="zapis">710</td><td class="zapis"></td>
+<td class="right">-11.00</td>
+<td class="right">11.00</td>
 </tr>
 </tbody>
 </table>
