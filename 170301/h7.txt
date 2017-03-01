@@ -1,4 +1,4 @@
-000000002066
+000000002237
 <h2>7: Lena Ostrowska - Marta Makarewicz</h2>
 <table class="datatable">
 <thead>
@@ -47,8 +47,8 @@
 <td class="right">-6.00</td>
 </tr>
 <tr>
-<td>2</td>
-<td class="left"><a href="javascript:loadHistory(4);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
+<td rowspan="2">2</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(4);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
 <td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
 <td>4<img src="img/hearts.gif" /></td>
 <td>N</td>
@@ -56,6 +56,12 @@
 <td>=</td>
 <td class="right">+620</td>
 <td class="right">-3.00</td>
+<td class="right">-9.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-9.00</td>
 </tr>
 <tr>
