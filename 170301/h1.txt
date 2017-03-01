@@ -1,4 +1,4 @@
-000000004028
+000000004176
 <h2>1: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -111,8 +111,8 @@
 <td class="right">5.00</td>
 </tr>
 <tr>
-<td rowspan="2">4</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(7);">Lena Ostrowska - Marta Makarewicz</a></td>
+<td rowspan="3">4</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(7);">Lena Ostrowska - Marta Makarewicz</a></td>
 <td><a href="javascript:loadBoard(10);">10</td><td>NS</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>E</td>
@@ -126,6 +126,12 @@
 <td><a href="javascript:loadBoard(11);">11</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">-5.00</td>
+<td class="right">3.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(12);">12</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">3.00</td>
 </tr>
 <tr>
