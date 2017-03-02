@@ -8,7 +8,7 @@ description:         ""
 email:               filipczaplicki@gmail.com
 baseurl:             "/"
 url:                 "https://inwitofitka.club"
-paginate:            1
+paginate:            5
 
 # Custom vars
 
