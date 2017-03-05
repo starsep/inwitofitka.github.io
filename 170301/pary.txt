@@ -1,4 +1,4 @@
-000000005134
+000000005347
 <table id="pairlist" class="datatable">
 <thead>
 <tr>
@@ -8,6 +8,7 @@
 <td>wk</td>
 <td>okręg</td>
 <td>klub</td>
+<td>+/-</td>
 <td>wynik</td>
 <td>PKL</td>
 </tr>
@@ -20,6 +21,7 @@
 <td class="up">1.5</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">IF22</td>
+<td rowspan="2"></td>
 <td rowspan="2" class="right">37.00</td>
 <td rowspan="2">4</td>
 </tr>
@@ -30,31 +32,33 @@
 </tr>
 <tr>
 <td rowspan="2">2</td>
-<td rowspan="2"><a href="javascript:loadHistory(1);">1</a></td>
-<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
-<td class="up">1.5</td>
-<td rowspan="2">MA</td>
-<td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">19.00</td>
-<td rowspan="2">2</td>
-</tr>
-<tr>
-<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=16053" target="_blank">Filip Czaplicki</a></td>
-<td class="down">1.5</td>
-</tr>
-<tr>
-<td rowspan="2">3</td>
 <td rowspan="2"><a href="javascript:loadHistory(2);">2</a></td>
 <td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17030" target="_blank">Anna Zaręba</a></td>
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">AZS UW Warszawa V</td>
+<td rowspan="2"></td>
 <td rowspan="2" class="right">18.00</td>
-<td rowspan="2">1</td>
+<td rowspan="2">2</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=16544" target="_blank">Hanna Ciuńczyk</a></td>
 <td class="down">2.0</td>
+</tr>
+<tr>
+<td rowspan="2">3</td>
+<td rowspan="2"><a href="javascript:loadHistory(1);">1</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
+<td class="up">1.5</td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">Inwitofitka</td>
+<td rowspan="2">-3.00</td>
+<td rowspan="2" class="right">12.00</td>
+<td rowspan="2">1</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=16053" target="_blank">Filip Czaplicki</a></td>
+<td class="down">1.5</td>
 </tr>
 <tr>
 <td rowspan="2">4</td>
@@ -63,6 +67,7 @@
 <td class="up">2.5</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">BATMIX  Warszawa</td>
+<td rowspan="2"></td>
 <td rowspan="2" class="right">5.00</td>
 <td rowspan="2">1</td>
 </tr>
@@ -78,6 +83,7 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
+<td rowspan="2"></td>
 <td rowspan="2" class="right">-14.00</td>
 <td rowspan="2"></td>
 </tr>
@@ -92,6 +98,7 @@
 <td class="up">2.5</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
+<td rowspan="2"></td>
 <td rowspan="2" class="right">-14.00</td>
 <td rowspan="2"></td>
 </tr>
@@ -106,7 +113,8 @@
 <td class="up"></td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">-16.00</td>
+<td rowspan="2">-3.00</td>
+<td rowspan="2" class="right">-15.00</td>
 <td rowspan="2"></td>
 </tr>
 <tr>
@@ -120,6 +128,7 @@
 <td class="up">5.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
+<td rowspan="2"></td>
 <td rowspan="2" class="right">-35.00</td>
 <td rowspan="2"></td>
 </tr>
@@ -131,7 +140,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 01-03-2017 23:02:30
-<br />Sędzia: Karol Konopko
-, e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
+, znacznik czasowy: 05-03-2017 16:42:01
+<br />Sędzia: Filip Czaplicki
+, e-mail: <a href="mailto:filipczaplicki@gmail.com">filipczaplicki@gmail.com</a>
 </div>

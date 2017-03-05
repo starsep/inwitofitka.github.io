@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <turniej>
 <ustawienia>
-<outputDir>C:\Users\Grzegorz Gardynik\inwitofitka.github.io\170301</outputDir>
+<outputDir>/home/starsep/projects/inwitofitka.github.io/170301</outputDir>
 <plikPBN/>
-<favicon/>
+<favicon>/home/starsep/projects/inwitofitka.github.io/170301/favicon.ico</favicon>
 <nabiezaco>0</nabiezaco>
 <adresFTP/>
 <loginFTP/>
@@ -25,10 +25,10 @@
 <impLimit>0</impLimit>
 <wersjaTabelki/>
 <limitPokazywanychRozdań>0</limitPokazywanychRozdań>
-<showDealsOption>0</showDealsOption>
+<showDealsOption>1</showDealsOption>
 <vpTable/>
 <netSafetyLevel>3</netSafetyLevel>
-<whiteList/>
+<whiteList>127.0.0.1</whiteList>
 </ustawienia>
 <closedFinals/>
 <lista>
@@ -201,7 +201,18 @@
 </gracz>
 </para>
 </lista>
-<wyrownania/>
+<wyrownania>
+<wyrownanie>
+<numer>1</numer>
+<wartosc>-3imp</wartosc>
+<ile>1</ile>
+</wyrownanie>
+<wyrownanie>
+<numer>4</numer>
+<wartosc>-3imp</wartosc>
+<ile>1</ile>
+</wyrownanie>
+</wyrownania>
 <monitor>
 <rozdNaRunde>3</rozdNaRunde>
 <stoly>
@@ -385,8 +396,8 @@
 </stol>
 <stol>
 <id>4</id>
-<ns>1</ns>
-<ew>4</ew>
+<ns>4</ns>
+<ew>1</ew>
 <kpl>6</kpl>
 </stol>
 </runda>
@@ -1303,8 +1314,8 @@
 <zapis>430</zapis>
 </wpis>
 <wpis>
-<ns>1</ns>
-<ew>4</ew>
+<ns>4</ns>
+<ew>1</ew>
 <kontrakt>5 C</kontrakt>
 <rozgrywajacy>N</rozgrywajacy>
 <wynik>=</wynik>
@@ -1359,8 +1370,8 @@
 <zapis>50</zapis>
 </wpis>
 <wpis>
-<ns>1</ns>
-<ew>4</ew>
+<ns>4</ns>
+<ew>1</ew>
 <kontrakt>1 NT</kontrakt>
 <rozgrywajacy>W</rozgrywajacy>
 <wynik>=</wynik>
@@ -1415,8 +1426,8 @@
 <zapis>-200</zapis>
 </wpis>
 <wpis>
-<ns>1</ns>
-<ew>4</ew>
+<ns>4</ns>
+<ew>1</ew>
 <kontrakt>4 D</kontrakt>
 <rozgrywajacy>E</rozgrywajacy>
 <wynik>-1</wynik>
