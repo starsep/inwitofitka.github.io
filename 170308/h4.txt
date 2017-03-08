@@ -1,4 +1,4 @@
-000000004646
+000000004928
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -141,8 +141,18 @@
 <td class="right">29.50</td>
 </tr>
 <tr>
-<td>4</td>
-<td class="left"><a href="javascript:loadHistory(2);">Cezary Przasnek - Bartosz Ćwiek</a></td>
+<td rowspan="2">4</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(2);">Cezary Przasnek - Bartosz Ćwiek</a></td>
+<td><a href="javascript:loadBoard(13);">13</td><td>NS</td>
+<td>2<img src="img/hearts.gif" /></td>
+<td>W</td>
+<td><img src="img/diamonds.gif" />K</td>
+<td>+2</td>
+<td class="right">-170</td>
+<td class="right">0.00</td>
+<td class="right">29.50</td>
+</tr>
+<tr>
 <td><a href="javascript:loadBoard(14);">14</td><td>NS</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>S</td>
