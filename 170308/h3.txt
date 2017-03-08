@@ -1,4 +1,4 @@
-000000004017
+000000004165
 <h2>3: Marek Jeleniewski - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -99,8 +99,8 @@
 <td class="right">16.00</td>
 </tr>
 <tr>
-<td rowspan="3">3</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(2);">Cezary Przasnek - Bartosz Ćwiek</a></td>
+<td rowspan="4">3</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(2);">Cezary Przasnek - Bartosz Ćwiek</a></td>
 <td><a href="javascript:loadBoard(9);">9</td><td>EW</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>N</td>
@@ -128,6 +128,12 @@
 <td>-2</td>
 <td class="right">+100</td>
 <td class="right">-2.00</td>
+<td class="right">3.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(12);">12</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">3.00</td>
 </tr>
 <tr>
