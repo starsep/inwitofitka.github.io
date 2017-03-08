@@ -1,4 +1,4 @@
-000000006344
+000000006493
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -183,8 +183,8 @@
 <td class="right">29.00</td>
 </tr>
 <tr>
-<td rowspan="3">5</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(6);">Ewa Łukowska - Karol Konopko</a></td>
+<td rowspan="4">5</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(6);">Ewa Łukowska - Karol Konopko</a></td>
 <td><a href="javascript:loadBoard(17);">17</td><td>EW</td>
 <td>4<img src="img/hearts.gif" /></td>
 <td>S</td>
@@ -212,6 +212,12 @@
 <td>=</td>
 <td class="right">+110</td>
 <td class="right">-2.00</td>
+<td class="right">24.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">24.00</td>
 </tr>
 <tr>
