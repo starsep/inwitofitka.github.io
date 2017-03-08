@@ -1,4 +1,4 @@
-000000003531
+000000003534
 <h2>6: Ewa Łukowska - Karol Konopko</h2>
 <table class="datatable">
 <thead>
@@ -109,20 +109,20 @@
 <tr>
 <td><a href="javascript:loadBoard(10);">10</td><td>EW</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">8.00</td>
+<td class="right">12.00</td>
+<td class="right">20.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>8.00</td>
+<td>20.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>3</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
