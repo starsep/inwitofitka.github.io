@@ -1,4 +1,4 @@
-000000005460
+000000005825
 <h2>5: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -180,6 +180,18 @@
 <td>=</td>
 <td class="right">+110</td>
 <td class="right">-4.50</td>
+<td class="right">-39.00</td>
+</tr>
+<tr>
+<td>5</td>
+<td class="left"><a href="javascript:loadHistory(2);">Cezary Przasnek - Bartosz Ćwiek</a></td>
+<td><a href="javascript:loadBoard(17);">17</td><td>NS</td>
+<td>3<img src="img/spades.gif" /></td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />K</td>
+<td>-2</td>
+<td class="right">-100</td>
+<td class="right">0.00</td>
 <td class="right">-39.00</td>
 </tr>
 <tr>
