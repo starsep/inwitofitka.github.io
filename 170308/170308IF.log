@@ -1,0 +1,94 @@
+2017-03-08 17:52:55.672 : Bridge Scorer Control v3.0.111 
+2017-03-08 17:52:55.673 : Trace level: 0
+2017-03-08 17:52:55.673 : Command line argument:/f:[C:\Users\Grzegorz Gardynik\inwitofitka.github.io\170308\170308IF.bws]
+2017-03-08 17:52:55.673 : Score database:C:\Users\Grzegorz Gardynik\inwitofitka.github.io\170308\170308IF.bws
+2017-03-08 17:52:55.673 : BOS path:C:\BOS\
+2017-03-08 17:52:55.673 : Registry key, bscpath:C:\BOS\Events\17.03.08 szkola\DUMP\path.bsc
+2017-03-08 17:52:55.673 : DupSoft path:C:\BOS\dupsoft\
+2017-03-08 17:52:55.673 : Handrecords path:C:\BOS\handrecords\
+2017-03-08 17:52:55.673 : Events path:C:\BOS\events\
+2017-03-08 17:52:55.673 : Event name:17.03.08 szkola
+2017-03-08 17:52:55.673 : Event path:C:\BOS\events\17.03.08 szkola\
+2017-03-08 17:52:55.673 : Event data path:C:\BOS\events\17.03.08 szkola\data\
+2017-03-08 17:52:55.673 : Event dump path:C:\BOS\events\17.03.08 szkola\dump\
+2017-03-08 17:52:55.673 : BridgePad path:C:\Program Files\Bridgepad\Bridgepad.exe
+2017-03-08 17:52:55.673 : Bridgemate path:C:\Program Files\Bridgemate Pro\BMPro.exe
+2017-03-08 17:52:55.673 : Language for Help file:pl
+2017-03-08 17:52:56.712 : Database open succeed
+2017-03-08 17:52:56.946 : Score database structure: ok
+2017-03-08 17:52:57.083 : Score database intergation: ok
+2017-03-08 17:52:57.083 : Table BiddingData found
+2017-03-08 17:52:57.083 : Table Clients found
+2017-03-08 17:52:57.083 : Table HandRecord found
+2017-03-08 17:52:57.083 : Table IntermediateData found
+2017-03-08 17:52:57.083 : Table PlayData not found
+2017-03-08 17:52:57.083 : Table PlayerNumbers found
+2017-03-08 17:52:57.083 : Table ReceivedData found
+2017-03-08 17:52:57.083 : Table RoundData found
+2017-03-08 17:52:57.083 : Table Section found
+2017-03-08 17:52:57.083 : Table Settings found
+2017-03-08 17:52:57.083 : Table Tables found
+2017-03-08 17:52:57.083 : Table PlayerNames not found
+2017-03-08 17:52:57.104 : Score database data verification: ok
+2017-03-08 17:52:57.104 : Create Game Settings structure
+2017-03-08 17:52:57.105 : 49 fields created
+2017-03-08 17:52:57.112 : Load settings from BWS
+2017-03-08 17:52:57.113 : Game first open: load default game settings
+2017-03-08 17:52:57.224 : bs Interface type: 0
+2017-03-08 17:52:57.224 : bs Reset Wait time: 10s
+2017-03-08 17:52:57.224 : bs Max idle for no activity: 255 min
+2017-03-08 17:52:57.224 : bs Max idle for No RX: 255 min
+2017-03-08 17:52:57.224 : bs Time out: 1500ms
+2017-03-08 17:52:57.224 : bs Tx interval: 150ms
+2017-03-08 17:52:57.391 : Load UI text from file, C:\BOS\BridgeScorer\UILang_EN.txt (Import UI text)
+2017-03-08 17:52:57.706 : Language file empty/missing, load default texts (Import UI text)
+2017-03-08 17:52:57.706 : Lines read 283 (Import UI text)
+2017-03-08 17:52:57.708 : UI text loaded with line, 282 (Import UI text)
+2017-03-08 17:52:57.716 : Deal file found: C:\BOS\Events\17.03.08 szkola\DUMP\path.bsc
+2017-03-08 17:53:30.126 : Check player numbers entries
+2017-03-08 17:53:30.128 : Board result received: 0
+2017-03-08 17:53:30.150 : Initialize stanza for A: 1,5 (main)
+2017-03-08 17:53:30.150 : Load section data into memory
+2017-03-08 17:53:30.164 : 1 section data loaded (loadsectiondata)
+2017-03-08 17:53:30.164 : Load movement data into memory
+2017-03-08 17:53:30.170 : 15 movement data loaded (loadrounddata)
+2017-03-08 17:53:30.170 : 6 players identified from movement data (loadrounddata)
+2017-03-08 17:53:31.241 : Load player name list from file (Import player name)
+2017-03-08 17:53:31.321 : File input compeleted (Import player name)
+2017-03-08 17:53:31.353 : Lines read 18647 (Import player name)
+2017-03-08 17:53:31.524 : Player name loaded. (Import player name)
+2017-03-08 17:53:33.530 : Check game data
+2017-03-08 17:53:33.559 : Setup grid (cboSection)
+2017-03-08 17:53:33.716 : Setup grid completed (cboSection)
+2017-03-08 17:53:33.726 : Setup grid (cboSection)
+2017-03-08 17:53:33.732 : Setup grid completed (cboSection)
+2017-03-08 17:53:33.739 : Player name list from database: 0
+2017-03-08 17:53:33.739 : Player name list from file: 18647
+2017-03-08 17:53:33.739 : Merge player name list from database and file
+2017-03-08 17:53:33.745 : Sorting player name by QuickSort
+2017-03-08 17:53:33.768 : Checking name search performance
+2017-03-08 17:53:33.775 : Search time: 0ms (Time_SearchPlayer)
+2017-03-08 17:53:33.775 : Player name list in memory: 18647
+2017-03-08 17:53:33.776 : Process Queue is stop.
+2017-03-08 17:53:36.614 : Start game.
+2017-03-08 17:53:36.690 : Player name list from database: 0
+2017-03-08 17:53:36.691 : Player name list from file: 18647
+2017-03-08 17:53:36.691 : Merge player name list from database and file
+2017-03-08 17:53:36.695 : Sorting player name by QuickSort
+2017-03-08 17:53:36.717 : Checking name search performance
+2017-03-08 17:53:36.717 : Search time: 0ms (Time_SearchPlayer)
+2017-03-08 17:53:36.717 : Player name list in memory: 18647
+2017-03-08 17:53:36.718 : Check game data
+2017-03-08 17:53:36.730 : Preload movement message data from memory
+2017-03-08 17:53:36.740 : Setup grid (cboSection)
+2017-03-08 17:53:36.745 : Setup grid completed (cboSection)
+2017-03-08 17:53:36.751 : Load data to grid (cboView)
+2017-03-08 17:53:36.804 : Load data to grid compeleted (cboView)
+2017-03-08 17:53:36.805 : Process Queue is reset and ready.
+2017-03-08 17:53:36.898 : Execute command: C:\BOS\BridgeScorer\preventsleep.exe
+2017-03-08 17:54:29.847 : Stop game.
+2017-03-08 17:54:29.847 Flush previous log buffer
+2017-03-08 17:54:32.619 : Start making result file style 1 (makeresultFile_v1)
+2017-03-08 17:54:32.657 : Database closed
+2017-03-08 17:54:32.775 : Quit program
+2017-03-08 17:54:32.775 Flush previous log buffer
