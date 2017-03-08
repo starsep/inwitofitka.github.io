@@ -15,7 +15,7 @@
 <td><a href="javascript:hideTooltip();loadHistory(3);"onmouseover="showTooltip('Marek Jeleniewski - Maksym Wałaszewski', event);"onmouseout="hideTooltip();">3</a></td>
 <td>4<img src="img/hearts.gif" /></td>
 <td>W</td>
-<td><img src="img/clubs.gif" />4</td>
+<td><img src="img/clubs.gif" />7</td>
 <td>-1</td>
 <td class="zapis">100</td><td class="zapis"></td>
 <td class="right">13.00</td>

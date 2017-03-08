@@ -114,7 +114,7 @@
 <td><a href="javascript:loadBoard(10);">10</td><td>NS</td>
 <td>4<img src="img/hearts.gif" /></td>
 <td>W</td>
-<td><img src="img/clubs.gif" />4</td>
+<td><img src="img/clubs.gif" />7</td>
 <td>-1</td>
 <td class="right">+100</td>
 <td class="right">13.00</td>
