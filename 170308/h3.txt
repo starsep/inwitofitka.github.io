@@ -1,4 +1,4 @@
-000000005215
+000000005324
 <h2>3: Marek Jeleniewski - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -164,7 +164,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
-<td colspan="5"></td>
+<td>5<img src="img/diamonds.gif" />x</td>
+<td>W</td>
+<td><img src="img/hearts.gif" />T</td>
+<td>=</td>
+<td class="right">-550</td>
 <td class="right">4.00</td>
 <td class="right">19.50</td>
 </tr>

@@ -1,4 +1,4 @@
-000000004943
+000000005201
 <h2>5: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -141,8 +141,8 @@
 <td class="right">-30.00</td>
 </tr>
 <tr>
-<td rowspan="2">4</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(1);">Anna Nożyńska - Grzegorz Gardynik</a></td>
+<td rowspan="3">4</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(1);">Anna Nożyńska - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
 <td>3<img src="img/hearts.gif" /></td>
 <td>E</td>
@@ -163,10 +163,20 @@
 <td class="right">-32.50</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>E</td>
+<td><img src="img/hearts.gif" />4</td>
+<td>=</td>
+<td class="right">-400</td>
+<td class="right">-2.00</td>
+<td class="right">-34.50</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-32.50</td>
+<td>-34.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
