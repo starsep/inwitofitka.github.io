@@ -1,4 +1,4 @@
-000000004917
+000000005066
 <h2>3: Marek Jeleniewski - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -141,8 +141,8 @@
 <td class="right">12.00</td>
 </tr>
 <tr>
-<td rowspan="2">4</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(6);">Ewa Łukowska - Karol Konopko</a></td>
+<td rowspan="3">4</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(6);">Ewa Łukowska - Karol Konopko</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
 <td>2<img src="img/diamonds.gif" />x</td>
 <td>N</td>
@@ -160,6 +160,12 @@
 <td>+2</td>
 <td class="right">-150</td>
 <td class="right">2.00</td>
+<td class="right">15.50</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">15.50</td>
 </tr>
 <tr>
