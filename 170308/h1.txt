@@ -1,4 +1,4 @@
-000000006304
+000000006453
 <h2>1: Anna Nożyńska - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -183,8 +183,8 @@
 <td class="right">-3.50</td>
 </tr>
 <tr>
-<td rowspan="3">5</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(3);">Marek Jeleniewski - Maksym Wałaszewski</a></td>
+<td rowspan="4">5</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(3);">Marek Jeleniewski - Maksym Wałaszewski</a></td>
 <td><a href="javascript:loadBoard(17);">17</td><td>NS</td>
 <td>3<img src="img/spades.gif" /></td>
 <td>N</td>
@@ -212,6 +212,12 @@
 <td>=</td>
 <td class="right">+110</td>
 <td class="right">2.00</td>
+<td class="right">-5.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(20);">20</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-5.00</td>
 </tr>
 <tr>
