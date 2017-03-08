@@ -1,4 +1,4 @@
-000000002966
+000000003073
 <h2>2: Cezary Przasnek - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -90,15 +90,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(8);">8</td><td>NS</td>
-<td colspan="5"></td>
-<td class="right">-13.00</td>
-<td class="right">-18.50</td>
+<td>3<img src="img/hearts.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />8</td>
+<td>-3</td>
+<td class="right">-150</td>
+<td class="right">-10.00</td>
+<td class="right">-15.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-18.50</td>
+<td>-15.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
