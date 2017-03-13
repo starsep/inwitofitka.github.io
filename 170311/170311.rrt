@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <turniej>
 <ustawienia>
-<outputDir>C:\Users\Grzegorz Gardynik\inwitofitka.github.io\170311</outputDir>
+<outputDir>/home/starsep/.bin/rrbridge/rrbridge - turnieje/170311</outputDir>
 <plikPBN/>
 <favicon/>
 <nabiezaco>0</nabiezaco>
 <adresFTP/>
 <loginFTP/>
-<nazwa>Szkoła IF 170311</nazwa>
+<nazwa>IF Szkoła, 11.03.17</nazwa>
 <data>2017-03-70</data>
 <html>&lt;h1&gt;#nazwa&lt;/h1&gt;
-
-&lt;a href="https://inwitofitka.club"&gt;[Strona główna]&lt;/a&gt;
+&lt;a href="https://inwitofitka.club"&gt;[Strona główna]&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://inwitofitka.club/prev?from=170311"&gt;[Poprzedni trening]&lt;/a&gt;
+&lt;a href="https://inwitofitka.club/next?from=170311"&gt;[Następny trening]&lt;/a&gt;
 &lt;script src="bidding.js"&gt;&lt;/script&gt;
-&lt;link rel="stylesheet" href="bidding.css" /&gt; 
-</html>
+&lt;link rel="stylesheet" href="bidding.css" /&gt;
+&lt;link rel="shortcut icon" href="../favicon.ico" /&gt;</html>
 <liczenie>imp</liczenie>
 <tryb>kontrakty</tryb>
 <tylkoWyniki>0</tylkoWyniki>
