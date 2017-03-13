@@ -10,7 +10,7 @@
 <nazwa>Szkoła IF 170222</nazwa>
 <data>2017-02-53</data>
 <html>&lt;h1&gt;#nazwa&lt;/h1&gt;
-&lt;a href="https://inwitofitka.club"&gt;[Strona główna]&lt;/a&gt;
+&lt;a href="https://inwitofitka.club"&gt;[Strona główna]&lt;/a&gt; &lt;br /&gt;
 &lt;a href="https://inwitofitka.club/next?from=170222"&gt;[Następny trening]&lt;/a&gt;
 &lt;script src="bidding.js"&gt;&lt;/script&gt;
 &lt;link rel="stylesheet" href="bidding.css" /&gt;
