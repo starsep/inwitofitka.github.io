@@ -11,7 +11,10 @@
 <data>2017-03-70</data>
 <html>&lt;h1&gt;#nazwa&lt;/h1&gt;
 
-&lt;a href="https://inwitofitka.club"&gt;[Strona główna]&lt;/a&gt;</html>
+&lt;a href="https://inwitofitka.club"&gt;[Strona główna]&lt;/a&gt;
+&lt;script src="bidding.js"&gt;&lt;/script&gt;
+&lt;link rel="stylesheet" href="bidding.css" /&gt; 
+</html>
 <liczenie>imp</liczenie>
 <tryb>kontrakty</tryb>
 <tylkoWyniki>0</tylkoWyniki>
