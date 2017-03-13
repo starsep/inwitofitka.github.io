@@ -46,6 +46,8 @@ function delay {
 }
 
 function check_init {
+  log "Pobieram zmiany z serwera."
+  git pull
   log "Sprawdzam czy istnieje katalog $name."
   if [ ! -d $name ]; then
     green_head_body "Inicjalizacja:" "Nie istnieje katalog $name, tworzę go."
@@ -70,6 +72,9 @@ function deploy {
   # git fetch && \
   # git rebase origin/master &&
   git add $name
+  echo "- $name" >> _data/tournaments.yml
+  sort _data/tournaments.yml | uniq > tour.tmp && mv tour.tmp _data/tournaments.yml
+  git add _data/tournaments.yml
 
   if ! git diff --cached --exit-code --quiet ; then
     blue_head_body "\nMamy" "lokalne zmiany, wysyłam na serwer.\n"
