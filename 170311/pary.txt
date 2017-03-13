@@ -1,0 +1,75 @@
+000000002692
+<table id="pairlist" class="datatable">
+<thead>
+<tr>
+<td>m-ce</td>
+<td>№</td>
+<td>para</td>
+<td>wk</td>
+<td>okręg</td>
+<td>klub</td>
+<td>wynik</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">1</td>
+<td rowspan="2"><a href="javascript:loadHistory(1);">1</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=1305" target="_blank">Grzegorz Gardynik</a></td>
+<td class="up">19.0</td>
+<td rowspan="2">MA</td>
+<td class="nazwiskoup">Inwitofitka</td>
+<td rowspan="2" class="right">48.00</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14569" target="_blank">Maksym Wałaszewski</a></td>
+<td class="down">1.0</td>
+<td class="nazwiskodown">AZS UW Warszawa VI Orły Feldiego</td>
+</tr>
+<tr>
+<td rowspan="2">2</td>
+<td rowspan="2"><a href="javascript:loadHistory(2);">2</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=12123" target="_blank">Mateusz Stępiński</a></td>
+<td class="up">7.0</td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">AZS UW Warszawa</td>
+<td rowspan="2" class="right">10.00</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=11903" target="_blank">Paweł Szymaszczyk</a></td>
+<td class="down">7.0</td>
+</tr>
+<tr>
+<td rowspan="2">3</td>
+<td rowspan="2"><a href="javascript:loadHistory(4);">4</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=18014" target="_blank">Krystyna Jędrzejewska</a></td>
+<td class="up"></td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">IF22</td>
+<td rowspan="2" class="right">-28.00</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17692" target="_blank">Anna Nożyńska</a></td>
+<td class="down">1.0</td>
+</tr>
+<tr>
+<td rowspan="2">4</td>
+<td rowspan="2"><a href="javascript:loadHistory(3);">3</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7817" target="_blank">Ewa Łukowska</a></td>
+<td class="up">2.0</td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">IF22</td>
+<td rowspan="2" class="right">-30.00</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=18015" target="_blank">Ireneusz Jędrzejewski</a></td>
+<td class="down"></td>
+</tr>
+</tbody>
+</table>
+<div style="font-size: 8pt; margin: 10pt;">
+wygenerowano przy pomocy RRBridge 1.3.6b
+, znacznik czasowy: 13-03-2017 15:01:22
+<br />Sędzia: Karol Konopko
+, e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
+</div>
