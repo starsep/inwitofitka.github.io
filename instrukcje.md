@@ -35,10 +35,11 @@ gdzie YYMMDD to data turnieju w formacie YYMMDD np. 170308 dla 8 marca 2017.
 
 1. Ustawiamy w RRBridge nagłówek:
 {% gist 1c90b39fce133a7fee8255eab754edac %}
-2. Włączamy RRBridge Bidding Data.
-3. Wybieramy plik BWS oraz katalog do zapisu plików z licytacją.
-4. Klikamy uruchom.
-5. Wysyłamy wyniki zgodnie z instrukcją **IV**.
+2. Zamieniamy ID w nagłówku na id turnieju w formacie YYMMDD.
+3. Włączamy RRBridge Bidding Data.
+4. Wybieramy plik BWS oraz katalog do zapisu plików z licytacją.
+5. Klikamy uruchom.
+6. Wysyłamy wyniki zgodnie z instrukcją **IV**.
 
 ## IV. Publikowanie wyników na https://inwitofitka.club
 Odpalamy konsolę Git Bash.
