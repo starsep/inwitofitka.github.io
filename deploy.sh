@@ -42,17 +42,17 @@ function check_args {
 
 function delay {
   log "Czekam $1 sekund."
-  sleep $1
+  sleep "$1"
 }
 
 function check_init {
   log "Pobieram zmiany z serwera."
   git pull
   log "Sprawdzam czy istnieje katalog $name."
-  if [ ! -d $name ]; then
+  if [ ! -d "$name" ]; then
     green_head_body "Inicjalizacja:" "Nie istnieje katalog $name, tworzę go."
-    mkdir $name
-    echo "Turniej $name, jeszcze tu nic nie ma" > $name/index.html
+    mkdir "$name"
+    echo "Turniej $name, jeszcze tu nic nie ma" > "$name"/index.html
     log "Proszę stworzyć turniej o nazwie $name i zapisać go w $name/$name.rrt"
     log "oraz ustawić katalog roboczy turnieju na $name"
     echo "- $name" >> _data/tournaments.yml
@@ -71,14 +71,14 @@ function deploy {
 
   # git fetch && \
   # git rebase origin/master &&
-  git add $name
+  git add "$name"
   echo "- $name" >> _data/tournaments.yml
   sort _data/tournaments.yml | uniq > tour.tmp && mv tour.tmp _data/tournaments.yml
   git add _data/tournaments.yml
 
   if ! git diff --cached --exit-code --quiet ; then
     blue_head_body "\nMamy" "lokalne zmiany, wysyłam na serwer.\n"
-    current_time=`date "+%Y-%m-%d %H:%M:%S"`
+    current_time=$(date "+%Y-%m-%d %H:%M:%S")
 
     git commit -m "$name: autoupdate $current_time." && \
     git push && \
@@ -98,11 +98,11 @@ function deploy {
 
 function run {
   deploy
-  delay $time
+  delay "$time"
   run
 }
 
-check_args $*
+check_args "$*"
 
 name=$1
 time=DEFAULT_TIME
