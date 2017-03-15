@@ -1,4 +1,4 @@
-000000003917
+000000004065
 <h2>1: Maksym Wałaszewski - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -99,8 +99,8 @@
 <td class="right">20.50</td>
 </tr>
 <tr>
-<td rowspan="3">3</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(6);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
+<td rowspan="4">3</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(6);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
 <td><a href="javascript:loadBoard(9);">9</td><td>NS</td>
 <td>4<img src="img/hearts.gif" /></td>
 <td>N</td>
@@ -124,6 +124,12 @@
 <td><a href="javascript:loadBoard(11);">11</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">-5.00</td>
+<td class="right">1.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(12);">12</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">1.00</td>
 </tr>
 <tr>
