@@ -1,4 +1,4 @@
-000000002210
+000000002317
 <h2>6: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -60,7 +60,11 @@
 <td>2</td>
 <td class="left"><a href="javascript:loadHistory(2);">Anna Nożyńska - Zbigniew Santkiewicz</a></td>
 <td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/clubs.gif" />7</td>
+<td>+1</td>
+<td class="right">+630</td>
 <td class="right">0.00</td>
 <td class="right">0.00</td>
 </tr>
