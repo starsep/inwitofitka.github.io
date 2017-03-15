@@ -1,4 +1,4 @@
-000000001703
+000000001852
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -15,8 +15,8 @@
 </thead>
 <tbody>
 <tr>
-<td rowspan="3">1</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(3);">Karol Konopko - Bartosz Ćwiek</a></td>
+<td rowspan="4">1</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(3);">Karol Konopko - Bartosz Ćwiek</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>W</td>
@@ -47,16 +47,22 @@
 <td class="right">5.50</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">10.00</td>
+<td class="right">15.50</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>5.50</td>
+<td>15.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>2</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
