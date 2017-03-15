@@ -1875,3 +1875,10 @@
 2017-03-15 22:42:00.264 : TX => FF 28 3B 02 53 00 00 B8
 2017-03-15 22:42:01.597 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
 2017-03-15 22:42:01.597 Flush previous log buffer
+2017-03-15 22:42:06.554 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:42:06.554 Flush previous log buffer
+2017-03-15 22:42:12.002 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:42:12.002 Flush previous log buffer
+2017-03-15 22:42:14.705 : Check game data
+2017-03-15 22:42:16.055 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:42:16.055 Flush previous log buffer
