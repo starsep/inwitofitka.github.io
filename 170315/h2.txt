@@ -1,4 +1,4 @@
-000000001961
+000000002224
 <h2>2: Anna Nożyńska - Zbigniew Santkiewicz</h2>
 <table class="datatable">
 <thead>
@@ -54,6 +54,14 @@
 <td>-1</td>
 <td class="right">+100</td>
 <td class="right">-9.50</td>
+<td class="right">-16.50</td>
+</tr>
+<tr>
+<td>2</td>
+<td class="left"><a href="javascript:loadHistory(6);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
+<td><a href="javascript:loadBoard(5);">5</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-16.50</td>
 </tr>
 <tr>
