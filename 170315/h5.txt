@@ -1,4 +1,4 @@
-000000005329
+000000005438
 <h2>5: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -174,15 +174,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-11.50</td>
+<td>2<img src="img/spades.gif" /></td>
+<td>S</td>
+<td><img src="img/diamonds.gif" />A</td>
+<td>+2</td>
+<td class="right">+170</td>
+<td class="right">0.50</td>
+<td class="right">-11.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-11.50</td>
+<td>-11.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
