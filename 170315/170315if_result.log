@@ -39,3 +39,4 @@ Section;Table;Round;Board;PairNS;PairEW;Declarer;NS/EW;Contract;Result;LeadCard;
 1;2;3;12;4;5;5;W;2 NT;-2;CJ;100
 1;2;3;12;4;5;5;W;2 NT;-2;CJ;100
 1;1;4;13;1;5;1;S;3 NT;-2;S3;-200
+1;2;4;13;6;3;6;S;3 NT;-1;C4;-100
