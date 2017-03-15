@@ -2030,3 +2030,6 @@
 2017-03-15 22:50:24.980 : Save result(BSC):A1,20,5,1,3,0,0,5 H,S,-2,,
 2017-03-15 22:50:25.427 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
 2017-03-15 22:50:25.427 Flush previous log buffer
+2017-03-15 22:50:27.918 : Get board deal: 20 (Get_AllDeal)
+2017-03-15 22:50:29.070 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:50:29.070 Flush previous log buffer
