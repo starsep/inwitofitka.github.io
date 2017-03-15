@@ -1,4 +1,4 @@
-000000004065
+000000004170
 <h2>1: Maksym Wałaszewski - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -122,7 +122,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(11);">11</td><td>NS</td>
-<td colspan="5"></td>
+<td>3<img src="img/clubs.gif" /></td>
+<td>N</td>
+<td><img src="img/clubs.gif" />7</td>
+<td>-2</td>
+<td class="right">-100</td>
 <td class="right">-5.00</td>
 <td class="right">1.00</td>
 </tr>
@@ -142,7 +146,7 @@
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>5</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
