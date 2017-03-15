@@ -1,4 +1,4 @@
-000000004533
+000000004534
 <h2>1: Maksym Wałaszewski - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -145,14 +145,14 @@
 <td class="left"><a href="javascript:loadHistory(5);">Ewa Łukowska - Jarek Markowski</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>NS</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-4.50</td>
+<td class="right">-3.00</td>
+<td class="right">-7.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-4.50</td>
+<td>-7.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
