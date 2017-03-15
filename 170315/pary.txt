@@ -24,7 +24,7 @@
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">AZS UW Warszawa VI Orły Feldiego</td>
 <td rowspan="2" class="right">16.50</td>
-<td rowspan="2" class="dealcount">4</td>
+<td rowspan="2" class="dealcount">5</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=1305" target="_blank">Grzegorz Gardynik</a></td>
@@ -39,7 +39,7 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
 <td rowspan="2" class="right">16.50</td>
-<td rowspan="2" class="dealcount">4</td>
+<td rowspan="2" class="dealcount">5</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=18015" target="_blank">Ireneusz Jędrzejewski</a></td>
@@ -106,7 +106,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 15-03-2017 19:13:40
+, znacznik czasowy: 15-03-2017 19:14:10
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
