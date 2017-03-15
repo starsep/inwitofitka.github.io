@@ -1,4 +1,4 @@
-000000002630
+000000002777
 <h2>5: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -57,8 +57,8 @@
 <td class="right">0.00</td>
 </tr>
 <tr>
-<td rowspan="3">2</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(3);">Karol Konopko - Bartosz Ćwiek</a></td>
+<td rowspan="4">2</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(3);">Karol Konopko - Bartosz Ćwiek</a></td>
 <td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>S</td>
@@ -76,6 +76,12 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(7);">7</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
+<td class="right">11.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(8);">8</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
 <td class="right">11.00</td>
