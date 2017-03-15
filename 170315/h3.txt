@@ -1,4 +1,4 @@
-000000002905
+000000003119
 <h2>3: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -70,7 +70,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(6);">6</td><td>NS</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />2</td>
+<td>-2</td>
+<td class="right">-100</td>
 <td class="right">-11.00</td>
 <td class="right">-27.50</td>
 </tr>
@@ -86,15 +90,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(8);">8</td><td>NS</td>
-<td colspan="5"></td>
-<td class="right">-2.00</td>
-<td class="right">-29.50</td>
+<td>2<img src="img/hearts.gif" /></td>
+<td>E</td>
+<td><img src="img/clubs.gif" />J</td>
+<td>+2</td>
+<td class="right">-170</td>
+<td class="right">-4.00</td>
+<td class="right">-31.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-29.50</td>
+<td>-31.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
