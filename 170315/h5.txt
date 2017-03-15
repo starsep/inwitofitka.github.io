@@ -1,4 +1,4 @@
-000000005980
+000000006129
 <h2>5: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -183,8 +183,8 @@
 <td class="right">-11.00</td>
 </tr>
 <tr>
-<td rowspan="2">5</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(2);">Anna Nożyńska - Zbigniew Santkiewicz</a></td>
+<td rowspan="3">5</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(2);">Anna Nożyńska - Zbigniew Santkiewicz</a></td>
 <td><a href="javascript:loadBoard(17);">17</td><td>NS</td>
 <td>4<img src="img/spades.gif" /></td>
 <td>W</td>
@@ -198,6 +198,12 @@
 <td><a href="javascript:loadBoard(18);">18</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">-4.00</td>
+<td class="right">-5.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-5.00</td>
 </tr>
 <tr>
