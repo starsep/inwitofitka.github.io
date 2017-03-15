@@ -21,3 +21,6 @@ Section;Table;Round;Board;PairNS;PairEW;Declarer;NS/EW;Contract;Result;LeadCard;
 1;2;2;7;2;6;2;N;2 H;=;DA;110
 1;1;2;7;1;4;4;E;2 D;-1;S3;100
 1;1;2;8;1;4;1;N;5 C x;-1;DA;-100
+1;2;2;8;2;6;6;W;4 H;-1;SQ;50
+1;2;2;6;2;6;2;N;4 H;=;DJ;420
+1;2;2;7;2;6;2;N;2 H;=;DA;110
