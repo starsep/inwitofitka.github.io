@@ -1,0 +1,1877 @@
+2017-03-15 17:49:24.099 : Bridge Scorer Control v3.0.111 
+2017-03-15 17:49:24.099 : Trace level: 0
+2017-03-15 17:49:24.099 : Command line argument:/f:[C:\Users\Grzegorz Gardynik\inwitofitka.github.io\170315\170315if.bws]
+2017-03-15 17:49:24.099 : Score database:C:\Users\Grzegorz Gardynik\inwitofitka.github.io\170315\170315if.bws
+2017-03-15 17:49:24.099 : BOS path:C:\BOS\
+2017-03-15 17:49:24.099 : Registry key, bscpath:C:\BOS\Events\17.03.15 szkola\DUMP\path.bsc
+2017-03-15 17:49:24.099 : DupSoft path:C:\BOS\dupsoft\
+2017-03-15 17:49:24.099 : Handrecords path:C:\BOS\handrecords\
+2017-03-15 17:49:24.099 : Events path:C:\BOS\events\
+2017-03-15 17:49:24.099 : Event name:17.03.15 szkola
+2017-03-15 17:49:24.099 : Event path:C:\BOS\events\17.03.15 szkola\
+2017-03-15 17:49:24.099 : Event data path:C:\BOS\events\17.03.15 szkola\data\
+2017-03-15 17:49:24.099 : Event dump path:C:\BOS\events\17.03.15 szkola\dump\
+2017-03-15 17:49:24.099 : BridgePad path:C:\Program Files\Bridgepad\Bridgepad.exe
+2017-03-15 17:49:24.099 : Bridgemate path:C:\Program Files\Bridgemate Pro\BMPro.exe
+2017-03-15 17:49:24.099 : Language for Help file:pl
+2017-03-15 17:49:25.068 : Database open succeed
+2017-03-15 17:49:25.240 : Score database structure: ok
+2017-03-15 17:49:25.365 : Score database intergation: ok
+2017-03-15 17:49:25.365 : Table BiddingData found
+2017-03-15 17:49:25.365 : Table Clients found
+2017-03-15 17:49:25.365 : Table HandRecord found
+2017-03-15 17:49:25.365 : Table IntermediateData found
+2017-03-15 17:49:25.365 : Table PlayData not found
+2017-03-15 17:49:25.365 : Table PlayerNumbers found
+2017-03-15 17:49:25.365 : Table ReceivedData found
+2017-03-15 17:49:25.365 : Table RoundData found
+2017-03-15 17:49:25.365 : Table Section found
+2017-03-15 17:49:25.365 : Table Settings found
+2017-03-15 17:49:25.365 : Table Tables found
+2017-03-15 17:49:25.365 : Table PlayerNames not found
+2017-03-15 17:49:25.381 : Score database data verification: ok
+2017-03-15 17:49:25.381 : Create Game Settings structure
+2017-03-15 17:49:25.381 : 49 fields created
+2017-03-15 17:49:25.396 : Load settings from BWS
+2017-03-15 17:49:25.396 : Game first open: load default game settings
+2017-03-15 17:49:25.459 : bs Interface type: 0
+2017-03-15 17:49:25.459 : bs Reset Wait time: 10s
+2017-03-15 17:49:25.459 : bs Max idle for no activity: 255 min
+2017-03-15 17:49:25.459 : bs Max idle for No RX: 255 min
+2017-03-15 17:49:25.459 : bs Time out: 1500ms
+2017-03-15 17:49:25.459 : bs Tx interval: 150ms
+2017-03-15 17:49:25.631 : Load UI text from file, C:\BOS\BridgeScorer\UILang_EN.txt (Import UI text)
+2017-03-15 17:49:25.959 : Language file empty/missing, load default texts (Import UI text)
+2017-03-15 17:49:25.959 : Lines read 283 (Import UI text)
+2017-03-15 17:49:25.959 : UI text loaded with line, 282 (Import UI text)
+2017-03-15 17:49:25.975 : Deal file found: C:\BOS\Events\17.03.15 szkola\DUMP\path.bsc
+2017-03-15 17:50:02.747 : Check player numbers entries
+2017-03-15 17:50:02.747 : Board result received: 0
+2017-03-15 17:50:02.778 : Initialize stanza for A: 1,5 (main)
+2017-03-15 17:50:02.778 : Load section data into memory
+2017-03-15 17:50:02.778 : 1 section data loaded (loadsectiondata)
+2017-03-15 17:50:02.794 : Load movement data into memory
+2017-03-15 17:50:02.794 : 15 movement data loaded (loadrounddata)
+2017-03-15 17:50:02.794 : 6 players identified from movement data (loadrounddata)
+2017-03-15 17:50:03.904 : Load player name list from file (Import player name)
+2017-03-15 17:50:03.982 : File input compeleted (Import player name)
+2017-03-15 17:50:03.997 : Lines read 18647 (Import player name)
+2017-03-15 17:50:04.169 : Player name loaded. (Import player name)
+2017-03-15 17:50:06.186 : Check game data
+2017-03-15 17:50:06.201 : Setup grid (cboSection)
+2017-03-15 17:50:06.217 : Setup grid completed (cboSection)
+2017-03-15 17:50:06.217 : Setup grid (cboSection)
+2017-03-15 17:50:06.232 : Setup grid completed (cboSection)
+2017-03-15 17:50:06.232 : Player name list from database: 0
+2017-03-15 17:50:06.232 : Player name list from file: 18647
+2017-03-15 17:50:06.232 : Merge player name list from database and file
+2017-03-15 17:50:06.232 : Sorting player name by QuickSort
+2017-03-15 17:50:06.264 : Checking name search performance
+2017-03-15 17:50:06.279 : Search time: 0ms (Time_SearchPlayer)
+2017-03-15 17:50:06.279 : Player name list in memory: 18647
+2017-03-15 17:50:06.279 : Process Queue is stop.
+2017-03-15 17:50:08.045 : Start game.
+2017-03-15 17:50:08.123 : Player name list from database: 0
+2017-03-15 17:50:08.123 : Player name list from file: 18647
+2017-03-15 17:50:08.123 : Merge player name list from database and file
+2017-03-15 17:50:08.123 : Sorting player name by QuickSort
+2017-03-15 17:50:08.139 : Checking name search performance
+2017-03-15 17:50:08.139 : Search time: 0ms (Time_SearchPlayer)
+2017-03-15 17:50:08.139 : Player name list in memory: 18647
+2017-03-15 17:50:08.139 : Check game data
+2017-03-15 17:50:08.155 : Preload movement message data from memory
+2017-03-15 17:50:08.170 : Setup grid (cboSection)
+2017-03-15 17:50:08.170 : Setup grid completed (cboSection)
+2017-03-15 17:50:08.170 : Load data to grid (cboView)
+2017-03-15 17:50:08.201 : Load data to grid compeleted (cboView)
+2017-03-15 17:50:08.201 : Process Queue is reset and ready.
+2017-03-15 17:50:08.326 : Execute command: C:\BOS\BridgeScorer\preventsleep.exe
+2017-03-15 17:50:31.204 : RX <= FF 28 3C 03 0A 05 00 00 76
+2017-03-15 17:50:31.204 : Do message, 1, msg:2017-03-15 17:50:31.142, now:2017-03-15 17:50:31.204, time delay: 62 (doQueue)
+2017-03-15 17:50:31.220 : register TBS 10300 of v5
+2017-03-15 17:50:31.220 : TX => FF 28 3C 03 0B 01 01 00 74
+2017-03-15 17:50:33.767 : RX <= FF 28 3C 05 18 01 01 05 00 00 88
+2017-03-15 17:50:33.767 : Do message, 2, msg:2017-03-15 17:50:33.736, now:2017-03-15 17:50:33.767, time delay: 31 (doQueue)
+2017-03-15 17:50:33.767 : message from (10300, v5)
+2017-03-15 17:50:33.783 : Check board for A on table with TBS, round 1 to 5: 0/0 (DB_check_BoardResult)
+2017-03-15 17:50:33.783 : Get movement data from memory
+2017-03-15 17:50:33.783 : Login Table A1
+2017-03-15 17:50:33.798 : Mark Table and TBS
+2017-03-15 17:50:33.798 : 10300 mapped to A1 (mark TBS mapping)
+2017-03-15 17:50:33.798 : Get game settings data
+2017-03-15 17:50:33.814 : TX => FF 28 3C 30 19 11 03 59 AF FD 00 00 00 07 E1 03 0F 11 32 21 04 1F 01 02 01 3E 01 02 01 04 05 3E 01 02 01 06 09 3E 01 02 01 05 0D 3E 01 02 01 03 11 3E 00 00 05 CF
+2017-03-15 17:50:34.455 : RX <= FF 28 3C 01 0C 00 71
+2017-03-15 17:50:34.470 : Do message, 3, msg:2017-03-15 17:50:34.408, now:2017-03-15 17:50:34.470, time delay: 62 (doQueue)
+2017-03-15 17:50:34.470 : message from A1(10300, v5)
+2017-03-15 17:50:34.486 : Check board for A on table with TBS, round 1 to 5: 0/20 (DB_check_BoardResult)
+2017-03-15 17:50:34.486 : Lock table association: A1
+2017-03-15 17:50:34.486 : A1: movement data received (doMsg)
+2017-03-15 17:50:34.486 : RX <= FF 28 3C 05 3C 01 02 00 00 00 A8
+2017-03-15 17:50:34.502 : Do message, 4, msg:2017-03-15 17:50:34.455, now:2017-03-15 17:50:34.502, time delay: 47 (doQueue)
+2017-03-15 17:50:34.502 : message from A1(10300, v5)
+2017-03-15 17:50:34.502 : Check board for A on table with TBS, round 1 to 5: 0/20 (DB_check_BoardResult)
+2017-03-15 17:50:34.502 : Get seating name: ,N,n/a
+2017-03-15 17:50:34.502 : Get seating name: ,E,n/a
+2017-03-15 17:50:34.502 : Get seating name: ,S,n/a
+2017-03-15 17:50:34.502 : Get seating name: ,W,n/a
+2017-03-15 17:50:34.502 : TX => FF 28 3C 52 3D 50 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 3B
+2017-03-15 17:50:52.535 : RX <= FF 28 3B 03 0A 05 00 00 75
+2017-03-15 17:50:52.535 : Do message, 5, msg:2017-03-15 17:50:52.504, now:2017-03-15 17:50:52.535, time delay: 31 (doQueue)
+2017-03-15 17:50:52.535 : register TBS 10299 of v5
+2017-03-15 17:50:52.550 : TX => FF 28 3B 03 0B 01 01 00 73
+2017-03-15 17:50:55.879 : RX <= FF 28 3B 05 18 01 02 05 00 00 88
+2017-03-15 17:50:55.879 : Do message, 6, msg:2017-03-15 17:50:55.817, now:2017-03-15 17:50:55.879, time delay: 62 (doQueue)
+2017-03-15 17:50:55.879 : message from (10299, v5)
+2017-03-15 17:50:55.894 : Check board for A on table with TBS, round 1 to 5: 0/20 (DB_check_BoardResult)
+2017-03-15 17:50:55.894 : Get movement data from memory
+2017-03-15 17:50:55.894 : Login Table A2
+2017-03-15 17:50:55.910 : Mark Table and TBS
+2017-03-15 17:50:55.910 : 10299 mapped to A2 (mark TBS mapping)
+2017-03-15 17:50:55.910 : Check board for A2, round 1 to 5: 0/40 (DB_check_BoardResult)
+2017-03-15 17:50:55.910 : Get game settings data
+2017-03-15 17:50:55.926 : TX => FF 28 3B 30 19 11 03 59 AF FD 00 00 00 07 E1 03 0F 11 32 37 04 00 03 04 01 BE 03 01 02 06 05 BE 03 01 04 05 09 BE 03 01 06 03 0D BE 03 01 05 02 11 3E 00 00 07 D8
+2017-03-15 17:50:56.207 : RX <= FF 28 3B 01 0C 00 70
+2017-03-15 17:50:56.223 : Do message, 7, msg:2017-03-15 17:50:56.176, now:2017-03-15 17:50:56.223, time delay: 47 (doQueue)
+2017-03-15 17:50:56.223 : message from A2(10299, v5)
+2017-03-15 17:50:56.238 : Check board for A on table with TBS, round 1 to 5: 0/40 (DB_check_BoardResult)
+2017-03-15 17:50:56.238 : Lock table association: A2
+2017-03-15 17:50:56.238 : A2: movement data received (doMsg)
+2017-03-15 17:50:56.238 : RX <= FF 28 3B 05 3C 03 04 00 00 00 AB
+2017-03-15 17:50:56.254 : Do message, 8, msg:2017-03-15 17:50:56.223, now:2017-03-15 17:50:56.254, time delay: 31 (doQueue)
+2017-03-15 17:50:56.254 : message from A2(10299, v5)
+2017-03-15 17:50:56.269 : Check board for A on table with TBS, round 1 to 5: 0/40 (DB_check_BoardResult)
+2017-03-15 17:50:56.269 : Get seating name: ,N,n/a
+2017-03-15 17:50:56.269 : Get seating name: ,E,n/a
+2017-03-15 17:50:56.269 : Get seating name: ,S,n/a
+2017-03-15 17:50:56.269 : Get seating name: ,W,n/a
+2017-03-15 17:50:56.285 : TX => FF 28 3B 52 3D 50 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 3A
+2017-03-15 17:51:08.334 : Check game data
+2017-03-15 17:51:15.257 : RX <= FF 28 3A 03 0A 05 00 00 74
+2017-03-15 17:51:15.272 : Do message, 9, msg:2017-03-15 17:51:15.210, now:2017-03-15 17:51:15.272, time delay: 62 (doQueue)
+2017-03-15 17:51:15.272 : register TBS 10298 of v5
+2017-03-15 17:51:15.288 : TX => FF 28 3A 03 0B 01 01 00 72
+2017-03-15 17:51:16.835 : RX <= FF 28 3A 05 18 01 03 05 00 00 88
+2017-03-15 17:51:16.835 : Do message, 10, msg:2017-03-15 17:51:16.788, now:2017-03-15 17:51:16.835, time delay: 47 (doQueue)
+2017-03-15 17:51:16.835 : message from (10298, v5)
+2017-03-15 17:51:16.851 : Check board for A on table with TBS, round 1 to 5: 0/40 (DB_check_BoardResult)
+2017-03-15 17:51:16.851 : Get movement data from memory
+2017-03-15 17:51:16.851 : Login Table A3
+2017-03-15 17:51:16.866 : Mark Table and TBS
+2017-03-15 17:51:16.866 : 10298 mapped to A3 (mark TBS mapping)
+2017-03-15 17:51:16.882 : Check board for A3, round 1 to 5: 0/60 (DB_check_BoardResult)
+2017-03-15 17:51:16.882 : Get game settings data
+2017-03-15 17:51:16.882 : TX => FF 28 3A 30 19 11 03 59 AF FD 00 00 00 07 E1 03 0F 11 33 10 04 00 05 06 01 FE 03 02 03 05 05 FE 03 02 02 03 09 FE 03 02 04 02 0D FE 03 02 06 04 11 3E 00 00 08 B5
+2017-03-15 17:51:17.132 : RX <= FF 28 3A 01 0C 00 6F
+2017-03-15 17:51:17.132 : Do message, 11, msg:2017-03-15 17:51:17.101, now:2017-03-15 17:51:17.132, time delay: 31 (doQueue)
+2017-03-15 17:51:17.132 : message from A3(10298, v5)
+2017-03-15 17:51:17.147 : Check board for A on table with TBS, round 1 to 5: 0/60 (DB_check_BoardResult)
+2017-03-15 17:51:17.147 : Lock table association: A3
+2017-03-15 17:51:17.147 : A3: movement data received (doMsg)
+2017-03-15 17:51:17.179 : RX <= FF 28 3A 05 3C 05 06 00 00 00 AE
+2017-03-15 17:51:17.194 : Do message, 12, msg:2017-03-15 17:51:17.147, now:2017-03-15 17:51:17.194, time delay: 47 (doQueue)
+2017-03-15 17:51:17.194 : message from A3(10298, v5)
+2017-03-15 17:51:17.210 : Check board for A on table with TBS, round 1 to 5: 0/60 (DB_check_BoardResult)
+2017-03-15 17:51:17.210 : Get seating name: ,N,n/a
+2017-03-15 17:51:17.210 : Get seating name: ,E,n/a
+2017-03-15 17:51:17.210 : Get seating name: ,S,n/a
+2017-03-15 17:51:17.210 : Get seating name: ,W,n/a
+2017-03-15 17:51:17.226 : TX => FF 28 3A 52 3D 50 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 39
+2017-03-15 17:52:08.343 : Check game data
+2017-03-15 17:53:08.367 : Check game data
+2017-03-15 17:54:08.389 : Check game data
+2017-03-15 17:55:08.404 : Check game data
+2017-03-15 17:56:08.422 : Check game data
+2017-03-15 17:57:08.429 : Check game data
+2017-03-15 17:58:08.440 : Check game data
+2017-03-15 17:59:08.452 : Check game data
+2017-03-15 18:00:08.478 : Check game data
+2017-03-15 18:01:08.500 : Check game data
+2017-03-15 18:01:27.440 : RX <= FF 28 3B 19 28 FF FF FF F1 48 0E FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 16 D6
+2017-03-15 18:01:27.456 : Do message, 13, msg:2017-03-15 18:01:27.424, now:2017-03-15 18:01:27.456, time delay: 32 (doQueue)
+2017-03-15 18:01:27.456 : message from A2(10299, v5)
+2017-03-15 18:01:27.471 : Check board for A on table with TBS, round 1 to 5: 0/60 (DB_check_BoardResult)
+2017-03-15 18:01:27.471 : Mark player ID
+2017-03-15 18:01:27.471 : Mark player ID
+2017-03-15 18:01:27.471 : Mark player ID
+2017-03-15 18:01:27.471 : Mark player ID
+2017-03-15 18:01:27.487 : Load registered name to memory, 4 (AnalyzeGameDB)
+2017-03-15 18:01:27.487 : TX => FF 28 3B 59 29 00 00 4B 61 72 6F 6C 20 4B 6F 6E 6F 70 6B 6F 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 D9
+2017-03-15 18:01:42.379 : RX <= FF 28 3B 19 28 FF FF FF F1 48 0E FF FF FF FF FF FF FF FF FF F1 31 47 FF FF FF FF FF FF 15 42
+2017-03-15 18:01:42.379 : Do message, 14, msg:2017-03-15 18:01:42.363, now:2017-03-15 18:01:42.379, time delay: 16 (doQueue)
+2017-03-15 18:01:42.379 : message from A2(10299, v5)
+2017-03-15 18:01:42.395 : Check board for A on table with TBS, round 1 to 5: 0/60 (DB_check_BoardResult)
+2017-03-15 18:01:42.395 : Player ID registered at A 2N (getPlayerIDSeat)
+2017-03-15 18:01:42.395 : Mark player ID
+2017-03-15 18:01:42.410 : Mark player ID
+2017-03-15 18:01:42.410 : Mark player ID
+2017-03-15 18:01:42.410 : Mark player ID
+2017-03-15 18:01:42.410 : Load registered name to memory, 4 (AnalyzeGameDB)
+2017-03-15 18:01:42.410 : TX => FF 28 3B 59 29 00 00 4B 61 72 6F 6C 20 4B 6F 6E 6F 70 6B 6F 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 42 61 72 74 6F 73 7A 20 C6 77 69 65 6B 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0D 56
+2017-03-15 18:02:08.502 : Check game data
+2017-03-15 18:02:14.190 : RX <= FF 28 3B 19 28 FF FF FF F1 48 0E FF FF FF FF FF FF FF FF FF F1 31 47 FF FF FF F1 50 0F 13 95
+2017-03-15 18:02:14.190 : Do message, 15, msg:2017-03-15 18:02:14.175, now:2017-03-15 18:02:14.190, time delay: 15 (doQueue)
+2017-03-15 18:02:14.194 : message from A2(10299, v5)
+2017-03-15 18:02:14.196 : Check board for A on table with TBS, round 1 to 5: 0/60 (DB_check_BoardResult)
+2017-03-15 18:02:14.199 : Player ID registered at A 2N (getPlayerIDSeat)
+2017-03-15 18:02:14.200 : Player ID registered at A 2S (getPlayerIDSeat)
+2017-03-15 18:02:14.202 : Mark player ID
+2017-03-15 18:02:14.204 : Mark player ID
+2017-03-15 18:02:14.206 : Mark player ID
+2017-03-15 18:02:14.209 : Mark player ID
+2017-03-15 18:02:14.213 : Load registered name to memory, 4 (AnalyzeGameDB)
+2017-03-15 18:02:14.215 : TX => FF 28 3B 59 29 00 00 4B 61 72 6F 6C 20 4B 6F 6E 6F 70 6B 6F 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 42 61 72 74 6F 73 7A 20 C6 77 69 65 6B 00 00 00 00 00 00 00 00 00 49 72 65 6E 65 75 73 20 4A EA 64 72 7A 65 6A 65 77 73 6B 69 14 C9
+2017-03-15 18:02:22.350 : RX <= FF 28 3B 19 28 FF FF FF F1 48 0E FF FF FF F1 50 0E FF FF FF F1 31 47 FF FF FF F1 50 0F 11 E7
+2017-03-15 18:02:22.351 : Do message, 16, msg:2017-03-15 18:02:22.344, now:2017-03-15 18:02:22.351, time delay: 7 (doQueue)
+2017-03-15 18:02:22.362 : message from A2(10299, v5)
+2017-03-15 18:02:22.370 : Check board for A on table with TBS, round 1 to 5: 0/60 (DB_check_BoardResult)
+2017-03-15 18:02:22.376 : Player ID registered at A 2N (getPlayerIDSeat)
+2017-03-15 18:02:22.384 : Player ID registered at A 2S (getPlayerIDSeat)
+2017-03-15 18:02:22.388 : Player ID registered at A 2W (getPlayerIDSeat)
+2017-03-15 18:02:22.389 : Mark player ID
+2017-03-15 18:02:22.392 : Mark player ID
+2017-03-15 18:02:22.395 : Mark player ID
+2017-03-15 18:02:22.399 : Mark player ID
+2017-03-15 18:02:22.404 : Load registered name to memory, 4 (AnalyzeGameDB)
+2017-03-15 18:02:22.406 : TX => FF 28 3B 59 29 00 00 4B 61 72 6F 6C 20 4B 6F 6E 6F 70 6B 6F 00 00 00 00 00 00 00 00 00 4B 72 79 73 74 79 6E 20 4A EA 64 72 7A 65 6A 65 77 73 6B 61 00 00 42 61 72 74 6F 73 7A 20 C6 77 69 65 6B 00 00 00 00 00 00 00 00 00 49 72 65 6E 65 75 73 20 4A EA 64 72 7A 65 6A 65 77 73 6B 69 1C 5D
+2017-03-15 18:03:08.516 : Check game data
+2017-03-15 18:04:08.553 : Check game data
+2017-03-15 18:04:23.867 : RX <= FF 28 3B 0A 52 01 00 00 09 11 21 00 00 00 00 FB
+2017-03-15 18:04:23.882 : Do message, 17, msg:2017-03-15 18:04:23.851, now:2017-03-15 18:04:23.882, time delay: 31 (doQueue)
+2017-03-15 18:04:23.882 : message from A2(10299, v5)
+2017-03-15 18:04:23.898 : Check board for A on table with TBS, round 1 to 5: 0/60 (DB_check_BoardResult)
+2017-03-15 18:04:23.929 : Bid sequence:PASS,1D,1H,1NT,PASS,PASS,PASS (doMsg)
+2017-03-15 18:04:23.929 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 18:05:08.575 : Check game data
+2017-03-15 18:06:08.582 : Check game data
+2017-03-15 18:07:08.604 : Check game data
+2017-03-15 18:07:38.716 : RX <= FF 28 3B 07 34 01 21 2B 1A 03 04 01 0C
+2017-03-15 18:07:38.716 : Do message, 18, msg:2017-03-15 18:07:38.701, now:2017-03-15 18:07:38.716, time delay: 15 (doQueue)
+2017-03-15 18:07:38.732 : message from A2(10299, v5)
+2017-03-15 18:07:38.732 : Check board for A on table with TBS, round 1 to 5: 0/60 (DB_check_BoardResult)
+2017-03-15 18:07:38.747 : Save result(TBS):A2,1,1,3,4,0,0,1 NT,W,+3,H6,
+2017-03-15 18:07:38.747 : Get board deal: 1 (Get_AllDeal)
+2017-03-15 18:07:38.747 : Get traveler feedback data
+2017-03-15 18:07:38.747 : TX => FF 28 3B 01 33 00 97
+2017-03-15 18:08:01.438 : RX <= FF 28 3B 02 58 01 00 BE
+2017-03-15 18:08:01.453 : Do message, 19, msg:2017-03-15 18:08:01.406, now:2017-03-15 18:08:01.453, time delay: 47 (doQueue)
+2017-03-15 18:08:01.453 : message from A2(10299, v5)
+2017-03-15 18:08:01.469 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:08:01.469 : Get dealt card
+2017-03-15 18:08:01.469 : Get board deal: 1 (Get_AllDeal)
+2017-03-15 18:08:01.469 : TX => FF 28 3B 1B 59 01 AE C1 C4 17 A9 CA 34 34 A7 96 FD D1 23 81 90 44 66 49 87 69 44 67 49 87 69 0D 03
+2017-03-15 18:08:08.595 : Check game data
+2017-03-15 18:08:37.738 : RX <= FF 28 3C 19 28 FF FF FF F1 2D 45 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 16 F3
+2017-03-15 18:08:37.738 : Do message, 20, msg:2017-03-15 18:08:37.723, now:2017-03-15 18:08:37.738, time delay: 15 (doQueue)
+2017-03-15 18:08:37.738 : message from A1(10300, v5)
+2017-03-15 18:08:37.754 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:08:37.754 : Mark player ID
+2017-03-15 18:08:37.754 : Mark player ID
+2017-03-15 18:08:37.754 : Mark player ID
+2017-03-15 18:08:37.754 : Mark player ID
+2017-03-15 18:08:37.769 : Load registered name to memory, 8 (AnalyzeGameDB)
+2017-03-15 18:08:37.769 : TX => FF 28 3C 59 29 00 00 4D 61 6B 73 79 6D 20 57 61 B3 61 73 7A 65 77 73 6B 69 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0B 4E
+2017-03-15 18:09:00.741 : RX <= FF 28 3C 19 28 FF FF FF F1 2D 45 FF FF FF FF 4E 28 FF FF FF FF FF FF FF FF FF FF FF FF 15 6B
+2017-03-15 18:09:00.757 : Do message, 21, msg:2017-03-15 18:09:00.725, now:2017-03-15 18:09:00.757, time delay: 32 (doQueue)
+2017-03-15 18:09:00.757 : message from A1(10300, v5)
+2017-03-15 18:09:00.772 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:09:00.772 : Player ID registered at A 1N (getPlayerIDSeat)
+2017-03-15 18:09:00.772 : Mark player ID
+2017-03-15 18:09:00.772 : Mark player ID
+2017-03-15 18:09:00.772 : Mark player ID
+2017-03-15 18:09:00.772 : Mark player ID
+2017-03-15 18:09:00.788 : Load registered name to memory, 8 (AnalyzeGameDB)
+2017-03-15 18:09:00.788 : TX => FF 28 3C 59 29 00 00 4D 61 6B 73 79 6D 20 57 61 B3 61 73 7A 65 77 73 6B 69 00 00 00 00 5A 62 69 67 6E 69 65 77 20 53 61 6E 74 6B 69 65 77 69 63 7A 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 12 3B
+2017-03-15 18:09:07.945 : RX <= FF 28 3C 19 28 FF FF FF F1 2D 45 FF FF FF FF 4E 28 FF FF FF FF 0D 05 FF FF FF FF FF FF 13 7F
+2017-03-15 18:09:07.960 : Do message, 22, msg:2017-03-15 18:09:07.929, now:2017-03-15 18:09:07.960, time delay: 31 (doQueue)
+2017-03-15 18:09:07.960 : message from A1(10300, v5)
+2017-03-15 18:09:07.976 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:09:07.976 : Player ID registered at A 1N (getPlayerIDSeat)
+2017-03-15 18:09:07.976 : Player ID registered at A 1E (getPlayerIDSeat)
+2017-03-15 18:09:07.992 : Mark player ID
+2017-03-15 18:09:07.992 : Mark player ID
+2017-03-15 18:09:07.992 : Mark player ID
+2017-03-15 18:09:08.007 : Mark player ID
+2017-03-15 18:09:08.007 : Load registered name to memory, 8 (AnalyzeGameDB)
+2017-03-15 18:09:08.007 : TX => FF 28 3C 59 29 00 00 4D 61 6B 73 79 6D 20 57 61 B3 61 73 7A 65 77 73 6B 69 00 00 00 00 5A 62 69 67 6E 69 65 77 20 53 61 6E 74 6B 69 65 77 69 63 7A 00 00 47 72 7A 65 67 6F 72 7A 20 47 61 72 64 79 6E 69 6B 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 17 F0
+2017-03-15 18:09:08.601 : Check game data
+2017-03-15 18:09:28.838 : RX <= FF 28 3C 19 28 FF FF FF F1 2D 45 FF FF FF FF 4E 28 FF FF FF FF 0D 05 FF FF FF F1 4C 5C 12 1B
+2017-03-15 18:09:28.838 : Do message, 23, msg:2017-03-15 18:09:28.822, now:2017-03-15 18:09:28.838, time delay: 16 (doQueue)
+2017-03-15 18:09:28.838 : message from A1(10300, v5)
+2017-03-15 18:09:28.853 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:09:28.853 : Player ID registered at A 1N (getPlayerIDSeat)
+2017-03-15 18:09:28.853 : Player ID registered at A 1E (getPlayerIDSeat)
+2017-03-15 18:09:28.853 : Player ID registered at A 1S (getPlayerIDSeat)
+2017-03-15 18:09:28.853 : Mark player ID
+2017-03-15 18:09:28.853 : Mark player ID
+2017-03-15 18:09:28.869 : Mark player ID
+2017-03-15 18:09:28.869 : Mark player ID
+2017-03-15 18:09:28.869 : Load registered name to memory, 8 (AnalyzeGameDB)
+2017-03-15 18:09:28.869 : TX => FF 28 3C 59 29 00 00 4D 61 6B 73 79 6D 20 57 61 B3 61 73 7A 65 77 73 6B 69 00 00 00 00 5A 62 69 67 6E 69 65 77 20 53 61 6E 74 6B 69 65 77 69 63 7A 00 00 47 72 7A 65 67 6F 72 7A 20 47 61 72 64 79 6E 69 6B 00 00 00 00 00 41 6E 6E 61 20 4E 6F BF 79 F1 73 6B 61 00 00 00 00 00 00 00 1C B5
+2017-03-15 18:10:08.608 : Check game data
+2017-03-15 18:11:08.630 : Check game data
+2017-03-15 18:11:27.147 : RX <= FF 28 3A 19 28 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF F1 3C 35 16 F0
+2017-03-15 18:11:27.163 : Do message, 24, msg:2017-03-15 18:11:27.132, now:2017-03-15 18:11:27.163, time delay: 31 (doQueue)
+2017-03-15 18:11:27.163 : message from A3(10298, v5)
+2017-03-15 18:11:27.179 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:11:27.179 : Mark player ID
+2017-03-15 18:11:27.179 : Mark player ID
+2017-03-15 18:11:27.179 : Mark player ID
+2017-03-15 18:11:27.194 : Mark player ID
+2017-03-15 18:11:27.194 : Load registered name to memory, 12 (AnalyzeGameDB)
+2017-03-15 18:11:27.194 : TX => FF 28 3A 59 29 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 46 69 6C 69 70 20 43 7A 61 70 6C 69 63 6B 69 00 00 00 00 00 09 8C
+2017-03-15 18:11:35.758 : RX <= FF 28 3A 19 28 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF F1 4A 33 16 FC
+2017-03-15 18:11:35.773 : Do message, 25, msg:2017-03-15 18:11:35.742, now:2017-03-15 18:11:35.773, time delay: 31 (doQueue)
+2017-03-15 18:11:35.773 : message from A3(10298, v5)
+2017-03-15 18:11:35.773 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:11:35.773 : Mark player ID
+2017-03-15 18:11:35.773 : Mark player ID
+2017-03-15 18:11:35.773 : Mark player ID
+2017-03-15 18:11:35.773 : Mark player ID
+2017-03-15 18:11:35.789 : Load registered name to memory, 12 (AnalyzeGameDB)
+2017-03-15 18:11:35.789 : TX => FF 28 3A 59 29 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 57 6F 6A 63 69 65 20 47 72 7A 65 67 6F 72 7A 65 77 73 6B 69 0B DC
+2017-03-15 18:11:40.993 : RX <= FF 28 3A 19 28 FF FF FF FF FF FF FF FF FF F1 3C 35 FF FF FF FF FF FF FF FF FF F1 4A 33 15 61
+2017-03-15 18:11:40.993 : Do message, 26, msg:2017-03-15 18:11:40.977, now:2017-03-15 18:11:40.993, time delay: 16 (doQueue)
+2017-03-15 18:11:40.993 : message from A3(10298, v5)
+2017-03-15 18:11:41.008 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:11:41.024 : Player ID registered at A 3W (getPlayerIDSeat)
+2017-03-15 18:11:41.024 : Mark player ID
+2017-03-15 18:11:41.024 : Mark player ID
+2017-03-15 18:11:41.024 : Mark player ID
+2017-03-15 18:11:41.024 : Mark player ID
+2017-03-15 18:11:41.024 : Load registered name to memory, 12 (AnalyzeGameDB)
+2017-03-15 18:11:41.039 : TX => FF 28 3A 59 29 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 46 69 6C 69 70 20 43 7A 61 70 6C 69 63 6B 69 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 57 6F 6A 63 69 65 20 47 72 7A 65 67 6F 72 7A 65 77 73 6B 69 10 8C
+2017-03-15 18:11:47.118 : RX <= FF 28 3A 19 28 FF FF FF F1 49 3E FF FF FF F1 3C 35 FF FF FF FF FF FF FF FF FF F1 4A 33 13 DC
+2017-03-15 18:11:47.118 : Do message, 27, msg:2017-03-15 18:11:47.087, now:2017-03-15 18:11:47.118, time delay: 31 (doQueue)
+2017-03-15 18:11:47.118 : message from A3(10298, v5)
+2017-03-15 18:11:47.118 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:11:47.118 : Player ID registered at A 3E (getPlayerIDSeat)
+2017-03-15 18:11:47.118 : Player ID registered at A 3W (getPlayerIDSeat)
+2017-03-15 18:11:47.118 : Mark player ID
+2017-03-15 18:11:47.134 : Mark player ID
+2017-03-15 18:11:47.134 : Mark player ID
+2017-03-15 18:11:47.134 : Mark player ID
+2017-03-15 18:11:47.134 : Load registered name to memory, 12 (AnalyzeGameDB)
+2017-03-15 18:11:47.149 : TX => FF 28 3A 59 29 00 00 4A 61 72 65 6B 20 4D 61 72 6B 6F 77 73 6B 69 00 00 00 00 00 00 00 46 69 6C 69 70 20 43 7A 61 70 6C 69 63 6B 69 00 00 00 00 00 00 00 6E 2F 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 57 6F 6A 63 69 65 20 47 72 7A 65 67 6F 72 7A 65 77 73 6B 69 15 53
+2017-03-15 18:12:03.026 : RX <= FF 28 3A 19 28 FF FF FF F1 49 3E FF FF FF F1 3C 35 FF FF FF FF 4E 11 FF FF FF F1 4A 33 12 3D
+2017-03-15 18:12:03.042 : Do message, 28, msg:2017-03-15 18:12:03.011, now:2017-03-15 18:12:03.042, time delay: 31 (doQueue)
+2017-03-15 18:12:03.042 : message from A3(10298, v5)
+2017-03-15 18:12:03.057 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:12:03.057 : Player ID registered at A 3N (getPlayerIDSeat)
+2017-03-15 18:12:03.073 : Player ID registered at A 3E (getPlayerIDSeat)
+2017-03-15 18:12:03.073 : Player ID registered at A 3W (getPlayerIDSeat)
+2017-03-15 18:12:03.073 : Mark player ID
+2017-03-15 18:12:03.073 : Mark player ID
+2017-03-15 18:12:03.073 : Mark player ID
+2017-03-15 18:12:03.073 : Mark player ID
+2017-03-15 18:12:03.089 : Load registered name to memory, 12 (AnalyzeGameDB)
+2017-03-15 18:12:03.089 : TX => FF 28 3A 59 29 00 00 4A 61 72 65 6B 20 4D 61 72 6B 6F 77 73 6B 69 00 00 00 00 00 00 00 46 69 6C 69 70 20 43 7A 61 70 6C 69 63 6B 69 00 00 00 00 00 00 00 45 77 61 20 A3 75 6B 6F 77 73 6B 61 00 00 00 00 00 00 00 00 00 00 57 6F 6A 63 69 65 20 47 72 7A 65 67 6F 72 7A 65 77 73 6B 69 19 3A
+2017-03-15 18:12:08.667 : Check game data
+2017-03-15 18:12:14.481 : RX <= FF 28 3C 0A 52 01 00 00 09 11 02 00 00 00 00 DD
+2017-03-15 18:12:14.481 : Do message, 29, msg:2017-03-15 18:12:14.074, now:2017-03-15 18:12:14.481, time delay: 407 (doQueue)
+2017-03-15 18:12:14.496 : message from A1(10300, v5)
+2017-03-15 18:12:14.512 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:12:14.543 : Bid sequence:PASS,1D,1H,2C,PASS,PASS,PASS (doMsg)
+2017-03-15 18:12:14.543 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 18:13:08.908 : Check game data
+2017-03-15 18:13:27.426 : RX <= FF 28 3A 0A 52 01 00 00 09 11 21 00 00 00 00 FA
+2017-03-15 18:13:27.426 : Do message, 30, msg:2017-03-15 18:13:27.207, now:2017-03-15 18:13:27.426, time delay: 219 (doQueue)
+2017-03-15 18:13:27.426 : message from A3(10298, v5)
+2017-03-15 18:13:27.426 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:13:27.442 : Bid sequence:PASS,1D,1H,1NT,PASS,PASS,PASS (doMsg)
+2017-03-15 18:13:27.442 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 18:14:08.915 : Check game data
+2017-03-15 18:14:48.404 : RX <= FF 28 3B 12 52 02 01 00 19 00 02 40 1A 13 1C 0D 00 00 1D 00 00 00 01 98
+2017-03-15 18:14:48.404 : Do message, 31, msg:2017-03-15 18:14:48.341, now:2017-03-15 18:14:48.404, time delay: 63 (doQueue)
+2017-03-15 18:14:48.419 : message from A2(10299, v5)
+2017-03-15 18:14:48.435 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:14:48.466 : Bid sequence:PASS,1S,PASS,2C,X,2S,3H,4S,5D,PASS,PASS,5S,PASS,PASS,PASS (doMsg)
+2017-03-15 18:14:48.466 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 18:15:08.937 : Check game data
+2017-03-15 18:15:21.751 : RX <= FF 28 3A 07 34 01 21 27 0A 05 06 00 FB
+2017-03-15 18:15:21.767 : Do message, 32, msg:2017-03-15 18:15:21.720, now:2017-03-15 18:15:21.767, time delay: 47 (doQueue)
+2017-03-15 18:15:21.767 : message from A3(10298, v5)
+2017-03-15 18:15:21.767 : Check board for A on table with TBS, round 1 to 5: 1/60 (DB_check_BoardResult)
+2017-03-15 18:15:21.767 : Save result(TBS):A3,1,1,5,6,0,0,1 NT,W,+2,H2,
+2017-03-15 18:15:21.767 : Get board deal: 1 (Get_AllDeal)
+2017-03-15 18:15:21.767 : Get traveler feedback data
+2017-03-15 18:15:21.782 : TX => FF 28 3A 04 33 21 2B 1A 00 FF
+2017-03-15 18:15:35.971 : RX <= FF 28 3A 02 58 01 00 BD
+2017-03-15 18:15:35.971 : Do message, 33, msg:2017-03-15 18:15:34.846, now:2017-03-15 18:15:35.971, time delay: 1125 (doQueue)
+2017-03-15 18:15:35.971 : message from A3(10298, v5)
+2017-03-15 18:15:35.987 : Check board for A on table with TBS, round 1 to 5: 2/60 (DB_check_BoardResult)
+2017-03-15 18:15:35.987 : Get dealt card
+2017-03-15 18:15:35.987 : Get board deal: 1 (Get_AllDeal)
+2017-03-15 18:15:35.987 : TX => FF 28 3A 1B 59 01 AE C1 C4 17 A9 CA 34 34 A7 96 FD D1 23 81 90 44 66 49 87 69 44 67 49 87 69 0D 02
+2017-03-15 18:16:09.991 : Check game data
+2017-03-15 18:16:36.791 : RX <= FF 28 3C 07 34 01 02 27 0E 01 02 00 DA
+2017-03-15 18:16:36.791 : Do message, 34, msg:2017-03-15 18:16:36.087, now:2017-03-15 18:16:36.791, time delay: 704 (doQueue)
+2017-03-15 18:16:36.806 : message from A1(10300, v5)
+2017-03-15 18:16:36.806 : Check board for A on table with TBS, round 1 to 5: 2/60 (DB_check_BoardResult)
+2017-03-15 18:16:36.822 : Save result(TBS):A1,1,1,1,2,0,0,2 C,W,+1,H3,
+2017-03-15 18:16:36.822 : Get board deal: 1 (Get_AllDeal)
+2017-03-15 18:16:36.822 : Get traveler feedback data
+2017-03-15 18:16:36.837 : TX => FF 28 3C 07 33 21 27 0A 21 2B 1A 01 56
+2017-03-15 18:17:10.200 : Check game data
+2017-03-15 18:18:10.238 : Check game data
+2017-03-15 18:18:54.774 : RX <= FF 28 3A 12 52 02 01 00 19 00 02 00 1A 00 03 00 1B 00 1C 00 00 00 01 38
+2017-03-15 18:18:54.774 : Do message, 35, msg:2017-03-15 18:18:54.587, now:2017-03-15 18:18:54.774, time delay: 187 (doQueue)
+2017-03-15 18:18:54.774 : message from A3(10298, v5)
+2017-03-15 18:18:54.790 : Check board for A on table with TBS, round 1 to 5: 3/60 (DB_check_BoardResult)
+2017-03-15 18:18:54.837 : Bid sequence:PASS,1S,PASS,2C,PASS,2S,PASS,3C,PASS,3S,PASS,4S,PASS,PASS,PASS (doMsg)
+2017-03-15 18:18:54.837 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 18:19:10.245 : Check game data
+2017-03-15 18:19:29.012 : RX <= FF 28 3C 02 58 01 00 BF
+2017-03-15 18:19:29.012 : Do message, 36, msg:2017-03-15 18:19:28.887, now:2017-03-15 18:19:29.012, time delay: 125 (doQueue)
+2017-03-15 18:19:29.028 : message from A1(10300, v5)
+2017-03-15 18:19:29.028 : Check board for A on table with TBS, round 1 to 5: 3/60 (DB_check_BoardResult)
+2017-03-15 18:19:29.043 : Get dealt card
+2017-03-15 18:19:29.043 : Get board deal: 1 (Get_AllDeal)
+2017-03-15 18:19:29.043 : TX => FF 28 3C 1B 59 01 AE C1 C4 17 A9 CA 34 34 A7 96 FD D1 23 81 90 44 66 49 87 69 44 67 49 87 69 0D 04
+2017-03-15 18:19:42.420 : RX <= FF 28 3B 07 34 02 1D 2A 19 03 04 01 07
+2017-03-15 18:19:42.420 : Do message, 37, msg:2017-03-15 18:19:42.404, now:2017-03-15 18:19:42.420, time delay: 16 (doQueue)
+2017-03-15 18:19:42.420 : message from A2(10299, v5)
+2017-03-15 18:19:42.420 : Check board for A on table with TBS, round 1 to 5: 3/60 (DB_check_BoardResult)
+2017-03-15 18:19:42.420 : Save result(TBS):A2,2,1,3,4,0,0,5 S,S,-1,D6,
+2017-03-15 18:19:42.420 : Get board deal: 2 (Get_AllDeal)
+2017-03-15 18:19:42.420 : Get traveler feedback data
+2017-03-15 18:19:42.420 : TX => FF 28 3B 01 33 00 97
+2017-03-15 18:19:44.639 : RX <= FF 28 3B 02 58 02 00 BF
+2017-03-15 18:19:44.639 : Do message, 38, msg:2017-03-15 18:19:44.623, now:2017-03-15 18:19:44.639, time delay: 16 (doQueue)
+2017-03-15 18:19:44.639 : message from A2(10299, v5)
+2017-03-15 18:19:44.639 : Check board for A on table with TBS, round 1 to 5: 4/60 (DB_check_BoardResult)
+2017-03-15 18:19:44.639 : Get dealt card
+2017-03-15 18:19:44.639 : Get board deal: 2 (Get_AllDeal)
+2017-03-15 18:19:44.639 : TX => FF 28 3B 1B 59 02 86 E8 A3 D8 D2 77 71 D5 6F 20 BF 12 48 01 F4 A5 5A 92 78 22 A5 5A 92 78 22 0D 44
+2017-03-15 18:20:10.251 : Check game data
+2017-03-15 18:21:06.257 : RX <= FF 28 3C 0E 52 02 01 09 19 00 02 00 0A 00 1C 00 00 00 01 11
+2017-03-15 18:21:06.273 : Do message, 39, msg:2017-03-15 18:21:06.226, now:2017-03-15 18:21:06.273, time delay: 47 (doQueue)
+2017-03-15 18:21:06.273 : message from A1(10300, v5)
+2017-03-15 18:21:06.273 : Check board for A on table with TBS, round 1 to 5: 4/60 (DB_check_BoardResult)
+2017-03-15 18:21:06.320 : Bid sequence:1D,1S,PASS,2C,PASS,2D,PASS,4S,PASS,PASS,PASS (doMsg)
+2017-03-15 18:21:06.320 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 18:21:10.320 : Check game data
+2017-03-15 18:21:51.965 : RX <= FF 28 3A 07 34 02 1C 2E 1A 05 06 01 0E
+2017-03-15 18:21:51.965 : Do message, 40, msg:2017-03-15 18:21:51.950, now:2017-03-15 18:21:51.965, time delay: 15 (doQueue)
+2017-03-15 18:21:52.028 : message from A3(10298, v5)
+2017-03-15 18:21:52.043 : Check board for A on table with TBS, round 1 to 5: 4/60 (DB_check_BoardResult)
+2017-03-15 18:21:52.090 : Save result(TBS):A3,2,1,5,6,0,0,4 S,S,+1,H6,
+2017-03-15 18:21:52.090 : Get board deal: 2 (Get_AllDeal)
+2017-03-15 18:21:52.090 : Get traveler feedback data
+2017-03-15 18:21:52.106 : TX => FF 28 3A 04 33 1D 2A 19 00 F9
+2017-03-15 18:21:58.294 : RX <= FF 28 3A 02 58 02 00 BE
+2017-03-15 18:21:58.310 : Do message, 41, msg:2017-03-15 18:21:58.278, now:2017-03-15 18:21:58.310, time delay: 32 (doQueue)
+2017-03-15 18:21:58.310 : message from A3(10298, v5)
+2017-03-15 18:21:58.310 : Check board for A on table with TBS, round 1 to 5: 5/60 (DB_check_BoardResult)
+2017-03-15 18:21:58.310 : Get dealt card
+2017-03-15 18:21:58.310 : Get board deal: 2 (Get_AllDeal)
+2017-03-15 18:21:58.310 : TX => FF 28 3A 1B 59 02 86 E8 A3 D8 D2 77 71 D5 6F 20 BF 12 48 01 F4 A5 5A 92 78 22 A5 5A 92 78 22 0D 43
+2017-03-15 18:22:10.389 : Check game data
+2017-03-15 18:23:10.411 : Check game data
+2017-03-15 18:23:24.616 : RX <= FF 28 3B 0D 52 03 02 09 00 11 19 21 00 23 00 00 00 01 3E
+2017-03-15 18:23:24.632 : Do message, 42, msg:2017-03-15 18:23:24.601, now:2017-03-15 18:23:24.632, time delay: 31 (doQueue)
+2017-03-15 18:23:24.632 : message from A2(10299, v5)
+2017-03-15 18:23:24.647 : Check board for A on table with TBS, round 1 to 5: 5/60 (DB_check_BoardResult)
+2017-03-15 18:23:24.678 : Bid sequence:1D,PASS,1H,1S,1NT,PASS,3NT,PASS,PASS,PASS (doMsg)
+2017-03-15 18:23:24.678 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 18:24:10.418 : Check game data
+2017-03-15 18:24:42.937 : RX <= FF 28 3C 07 34 02 1C 2E 19 01 02 01 07
+2017-03-15 18:24:42.937 : Do message, 43, msg:2017-03-15 18:24:42.921, now:2017-03-15 18:24:42.937, time delay: 16 (doQueue)
+2017-03-15 18:24:42.937 : message from A1(10300, v5)
+2017-03-15 18:24:42.937 : Check board for A on table with TBS, round 1 to 5: 5/60 (DB_check_BoardResult)
+2017-03-15 18:24:42.937 : Save result(TBS):A1,2,1,1,2,0,0,4 S,S,+1,D6,
+2017-03-15 18:24:42.937 : Get board deal: 2 (Get_AllDeal)
+2017-03-15 18:24:42.937 : Get traveler feedback data
+2017-03-15 18:24:42.953 : TX => FF 28 3C 07 33 1C 2E 1A 1D 2A 19 01 62
+2017-03-15 18:24:51.329 : RX <= FF 28 3C 02 58 02 00 C0
+2017-03-15 18:24:51.329 : Do message, 44, msg:2017-03-15 18:24:51.313, now:2017-03-15 18:24:51.329, time delay: 16 (doQueue)
+2017-03-15 18:24:51.329 : message from A1(10300, v5)
+2017-03-15 18:24:51.329 : Check board for A on table with TBS, round 1 to 5: 6/60 (DB_check_BoardResult)
+2017-03-15 18:24:51.329 : Get dealt card
+2017-03-15 18:24:51.329 : Get board deal: 2 (Get_AllDeal)
+2017-03-15 18:24:51.329 : TX => FF 28 3C 1B 59 02 86 E8 A3 D8 D2 77 71 D5 6F 20 BF 12 48 01 F4 A5 5A 92 78 22 A5 5A 92 78 22 0D 45
+2017-03-15 18:25:10.409 : Check game data
+2017-03-15 18:26:10.415 : Check game data
+2017-03-15 18:26:15.931 : RX <= FF 28 3A 0F 52 03 02 00 00 01 19 21 02 00 12 0B 00 00 00 01 22
+2017-03-15 18:26:15.931 : Do message, 45, msg:2017-03-15 18:26:15.916, now:2017-03-15 18:26:15.931, time delay: 15 (doQueue)
+2017-03-15 18:26:15.931 : message from A3(10298, v5)
+2017-03-15 18:26:15.931 : Check board for A on table with TBS, round 1 to 5: 6/60 (DB_check_BoardResult)
+2017-03-15 18:26:15.963 : Bid sequence:PASS,PASS,1C,1S,1NT,2C,PASS,2H,3D,PASS,PASS,PASS (doMsg)
+2017-03-15 18:26:15.963 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 18:27:10.422 : Check game data
+2017-03-15 18:27:59.740 : RX <= FF 28 3C 0A 52 03 02 00 00 01 19 00 00 00 00 DF
+2017-03-15 18:27:59.756 : Do message, 46, msg:2017-03-15 18:27:59.724, now:2017-03-15 18:27:59.756, time delay: 32 (doQueue)
+2017-03-15 18:27:59.756 : message from A1(10300, v5)
+2017-03-15 18:27:59.756 : Check board for A on table with TBS, round 1 to 5: 6/60 (DB_check_BoardResult)
+2017-03-15 18:27:59.771 : Bid sequence:PASS,PASS,1C,1S,PASS,PASS,PASS (doMsg)
+2017-03-15 18:27:59.771 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 18:28:10.444 : Check game data
+2017-03-15 18:29:05.201 : RX <= FF 28 3A 07 34 03 0B 1E 2F 05 06 01 03
+2017-03-15 18:29:05.201 : Do message, 47, msg:2017-03-15 18:29:05.185, now:2017-03-15 18:29:05.201, time delay: 16 (doQueue)
+2017-03-15 18:29:05.201 : message from A3(10298, v5)
+2017-03-15 18:29:05.216 : Check board for A on table with TBS, round 1 to 5: 6/60 (DB_check_BoardResult)
+2017-03-15 18:29:05.232 : Save result(TBS):A3,3,1,5,6,0,0,3 D,S,-2,SJ,
+2017-03-15 18:29:05.232 : Get board deal: 3 (Get_AllDeal)
+2017-03-15 18:29:05.232 : Get traveler feedback data
+2017-03-15 18:29:05.232 : TX => FF 28 3A 01 33 00 96
+2017-03-15 18:29:10.435 : Check game data
+2017-03-15 18:29:11.639 : RX <= FF 28 3B 07 34 03 23 26 14 03 04 01 05
+2017-03-15 18:29:11.654 : Do message, 48, msg:2017-03-15 18:29:11.623, now:2017-03-15 18:29:11.654, time delay: 31 (doQueue)
+2017-03-15 18:29:11.654 : message from A2(10299, v5)
+2017-03-15 18:29:11.654 : Check board for A on table with TBS, round 1 to 5: 7/60 (DB_check_BoardResult)
+2017-03-15 18:29:11.654 : Save result(TBS):A2,3,1,3,4,0,0,3 NT,S,=,C5,
+2017-03-15 18:29:11.654 : Get board deal: 3 (Get_AllDeal)
+2017-03-15 18:29:11.654 : Get traveler feedback data
+2017-03-15 18:29:11.670 : TX => FF 28 3B 04 33 0B 1E 2F 00 F2
+2017-03-15 18:30:10.442 : Check game data
+2017-03-15 18:30:42.696 : RX <= FF 28 3A 02 58 03 00 BF
+2017-03-15 18:30:42.711 : Do message, 49, msg:2017-03-15 18:30:42.680, now:2017-03-15 18:30:42.711, time delay: 31 (doQueue)
+2017-03-15 18:30:42.711 : message from A3(10298, v5)
+2017-03-15 18:30:42.727 : Check board for A on table with TBS, round 1 to 5: 8/60 (DB_check_BoardResult)
+2017-03-15 18:30:42.727 : Get dealt card
+2017-03-15 18:30:42.727 : Get board deal: 3 (Get_AllDeal)
+2017-03-15 18:30:42.727 : TX => FF 28 3A 1B 59 03 4B 91 89 45 32 CF 59 3A 92 37 8A F4 CF 01 90 57 58 98 48 54 57 57 88 48 54 0B 73
+2017-03-15 18:31:10.464 : Check game data
+2017-03-15 18:32:10.471 : Check game data
+2017-03-15 18:33:10.493 : Check game data
+2017-03-15 18:33:38.871 : RX <= FF 28 3B 0D 52 04 03 11 00 12 00 13 00 14 00 00 00 01 13
+2017-03-15 18:33:38.871 : Do message, 50, msg:2017-03-15 18:33:38.840, now:2017-03-15 18:33:38.871, time delay: 31 (doQueue)
+2017-03-15 18:33:38.871 : message from A2(10299, v5)
+2017-03-15 18:33:38.871 : Check board for A on table with TBS, round 1 to 5: 8/60 (DB_check_BoardResult)
+2017-03-15 18:33:38.887 : Bid sequence:1H,PASS,2H,PASS,3H,PASS,4H,PASS,PASS,PASS (doMsg)
+2017-03-15 18:33:38.887 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 18:34:10.499 : Check game data
+2017-03-15 18:34:14.234 : RX <= FF 28 3C 07 34 03 19 19 34 01 02 01 0B
+2017-03-15 18:34:14.234 : Do message, 51, msg:2017-03-15 18:34:14.219, now:2017-03-15 18:34:14.234, time delay: 15 (doQueue)
+2017-03-15 18:34:14.234 : message from A1(10300, v5)
+2017-03-15 18:34:14.250 : Check board for A on table with TBS, round 1 to 5: 8/60 (DB_check_BoardResult)
+2017-03-15 18:34:14.250 : Save result(TBS):A1,3,1,1,2,0,0,1 S,E,-1,CK,
+2017-03-15 18:34:14.266 : Get board deal: 3 (Get_AllDeal)
+2017-03-15 18:34:14.266 : Get traveler feedback data
+2017-03-15 18:34:14.266 : TX => FF 28 3C 07 33 23 26 14 0B 1E 2F 01 53
+2017-03-15 18:35:10.506 : Check game data
+2017-03-15 18:35:52.605 : RX <= FF 28 3C 02 58 03 00 C1
+2017-03-15 18:35:52.605 : Do message, 52, msg:2017-03-15 18:35:52.589, now:2017-03-15 18:35:52.605, time delay: 16 (doQueue)
+2017-03-15 18:35:52.605 : message from A1(10300, v5)
+2017-03-15 18:35:52.620 : Check board for A on table with TBS, round 1 to 5: 9/60 (DB_check_BoardResult)
+2017-03-15 18:35:52.620 : Get dealt card
+2017-03-15 18:35:52.620 : Get board deal: 3 (Get_AllDeal)
+2017-03-15 18:35:52.620 : TX => FF 28 3C 1B 59 03 4B 91 89 45 32 CF 59 3A 92 37 8A F4 CF 01 90 57 58 98 48 54 57 57 88 48 54 0B 75
+2017-03-15 18:36:00.558 : RX <= FF 28 3A 0B 52 04 03 11 00 12 00 13 00 00 00 00 FC
+2017-03-15 18:36:00.574 : Do message, 53, msg:2017-03-15 18:36:00.543, now:2017-03-15 18:36:00.574, time delay: 31 (doQueue)
+2017-03-15 18:36:00.574 : message from A3(10298, v5)
+2017-03-15 18:36:00.574 : Check board for A on table with TBS, round 1 to 5: 9/60 (DB_check_BoardResult)
+2017-03-15 18:36:00.605 : Bid sequence:1H,PASS,2H,PASS,3H,PASS,PASS,PASS (doMsg)
+2017-03-15 18:36:00.605 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 18:36:10.513 : Check game data
+2017-03-15 18:36:25.061 : RX <= FF 28 3A 07 34 04 13 2B 1A 05 06 01 04
+2017-03-15 18:36:25.077 : Do message, 54, msg:2017-03-15 18:36:25.030, now:2017-03-15 18:36:25.077, time delay: 47 (doQueue)
+2017-03-15 18:36:25.077 : message from A3(10298, v5)
+2017-03-15 18:36:25.092 : Check board for A on table with TBS, round 1 to 5: 9/60 (DB_check_BoardResult)
+2017-03-15 18:36:25.092 : Save result(TBS):A3,4,1,5,6,0,0,3 H,W,+1,H6,
+2017-03-15 18:36:25.108 : Get board deal: 4 (Get_AllDeal)
+2017-03-15 18:36:25.108 : Get traveler feedback data
+2017-03-15 18:36:25.108 : TX => FF 28 3A 01 33 00 96
+2017-03-15 18:36:27.811 : RX <= FF 28 3A 02 58 04 00 C0
+2017-03-15 18:36:27.811 : Do message, 55, msg:2017-03-15 18:36:27.796, now:2017-03-15 18:36:27.811, time delay: 15 (doQueue)
+2017-03-15 18:36:27.811 : message from A3(10298, v5)
+2017-03-15 18:36:27.811 : Check board for A on table with TBS, round 1 to 5: 10/60 (DB_check_BoardResult)
+2017-03-15 18:36:27.811 : Get dealt card
+2017-03-15 18:36:27.811 : Get board deal: 4 (Get_AllDeal)
+2017-03-15 18:36:27.811 : TX => FF 28 3A 1B 59 04 E4 4E 42 7D BF 86 7B 2B B0 50 67 16 32 82 6C 57 36 47 6A 79 57 36 47 6A 79 0A C1
+2017-03-15 18:36:32.006 : RX <= FF 28 3A 01 38 00 9B
+2017-03-15 18:36:32.007 : Do message, 56, msg:2017-03-15 18:36:32.001, now:2017-03-15 18:36:32.007, time delay: 6 (doQueue)
+2017-03-15 18:36:32.013 : message from A3(10298, v5)
+2017-03-15 18:36:32.018 : Check board for A on table with TBS, round 1 to 5: 10/60 (DB_check_BoardResult)
+2017-03-15 18:36:32.026 : Get ranking data
+2017-03-15 18:36:32.026 : Calculate pair score
+2017-03-15 18:36:32.046 : TX => FF 28 3A 15 39 11 00 00 01 41 00 04 3E 00 06 35 00 05 2F 00 03 26 00 02 23 02 02
+2017-03-15 18:37:10.514 : Check game data
+2017-03-15 18:38:10.543 : Check game data
+2017-03-15 18:38:46.500 : RX <= FF 28 3C 0F 52 04 03 11 00 19 00 12 00 13 00 14 00 00 00 01 2F
+2017-03-15 18:38:46.500 : Do message, 57, msg:2017-03-15 18:38:46.485, now:2017-03-15 18:38:46.500, time delay: 15 (doQueue)
+2017-03-15 18:38:46.500 : message from A1(10300, v5)
+2017-03-15 18:38:46.500 : Check board for A on table with TBS, round 1 to 5: 10/60 (DB_check_BoardResult)
+2017-03-15 18:38:46.532 : Bid sequence:1H,PASS,1S,PASS,2H,PASS,3H,PASS,4H,PASS,PASS,PASS (doMsg)
+2017-03-15 18:38:46.532 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 18:39:10.550 : Check game data
+2017-03-15 18:40:10.572 : Check game data
+2017-03-15 18:41:10.585 : Check game data
+2017-03-15 18:41:18.493 : RX <= FF 28 3B 07 34 04 14 2B 27 03 04 01 0F
+2017-03-15 18:41:18.508 : Do message, 58, msg:2017-03-15 18:41:18.477, now:2017-03-15 18:41:18.508, time delay: 31 (doQueue)
+2017-03-15 18:41:18.508 : message from A2(10299, v5)
+2017-03-15 18:41:18.508 : Check board for A on table with TBS, round 1 to 5: 10/60 (DB_check_BoardResult)
+2017-03-15 18:41:18.524 : Save result(TBS):A2,4,1,3,4,0,0,4 H,W,=,S9,
+2017-03-15 18:41:18.524 : Get board deal: 4 (Get_AllDeal)
+2017-03-15 18:41:18.524 : Get traveler feedback data
+2017-03-15 18:41:18.524 : TX => FF 28 3B 04 33 13 2B 1A 00 F2
+2017-03-15 18:41:30.947 : RX <= FF 28 3B 02 58 04 00 C1
+2017-03-15 18:41:30.963 : Do message, 59, msg:2017-03-15 18:41:30.932, now:2017-03-15 18:41:30.963, time delay: 31 (doQueue)
+2017-03-15 18:41:30.963 : message from A2(10299, v5)
+2017-03-15 18:41:30.978 : Check board for A on table with TBS, round 1 to 5: 11/60 (DB_check_BoardResult)
+2017-03-15 18:41:30.978 : Get dealt card
+2017-03-15 18:41:30.978 : Get board deal: 4 (Get_AllDeal)
+2017-03-15 18:41:30.978 : TX => FF 28 3B 1B 59 04 E4 4E 42 7D BF 86 7B 2B B0 50 67 16 32 82 6C 57 36 47 6A 79 57 36 47 6A 79 0A C2
+2017-03-15 18:42:10.577 : Check game data
+2017-03-15 18:42:54.285 : RX <= FF 28 3B 01 38 00 9C
+2017-03-15 18:42:54.285 : Do message, 60, msg:2017-03-15 18:42:54.269, now:2017-03-15 18:42:54.285, time delay: 16 (doQueue)
+2017-03-15 18:42:54.285 : message from A2(10299, v5)
+2017-03-15 18:42:54.300 : Check board for A on table with TBS, round 1 to 5: 11/60 (DB_check_BoardResult)
+2017-03-15 18:42:54.316 : Get ranking data
+2017-03-15 18:42:54.316 : Calculate pair score
+2017-03-15 18:42:54.316 : TX => FF 28 3B 15 39 11 00 00 04 44 00 01 41 00 05 38 00 06 2C 00 02 23 00 03 20 02 03
+2017-03-15 18:43:10.583 : Check game data
+2017-03-15 18:44:10.582 : Check game data
+2017-03-15 18:44:55.148 : RX <= FF 28 3C 07 34 04 14 27 1A 01 02 00 FB
+2017-03-15 18:44:55.148 : Do message, 61, msg:2017-03-15 18:44:55.131, now:2017-03-15 18:44:55.148, time delay: 17 (doQueue)
+2017-03-15 18:44:55.161 : message from A1(10300, v5)
+2017-03-15 18:44:55.166 : Check board for A on table with TBS, round 1 to 5: 11/60 (DB_check_BoardResult)
+2017-03-15 18:44:55.172 : Save result(TBS):A1,4,1,1,2,0,0,4 H,W,-1,H6,
+2017-03-15 18:44:55.173 : Get board deal: 4 (Get_AllDeal)
+2017-03-15 18:44:55.174 : Get traveler feedback data
+2017-03-15 18:44:55.180 : TX => FF 28 3C 07 33 13 2B 1A 14 2B 27 01 5C
+2017-03-15 18:45:10.592 : Check game data
+2017-03-15 18:45:21.630 : RX <= FF 28 3C 02 58 04 00 C2
+2017-03-15 18:45:21.630 : Do message, 62, msg:2017-03-15 18:45:21.621, now:2017-03-15 18:45:21.630, time delay: 9 (doQueue)
+2017-03-15 18:45:21.640 : message from A1(10300, v5)
+2017-03-15 18:45:21.647 : Check board for A on table with TBS, round 1 to 5: 12/60 (DB_check_BoardResult)
+2017-03-15 18:45:21.649 : Get dealt card
+2017-03-15 18:45:21.651 : Get board deal: 4 (Get_AllDeal)
+2017-03-15 18:45:21.653 : TX => FF 28 3C 1B 59 04 E4 4E 42 7D BF 86 7B 2B B0 50 67 16 32 82 6C 57 36 47 6A 79 57 36 47 6A 79 0A C3
+2017-03-15 18:46:10.606 : Check game data
+2017-03-15 18:47:10.612 : Check game data
+2017-03-15 18:48:10.619 : Check game data
+2017-03-15 18:49:10.620 : Check game data
+2017-03-15 18:50:10.611 : Check game data
+2017-03-15 18:51:10.619 : Check game data
+2017-03-15 18:52:10.722 : Check game data
+2017-03-15 18:53:10.728 : Check game data
+2017-03-15 18:54:10.719 : Check game data
+2017-03-15 18:55:10.737 : Check game data
+2017-03-15 18:56:10.740 : Check game data
+2017-03-15 18:57:10.748 : Check game data
+2017-03-15 18:58:10.754 : Check game data
+2017-03-15 18:59:10.766 : Check game data
+2017-03-15 18:59:59.100 : RX <= FF 28 3A 05 3C 03 05 00 00 00 AB
+2017-03-15 18:59:59.115 : Do message, 63, msg:2017-03-15 18:59:59.084, now:2017-03-15 18:59:59.115, time delay: 31 (doQueue)
+2017-03-15 18:59:59.115 : message from A3(10298, v5)
+2017-03-15 18:59:59.131 : Check board for A on table with TBS, round 1 to 5: 12/60 (DB_check_BoardResult)
+2017-03-15 18:59:59.131 : Get seating name: 17214,N,Karol Konopko
+2017-03-15 18:59:59.131 : Get seating name: 17362,N,Jarek Markowski
+2017-03-15 18:59:59.131 : Get seating name: 14971,S,Bartosz Æwiek
+2017-03-15 18:59:59.131 : Get seating name: 7817,S,Ewa £ukowska
+2017-03-15 18:59:59.131 : TX => FF 28 3A 52 3D 50 4B 61 72 6F 6C 20 4B 6F 6E 6F 70 6B 6F 00 00 00 00 00 00 00 4A 61 72 65 6B 20 4D 61 72 6B 6F 77 73 6B 69 00 00 00 00 00 42 61 72 74 6F 73 7A 20 C6 77 69 65 6B 00 00 00 00 00 00 00 45 77 61 20 A3 75 6B 6F 77 73 6B 61 00 00 00 00 00 00 00 00 16 60
+2017-03-15 19:00:10.788 : Check game data
+2017-03-15 19:01:10.810 : Check game data
+2017-03-15 19:02:10.817 : Check game data
+2017-03-15 19:03:10.839 : Check game data
+2017-03-15 19:04:10.856 : Check game data
+2017-03-15 19:05:01.112 : RX <= FF 28 3C 05 3C 01 04 00 00 00 AA
+2017-03-15 19:05:01.128 : Do message, 64, msg:2017-03-15 19:05:01.097, now:2017-03-15 19:05:01.128, time delay: 31 (doQueue)
+2017-03-15 19:05:01.128 : message from A1(10300, v5)
+2017-03-15 19:05:01.128 : Check board for A on table with TBS, round 1 to 5: 12/60 (DB_check_BoardResult)
+2017-03-15 19:05:01.128 : Get seating name: 14569,N,Maksym Wa³aszewski
+2017-03-15 19:05:01.128 : Get seating name: 18014,E,Krystyn Jêdrzejewska
+2017-03-15 19:05:01.128 : Get seating name: 1305,S,Grzegorz Gardynik
+2017-03-15 19:05:01.128 : Get seating name: 18015,W,Ireneus Jêdrzejewski
+2017-03-15 19:05:01.128 : TX => FF 28 3C 52 3D 50 4D 61 6B 73 79 6D 20 57 61 B3 61 73 7A 65 77 73 6B 69 00 00 4B 72 79 73 74 79 6E 20 4A EA 64 72 7A 65 6A 65 77 73 6B 61 47 72 7A 65 67 6F 72 7A 20 47 61 72 64 79 6E 69 6B 00 00 00 49 72 65 6E 65 75 73 20 4A EA 64 72 7A 65 6A 65 77 73 6B 69 20 67
+2017-03-15 19:05:10.863 : Check game data
+2017-03-15 19:06:10.870 : Check game data
+2017-03-15 19:07:10.892 : Check game data
+2017-03-15 19:08:10.914 : Check game data
+2017-03-15 19:09:10.905 : Check game data
+2017-03-15 19:10:09.818 : RX <= FF 28 3C 09 52 05 00 11 03 23 00 00 00 00 FB
+2017-03-15 19:10:09.833 : Do message, 65, msg:2017-03-15 19:10:09.802, now:2017-03-15 19:10:09.833, time delay: 31 (doQueue)
+2017-03-15 19:10:09.833 : message from A1(10300, v5)
+2017-03-15 19:10:09.833 : Check board for A on table with TBS, round 1 to 5: 12/60 (DB_check_BoardResult)
+2017-03-15 19:10:09.849 : Bid sequence:1H,3C,3NT,PASS,PASS,PASS (doMsg)
+2017-03-15 19:10:09.849 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 19:10:10.927 : Check game data
+2017-03-15 19:11:10.934 : Check game data
+2017-03-15 19:12:10.940 : Check game data
+2017-03-15 19:13:10.962 : Check game data
+2017-03-15 19:13:50.326 : RX <= FF 28 3C 07 34 05 23 2A 14 01 04 01 0A
+2017-03-15 19:13:50.326 : Do message, 66, msg:2017-03-15 19:13:50.295, now:2017-03-15 19:13:50.326, time delay: 31 (doQueue)
+2017-03-15 19:13:50.326 : message from A1(10300, v5)
+2017-03-15 19:13:50.326 : Check board for A on table with TBS, round 1 to 5: 12/60 (DB_check_BoardResult)
+2017-03-15 19:13:50.326 : Save result(TBS):A1,5,2,1,4,0,0,3 NT,S,+1,C5,
+2017-03-15 19:13:50.326 : Get board deal: 5 (Get_AllDeal)
+2017-03-15 19:13:50.326 : Get traveler feedback data
+2017-03-15 19:13:50.326 : TX => FF 28 3C 01 33 00 98
+2017-03-15 19:13:53.452 : RX <= FF 28 3C 02 58 05 00 C3
+2017-03-15 19:13:53.467 : Do message, 67, msg:2017-03-15 19:13:53.436, now:2017-03-15 19:13:53.467, time delay: 31 (doQueue)
+2017-03-15 19:13:53.467 : message from A1(10300, v5)
+2017-03-15 19:13:53.483 : Check board for A on table with TBS, round 1 to 5: 13/60 (DB_check_BoardResult)
+2017-03-15 19:13:53.483 : Get dealt card
+2017-03-15 19:13:53.483 : Get board deal: 5 (Get_AllDeal)
+2017-03-15 19:13:53.483 : TX => FF 28 3C 1B 59 05 B0 E5 3B 06 FF 04 32 2A 6F D4 5A 15 E9 02 6C 9A 8A 94 25 23 8A 8A 94 25 23 0B 0B
+2017-03-15 19:14:10.953 : Check game data
+2017-03-15 19:15:10.960 : Check game data
+2017-03-15 19:16:10.966 : Check game data
+2017-03-15 19:17:10.973 : Check game data
+2017-03-15 19:18:10.995 : Check game data
+2017-03-15 19:19:11.002 : Check game data
+2017-03-15 19:20:11.009 : Check game data
+2017-03-15 19:21:11.030 : Check game data
+2017-03-15 19:21:47.034 : RX <= FF 28 3B 0F 52 05 00 11 00 0A 00 1A 00 03 00 23 00 00 00 01 24
+2017-03-15 19:21:47.034 : Do message, 68, msg:2017-03-15 19:21:47.019, now:2017-03-15 19:21:47.034, time delay: 15 (doQueue)
+2017-03-15 19:21:47.034 : message from A2(10299, v5)
+2017-03-15 19:21:47.050 : Check board for A on table with TBS, round 1 to 5: 13/60 (DB_check_BoardResult)
+2017-03-15 19:21:47.081 : Bid sequence:1H,PASS,2D,PASS,2S,PASS,3C,PASS,3NT,PASS,PASS,PASS (doMsg)
+2017-03-15 19:21:47.081 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 19:22:11.084 : Check game data
+2017-03-15 19:22:14.897 : RX <= FF 28 3B 07 34 05 23 28 1C 02 06 01 12
+2017-03-15 19:22:14.912 : Do message, 69, msg:2017-03-15 19:22:14.881, now:2017-03-15 19:22:14.912, time delay: 31 (doQueue)
+2017-03-15 19:22:14.912 : message from A2(10299, v5)
+2017-03-15 19:22:14.912 : Check board for A on table with TBS, round 1 to 5: 13/60 (DB_check_BoardResult)
+2017-03-15 19:22:14.912 : Save result(TBS):A2,5,2,2,6,0,0,3 NT,N,+1,C7,
+2017-03-15 19:22:14.912 : Get board deal: 5 (Get_AllDeal)
+2017-03-15 19:22:14.912 : Get traveler feedback data
+2017-03-15 19:22:14.928 : TX => FF 28 3B 04 33 23 2A 14 00 FB
+2017-03-15 19:22:17.475 : RX <= FF 28 3B 02 58 05 00 C2
+2017-03-15 19:22:17.491 : Do message, 70, msg:2017-03-15 19:22:17.459, now:2017-03-15 19:22:17.491, time delay: 32 (doQueue)
+2017-03-15 19:22:17.491 : message from A2(10299, v5)
+2017-03-15 19:22:17.506 : Check board for A on table with TBS, round 1 to 5: 14/60 (DB_check_BoardResult)
+2017-03-15 19:22:17.506 : Get dealt card
+2017-03-15 19:22:17.506 : Get board deal: 5 (Get_AllDeal)
+2017-03-15 19:22:17.506 : TX => FF 28 3B 1B 59 05 B0 E5 3B 06 FF 04 32 2A 6F D4 5A 15 E9 02 6C 9A 8A 94 25 23 8A 8A 94 25 23 0B 0A
+2017-03-15 19:23:11.090 : Check game data
+2017-03-15 19:24:11.097 : Check game data
+2017-03-15 19:25:11.103 : Check game data
+2017-03-15 19:26:11.094 : Check game data
+2017-03-15 19:27:11.116 : Check game data
+2017-03-15 19:27:46.558 : RX <= FF 28 3A 0F 52 05 00 11 00 21 00 02 40 0B 00 23 00 00 00 01 6A
+2017-03-15 19:27:46.558 : Do message, 71, msg:2017-03-15 19:27:46.542, now:2017-03-15 19:27:46.558, time delay: 16 (doQueue)
+2017-03-15 19:27:46.558 : message from A3(10298, v5)
+2017-03-15 19:27:46.558 : Check board for A on table with TBS, round 1 to 5: 14/60 (DB_check_BoardResult)
+2017-03-15 19:27:46.573 : Bid sequence:1H,PASS,1NT,PASS,2C,X,3D,PASS,3NT,PASS,PASS,PASS (doMsg)
+2017-03-15 19:27:46.573 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 19:27:52.465 : RX <= FF 28 3A 07 34 05 23 2A 2E 03 05 01 25
+2017-03-15 19:27:52.465 : Do message, 72, msg:2017-03-15 19:27:52.449, now:2017-03-15 19:27:52.465, time delay: 16 (doQueue)
+2017-03-15 19:27:52.465 : message from A3(10298, v5)
+2017-03-15 19:27:52.465 : Check board for A on table with TBS, round 1 to 5: 14/60 (DB_check_BoardResult)
+2017-03-15 19:27:52.465 : Save result(TBS):A3,5,2,3,5,0,0,3 NT,S,+1,HJ,
+2017-03-15 19:27:52.465 : Get board deal: 5 (Get_AllDeal)
+2017-03-15 19:27:52.465 : Get traveler feedback data
+2017-03-15 19:27:52.480 : TX => FF 28 3A 07 33 23 28 1C 23 2A 14 01 64
+2017-03-15 19:28:00.028 : RX <= FF 28 3A 02 58 05 00 C1
+2017-03-15 19:28:00.043 : Do message, 73, msg:2017-03-15 19:28:00.012, now:2017-03-15 19:28:00.043, time delay: 31 (doQueue)
+2017-03-15 19:28:00.043 : message from A3(10298, v5)
+2017-03-15 19:28:00.043 : Check board for A on table with TBS, round 1 to 5: 15/60 (DB_check_BoardResult)
+2017-03-15 19:28:00.043 : Get dealt card
+2017-03-15 19:28:00.043 : Get board deal: 5 (Get_AllDeal)
+2017-03-15 19:28:00.043 : TX => FF 28 3A 1B 59 05 B0 E5 3B 06 FF 04 32 2A 6F D4 5A 15 E9 02 6C 9A 8A 94 25 23 8A 8A 94 25 23 0B 09
+2017-03-15 19:28:11.123 : Check game data
+2017-03-15 19:29:11.130 : Check game data
+2017-03-15 19:29:24.224 : RX <= FF 28 3C 14 52 06 01 00 00 00 11 00 19 00 02 00 0A 00 22 00 23 00 00 00 01 4C
+2017-03-15 19:29:24.224 : Do message, 74, msg:2017-03-15 19:29:24.209, now:2017-03-15 19:29:24.224, time delay: 15 (doQueue)
+2017-03-15 19:29:24.224 : message from A1(10300, v5)
+2017-03-15 19:29:24.224 : Check board for A on table with TBS, round 1 to 5: 15/60 (DB_check_BoardResult)
+2017-03-15 19:29:24.256 : Bid sequence:PASS,PASS,PASS,1H,PASS,1S,PASS,2C,PASS,2D,PASS,2NT,PASS,3NT,PASS,PASS,PASS (doMsg)
+2017-03-15 19:29:24.256 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 19:29:32.976 : RX <= FF 28 3C 07 34 06 23 24 0B 01 04 00 FC
+2017-03-15 19:29:32.991 : Do message, 75, msg:2017-03-15 19:29:32.960, now:2017-03-15 19:29:32.991, time delay: 31 (doQueue)
+2017-03-15 19:29:32.991 : message from A1(10300, v5)
+2017-03-15 19:29:33.007 : Check board for A on table with TBS, round 1 to 5: 15/60 (DB_check_BoardResult)
+2017-03-15 19:29:33.007 : Save result(TBS):A1,6,2,1,4,0,0,3 NT,N,=,S2,
+2017-03-15 19:29:33.007 : Get board deal: 6 (Get_AllDeal)
+2017-03-15 19:29:33.007 : Get traveler feedback data
+2017-03-15 19:29:33.022 : TX => FF 28 3C 01 33 00 98
+2017-03-15 19:30:11.152 : Check game data
+2017-03-15 19:30:16.824 : RX <= FF 28 3C 02 58 06 00 C4
+2017-03-15 19:30:16.840 : Do message, 76, msg:2017-03-15 19:30:16.809, now:2017-03-15 19:30:16.840, time delay: 31 (doQueue)
+2017-03-15 19:30:16.840 : message from A1(10300, v5)
+2017-03-15 19:30:16.855 : Check board for A on table with TBS, round 1 to 5: 16/60 (DB_check_BoardResult)
+2017-03-15 19:30:16.855 : Get dealt card
+2017-03-15 19:30:16.855 : Get board deal: 6 (Get_AllDeal)
+2017-03-15 19:30:16.855 : TX => FF 28 3C 1B 59 06 6E E6 7E 41 B8 1F 88 97 0C D4 7F 92 42 01 C2 A9 B8 93 42 53 A9 A8 93 42 53 0C DF
+2017-03-15 19:30:56.016 : RX <= FF 28 3A 0E 52 06 01 00 19 00 12 00 1A 00 23 00 00 00 01 31
+2017-03-15 19:30:56.031 : Do message, 77, msg:2017-03-15 19:30:56.000, now:2017-03-15 19:30:56.031, time delay: 31 (doQueue)
+2017-03-15 19:30:56.031 : message from A3(10298, v5)
+2017-03-15 19:30:56.031 : Check board for A on table with TBS, round 1 to 5: 16/60 (DB_check_BoardResult)
+2017-03-15 19:30:56.047 : Bid sequence:PASS,1S,PASS,2H,PASS,2S,PASS,3NT,PASS,PASS,PASS (doMsg)
+2017-03-15 19:30:56.063 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 19:31:11.158 : Check game data
+2017-03-15 19:31:13.846 : RX <= FF 28 3A 07 34 06 23 1C 0B 03 05 00 F5
+2017-03-15 19:31:13.862 : Do message, 78, msg:2017-03-15 19:31:13.830, now:2017-03-15 19:31:13.862, time delay: 32 (doQueue)
+2017-03-15 19:31:13.862 : message from A3(10298, v5)
+2017-03-15 19:31:13.862 : Check board for A on table with TBS, round 1 to 5: 16/60 (DB_check_BoardResult)
+2017-03-15 19:31:13.877 : Save result(TBS):A3,6,2,3,5,0,0,3 NT,N,-2,S2,
+2017-03-15 19:31:13.877 : Get board deal: 6 (Get_AllDeal)
+2017-03-15 19:31:13.877 : Get traveler feedback data
+2017-03-15 19:31:13.893 : TX => FF 28 3A 04 33 23 24 0B 00 EB
+2017-03-15 19:31:18.862 : RX <= FF 28 3A 02 58 06 00 C2
+2017-03-15 19:31:18.878 : Do message, 79, msg:2017-03-15 19:31:18.847, now:2017-03-15 19:31:18.878, time delay: 31 (doQueue)
+2017-03-15 19:31:18.878 : message from A3(10298, v5)
+2017-03-15 19:31:18.893 : Check board for A on table with TBS, round 1 to 5: 17/60 (DB_check_BoardResult)
+2017-03-15 19:31:18.893 : Get dealt card
+2017-03-15 19:31:18.893 : Get board deal: 6 (Get_AllDeal)
+2017-03-15 19:31:18.893 : TX => FF 28 3A 1B 59 06 6E E6 7E 41 B8 1F 88 97 0C D4 7F 92 42 01 C2 A9 B8 93 42 53 A9 A8 93 42 53 0C DD
+2017-03-15 19:32:11.180 : Check game data
+2017-03-15 19:32:51.685 : RX <= FF 28 3A 0C 52 07 02 00 00 19 40 00 0A 00 00 00 01 2C
+2017-03-15 19:32:51.700 : Do message, 80, msg:2017-03-15 19:32:51.669, now:2017-03-15 19:32:51.700, time delay: 31 (doQueue)
+2017-03-15 19:32:51.700 : message from A3(10298, v5)
+2017-03-15 19:32:51.700 : Check board for A on table with TBS, round 1 to 5: 17/60 (DB_check_BoardResult)
+2017-03-15 19:32:51.716 : Bid sequence:PASS,PASS,1S,X,PASS,2D,PASS,PASS,PASS (doMsg)
+2017-03-15 19:32:51.716 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 19:32:57.764 : RX <= FF 28 3A 07 34 07 0A 1F 34 03 05 01 09
+2017-03-15 19:32:57.764 : Do message, 81, msg:2017-03-15 19:32:57.748, now:2017-03-15 19:32:57.764, time delay: 16 (doQueue)
+2017-03-15 19:32:57.764 : message from A3(10298, v5)
+2017-03-15 19:32:57.764 : Check board for A on table with TBS, round 1 to 5: 17/60 (DB_check_BoardResult)
+2017-03-15 19:32:57.764 : Save result(TBS):A3,7,2,3,5,0,0,2 D,W,-1,CK,
+2017-03-15 19:32:57.764 : Get board deal: 7 (Get_AllDeal)
+2017-03-15 19:32:57.764 : Get traveler feedback data
+2017-03-15 19:32:57.779 : TX => FF 28 3A 01 33 00 96
+2017-03-15 19:32:59.623 : RX <= FF 28 3A 02 58 07 00 C3
+2017-03-15 19:32:59.623 : Do message, 82, msg:2017-03-15 19:32:59.608, now:2017-03-15 19:32:59.623, time delay: 15 (doQueue)
+2017-03-15 19:32:59.623 : message from A3(10298, v5)
+2017-03-15 19:32:59.639 : Check board for A on table with TBS, round 1 to 5: 18/60 (DB_check_BoardResult)
+2017-03-15 19:32:59.639 : Get dealt card
+2017-03-15 19:32:59.639 : Get board deal: 7 (Get_AllDeal)
+2017-03-15 19:32:59.639 : TX => FF 28 3A 1B 59 07 04 36 CD 98 46 82 D4 BF B3 85 3A D9 F9 00 8C 56 96 77 74 56 56 96 77 74 56 0D 01
+2017-03-15 19:33:11.171 : Check game data
+2017-03-15 19:34:11.178 : Check game data
+2017-03-15 19:34:20.554 : RX <= FF 28 3A 0D 52 08 03 09 19 00 21 00 02 12 00 00 00 01 23
+2017-03-15 19:34:20.569 : Do message, 83, msg:2017-03-15 19:34:20.538, now:2017-03-15 19:34:20.569, time delay: 31 (doQueue)
+2017-03-15 19:34:20.569 : message from A3(10298, v5)
+2017-03-15 19:34:20.569 : Check board for A on table with TBS, round 1 to 5: 18/60 (DB_check_BoardResult)
+2017-03-15 19:34:20.585 : Bid sequence:1D,1S,PASS,1NT,PASS,2C,2H,PASS,PASS,PASS (doMsg)
+2017-03-15 19:34:20.585 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 19:34:29.164 : RX <= FF 28 3A 07 34 08 12 29 2C 03 05 01 14
+2017-03-15 19:34:29.164 : Do message, 84, msg:2017-03-15 19:34:29.149, now:2017-03-15 19:34:29.164, time delay: 15 (doQueue)
+2017-03-15 19:34:29.164 : message from A3(10298, v5)
+2017-03-15 19:34:29.180 : Check board for A on table with TBS, round 1 to 5: 18/60 (DB_check_BoardResult)
+2017-03-15 19:34:29.180 : Save result(TBS):A3,8,2,3,5,0,0,2 H,E,+2,CJ,
+2017-03-15 19:34:29.180 : Get board deal: 8 (Get_AllDeal)
+2017-03-15 19:34:29.180 : Get traveler feedback data
+2017-03-15 19:34:29.180 : TX => FF 28 3A 01 33 00 96
+2017-03-15 19:34:31.852 : RX <= FF 28 3A 02 58 08 00 C4
+2017-03-15 19:34:31.852 : Do message, 85, msg:2017-03-15 19:34:31.836, now:2017-03-15 19:34:31.852, time delay: 16 (doQueue)
+2017-03-15 19:34:31.852 : message from A3(10298, v5)
+2017-03-15 19:34:31.852 : Check board for A on table with TBS, round 1 to 5: 19/60 (DB_check_BoardResult)
+2017-03-15 19:34:31.852 : Get dealt card
+2017-03-15 19:34:31.852 : Get board deal: 8 (Get_AllDeal)
+2017-03-15 19:34:31.852 : TX => FF 28 3A 1B 59 08 F0 14 D1 7D A5 BD A5 BB C3 C8 4A 30 A9 80 64 A3 34 33 6A 98 A3 34 33 6A 98 0D 9C
+2017-03-15 19:34:44.556 : RX <= FF 28 3B 0D 52 07 02 00 00 19 21 00 02 12 00 00 00 01 19
+2017-03-15 19:34:44.556 : Do message, 86, msg:2017-03-15 19:34:44.541, now:2017-03-15 19:34:44.556, time delay: 15 (doQueue)
+2017-03-15 19:34:44.556 : message from A2(10299, v5)
+2017-03-15 19:34:44.556 : Check board for A on table with TBS, round 1 to 5: 19/60 (DB_check_BoardResult)
+2017-03-15 19:34:44.572 : Bid sequence:PASS,PASS,1S,1NT,PASS,2C,2H,PASS,PASS,PASS (doMsg)
+2017-03-15 19:34:44.572 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 19:35:11.216 : Check game data
+2017-03-15 19:35:19.841 : RX <= FF 28 3A 01 38 00 9B
+2017-03-15 19:35:19.841 : Do message, 87, msg:2017-03-15 19:35:19.826, now:2017-03-15 19:35:19.841, time delay: 15 (doQueue)
+2017-03-15 19:35:19.841 : message from A3(10298, v5)
+2017-03-15 19:35:19.841 : Check board for A on table with TBS, round 1 to 5: 19/60 (DB_check_BoardResult)
+2017-03-15 19:35:19.841 : Get ranking data
+2017-03-15 19:35:19.841 : Calculate pair score
+2017-03-15 19:35:19.857 : TX => FF 28 3A 15 39 11 00 00 01 4E 00 04 40 00 05 39 00 06 32 00 02 1A 00 03 16 01 FF
+2017-03-15 19:36:11.238 : Check game data
+2017-03-15 19:37:11.260 : Check game data
+2017-03-15 19:38:11.251 : Check game data
+2017-03-15 19:39:05.475 : RX <= FF 28 3B 07 34 07 12 20 05 02 06 00 E4
+2017-03-15 19:39:05.491 : Do message, 88, msg:2017-03-15 19:39:05.460, now:2017-03-15 19:39:05.491, time delay: 31 (doQueue)
+2017-03-15 19:39:05.491 : message from A2(10299, v5)
+2017-03-15 19:39:05.506 : Check board for A on table with TBS, round 1 to 5: 19/60 (DB_check_BoardResult)
+2017-03-15 19:39:05.522 : Save result(TBS):A2,7,2,2,6,0,0,2 H,N,=,DA,
+2017-03-15 19:39:05.522 : Get board deal: 7 (Get_AllDeal)
+2017-03-15 19:39:05.522 : Get traveler feedback data
+2017-03-15 19:39:05.522 : TX => FF 28 3B 04 33 0A 1F 34 00 F7
+2017-03-15 19:39:11.273 : Check game data
+2017-03-15 19:40:11.264 : Check game data
+2017-03-15 19:40:15.546 : RX <= FF 28 3C 0E 52 07 02 00 00 19 21 00 02 00 0A 00 00 00 01 13
+2017-03-15 19:40:15.561 : Do message, 89, msg:2017-03-15 19:40:15.530, now:2017-03-15 19:40:15.561, time delay: 31 (doQueue)
+2017-03-15 19:40:15.561 : message from A1(10300, v5)
+2017-03-15 19:40:15.577 : Check board for A on table with TBS, round 1 to 5: 20/60 (DB_check_BoardResult)
+2017-03-15 19:40:15.608 : Bid sequence:PASS,PASS,1S,1NT,PASS,2C,PASS,2D,PASS,PASS,PASS (doMsg)
+2017-03-15 19:40:15.608 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 19:40:38.298 : RX <= FF 28 3C 07 34 07 0A 1D 0F 01 04 00 E1
+2017-03-15 19:40:38.314 : Do message, 90, msg:2017-03-15 19:40:38.282, now:2017-03-15 19:40:38.314, time delay: 32 (doQueue)
+2017-03-15 19:40:38.314 : message from A1(10300, v5)
+2017-03-15 19:40:38.329 : Check board for A on table with TBS, round 1 to 5: 20/60 (DB_check_BoardResult)
+2017-03-15 19:40:38.329 : Save result(TBS):A1,7,2,1,4,0,0,2 D,E,-1,S3,
+2017-03-15 19:40:38.329 : Get board deal: 7 (Get_AllDeal)
+2017-03-15 19:40:38.329 : Get traveler feedback data
+2017-03-15 19:40:38.345 : TX => FF 28 3C 07 33 12 20 05 0A 1F 34 01 32
+2017-03-15 19:41:11.283 : Check game data
+2017-03-15 19:41:35.318 : RX <= FF 28 3C 02 58 07 00 C5
+2017-03-15 19:41:35.318 : Do message, 91, msg:2017-03-15 19:41:35.307, now:2017-03-15 19:41:35.318, time delay: 11 (doQueue)
+2017-03-15 19:41:35.323 : message from A1(10300, v5)
+2017-03-15 19:41:35.328 : Check board for A on table with TBS, round 1 to 5: 21/60 (DB_check_BoardResult)
+2017-03-15 19:41:35.329 : Get dealt card
+2017-03-15 19:41:35.330 : Get board deal: 7 (Get_AllDeal)
+2017-03-15 19:41:35.331 : TX => FF 28 3C 1B 59 07 04 36 CD 98 46 82 D4 BF B3 85 3A D9 F9 00 8C 56 96 77 74 56 56 96 77 74 56 0D 03
+2017-03-15 19:42:11.285 : Check game data
+2017-03-15 19:43:11.295 : Check game data
+2017-03-15 19:44:11.326 : Check game data
+2017-03-15 19:45:11.327 : Check game data
+2017-03-15 19:46:11.349 : Check game data
+2017-03-15 19:46:41.704 : RX <= FF 28 3C 0F 52 08 03 09 19 40 21 13 05 00 00 40 00 00 00 01 AB
+2017-03-15 19:46:41.704 : Do message, 92, msg:2017-03-15 19:46:41.700, now:2017-03-15 19:46:41.704, time delay: 4 (doQueue)
+2017-03-15 19:46:41.711 : message from A1(10300, v5)
+2017-03-15 19:46:41.714 : Check board for A on table with TBS, round 1 to 5: 21/60 (DB_check_BoardResult)
+2017-03-15 19:46:41.747 : Bid sequence:1D,1S,X,1NT,3H,5C,PASS,PASS,X,PASS,PASS,PASS (doMsg)
+2017-03-15 19:46:41.748 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 19:47:11.381 : Check game data
+2017-03-15 19:48:11.423 : Check game data
+2017-03-15 19:49:11.456 : Check game data
+2017-03-15 19:49:46.790 : RX <= FF 28 3C 07 34 08 45 28 05 01 04 01 1E
+2017-03-15 19:49:46.790 : Do message, 93, msg:2017-03-15 19:49:46.768, now:2017-03-15 19:49:46.790, time delay: 22 (doQueue)
+2017-03-15 19:49:46.800 : message from A1(10300, v5)
+2017-03-15 19:49:46.808 : Check board for A on table with TBS, round 1 to 5: 21/60 (DB_check_BoardResult)
+2017-03-15 19:49:46.819 : Save result(TBS):A1,8,2,1,4,0,0,5 C x,N,-1,DA,
+2017-03-15 19:49:46.821 : Get board deal: 8 (Get_AllDeal)
+2017-03-15 19:49:46.822 : Get traveler feedback data
+2017-03-15 19:49:46.829 : TX => FF 28 3C 04 33 12 29 2C 01 02
+2017-03-15 19:50:11.468 : Check game data
+2017-03-15 19:50:46.474 : RX <= FF 28 3C 02 58 08 00 C6
+2017-03-15 19:50:46.486 : Do message, 94, msg:2017-03-15 19:50:46.468, now:2017-03-15 19:50:46.486, time delay: 18 (doQueue)
+2017-03-15 19:50:46.497 : message from A1(10300, v5)
+2017-03-15 19:50:46.501 : Check board for A on table with TBS, round 1 to 5: 22/60 (DB_check_BoardResult)
+2017-03-15 19:50:46.503 : Get dealt card
+2017-03-15 19:50:46.504 : Get board deal: 8 (Get_AllDeal)
+2017-03-15 19:50:46.506 : TX => FF 28 3C 1B 59 08 F0 14 D1 7D A5 BD A5 BB C3 C8 4A 30 A9 80 64 A3 34 33 6A 98 A3 34 33 6A 98 0D 9E
+2017-03-15 19:50:56.112 : RX <= FF 28 3B 07 34 08 14 27 33 02 06 01 1C
+2017-03-15 19:50:56.113 : Do message, 95, msg:2017-03-15 19:50:56.100, now:2017-03-15 19:50:56.113, time delay: 13 (doQueue)
+2017-03-15 19:50:56.123 : message from A2(10299, v5)
+2017-03-15 19:50:56.130 : Check board for A on table with TBS, round 1 to 5: 22/60 (DB_check_BoardResult)
+2017-03-15 19:50:56.137 : Save result(TBS):A2,8,2,2,6,0,0,4 H,W,-1,SQ,
+2017-03-15 19:50:56.138 : Get board deal: 8 (Get_AllDeal)
+2017-03-15 19:50:56.139 : Get traveler feedback data
+2017-03-15 19:50:56.146 : TX => FF 28 3B 07 33 45 28 05 12 29 2C 01 76
+2017-03-15 19:50:56.391 : RX <= FF 28 3B 0D 48 06 14 28 2D 02 06 07 12 20 05 02 06 01 75
+2017-03-15 19:50:56.392 : Do message, 96, msg:2017-03-15 19:50:56.383, now:2017-03-15 19:50:56.392, time delay: 9 (doQueue)
+2017-03-15 19:50:56.402 : message from A2(10299, v5)
+2017-03-15 19:50:56.410 : Check board for A on table with TBS, round 1 to 5: 23/60 (DB_check_BoardResult)
+2017-03-15 19:50:56.421 : Save result(TBS):A2,6,2,2,6,0,0,4 H,N,=,DJ,
+2017-03-15 19:50:56.423 : Get board deal: 6 (Get_AllDeal)
+2017-03-15 19:50:56.431 : Save result(TBS):A2,7,2,2,6,0,0,2 H,N,=,DA,
+2017-03-15 19:50:56.432 : Get board deal: 7 (Get_AllDeal)
+2017-03-15 19:50:56.433 : TX => FF 28 3B 07 49 06 02 06 07 02 06 00 D0
+2017-03-15 19:51:11.505 : Check game data
+2017-03-15 19:51:15.359 : RX <= FF 28 3B 02 58 08 00 C5
+2017-03-15 19:51:15.360 : Do message, 97, msg:2017-03-15 19:51:15.348, now:2017-03-15 19:51:15.360, time delay: 12 (doQueue)
+2017-03-15 19:51:15.372 : message from A2(10299, v5)
+2017-03-15 19:51:15.381 : Check board for A on table with TBS, round 1 to 5: 24/60 (DB_check_BoardResult)
+2017-03-15 19:51:15.384 : Get dealt card
+2017-03-15 19:51:15.385 : Get board deal: 8 (Get_AllDeal)
+2017-03-15 19:51:15.388 : TX => FF 28 3B 1B 59 08 F0 14 D1 7D A5 BD A5 BB C3 C8 4A 30 A9 80 64 A3 34 33 6A 98 A3 34 33 6A 98 0D 9D
+2017-03-15 19:52:11.516 : Check game data
+2017-03-15 19:53:11.547 : Check game data
+2017-03-15 19:54:11.577 : Check game data
+2017-03-15 19:54:56.239 : RX <= FF 28 3C 05 3C 01 06 00 00 00 AC
+2017-03-15 19:54:56.240 : Do message, 98, msg:2017-03-15 19:54:56.218, now:2017-03-15 19:54:56.240, time delay: 22 (doQueue)
+2017-03-15 19:54:56.251 : message from A1(10300, v5)
+2017-03-15 19:54:56.261 : Check board for A on table with TBS, round 1 to 5: 24/60 (DB_check_BoardResult)
+2017-03-15 19:54:56.275 : Get seating name: 14569,N,Maksym Wa³aszewski
+2017-03-15 19:54:56.275 : Get seating name: 16053,E,Filip Czaplicki
+2017-03-15 19:54:56.276 : Get seating name: 1305,S,Grzegorz Gardynik
+2017-03-15 19:54:56.276 : Get seating name: 17451,W,Wojcie Grzegorzewski
+2017-03-15 19:54:56.278 : TX => FF 28 3C 52 3D 50 4D 61 6B 73 79 6D 20 57 61 B3 61 73 7A 65 77 73 6B 69 00 00 46 69 6C 69 70 20 43 7A 61 70 6C 69 63 6B 69 00 00 00 00 00 47 72 7A 65 67 6F 72 7A 20 47 61 72 64 79 6E 69 6B 00 00 00 57 6F 6A 63 69 65 20 47 72 7A 65 67 6F 72 7A 65 77 73 6B 69 1D 10
+2017-03-15 19:55:11.596 : Check game data
+2017-03-15 19:56:11.627 : Check game data
+2017-03-15 19:57:11.646 : Check game data
+2017-03-15 19:58:11.659 : Check game data
+2017-03-15 19:59:06.553 : RX <= FF 28 3A 05 3C 02 03 00 00 00 A8
+2017-03-15 19:59:06.562 : Do message, 99, msg:2017-03-15 19:59:06.532, now:2017-03-15 19:59:06.562, time delay: 30 (doQueue)
+2017-03-15 19:59:06.572 : message from A3(10298, v5)
+2017-03-15 19:59:06.580 : Check board for A on table with TBS, round 1 to 5: 24/60 (DB_check_BoardResult)
+2017-03-15 19:59:06.593 : Get seating name: 7840,E,Zbigniew Santkiewicz
+2017-03-15 19:59:06.593 : Get seating name: 17214,N,Karol Konopko
+2017-03-15 19:59:06.594 : Get seating name: 17692,W,Anna No¿yñska
+2017-03-15 19:59:06.594 : Get seating name: 14971,S,Bartosz Æwiek
+2017-03-15 19:59:06.596 : TX => FF 28 3A 52 3D 50 5A 62 69 67 6E 69 65 77 20 53 61 6E 74 6B 69 65 77 69 63 7A 4B 61 72 6F 6C 20 4B 6F 6E 6F 70 6B 6F 00 00 00 00 00 00 00 41 6E 6E 61 20 4E 6F BF 79 F1 73 6B 61 00 00 00 00 00 00 00 42 61 72 74 6F 73 7A 20 C6 77 69 65 6B 00 00 00 00 00 00 00 19 64
+2017-03-15 19:59:11.675 : Check game data
+2017-03-15 20:00:11.686 : Check game data
+2017-03-15 20:01:11.706 : Check game data
+2017-03-15 20:02:11.719 : Check game data
+2017-03-15 20:02:49.646 : RX <= FF 28 3C 11 52 09 00 19 00 02 00 12 00 22 00 23 00 14 00 00 00 01 56
+2017-03-15 20:02:49.646 : Do message, 100, msg:2017-03-15 20:02:49.626, now:2017-03-15 20:02:49.646, time delay: 20 (doQueue)
+2017-03-15 20:02:49.655 : message from A1(10300, v5)
+2017-03-15 20:02:49.664 : Check board for A on table with TBS, round 1 to 5: 24/60 (DB_check_BoardResult)
+2017-03-15 20:02:49.706 : Bid sequence:1S,PASS,2C,PASS,2H,PASS,2NT,PASS,3NT,PASS,4H,PASS,PASS,PASS (doMsg)
+2017-03-15 20:02:49.707 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 20:03:11.738 : Check game data
+2017-03-15 20:04:11.750 : Check game data
+2017-03-15 20:05:11.766 : Check game data
+2017-03-15 20:06:11.783 : Check game data
+2017-03-15 20:07:11.812 : Check game data
+2017-03-15 20:08:11.812 : Check game data
+2017-03-15 20:09:11.835 : Check game data
+2017-03-15 20:09:57.935 : RX <= FF 28 3C 07 34 09 14 28 20 01 06 01 0B
+2017-03-15 20:09:57.936 : Do message, 101, msg:2017-03-15 20:09:57.929, now:2017-03-15 20:09:57.936, time delay: 7 (doQueue)
+2017-03-15 20:09:57.939 : message from A1(10300, v5)
+2017-03-15 20:09:57.942 : Check board for A on table with TBS, round 1 to 5: 24/60 (DB_check_BoardResult)
+2017-03-15 20:09:57.947 : Save result(TBS):A1,9,3,1,6,0,0,4 H,N,=,C8,
+2017-03-15 20:09:57.948 : Get board deal: 9 (Get_AllDeal)
+2017-03-15 20:09:57.949 : Get traveler feedback data
+2017-03-15 20:09:57.952 : TX => FF 28 3C 01 33 00 98
+2017-03-15 20:09:59.540 : RX <= FF 28 3C 02 58 09 00 C7
+2017-03-15 20:09:59.550 : Do message, 102, msg:2017-03-15 20:09:59.525, now:2017-03-15 20:09:59.550, time delay: 25 (doQueue)
+2017-03-15 20:09:59.562 : message from A1(10300, v5)
+2017-03-15 20:09:59.570 : Check board for A on table with TBS, round 1 to 5: 25/60 (DB_check_BoardResult)
+2017-03-15 20:09:59.572 : Get dealt card
+2017-03-15 20:09:59.574 : Get board deal: 9 (Get_AllDeal)
+2017-03-15 20:09:59.578 : TX => FF 28 3C 1B 59 09 12 C4 94 E2 33 EF C6 9D 7C 36 21 97 A9 03 DE B5 9B C1 74 21 B5 9A B1 74 21 0D E1
+2017-03-15 20:10:11.842 : Check game data
+2017-03-15 20:11:11.867 : Check game data
+2017-03-15 20:11:20.751 : RX <= FF 28 3A 1B 52 09 00 19 00 02 00 12 00 03 00 0B 00 04 00 05 00 25 00 16 40 00 00 26 00 00 00 01 BD
+2017-03-15 20:11:20.771 : Do message, 103, msg:2017-03-15 20:11:20.746, now:2017-03-15 20:11:20.771, time delay: 25 (doQueue)
+2017-03-15 20:11:20.782 : message from A3(10298, v5)
+2017-03-15 20:11:20.790 : Check board for A on table with TBS, round 1 to 5: 25/60 (DB_check_BoardResult)
+2017-03-15 20:11:20.853 : Bid sequence:1S,PASS,2C,PASS,2H,PASS,3C,PASS,3D,PASS,4C,PASS,5C,PASS,5NT,PASS,6H,X,PASS,PASS,6NT,PASS,PASS,PASS (doMsg)
+2017-03-15 20:11:20.854 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 20:12:11.873 : Check game data
+2017-03-15 20:13:11.876 : Check game data
+2017-03-15 20:14:11.913 : Check game data
+2017-03-15 20:15:11.007 : RX <= FF 28 3A 07 34 09 26 32 22 02 03 01 25
+2017-03-15 20:15:11.008 : Do message, 104, msg:2017-03-15 20:15:10.989, now:2017-03-15 20:15:11.008, time delay: 19 (doQueue)
+2017-03-15 20:15:11.012 : message from A3(10298, v5)
+2017-03-15 20:15:11.016 : Check board for A on table with TBS, round 1 to 5: 25/60 (DB_check_BoardResult)
+2017-03-15 20:15:11.021 : Save result(TBS):A3,9,3,2,3,0,0,6 NT,S,=,H8,
+2017-03-15 20:15:11.021 : Get board deal: 9 (Get_AllDeal)
+2017-03-15 20:15:11.022 : Get traveler feedback data
+2017-03-15 20:15:11.026 : TX => FF 28 3A 04 33 14 28 20 00 F5
+2017-03-15 20:15:11.922 : Check game data
+2017-03-15 20:15:15.694 : RX <= FF 28 3A 02 58 09 00 C5
+2017-03-15 20:15:15.705 : Do message, 105, msg:2017-03-15 20:15:15.671, now:2017-03-15 20:15:15.705, time delay: 34 (doQueue)
+2017-03-15 20:15:15.718 : message from A3(10298, v5)
+2017-03-15 20:15:15.723 : Check board for A on table with TBS, round 1 to 5: 26/60 (DB_check_BoardResult)
+2017-03-15 20:15:15.724 : Get dealt card
+2017-03-15 20:15:15.725 : Get board deal: 9 (Get_AllDeal)
+2017-03-15 20:15:15.727 : TX => FF 28 3A 1B 59 09 12 C4 94 E2 33 EF C6 9D 7C 36 21 97 A9 03 DE B5 9B C1 74 21 B5 9A B1 74 21 0D DF
+2017-03-15 20:15:38.642 : RX <= FF 28 3C 0D 52 0A 01 00 01 21 00 0A 00 12 00 00 00 01 0C
+2017-03-15 20:15:38.642 : Do message, 106, msg:2017-03-15 20:15:38.631, now:2017-03-15 20:15:38.642, time delay: 11 (doQueue)
+2017-03-15 20:15:38.652 : message from A1(10300, v5)
+2017-03-15 20:15:38.660 : Check board for A on table with TBS, round 1 to 5: 26/60 (DB_check_BoardResult)
+2017-03-15 20:15:38.690 : Bid sequence:PASS,1C,1NT,PASS,2D,PASS,2H,PASS,PASS,PASS (doMsg)
+2017-03-15 20:15:38.691 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 20:16:11.942 : Check game data
+2017-03-15 20:16:31.657 : RX <= FF 28 3B 11 52 09 00 19 00 02 00 12 00 03 00 23 00 26 00 00 00 01 48
+2017-03-15 20:16:31.681 : Do message, 107, msg:2017-03-15 20:16:31.646, now:2017-03-15 20:16:31.681, time delay: 35 (doQueue)
+2017-03-15 20:16:31.684 : message from A2(10299, v5)
+2017-03-15 20:16:31.687 : Check board for A on table with TBS, round 1 to 5: 26/60 (DB_check_BoardResult)
+2017-03-15 20:16:31.715 : Bid sequence:1S,PASS,2C,PASS,2H,PASS,3C,PASS,3NT,PASS,6NT,PASS,PASS,PASS (doMsg)
+2017-03-15 20:16:31.716 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 20:17:11.955 : Check game data
+2017-03-15 20:18:11.971 : Check game data
+2017-03-15 20:19:11.969 : Check game data
+2017-03-15 20:20:04.615 : RX <= FF 28 3A 0D 52 0A 01 00 01 21 00 0A 00 12 00 00 00 01 0A
+2017-03-15 20:20:04.615 : Do message, 108, msg:2017-03-15 20:20:04.592, now:2017-03-15 20:20:04.615, time delay: 23 (doQueue)
+2017-03-15 20:20:04.619 : message from A3(10298, v5)
+2017-03-15 20:20:04.623 : Check board for A on table with TBS, round 1 to 5: 26/60 (DB_check_BoardResult)
+2017-03-15 20:20:04.647 : Bid sequence:PASS,1C,1NT,PASS,2D,PASS,2H,PASS,PASS,PASS (doMsg)
+2017-03-15 20:20:04.647 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 20:20:11.985 : Check game data
+2017-03-15 20:20:24.617 : RX <= FF 28 3C 07 34 0A 12 27 19 01 06 01 02
+2017-03-15 20:20:24.617 : Do message, 109, msg:2017-03-15 20:20:24.595, now:2017-03-15 20:20:24.617, time delay: 22 (doQueue)
+2017-03-15 20:20:24.628 : message from A1(10300, v5)
+2017-03-15 20:20:24.637 : Check board for A on table with TBS, round 1 to 5: 26/60 (DB_check_BoardResult)
+2017-03-15 20:20:24.648 : Save result(TBS):A1,10,3,1,6,0,0,2 H,W,+1,D6,
+2017-03-15 20:20:24.650 : Get board deal: 10 (Get_AllDeal)
+2017-03-15 20:20:24.652 : Get traveler feedback data
+2017-03-15 20:20:24.660 : TX => FF 28 3C 01 33 00 98
+2017-03-15 20:20:26.328 : RX <= FF 28 3C 02 58 0A 00 C8
+2017-03-15 20:20:26.345 : Do message, 110, msg:2017-03-15 20:20:26.319, now:2017-03-15 20:20:26.345, time delay: 26 (doQueue)
+2017-03-15 20:20:26.348 : message from A1(10300, v5)
+2017-03-15 20:20:26.351 : Check board for A on table with TBS, round 1 to 5: 27/60 (DB_check_BoardResult)
+2017-03-15 20:20:26.352 : Get dealt card
+2017-03-15 20:20:26.352 : Get board deal: 10 (Get_AllDeal)
+2017-03-15 20:20:26.354 : TX => FF 28 3C 1B 59 0A 3E 38 C5 99 4E 74 CE AC 61 77 B1 29 B0 80 78 75 46 55 88 68 75 46 55 88 68 0C 4C
+2017-03-15 20:21:03.692 : RX <= FF 28 3B 07 34 09 26 30 05 04 05 01 0B
+2017-03-15 20:21:03.704 : Do message, 111, msg:2017-03-15 20:21:03.688, now:2017-03-15 20:21:03.704, time delay: 16 (doQueue)
+2017-03-15 20:21:03.708 : message from A2(10299, v5)
+2017-03-15 20:21:03.710 : Check board for A on table with TBS, round 1 to 5: 27/60 (DB_check_BoardResult)
+2017-03-15 20:21:03.715 : Save result(TBS):A2,9,3,4,5,0,0,6 NT,N,=,DA,
+2017-03-15 20:21:03.716 : Get board deal: 9 (Get_AllDeal)
+2017-03-15 20:21:03.717 : Get traveler feedback data
+2017-03-15 20:21:03.721 : TX => FF 28 3B 07 33 26 32 22 14 28 20 01 73
+2017-03-15 20:21:11.983 : Check game data
+2017-03-15 20:21:15.663 : RX <= FF 28 3B 07 34 09 26 30 05 04 05 01 0B
+2017-03-15 20:21:15.664 : Do message, 112, msg:2017-03-15 20:21:15.657, now:2017-03-15 20:21:15.664, time delay: 7 (doQueue)
+2017-03-15 20:21:15.669 : message from A2(10299, v5)
+2017-03-15 20:21:15.673 : Check board for A on table with TBS, round 1 to 5: 28/60 (DB_check_BoardResult)
+2017-03-15 20:21:15.680 : Save result(TBS):A2,9,3,4,5,0,0,6 NT,N,=,DA,
+2017-03-15 20:21:15.681 : Get board deal: 9 (Get_AllDeal)
+2017-03-15 20:21:15.683 : Get traveler feedback data
+2017-03-15 20:21:15.687 : TX => FF 28 3B 07 33 26 32 22 14 28 20 01 73
+2017-03-15 20:22:10.146 : RX <= FF 28 3A 07 34 0A 12 23 19 02 03 00 FA
+2017-03-15 20:22:10.147 : Do message, 113, msg:2017-03-15 20:22:10.138, now:2017-03-15 20:22:10.146, time delay: 8 (doQueue)
+2017-03-15 20:22:10.152 : message from A3(10298, v5)
+2017-03-15 20:22:10.156 : Check board for A on table with TBS, round 1 to 5: 28/60 (DB_check_BoardResult)
+2017-03-15 20:22:10.163 : Save result(TBS):A3,10,3,2,3,0,0,2 H,W,=,D6,
+2017-03-15 20:22:10.164 : Get board deal: 10 (Get_AllDeal)
+2017-03-15 20:22:10.166 : Get traveler feedback data
+2017-03-15 20:22:10.170 : TX => FF 28 3A 04 33 12 27 19 00 EB
+2017-03-15 20:22:11.988 : Check game data
+2017-03-15 20:22:13.176 : RX <= FF 28 3A 02 58 0A 00 C6
+2017-03-15 20:22:13.178 : Do message, 114, msg:2017-03-15 20:22:13.169, now:2017-03-15 20:22:13.177, time delay: 8 (doQueue)
+2017-03-15 20:22:13.189 : message from A3(10298, v5)
+2017-03-15 20:22:13.197 : Check board for A on table with TBS, round 1 to 5: 29/60 (DB_check_BoardResult)
+2017-03-15 20:22:13.198 : Get dealt card
+2017-03-15 20:22:13.199 : Get board deal: 10 (Get_AllDeal)
+2017-03-15 20:22:13.201 : TX => FF 28 3A 1B 59 0A 3E 38 C5 99 4E 74 CE AC 61 77 B1 29 B0 80 78 75 46 55 88 68 75 46 55 88 68 0C 4A
+2017-03-15 20:23:12.002 : Check game data
+2017-03-15 20:24:12.006 : Check game data
+2017-03-15 20:25:03.617 : RX <= FF 28 3C 09 52 0B 02 22 00 03 00 00 00 00 F1
+2017-03-15 20:25:03.629 : Do message, 115, msg:2017-03-15 20:25:03.602, now:2017-03-15 20:25:03.629, time delay: 27 (doQueue)
+2017-03-15 20:25:03.639 : message from A1(10300, v5)
+2017-03-15 20:25:03.647 : Check board for A on table with TBS, round 1 to 5: 29/60 (DB_check_BoardResult)
+2017-03-15 20:25:03.666 : Bid sequence:2NT,PASS,3C,PASS,PASS,PASS (doMsg)
+2017-03-15 20:25:03.667 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 20:25:10.364 : RX <= FF 28 3A 0A 52 0B 02 22 00 03 1B 00 00 00 01 0B
+2017-03-15 20:25:10.365 : Do message, 116, msg:2017-03-15 20:25:10.351, now:2017-03-15 20:25:10.365, time delay: 14 (doQueue)
+2017-03-15 20:25:10.368 : message from A3(10298, v5)
+2017-03-15 20:25:10.371 : Check board for A on table with TBS, round 1 to 5: 29/60 (DB_check_BoardResult)
+2017-03-15 20:25:10.388 : Bid sequence:2NT,PASS,3C,3S,PASS,PASS,PASS (doMsg)
+2017-03-15 20:25:10.389 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 20:25:12.029 : Check game data
+2017-03-15 20:25:22.221 : RX <= FF 28 3B 02 58 09 00 C6
+2017-03-15 20:25:22.240 : Do message, 117, msg:2017-03-15 20:25:22.206, now:2017-03-15 20:25:22.240, time delay: 34 (doQueue)
+2017-03-15 20:25:22.250 : message from A2(10299, v5)
+2017-03-15 20:25:22.258 : Check board for A on table with TBS, round 1 to 5: 29/60 (DB_check_BoardResult)
+2017-03-15 20:25:22.259 : Get dealt card
+2017-03-15 20:25:22.260 : Get board deal: 9 (Get_AllDeal)
+2017-03-15 20:25:22.263 : TX => FF 28 3B 1B 59 09 12 C4 94 E2 33 EF C6 9D 7C 36 21 97 A9 03 DE B5 9B C1 74 21 B5 9A B1 74 21 0D E0
+2017-03-15 20:26:12.032 : Check game data
+2017-03-15 20:27:12.065 : Check game data
+2017-03-15 20:28:12.081 : Check game data
+2017-03-15 20:28:17.467 : RX <= FF 28 3C 07 34 0B 03 1C 1C 01 06 00 EC
+2017-03-15 20:28:17.467 : Do message, 118, msg:2017-03-15 20:28:17.459, now:2017-03-15 20:28:17.467, time delay: 8 (doQueue)
+2017-03-15 20:28:17.470 : message from A1(10300, v5)
+2017-03-15 20:28:17.473 : Check board for A on table with TBS, round 1 to 5: 29/60 (DB_check_BoardResult)
+2017-03-15 20:28:17.477 : Save result(TBS):A1,11,3,1,6,0,0,3 C,N,-2,C7,
+2017-03-15 20:28:17.478 : Get board deal: 11 (Get_AllDeal)
+2017-03-15 20:28:17.479 : Get traveler feedback data
+2017-03-15 20:28:17.482 : TX => FF 28 3C 01 33 00 98
+2017-03-15 20:28:18.915 : RX <= FF 28 3C 02 58 0B 00 C9
+2017-03-15 20:28:18.916 : Do message, 119, msg:2017-03-15 20:28:18.900, now:2017-03-15 20:28:18.916, time delay: 16 (doQueue)
+2017-03-15 20:28:18.928 : message from A1(10300, v5)
+2017-03-15 20:28:18.933 : Check board for A on table with TBS, round 1 to 5: 30/60 (DB_check_BoardResult)
+2017-03-15 20:28:18.935 : Get dealt card
+2017-03-15 20:28:18.936 : Get board deal: 11 (Get_AllDeal)
+2017-03-15 20:28:18.939 : TX => FF 28 3C 1B 59 0B 43 D9 05 34 8F F4 85 A2 F4 BA BC 56 B2 80 6E 67 55 56 58 87 67 55 56 58 87 0D 24
+2017-03-15 20:29:12.094 : Check game data
+2017-03-15 20:29:17.700 : RX <= FF 28 3A 07 34 0B 1B 1D 04 02 03 00 E9
+2017-03-15 20:29:17.701 : Do message, 120, msg:2017-03-15 20:29:17.694, now:2017-03-15 20:29:17.701, time delay: 7 (doQueue)
+2017-03-15 20:29:17.704 : message from A3(10298, v5)
+2017-03-15 20:29:17.707 : Check board for A on table with TBS, round 1 to 5: 30/60 (DB_check_BoardResult)
+2017-03-15 20:29:17.711 : Save result(TBS):A3,11,3,2,3,0,0,3 S,E,-2,CA,
+2017-03-15 20:29:17.712 : Get board deal: 11 (Get_AllDeal)
+2017-03-15 20:29:17.713 : Get traveler feedback data
+2017-03-15 20:29:17.717 : TX => FF 28 3A 04 33 03 1C 1C 00 D4
+2017-03-15 20:29:24.077 : RX <= FF 28 3A 02 58 0B 00 C7
+2017-03-15 20:29:24.078 : Do message, 121, msg:2017-03-15 20:29:24.051, now:2017-03-15 20:29:24.078, time delay: 27 (doQueue)
+2017-03-15 20:29:24.091 : message from A3(10298, v5)
+2017-03-15 20:29:24.100 : Check board for A on table with TBS, round 1 to 5: 31/60 (DB_check_BoardResult)
+2017-03-15 20:29:24.103 : Get dealt card
+2017-03-15 20:29:24.105 : Get board deal: 11 (Get_AllDeal)
+2017-03-15 20:29:24.110 : TX => FF 28 3A 1B 59 0B 43 D9 05 34 8F F4 85 A2 F4 BA BC 56 B2 80 6E 67 55 56 58 87 67 55 56 58 87 0D 22
+2017-03-15 20:29:47.297 : RX <= FF 28 3B 07 34 0A 13 23 19 04 05 01 00
+2017-03-15 20:29:47.316 : Do message, 122, msg:2017-03-15 20:29:47.271, now:2017-03-15 20:29:47.316, time delay: 45 (doQueue)
+2017-03-15 20:29:47.329 : message from A2(10299, v5)
+2017-03-15 20:29:47.339 : Check board for A on table with TBS, round 1 to 5: 31/60 (DB_check_BoardResult)
+2017-03-15 20:29:47.347 : Save result(TBS):A2,10,3,4,5,0,0,3 H,W,-1,D6,
+2017-03-15 20:29:47.348 : Get board deal: 10 (Get_AllDeal)
+2017-03-15 20:29:47.350 : Get traveler feedback data
+2017-03-15 20:29:47.357 : TX => FF 28 3B 07 33 12 23 19 12 27 19 01 3D
+2017-03-15 20:30:02.456 : RX <= FF 28 3B 02 58 0A 00 C7
+2017-03-15 20:30:02.471 : Do message, 123, msg:2017-03-15 20:30:02.450, now:2017-03-15 20:30:02.471, time delay: 21 (doQueue)
+2017-03-15 20:30:02.482 : message from A2(10299, v5)
+2017-03-15 20:30:02.489 : Check board for A on table with TBS, round 1 to 5: 32/60 (DB_check_BoardResult)
+2017-03-15 20:30:02.491 : Get dealt card
+2017-03-15 20:30:02.493 : Get board deal: 10 (Get_AllDeal)
+2017-03-15 20:30:02.495 : TX => FF 28 3B 1B 59 0A 3E 38 C5 99 4E 74 CE AC 61 77 B1 29 B0 80 78 75 46 55 88 68 75 46 55 88 68 0C 4B
+2017-03-15 20:30:12.114 : Check game data
+2017-03-15 20:31:12.139 : Check game data
+2017-03-15 20:32:12.146 : Check game data
+2017-03-15 20:33:12.173 : Check game data
+2017-03-15 20:34:10.254 : RX <= FF 28 3C 11 52 0C 03 01 00 00 40 80 11 00 12 40 00 1A 00 00 00 02 14
+2017-03-15 20:34:10.254 : Do message, 124, msg:2017-03-15 20:34:10.241, now:2017-03-15 20:34:10.254, time delay: 13 (doQueue)
+2017-03-15 20:34:10.257 : message from A1(10300, v5)
+2017-03-15 20:34:10.260 : Check board for A on table with TBS, round 1 to 5: 32/60 (DB_check_BoardResult)
+2017-03-15 20:34:10.291 : Bid sequence:1C,PASS,PASS,X,XX,1H,PASS,2H,X,PASS,2S,PASS,PASS,PASS (doMsg)
+2017-03-15 20:34:10.292 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 20:34:12.191 : Check game data
+2017-03-15 20:35:05.005 : RX <= FF 28 3A 13 52 0C 03 12 00 1A 00 22 00 03 00 0B 00 13 00 23 00 00 00 01 68
+2017-03-15 20:35:05.016 : Do message, 125, msg:2017-03-15 20:35:04.998, now:2017-03-15 20:35:05.016, time delay: 18 (doQueue)
+2017-03-15 20:35:05.020 : message from A3(10298, v5)
+2017-03-15 20:35:05.023 : Check board for A on table with TBS, round 1 to 5: 32/60 (DB_check_BoardResult)
+2017-03-15 20:35:05.056 : Bid sequence:2H,PASS,2S,PASS,2NT,PASS,3C,PASS,3D,PASS,3H,PASS,3NT,PASS,PASS,PASS (doMsg)
+2017-03-15 20:35:05.057 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 20:35:12.208 : Check game data
+2017-03-15 20:35:35.594 : RX <= FF 28 3B 0D 52 0B 02 22 00 03 1B 00 00 40 00 00 00 01 4F
+2017-03-15 20:35:35.595 : Do message, 126, msg:2017-03-15 20:35:35.588, now:2017-03-15 20:35:35.595, time delay: 7 (doQueue)
+2017-03-15 20:35:35.603 : message from A2(10299, v5)
+2017-03-15 20:35:35.609 : Check board for A on table with TBS, round 1 to 5: 32/60 (DB_check_BoardResult)
+2017-03-15 20:35:35.639 : Bid sequence:2NT,PASS,3C,3S,PASS,PASS,X,PASS,PASS,PASS (doMsg)
+2017-03-15 20:35:35.640 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 20:36:12.238 : Check game data
+2017-03-15 20:37:12.250 : Check game data
+2017-03-15 20:38:12.284 : Check game data
+2017-03-15 20:38:26.849 : RX <= FF 28 3C 07 34 0C 1A 21 0B 01 06 00 F8
+2017-03-15 20:38:26.860 : Do message, 127, msg:2017-03-15 20:38:26.838, now:2017-03-15 20:38:26.860, time delay: 22 (doQueue)
+2017-03-15 20:38:26.864 : message from A1(10300, v5)
+2017-03-15 20:38:26.866 : Check board for A on table with TBS, round 1 to 5: 32/60 (DB_check_BoardResult)
+2017-03-15 20:38:26.871 : Save result(TBS):A1,12,3,1,6,0,0,2 S,E,=,S2,
+2017-03-15 20:38:26.872 : Get board deal: 12 (Get_AllDeal)
+2017-03-15 20:38:26.872 : Get traveler feedback data
+2017-03-15 20:38:26.875 : TX => FF 28 3C 01 33 00 98
+2017-03-15 20:38:28.735 : RX <= FF 28 3C 02 58 0C 00 CA
+2017-03-15 20:38:28.756 : Do message, 128, msg:2017-03-15 20:38:28.728, now:2017-03-15 20:38:28.756, time delay: 28 (doQueue)
+2017-03-15 20:38:28.766 : message from A1(10300, v5)
+2017-03-15 20:38:28.775 : Check board for A on table with TBS, round 1 to 5: 33/60 (DB_check_BoardResult)
+2017-03-15 20:38:28.777 : Get dealt card
+2017-03-15 20:38:28.780 : Get board deal: 12 (Get_AllDeal)
+2017-03-15 20:38:28.786 : TX => FF 28 3C 1B 59 0C FE 16 35 AC 3A 74 8B 6D 4E 48 F0 D4 86 80 8C 75 84 55 75 97 86 84 55 75 97 0D 30
+2017-03-15 20:38:45.536 : RX <= FF 28 3C 01 38 00 9D
+2017-03-15 20:38:45.537 : Do message, 129, msg:2017-03-15 20:38:45.525, now:2017-03-15 20:38:45.537, time delay: 12 (doQueue)
+2017-03-15 20:38:45.548 : message from A1(10300, v5)
+2017-03-15 20:38:45.558 : Check board for A on table with TBS, round 1 to 5: 33/60 (DB_check_BoardResult)
+2017-03-15 20:38:45.571 : Get ranking data
+2017-03-15 20:38:45.572 : Calculate pair score
+2017-03-15 20:38:45.613 : TX => FF 28 3C 15 39 11 00 00 04 44 00 06 36 00 05 35 00 01 35 00 02 32 00 03 17 02 05
+2017-03-15 20:38:49.241 : RX <= FF 28 3B 07 34 0B 5B 21 04 04 05 01 32
+2017-03-15 20:38:49.242 : Do message, 130, msg:2017-03-15 20:38:49.221, now:2017-03-15 20:38:49.242, time delay: 21 (doQueue)
+2017-03-15 20:38:49.252 : message from A2(10299, v5)
+2017-03-15 20:38:49.259 : Check board for A on table with TBS, round 1 to 5: 33/60 (DB_check_BoardResult)
+2017-03-15 20:38:49.267 : Save result(TBS):A2,11,3,4,5,0,0,3 S x,E,-1,CA,
+2017-03-15 20:38:49.268 : Get board deal: 11 (Get_AllDeal)
+2017-03-15 20:38:49.269 : Get traveler feedback data
+2017-03-15 20:38:49.276 : TX => FF 28 3B 07 33 1B 1D 04 03 1C 1C 01 14
+2017-03-15 20:39:12.453 : Check game data
+2017-03-15 20:40:12.475 : Check game data
+2017-03-15 20:41:12.490 : Check game data
+2017-03-15 20:42:12.515 : Check game data
+2017-03-15 20:43:12.535 : Check game data
+2017-03-15 20:44:12.563 : Check game data
+2017-03-15 20:44:42.474 : RX <= FF 28 3A 07 34 0C 23 1B 2C 02 03 01 18
+2017-03-15 20:44:42.483 : Do message, 131, msg:2017-03-15 20:44:42.463, now:2017-03-15 20:44:42.483, time delay: 20 (doQueue)
+2017-03-15 20:44:42.489 : message from A3(10298, v5)
+2017-03-15 20:44:42.492 : Check board for A on table with TBS, round 1 to 5: 34/60 (DB_check_BoardResult)
+2017-03-15 20:44:42.498 : Save result(TBS):A3,12,3,2,3,0,0,3 NT,W,-3,CJ,
+2017-03-15 20:44:42.499 : Get board deal: 12 (Get_AllDeal)
+2017-03-15 20:44:42.499 : Get traveler feedback data
+2017-03-15 20:44:42.504 : TX => FF 28 3A 04 33 1A 21 0B 00 DF
+2017-03-15 20:44:46.976 : RX <= FF 28 3A 02 58 0C 00 C8
+2017-03-15 20:44:46.983 : Do message, 132, msg:2017-03-15 20:44:46.955, now:2017-03-15 20:44:46.983, time delay: 28 (doQueue)
+2017-03-15 20:44:46.991 : message from A3(10298, v5)
+2017-03-15 20:44:46.996 : Check board for A on table with TBS, round 1 to 5: 35/60 (DB_check_BoardResult)
+2017-03-15 20:44:46.998 : Get dealt card
+2017-03-15 20:44:46.999 : Get board deal: 12 (Get_AllDeal)
+2017-03-15 20:44:47.002 : TX => FF 28 3A 1B 59 0C FE 16 35 AC 3A 74 8B 6D 4E 48 F0 D4 86 80 8C 75 84 55 75 97 86 84 55 75 97 0D 2E
+2017-03-15 20:45:12.580 : Check game data
+2017-03-15 20:46:09.111 : RX <= FF 28 3A 01 38 00 9B
+2017-03-15 20:46:09.129 : Do message, 133, msg:2017-03-15 20:46:09.105, now:2017-03-15 20:46:09.129, time delay: 24 (doQueue)
+2017-03-15 20:46:09.140 : message from A3(10298, v5)
+2017-03-15 20:46:09.148 : Check board for A on table with TBS, round 1 to 5: 35/60 (DB_check_BoardResult)
+2017-03-15 20:46:09.160 : Get ranking data
+2017-03-15 20:46:09.161 : Calculate pair score
+2017-03-15 20:46:09.190 : TX => FF 28 3A 15 39 11 00 00 04 44 00 06 3A 00 02 34 00 05 33 00 01 31 00 03 17 02 03
+2017-03-15 20:46:12.599 : Check game data
+2017-03-15 20:46:26.291 : RX <= FF 28 3B 07 34 0C 22 1B 2C 04 05 01 1C
+2017-03-15 20:46:26.292 : Do message, 134, msg:2017-03-15 20:46:26.273, now:2017-03-15 20:46:26.292, time delay: 19 (doQueue)
+2017-03-15 20:46:26.302 : message from A2(10299, v5)
+2017-03-15 20:46:26.309 : Check board for A on table with TBS, round 1 to 5: 35/60 (DB_check_BoardResult)
+2017-03-15 20:46:26.317 : Save result(TBS):A2,12,3,4,5,0,0,2 NT,W,-2,CJ,
+2017-03-15 20:46:26.319 : Get board deal: 12 (Get_AllDeal)
+2017-03-15 20:46:26.320 : Get traveler feedback data
+2017-03-15 20:46:26.327 : TX => FF 28 3B 07 33 23 1B 2C 1A 21 0B 01 4D
+2017-03-15 20:46:30.189 : RX <= FF 28 3B 07 34 0C 22 1B 2C 04 05 01 1C
+2017-03-15 20:46:30.203 : Do message, 135, msg:2017-03-15 20:46:30.176, now:2017-03-15 20:46:30.203, time delay: 27 (doQueue)
+2017-03-15 20:46:30.216 : message from A2(10299, v5)
+2017-03-15 20:46:30.225 : Check board for A on table with TBS, round 1 to 5: 36/60 (DB_check_BoardResult)
+2017-03-15 20:46:30.238 : Save result(TBS):A2,12,3,4,5,0,0,2 NT,W,-2,CJ,
+2017-03-15 20:46:30.240 : Get board deal: 12 (Get_AllDeal)
+2017-03-15 20:46:30.241 : Get traveler feedback data
+2017-03-15 20:46:30.246 : TX => FF 28 3B 07 33 23 1B 2C 1A 21 0B 01 4D
+2017-03-15 20:47:12.623 : Check game data
+2017-03-15 20:48:12.640 : Check game data
+2017-03-15 20:49:12.658 : Check game data
+2017-03-15 20:50:12.694 : Check game data
+2017-03-15 20:51:12.724 : Check game data
+2017-03-15 20:52:12.753 : Check game data
+2017-03-15 20:53:12.766 : Check game data
+2017-03-15 20:54:12.764 : Check game data
+2017-03-15 20:55:12.768 : Check game data
+2017-03-15 20:56:12.804 : Check game data
+2017-03-15 20:57:12.828 : Check game data
+2017-03-15 20:58:12.846 : Check game data
+2017-03-15 20:59:12.849 : Check game data
+2017-03-15 21:00:12.877 : Check game data
+2017-03-15 21:01:12.892 : Check game data
+2017-03-15 21:02:12.930 : Check game data
+2017-03-15 21:03:13.000 : Check game data
+2017-03-15 21:04:13.006 : Check game data
+2017-03-15 21:05:13.016 : Check game data
+2017-03-15 21:06:13.035 : Check game data
+2017-03-15 21:07:13.045 : Check game data
+2017-03-15 21:07:34.162 : RX <= FF 28 3C 05 3C 01 05 00 00 00 AB
+2017-03-15 21:07:34.163 : Do message, 136, msg:2017-03-15 21:07:34.155, now:2017-03-15 21:07:34.163, time delay: 8 (doQueue)
+2017-03-15 21:07:34.170 : message from A1(10300, v5)
+2017-03-15 21:07:34.174 : Check board for A on table with TBS, round 1 to 5: 36/60 (DB_check_BoardResult)
+2017-03-15 21:07:34.180 : Get seating name: 14569,N,Maksym Wa³aszewski
+2017-03-15 21:07:34.181 : Get seating name: 17362,N,Jarek Markowski
+2017-03-15 21:07:34.181 : Get seating name: 1305,S,Grzegorz Gardynik
+2017-03-15 21:07:34.182 : Get seating name: 7817,S,Ewa £ukowska
+2017-03-15 21:07:34.183 : TX => FF 28 3C 52 3D 50 4D 61 6B 73 79 6D 20 57 61 B3 61 73 7A 65 77 73 6B 69 00 00 4A 61 72 65 6B 20 4D 61 72 6B 6F 77 73 6B 69 00 00 00 00 00 47 72 7A 65 67 6F 72 7A 20 47 61 72 64 79 6E 69 6B 00 00 00 45 77 61 20 A3 75 6B 6F 77 73 6B 61 00 00 00 00 00 00 00 00 1A 0E
+2017-03-15 21:08:13.065 : Check game data
+2017-03-15 21:09:13.079 : Check game data
+2017-03-15 21:10:13.099 : Check game data
+2017-03-15 21:10:21.285 : RX <= FF 28 3A 05 3C 04 02 00 00 00 A9
+2017-03-15 21:10:21.287 : Do message, 137, msg:2017-03-15 21:10:21.256, now:2017-03-15 21:10:21.287, time delay: 31 (doQueue)
+2017-03-15 21:10:21.297 : message from A3(10298, v5)
+2017-03-15 21:10:21.306 : Check board for A on table with TBS, round 1 to 5: 36/60 (DB_check_BoardResult)
+2017-03-15 21:10:21.319 : Get seating name: 18014,E,Krystyn Jêdrzejewska
+2017-03-15 21:10:21.320 : Get seating name: 7840,E,Zbigniew Santkiewicz
+2017-03-15 21:10:21.321 : Get seating name: 18015,W,Ireneus Jêdrzejewski
+2017-03-15 21:10:21.322 : Get seating name: 17692,W,Anna No¿yñska
+2017-03-15 21:10:21.325 : TX => FF 28 3A 52 3D 50 4B 72 79 73 74 79 6E 20 4A EA 64 72 7A 65 6A 65 77 73 6B 61 5A 62 69 67 6E 69 65 77 20 53 61 6E 74 6B 69 65 77 69 63 7A 49 72 65 6E 65 75 73 20 4A EA 64 72 7A 65 6A 65 77 73 6B 69 41 6E 6E 61 20 4E 6F BF 79 F1 73 6B 61 00 00 00 00 00 00 00 1F F2
+2017-03-15 21:11:13.132 : Check game data
+2017-03-15 21:12:13.158 : Check game data
+2017-03-15 21:13:13.171 : Check game data
+2017-03-15 21:13:36.111 : RX <= FF 28 3C 15 52 0D 00 00 00 01 00 19 00 0A 00 12 00 22 00 1B 00 23 00 00 00 01 6E
+2017-03-15 21:13:36.112 : Do message, 138, msg:2017-03-15 21:13:36.097, now:2017-03-15 21:13:36.112, time delay: 15 (doQueue)
+2017-03-15 21:13:36.122 : message from A1(10300, v5)
+2017-03-15 21:13:36.131 : Check board for A on table with TBS, round 1 to 5: 36/60 (DB_check_BoardResult)
+2017-03-15 21:13:36.179 : Bid sequence:PASS,PASS,1C,PASS,1S,PASS,2D,PASS,2H,PASS,2NT,PASS,3S,PASS,3NT,PASS,PASS,PASS (doMsg)
+2017-03-15 21:13:36.180 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 21:14:13.185 : Check game data
+2017-03-15 21:14:58.552 : RX <= FF 28 3B 0F 52 0D 00 00 01 40 11 00 19 21 00 23 00 00 00 01 80
+2017-03-15 21:14:58.554 : Do message, 139, msg:2017-03-15 21:14:58.545, now:2017-03-15 21:14:58.554, time delay: 9 (doQueue)
+2017-03-15 21:14:58.564 : message from A2(10299, v5)
+2017-03-15 21:14:58.572 : Check board for A on table with TBS, round 1 to 5: 36/60 (DB_check_BoardResult)
+2017-03-15 21:14:58.613 : Bid sequence:PASS,1C,X,1H,PASS,1S,1NT,PASS,3NT,PASS,PASS,PASS (doMsg)
+2017-03-15 21:14:58.614 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 21:15:13.191 : Check game data
+2017-03-15 21:16:13.221 : Check game data
+2017-03-15 21:17:13.252 : Check game data
+2017-03-15 21:17:59.378 : RX <= FF 28 3C 07 34 0D 23 1E 0F 01 05 01 02
+2017-03-15 21:17:59.398 : Do message, 140, msg:2017-03-15 21:17:59.030, now:2017-03-15 21:17:59.398, time delay: 368 (doQueue)
+2017-03-15 21:17:59.402 : message from A1(10300, v5)
+2017-03-15 21:17:59.405 : Check board for A on table with TBS, round 1 to 5: 36/60 (DB_check_BoardResult)
+2017-03-15 21:17:59.409 : Save result(TBS):A1,13,4,1,5,0,0,3 NT,S,-2,S3,
+2017-03-15 21:17:59.410 : Get board deal: 13 (Get_AllDeal)
+2017-03-15 21:17:59.411 : Get traveler feedback data
+2017-03-15 21:17:59.414 : TX => FF 28 3C 01 33 00 98
+2017-03-15 21:18:13.270 : Check game data
+2017-03-15 21:19:13.285 : Check game data
+2017-03-15 21:19:25.712 : RX <= FF 28 3C 02 58 0D 00 CB
+2017-03-15 21:19:25.724 : Do message, 141, msg:2017-03-15 21:19:25.702, now:2017-03-15 21:19:25.724, time delay: 22 (doQueue)
+2017-03-15 21:19:25.735 : message from A1(10300, v5)
+2017-03-15 21:19:25.743 : Check board for A on table with TBS, round 1 to 5: 37/60 (DB_check_BoardResult)
+2017-03-15 21:19:25.746 : Get dealt card
+2017-03-15 21:19:25.748 : Get board deal: 13 (Get_AllDeal)
+2017-03-15 21:19:25.754 : TX => FF 28 3C 1B 59 0D 19 D0 63 2B 3C 25 D5 28 6C B6 BB 87 37 00 78 68 77 76 46 65 78 77 86 46 55 0A DD
+2017-03-15 21:20:13.321 : Check game data
+2017-03-15 21:21:13.344 : Check game data
+2017-03-15 21:22:13.352 : Check game data
+2017-03-15 21:22:50.119 : RX <= FF 28 3B 07 34 0D 23 22 10 06 03 01 09
+2017-03-15 21:22:50.124 : Do message, 142, msg:2017-03-15 21:22:50.096, now:2017-03-15 21:22:50.124, time delay: 28 (doQueue)
+2017-03-15 21:22:50.132 : message from A2(10299, v5)
+2017-03-15 21:22:50.139 : Check board for A on table with TBS, round 1 to 5: 37/60 (DB_check_BoardResult)
+2017-03-15 21:22:50.153 : Save result(TBS):A2,13,4,6,3,0,0,3 NT,S,-1,C4,
+2017-03-15 21:22:50.155 : Get board deal: 13 (Get_AllDeal)
+2017-03-15 21:22:50.156 : Get traveler feedback data
+2017-03-15 21:22:50.162 : TX => FF 28 3B 04 33 23 1E 0F 00 EA
+2017-03-15 21:23:02.335 : RX <= FF 28 3B 02 58 0D 00 CA
+2017-03-15 21:23:02.344 : Do message, 143, msg:2017-03-15 21:23:02.329, now:2017-03-15 21:23:02.344, time delay: 15 (doQueue)
+2017-03-15 21:23:02.359 : message from A2(10299, v5)
+2017-03-15 21:23:02.370 : Check board for A on table with TBS, round 1 to 5: 38/60 (DB_check_BoardResult)
+2017-03-15 21:23:02.372 : Get dealt card
+2017-03-15 21:23:02.373 : Get board deal: 13 (Get_AllDeal)
+2017-03-15 21:23:02.376 : TX => FF 28 3B 1B 59 0D 19 D0 63 2B 3C 25 D5 28 6C B6 BB 87 37 00 78 68 77 76 46 65 78 77 86 46 55 0A DC
+2017-03-15 21:23:13.375 : Check game data
+2017-03-15 21:23:53.227 : RX <= FF 28 3A 15 52 0D 00 00 00 01 00 19 00 0A 00 12 00 22 00 1B 00 23 00 00 00 01 6C
+2017-03-15 21:23:53.228 : Do message, 144, msg:2017-03-15 21:23:53.206, now:2017-03-15 21:23:53.228, time delay: 22 (doQueue)
+2017-03-15 21:23:53.242 : message from A3(10298, v5)
+2017-03-15 21:23:53.250 : Check board for A on table with TBS, round 1 to 5: 38/60 (DB_check_BoardResult)
+2017-03-15 21:23:53.299 : Bid sequence:PASS,PASS,1C,PASS,1S,PASS,2D,PASS,2H,PASS,2NT,PASS,3S,PASS,3NT,PASS,PASS,PASS (doMsg)
+2017-03-15 21:23:53.300 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 21:24:03.129 : RX <= FF 28 3C 0F 52 0E 01 00 00 01 00 19 00 1A 00 1C 00 00 00 01 24
+2017-03-15 21:24:03.140 : Do message, 145, msg:2017-03-15 21:24:03.125, now:2017-03-15 21:24:03.140, time delay: 15 (doQueue)
+2017-03-15 21:24:03.144 : message from A1(10300, v5)
+2017-03-15 21:24:03.146 : Check board for A on table with TBS, round 1 to 5: 38/60 (DB_check_BoardResult)
+2017-03-15 21:24:03.175 : Bid sequence:PASS,PASS,1C,PASS,1S,PASS,2S,PASS,4S,PASS,PASS,PASS (doMsg)
+2017-03-15 21:24:03.176 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 21:24:13.389 : Check game data
+2017-03-15 21:24:15.579 : RX <= FF 28 3C 07 34 0E 1C 25 30 01 05 01 24
+2017-03-15 21:24:15.579 : Do message, 146, msg:2017-03-15 21:24:15.577, now:2017-03-15 21:24:15.579, time delay: 2 (doQueue)
+2017-03-15 21:24:15.583 : message from A1(10300, v5)
+2017-03-15 21:24:15.586 : Check board for A on table with TBS, round 1 to 5: 38/60 (DB_check_BoardResult)
+2017-03-15 21:24:15.590 : Save result(TBS):A1,14,4,1,5,0,0,4 S,E,-1,CQ,
+2017-03-15 21:24:15.591 : Get board deal: 14 (Get_AllDeal)
+2017-03-15 21:24:15.592 : Get traveler feedback data
+2017-03-15 21:24:15.595 : TX => FF 28 3C 01 33 00 98
+2017-03-15 21:24:17.801 : RX <= FF 28 3C 02 58 0E 00 CC
+2017-03-15 21:24:17.810 : Do message, 147, msg:2017-03-15 21:24:17.787, now:2017-03-15 21:24:17.810, time delay: 23 (doQueue)
+2017-03-15 21:24:17.874 : message from A1(10300, v5)
+2017-03-15 21:24:17.877 : Check board for A on table with TBS, round 1 to 5: 39/60 (DB_check_BoardResult)
+2017-03-15 21:24:17.878 : Get dealt card
+2017-03-15 21:24:17.878 : Get board deal: 14 (Get_AllDeal)
+2017-03-15 21:24:17.880 : TX => FF 28 3C 1B 59 0E 4D FB 64 74 E9 A8 09 8B 3D 0B E3 53 58 81 AE 37 73 3A 66 AA 37 73 3A 66 A9 0C 17
+2017-03-15 21:25:13.399 : Check game data
+2017-03-15 21:26:13.423 : Check game data
+2017-03-15 21:26:57.179 : RX <= FF 28 3B 0D 52 0E 01 19 00 03 00 1B 00 1C 00 00 00 01 24
+2017-03-15 21:26:57.188 : Do message, 148, msg:2017-03-15 21:26:57.174, now:2017-03-15 21:26:57.188, time delay: 14 (doQueue)
+2017-03-15 21:26:57.198 : message from A2(10299, v5)
+2017-03-15 21:26:57.206 : Check board for A on table with TBS, round 1 to 5: 39/60 (DB_check_BoardResult)
+2017-03-15 21:26:57.238 : Bid sequence:1S,PASS,3C,PASS,3S,PASS,4S,PASS,PASS,PASS (doMsg)
+2017-03-15 21:26:57.239 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 21:27:13.427 : Check game data
+2017-03-15 21:27:37.773 : RX <= FF 28 3A 07 34 0D 23 22 08 04 02 00 FD
+2017-03-15 21:27:37.774 : Do message, 149, msg:2017-03-15 21:27:37.753, now:2017-03-15 21:27:37.774, time delay: 21 (doQueue)
+2017-03-15 21:27:37.784 : message from A3(10298, v5)
+2017-03-15 21:27:37.793 : Check board for A on table with TBS, round 1 to 5: 39/60 (DB_check_BoardResult)
+2017-03-15 21:27:37.800 : Save result(TBS):A3,13,4,4,2,0,0,3 NT,S,-1,C2,
+2017-03-15 21:27:37.801 : Get board deal: 13 (Get_AllDeal)
+2017-03-15 21:27:37.802 : Get traveler feedback data
+2017-03-15 21:27:37.806 : TX => FF 28 3A 07 33 23 22 10 23 1E 0F 01 41
+2017-03-15 21:27:50.235 : RX <= FF 28 3C 11 52 0F 02 00 09 11 21 12 00 00 0B 00 00 13 00 00 00 01 43
+2017-03-15 21:27:50.256 : Do message, 150, msg:2017-03-15 21:27:50.228, now:2017-03-15 21:27:50.256, time delay: 28 (doQueue)
+2017-03-15 21:27:50.260 : message from A1(10300, v5)
+2017-03-15 21:27:50.263 : Check board for A on table with TBS, round 1 to 5: 40/60 (DB_check_BoardResult)
+2017-03-15 21:27:50.292 : Bid sequence:PASS,1D,1H,1NT,2H,PASS,PASS,3D,PASS,PASS,3H,PASS,PASS,PASS (doMsg)
+2017-03-15 21:27:50.293 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 21:28:13.453 : Check game data
+2017-03-15 21:29:13.452 : Check game data
+2017-03-15 21:29:38.656 : RX <= FF 28 3B 07 34 0E 1C 29 26 06 03 01 20
+2017-03-15 21:29:38.677 : Do message, 151, msg:2017-03-15 21:29:38.651, now:2017-03-15 21:29:38.677, time delay: 26 (doQueue)
+2017-03-15 21:29:38.682 : message from A2(10299, v5)
+2017-03-15 21:29:38.685 : Check board for A on table with TBS, round 1 to 5: 40/60 (DB_check_BoardResult)
+2017-03-15 21:29:38.691 : Save result(TBS):A2,14,4,6,3,0,0,4 S,E,=,H9,
+2017-03-15 21:29:38.692 : Get board deal: 14 (Get_AllDeal)
+2017-03-15 21:29:38.693 : Get traveler feedback data
+2017-03-15 21:29:38.698 : TX => FF 28 3B 04 33 1C 25 30 01 0B
+2017-03-15 21:29:48.611 : RX <= FF 28 3B 02 58 0E 00 CB
+2017-03-15 21:29:48.612 : Do message, 152, msg:2017-03-15 21:29:48.605, now:2017-03-15 21:29:48.612, time delay: 7 (doQueue)
+2017-03-15 21:29:48.622 : message from A2(10299, v5)
+2017-03-15 21:29:48.629 : Check board for A on table with TBS, round 1 to 5: 41/60 (DB_check_BoardResult)
+2017-03-15 21:29:48.630 : Get dealt card
+2017-03-15 21:29:48.631 : Get board deal: 14 (Get_AllDeal)
+2017-03-15 21:29:48.634 : TX => FF 28 3B 1B 59 0E 4D FB 64 74 E9 A8 09 8B 3D 0B E3 53 58 81 AE 37 73 3A 66 AA 37 73 3A 66 A9 0C 16
+2017-03-15 21:30:13.459 : Check game data
+2017-03-15 21:31:13.469 : Check game data
+2017-03-15 21:32:13.485 : Check game data
+2017-03-15 21:32:31.649 : RX <= FF 28 3C 07 34 0F 13 28 2D 01 05 01 1C
+2017-03-15 21:32:31.649 : Do message, 153, msg:2017-03-15 21:32:31.645, now:2017-03-15 21:32:31.649, time delay: 4 (doQueue)
+2017-03-15 21:32:31.653 : message from A1(10300, v5)
+2017-03-15 21:32:31.656 : Check board for A on table with TBS, round 1 to 5: 41/60 (DB_check_BoardResult)
+2017-03-15 21:32:31.660 : Save result(TBS):A1,15,4,1,5,0,0,3 H,N,+1,DJ,
+2017-03-15 21:32:31.661 : Get board deal: 15 (Get_AllDeal)
+2017-03-15 21:32:31.662 : Get traveler feedback data
+2017-03-15 21:32:31.665 : TX => FF 28 3C 01 33 00 98
+2017-03-15 21:32:33.923 : RX <= FF 28 3C 02 58 0F 00 CD
+2017-03-15 21:32:33.946 : Do message, 154, msg:2017-03-15 21:32:33.912, now:2017-03-15 21:32:33.946, time delay: 34 (doQueue)
+2017-03-15 21:32:33.957 : message from A1(10300, v5)
+2017-03-15 21:32:33.967 : Check board for A on table with TBS, round 1 to 5: 42/60 (DB_check_BoardResult)
+2017-03-15 21:32:33.970 : Get dealt card
+2017-03-15 21:32:33.973 : Get board deal: 15 (Get_AllDeal)
+2017-03-15 21:32:33.980 : TX => FF 28 3C 1B 59 0F F1 3B 49 06 23 41 2E 97 9B BC 6D 0B 67 00 8C 55 96 77 84 76 55 96 77 84 76 0B 05
+2017-03-15 21:33:07.098 : RX <= FF 28 3B 0D 52 0F 02 00 09 11 0A 12 0B 13 00 00 00 01 27
+2017-03-15 21:33:07.109 : Do message, 155, msg:2017-03-15 21:33:07.086, now:2017-03-15 21:33:07.109, time delay: 23 (doQueue)
+2017-03-15 21:33:07.119 : message from A2(10299, v5)
+2017-03-15 21:33:07.128 : Check board for A on table with TBS, round 1 to 5: 42/60 (DB_check_BoardResult)
+2017-03-15 21:33:07.168 : Bid sequence:PASS,1D,1H,2D,2H,3D,3H,PASS,PASS,PASS (doMsg)
+2017-03-15 21:33:07.169 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 21:33:13.150 : RX <= FF 28 3B 0D 52 0F 02 00 09 11 0A 12 0B 13 00 00 00 01 27
+2017-03-15 21:33:13.152 : Do message, 156, msg:2017-03-15 21:33:13.136, now:2017-03-15 21:33:13.152, time delay: 16 (doQueue)
+2017-03-15 21:33:13.164 : message from A2(10299, v5)
+2017-03-15 21:33:13.170 : Check board for A on table with TBS, round 1 to 5: 42/60 (DB_check_BoardResult)
+2017-03-15 21:33:13.204 : Bid sequence:PASS,1D,1H,2D,2H,3D,3H,PASS,PASS,PASS (doMsg)
+2017-03-15 21:33:13.205 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 21:33:13.498 : Check game data
+2017-03-15 21:33:54.677 : RX <= FF 28 3A 0F 52 0E 01 19 00 03 00 1B 00 04 00 1C 00 00 00 01 29
+2017-03-15 21:33:54.678 : Do message, 157, msg:2017-03-15 21:33:54.670, now:2017-03-15 21:33:54.678, time delay: 8 (doQueue)
+2017-03-15 21:33:54.688 : message from A3(10298, v5)
+2017-03-15 21:33:54.697 : Check board for A on table with TBS, round 1 to 5: 42/60 (DB_check_BoardResult)
+2017-03-15 21:33:54.752 : Bid sequence:1S,PASS,3C,PASS,3S,PASS,4C,PASS,4S,PASS,PASS,PASS (doMsg)
+2017-03-15 21:33:54.754 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 21:34:13.500 : Check game data
+2017-03-15 21:35:13.502 : Check game data
+2017-03-15 21:36:13.534 : Check game data
+2017-03-15 21:37:13.531 : Check game data
+2017-03-15 21:37:56.932 : RX <= FF 28 3C 0A 52 10 03 09 02 00 1A 00 00 00 00 F8
+2017-03-15 21:37:56.941 : Do message, 158, msg:2017-03-15 21:37:56.926, now:2017-03-15 21:37:56.941, time delay: 15 (doQueue)
+2017-03-15 21:37:56.951 : message from A1(10300, v5)
+2017-03-15 21:37:56.960 : Check board for A on table with TBS, round 1 to 5: 42/60 (DB_check_BoardResult)
+2017-03-15 21:37:56.985 : Bid sequence:1D,2C,PASS,2S,PASS,PASS,PASS (doMsg)
+2017-03-15 21:37:56.987 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 21:38:13.537 : Check game data
+2017-03-15 21:39:13.545 : Check game data
+2017-03-15 21:40:08.009 : RX <= FF 28 3C 07 34 10 1A 2A 05 01 05 00 FE
+2017-03-15 21:40:08.016 : Do message, 159, msg:2017-03-15 21:40:08.003, now:2017-03-15 21:40:08.016, time delay: 13 (doQueue)
+2017-03-15 21:40:08.027 : message from A1(10300, v5)
+2017-03-15 21:40:08.037 : Check board for A on table with TBS, round 1 to 5: 42/60 (DB_check_BoardResult)
+2017-03-15 21:40:08.045 : Save result(TBS):A1,16,4,1,5,0,0,2 S,S,+2,DA,
+2017-03-15 21:40:08.047 : Get board deal: 16 (Get_AllDeal)
+2017-03-15 21:40:08.049 : Get traveler feedback data
+2017-03-15 21:40:08.054 : TX => FF 28 3C 01 33 00 98
+2017-03-15 21:40:10.332 : RX <= FF 28 3C 02 58 10 00 CE
+2017-03-15 21:40:10.332 : Do message, 160, msg:2017-03-15 21:40:10.319, now:2017-03-15 21:40:10.332, time delay: 13 (doQueue)
+2017-03-15 21:40:10.337 : message from A1(10300, v5)
+2017-03-15 21:40:10.341 : Check board for A on table with TBS, round 1 to 5: 43/60 (DB_check_BoardResult)
+2017-03-15 21:40:10.342 : Get dealt card
+2017-03-15 21:40:10.343 : Get board deal: 16 (Get_AllDeal)
+2017-03-15 21:40:10.344 : TX => FF 28 3C 1B 59 10 38 72 9A BD 8F 46 8C B5 F3 6A 00 D5 74 00 8C 85 59 82 76 12 85 59 82 76 12 0C 01
+2017-03-15 21:40:13.546 : Check game data
+2017-03-15 21:40:30.587 : RX <= FF 28 3C 01 38 00 9D
+2017-03-15 21:40:30.592 : Do message, 161, msg:2017-03-15 21:40:30.567, now:2017-03-15 21:40:30.592, time delay: 25 (doQueue)
+2017-03-15 21:40:30.598 : message from A1(10300, v5)
+2017-03-15 21:40:30.603 : Check board for A on table with TBS, round 1 to 5: 43/60 (DB_check_BoardResult)
+2017-03-15 21:40:30.608 : Get ranking data
+2017-03-15 21:40:30.608 : Calculate pair score
+2017-03-15 21:40:30.641 : TX => FF 28 3C 15 39 11 00 00 04 44 00 06 38 00 02 34 00 05 31 00 01 31 00 03 1C 02 06
+2017-03-15 21:41:00.456 : RX <= FF 28 3B 07 34 0F 13 20 2D 06 03 01 16
+2017-03-15 21:41:00.456 : Do message, 162, msg:2017-03-15 21:41:00.445, now:2017-03-15 21:41:00.456, time delay: 11 (doQueue)
+2017-03-15 21:41:00.460 : message from A2(10299, v5)
+2017-03-15 21:41:00.463 : Check board for A on table with TBS, round 1 to 5: 43/60 (DB_check_BoardResult)
+2017-03-15 21:41:00.467 : Save result(TBS):A2,15,4,6,3,0,0,3 H,N,-1,DJ,
+2017-03-15 21:41:00.468 : Get board deal: 15 (Get_AllDeal)
+2017-03-15 21:41:00.469 : Get traveler feedback data
+2017-03-15 21:41:00.473 : TX => FF 28 3B 04 33 13 28 2D 01 02
+2017-03-15 21:41:03.070 : RX <= FF 28 3B 02 58 0F 00 CC
+2017-03-15 21:41:03.070 : Do message, 163, msg:2017-03-15 21:41:03.051, now:2017-03-15 21:41:03.070, time delay: 19 (doQueue)
+2017-03-15 21:41:03.075 : message from A2(10299, v5)
+2017-03-15 21:41:03.079 : Check board for A on table with TBS, round 1 to 5: 44/60 (DB_check_BoardResult)
+2017-03-15 21:41:03.080 : Get dealt card
+2017-03-15 21:41:03.081 : Get board deal: 15 (Get_AllDeal)
+2017-03-15 21:41:03.083 : TX => FF 28 3B 1B 59 0F F1 3B 49 06 23 41 2E 97 9B BC 6D 0B 67 00 8C 55 96 77 84 76 55 96 77 84 76 0B 04
+2017-03-15 21:41:13.547 : Check game data
+2017-03-15 21:41:49.739 : RX <= FF 28 3A 07 34 0E 1C 2D 2A 04 02 01 24
+2017-03-15 21:41:49.757 : Do message, 164, msg:2017-03-15 21:41:49.735, now:2017-03-15 21:41:49.757, time delay: 22 (doQueue)
+2017-03-15 21:41:49.762 : message from A3(10298, v5)
+2017-03-15 21:41:49.765 : Check board for A on table with TBS, round 1 to 5: 44/60 (DB_check_BoardResult)
+2017-03-15 21:41:49.770 : Save result(TBS):A3,14,4,4,2,0,0,4 S,E,+1,HT,
+2017-03-15 21:41:49.771 : Get board deal: 14 (Get_AllDeal)
+2017-03-15 21:41:49.772 : Get traveler feedback data
+2017-03-15 21:41:49.775 : TX => FF 28 3A 07 33 1C 25 30 1C 29 26 01 78
+2017-03-15 21:42:13.550 : Check game data
+2017-03-15 21:42:23.688 : RX <= FF 28 3A 02 58 0E 00 CA
+2017-03-15 21:42:23.689 : Do message, 165, msg:2017-03-15 21:42:23.675, now:2017-03-15 21:42:23.689, time delay: 14 (doQueue)
+2017-03-15 21:42:23.700 : message from A3(10298, v5)
+2017-03-15 21:42:23.711 : Check board for A on table with TBS, round 1 to 5: 45/60 (DB_check_BoardResult)
+2017-03-15 21:42:23.714 : Get dealt card
+2017-03-15 21:42:23.717 : Get board deal: 14 (Get_AllDeal)
+2017-03-15 21:42:23.723 : TX => FF 28 3A 1B 59 0E 4D FB 64 74 E9 A8 09 8B 3D 0B E3 53 58 81 AE 37 73 3A 66 AA 37 73 3A 66 A9 0C 15
+2017-03-15 21:43:13.570 : Check game data
+2017-03-15 21:44:13.597 : Check game data
+2017-03-15 21:45:13.612 : Check game data
+2017-03-15 21:45:54.782 : RX <= FF 28 3B 0A 52 10 03 09 02 00 1A 00 00 00 00 F7
+2017-03-15 21:45:54.784 : Do message, 166, msg:2017-03-15 21:45:54.777, now:2017-03-15 21:45:54.784, time delay: 7 (doQueue)
+2017-03-15 21:45:54.795 : message from A2(10299, v5)
+2017-03-15 21:45:54.804 : Check board for A on table with TBS, round 1 to 5: 45/60 (DB_check_BoardResult)
+2017-03-15 21:45:54.828 : Bid sequence:1D,2C,PASS,2S,PASS,PASS,PASS (doMsg)
+2017-03-15 21:45:54.829 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 21:46:01.491 : RX <= FF 28 3B 0A 52 10 03 09 02 00 1A 00 00 00 00 F7
+2017-03-15 21:46:01.499 : Do message, 167, msg:2017-03-15 21:46:01.474, now:2017-03-15 21:46:01.499, time delay: 25 (doQueue)
+2017-03-15 21:46:01.512 : message from A2(10299, v5)
+2017-03-15 21:46:01.521 : Check board for A on table with TBS, round 1 to 5: 45/60 (DB_check_BoardResult)
+2017-03-15 21:46:01.552 : Bid sequence:1D,2C,PASS,2S,PASS,PASS,PASS (doMsg)
+2017-03-15 21:46:01.554 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 21:46:13.630 : Check game data
+2017-03-15 21:46:21.188 : RX <= FF 28 3B 07 34 10 1A 2A 06 06 03 01 01
+2017-03-15 21:46:21.207 : Do message, 168, msg:2017-03-15 21:46:21.184, now:2017-03-15 21:46:21.207, time delay: 23 (doQueue)
+2017-03-15 21:46:21.217 : message from A2(10299, v5)
+2017-03-15 21:46:21.228 : Check board for A on table with TBS, round 1 to 5: 45/60 (DB_check_BoardResult)
+2017-03-15 21:46:21.239 : Save result(TBS):A2,16,4,6,3,0,0,2 S,S,+2,HA,
+2017-03-15 21:46:21.240 : Get board deal: 16 (Get_AllDeal)
+2017-03-15 21:46:21.241 : Get traveler feedback data
+2017-03-15 21:46:21.247 : TX => FF 28 3B 04 33 1A 2A 05 00 E3
+2017-03-15 21:46:24.115 : RX <= FF 28 3B 02 58 10 00 CD
+2017-03-15 21:46:24.115 : Do message, 169, msg:2017-03-15 21:46:24.062, now:2017-03-15 21:46:24.115, time delay: 53 (doQueue)
+2017-03-15 21:46:24.127 : message from A2(10299, v5)
+2017-03-15 21:46:24.135 : Check board for A on table with TBS, round 1 to 5: 46/60 (DB_check_BoardResult)
+2017-03-15 21:46:24.138 : Get dealt card
+2017-03-15 21:46:24.141 : Get board deal: 16 (Get_AllDeal)
+2017-03-15 21:46:24.146 : TX => FF 28 3B 1B 59 10 38 72 9A BD 8F 46 8C B5 F3 6A 00 D5 74 00 8C 85 59 82 76 12 85 59 82 76 12 0C 00
+2017-03-15 21:46:34.157 : RX <= FF 28 3B 01 38 00 9C
+2017-03-15 21:46:34.158 : Do message, 170, msg:2017-03-15 21:46:34.148, now:2017-03-15 21:46:34.158, time delay: 10 (doQueue)
+2017-03-15 21:46:34.168 : message from A2(10299, v5)
+2017-03-15 21:46:34.177 : Check board for A on table with TBS, round 1 to 5: 46/60 (DB_check_BoardResult)
+2017-03-15 21:46:34.192 : Get ranking data
+2017-03-15 21:46:34.193 : Calculate pair score
+2017-03-15 21:46:34.230 : TX => FF 28 3B 15 39 11 00 00 04 3F 00 02 37 00 06 36 00 01 35 00 05 2C 00 03 1F 02 03
+2017-03-15 21:47:13.657 : Check game data
+2017-03-15 21:47:32.210 : RX <= FF 28 3A 0B 52 0F 02 00 09 11 21 12 00 00 00 01 1D
+2017-03-15 21:47:32.211 : Do message, 171, msg:2017-03-15 21:47:32.205, now:2017-03-15 21:47:32.211, time delay: 6 (doQueue)
+2017-03-15 21:47:32.221 : message from A3(10298, v5)
+2017-03-15 21:47:32.232 : Check board for A on table with TBS, round 1 to 5: 46/60 (DB_check_BoardResult)
+2017-03-15 21:47:32.268 : Bid sequence:PASS,1D,1H,1NT,2H,PASS,PASS,PASS (doMsg)
+2017-03-15 21:47:32.269 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 21:48:13.679 : Check game data
+2017-03-15 21:49:13.706 : Check game data
+2017-03-15 21:50:13.721 : Check game data
+2017-03-15 21:51:13.732 : Check game data
+2017-03-15 21:52:13.756 : Check game data
+2017-03-15 21:52:58.428 : RX <= FF 28 3A 07 34 0F 12 24 2D 04 02 01 15
+2017-03-15 21:52:58.445 : Do message, 172, msg:2017-03-15 21:52:58.424, now:2017-03-15 21:52:58.445, time delay: 21 (doQueue)
+2017-03-15 21:52:58.455 : message from A3(10298, v5)
+2017-03-15 21:52:58.465 : Check board for A on table with TBS, round 1 to 5: 46/60 (DB_check_BoardResult)
+2017-03-15 21:52:58.472 : Save result(TBS):A3,15,4,4,2,0,0,2 H,N,+1,DJ,
+2017-03-15 21:52:58.474 : Get board deal: 15 (Get_AllDeal)
+2017-03-15 21:52:58.475 : Get traveler feedback data
+2017-03-15 21:52:58.480 : TX => FF 28 3A 07 33 13 28 2D 13 20 2D 01 64
+2017-03-15 21:53:13.768 : Check game data
+2017-03-15 21:53:22.596 : RX <= FF 28 3A 02 58 0F 00 CB
+2017-03-15 21:53:22.598 : Do message, 173, msg:2017-03-15 21:53:22.586, now:2017-03-15 21:53:22.598, time delay: 12 (doQueue)
+2017-03-15 21:53:22.609 : message from A3(10298, v5)
+2017-03-15 21:53:22.618 : Check board for A on table with TBS, round 1 to 5: 47/60 (DB_check_BoardResult)
+2017-03-15 21:53:22.619 : Get dealt card
+2017-03-15 21:53:22.621 : Get board deal: 15 (Get_AllDeal)
+2017-03-15 21:53:22.623 : TX => FF 28 3A 1B 59 0F F1 3B 49 06 23 41 2E 97 9B BC 6D 0B 67 00 8C 55 96 77 84 76 55 96 77 84 76 0B 03
+2017-03-15 21:54:13.804 : Check game data
+2017-03-15 21:55:13.837 : Check game data
+2017-03-15 21:56:13.863 : Check game data
+2017-03-15 21:57:13.875 : Check game data
+2017-03-15 21:58:13.893 : Check game data
+2017-03-15 21:59:13.906 : Check game data
+2017-03-15 21:59:29.181 : RX <= FF 28 3A 10 52 10 03 09 02 00 1A 40 00 0B 00 00 1B 00 00 00 01 62
+2017-03-15 21:59:29.182 : Do message, 174, msg:2017-03-15 21:59:29.158, now:2017-03-15 21:59:29.182, time delay: 24 (doQueue)
+2017-03-15 21:59:29.194 : message from A3(10298, v5)
+2017-03-15 21:59:29.202 : Check board for A on table with TBS, round 1 to 5: 47/60 (DB_check_BoardResult)
+2017-03-15 21:59:29.248 : Bid sequence:1D,2C,PASS,2S,X,PASS,3D,PASS,PASS,3S,PASS,PASS,PASS (doMsg)
+2017-03-15 21:59:29.249 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 22:00:06.086 : RX <= FF 28 3C 05 3C 01 03 00 00 00 A9
+2017-03-15 22:00:06.087 : Do message, 175, msg:2017-03-15 22:00:06.065, now:2017-03-15 22:00:06.087, time delay: 22 (doQueue)
+2017-03-15 22:00:06.097 : message from A1(10300, v5)
+2017-03-15 22:00:06.106 : Check board for A on table with TBS, round 1 to 5: 47/60 (DB_check_BoardResult)
+2017-03-15 22:00:06.118 : Get seating name: 14569,N,Maksym Wa³aszewski
+2017-03-15 22:00:06.118 : Get seating name: 17214,N,Karol Konopko
+2017-03-15 22:00:06.118 : Get seating name: 1305,S,Grzegorz Gardynik
+2017-03-15 22:00:06.118 : Get seating name: 14971,S,Bartosz Æwiek
+2017-03-15 22:00:06.119 : TX => FF 28 3C 52 3D 50 4D 61 6B 73 79 6D 20 57 61 B3 61 73 7A 65 77 73 6B 69 00 00 4B 61 72 6F 6C 20 4B 6F 6E 6F 70 6B 6F 00 00 00 00 00 00 00 47 72 7A 65 67 6F 72 7A 20 47 61 72 64 79 6E 69 6B 00 00 00 42 61 72 74 6F 73 7A 20 C6 77 69 65 6B 00 00 00 00 00 00 00 19 D9
+2017-03-15 22:00:13.927 : Check game data
+2017-03-15 22:01:13.937 : Check game data
+2017-03-15 22:02:13.970 : Check game data
+2017-03-15 22:03:09.306 : RX <= FF 28 3A 07 34 10 1B 2E 36 04 02 01 32
+2017-03-15 22:03:09.314 : Do message, 176, msg:2017-03-15 22:03:09.284, now:2017-03-15 22:03:09.314, time delay: 30 (doQueue)
+2017-03-15 22:03:09.324 : message from A3(10298, v5)
+2017-03-15 22:03:09.333 : Check board for A on table with TBS, round 1 to 5: 47/60 (DB_check_BoardResult)
+2017-03-15 22:03:09.346 : Save result(TBS):A3,16,4,4,2,0,0,3 S,S,+2,HK,
+2017-03-15 22:03:09.349 : Get board deal: 16 (Get_AllDeal)
+2017-03-15 22:03:09.351 : Get traveler feedback data
+2017-03-15 22:03:09.360 : TX => FF 28 3A 07 33 1A 2A 06 1A 2A 05 01 2F
+2017-03-15 22:03:13.986 : Check game data
+2017-03-15 22:03:32.806 : RX <= FF 28 3A 02 58 10 00 CC
+2017-03-15 22:03:32.814 : Do message, 177, msg:2017-03-15 22:03:32.802, now:2017-03-15 22:03:32.814, time delay: 12 (doQueue)
+2017-03-15 22:03:32.826 : message from A3(10298, v5)
+2017-03-15 22:03:32.835 : Check board for A on table with TBS, round 1 to 5: 48/60 (DB_check_BoardResult)
+2017-03-15 22:03:32.837 : Get dealt card
+2017-03-15 22:03:32.839 : Get board deal: 16 (Get_AllDeal)
+2017-03-15 22:03:32.844 : TX => FF 28 3A 1B 59 10 38 72 9A BD 8F 46 8C B5 F3 6A 00 D5 74 00 8C 85 59 82 76 12 85 59 82 76 12 0B FF
+2017-03-15 22:03:39.428 : RX <= FF 28 3A 01 38 00 9B
+2017-03-15 22:03:39.429 : Do message, 178, msg:2017-03-15 22:03:39.404, now:2017-03-15 22:03:39.429, time delay: 25 (doQueue)
+2017-03-15 22:03:39.442 : message from A3(10298, v5)
+2017-03-15 22:03:39.450 : Check board for A on table with TBS, round 1 to 5: 48/60 (DB_check_BoardResult)
+2017-03-15 22:03:39.457 : Get ranking data
+2017-03-15 22:03:39.458 : Calculate pair score
+2017-03-15 22:03:39.499 : TX => FF 28 3A 15 39 11 00 00 04 3F 00 01 35 00 02 35 00 06 34 00 05 2C 00 03 22 02 01
+2017-03-15 22:04:13.999 : Check game data
+2017-03-15 22:05:14.021 : Check game data
+2017-03-15 22:06:14.051 : Check game data
+2017-03-15 22:07:14.064 : Check game data
+2017-03-15 22:08:14.095 : Check game data
+2017-03-15 22:09:14.131 : Check game data
+2017-03-15 22:10:14.158 : Check game data
+2017-03-15 22:11:14.192 : Check game data
+2017-03-15 22:11:29.143 : RX <= FF 28 3A 05 3C 06 04 00 00 00 AD
+2017-03-15 22:11:29.143 : Do message, 179, msg:2017-03-15 22:11:29.138, now:2017-03-15 22:11:29.143, time delay: 5 (doQueue)
+2017-03-15 22:11:29.153 : message from A3(10298, v5)
+2017-03-15 22:11:29.160 : Check board for A on table with TBS, round 1 to 5: 48/60 (DB_check_BoardResult)
+2017-03-15 22:11:29.167 : Get seating name: 16053,E,Filip Czaplicki
+2017-03-15 22:11:29.168 : Get seating name: 18014,E,Krystyn Jêdrzejewska
+2017-03-15 22:11:29.168 : Get seating name: 17451,W,Wojcie Grzegorzewski
+2017-03-15 22:11:29.169 : Get seating name: 18015,W,Ireneus Jêdrzejewski
+2017-03-15 22:11:29.171 : TX => FF 28 3A 52 3D 50 46 69 6C 69 70 20 43 7A 61 70 6C 69 63 6B 69 00 00 00 00 00 4B 72 79 73 74 79 6E 20 4A EA 64 72 7A 65 6A 65 77 73 6B 61 57 6F 6A 63 69 65 20 47 72 7A 65 67 6F 72 7A 65 77 73 6B 69 49 72 65 6E 65 75 73 20 4A EA 64 72 7A 65 6A 65 77 73 6B 69 1F F0
+2017-03-15 22:12:14.202 : Check game data
+2017-03-15 22:13:14.220 : Check game data
+2017-03-15 22:14:14.225 : Check game data
+2017-03-15 22:15:14.242 : Check game data
+2017-03-15 22:16:14.267 : Check game data
+2017-03-15 22:17:07.695 : RX <= FF 28 3A 12 52 11 00 00 01 09 19 21 00 00 12 00 13 00 14 00 00 00 01 54
+2017-03-15 22:17:07.701 : Do message, 180, msg:2017-03-15 22:17:07.672, now:2017-03-15 22:17:07.701, time delay: 29 (doQueue)
+2017-03-15 22:17:07.707 : message from A3(10298, v5)
+2017-03-15 22:17:07.716 : Check board for A on table with TBS, round 1 to 5: 48/60 (DB_check_BoardResult)
+2017-03-15 22:17:07.770 : Bid sequence:PASS,1C,1D,1S,1NT,PASS,PASS,2H,PASS,3H,PASS,4H,PASS,PASS,PASS (doMsg)
+2017-03-15 22:17:07.771 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 22:17:14.265 : Check game data
+2017-03-15 22:17:58.563 : RX <= FF 28 3C 1A 52 11 00 00 09 00 19 00 02 00 0A 00 1A 00 13 00 1B 00 04 00 0C 00 14 00 00 00 01 7B
+2017-03-15 22:17:58.586 : Do message, 181, msg:2017-03-15 22:17:58.555, now:2017-03-15 22:17:58.586, time delay: 31 (doQueue)
+2017-03-15 22:17:58.593 : message from A1(10300, v5)
+2017-03-15 22:17:58.600 : Check board for A on table with TBS, round 1 to 5: 48/60 (DB_check_BoardResult)
+2017-03-15 22:17:58.671 : Bid sequence:PASS,1D,PASS,1S,PASS,2C,PASS,2D,PASS,2S,PASS,3H,PASS,3S,PASS,4C,PASS,4D,PASS,4H,PASS,PASS,PASS (doMsg)
+2017-03-15 22:17:58.672 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 22:18:14.268 : Check game data
+2017-03-15 22:19:14.264 : Check game data
+2017-03-15 22:20:14.271 : Check game data
+2017-03-15 22:21:07.741 : RX <= FF 28 3B 07 34 11 1C 27 09 05 02 01 02
+2017-03-15 22:21:07.749 : Do message, 182, msg:2017-03-15 22:21:07.726, now:2017-03-15 22:21:07.749, time delay: 23 (doQueue)
+2017-03-15 22:21:07.760 : message from A2(10299, v5)
+2017-03-15 22:21:07.771 : Check board for A on table with TBS, round 1 to 5: 48/60 (DB_check_BoardResult)
+2017-03-15 22:21:07.783 : Save result(TBS):A2,17,5,5,2,0,0,4 S,W,-1,D2,
+2017-03-15 22:21:07.785 : Get board deal: 17 (Get_AllDeal)
+2017-03-15 22:21:07.787 : Get traveler feedback data
+2017-03-15 22:21:07.795 : TX => FF 28 3B 01 33 00 97
+2017-03-15 22:21:14.305 : Check game data
+2017-03-15 22:21:14.711 : RX <= FF 28 3B 07 34 11 1C 27 09 05 02 01 02
+2017-03-15 22:21:14.711 : Do message, 183, msg:2017-03-15 22:21:14.703, now:2017-03-15 22:21:14.711, time delay: 8 (doQueue)
+2017-03-15 22:21:14.714 : message from A2(10299, v5)
+2017-03-15 22:21:14.719 : Check board for A on table with TBS, round 1 to 5: 49/60 (DB_check_BoardResult)
+2017-03-15 22:21:14.726 : Save result(TBS):A2,17,5,5,2,0,0,4 S,W,-1,D2,
+2017-03-15 22:21:14.727 : Get board deal: 17 (Get_AllDeal)
+2017-03-15 22:21:14.727 : Get traveler feedback data
+2017-03-15 22:21:14.730 : TX => FF 28 3B 01 33 00 97
+2017-03-15 22:22:14.341 : Check game data
+2017-03-15 22:23:07.033 : RX <= FF 28 3A 07 34 11 14 2B 07 06 04 00 FE
+2017-03-15 22:23:07.034 : Do message, 184, msg:2017-03-15 22:23:07.016, now:2017-03-15 22:23:07.034, time delay: 18 (doQueue)
+2017-03-15 22:23:07.045 : message from A3(10298, v5)
+2017-03-15 22:23:07.058 : Check board for A on table with TBS, round 1 to 5: 49/60 (DB_check_BoardResult)
+2017-03-15 22:23:07.076 : Save result(TBS):A3,17,5,6,4,0,0,4 H,W,=,SA,
+2017-03-15 22:23:07.078 : Get board deal: 17 (Get_AllDeal)
+2017-03-15 22:23:07.079 : Get traveler feedback data
+2017-03-15 22:23:07.083 : TX => FF 28 3A 04 33 1C 27 09 00 E5
+2017-03-15 22:23:14.382 : Check game data
+2017-03-15 22:23:33.226 : RX <= FF 28 3C 07 34 11 14 2B 09 01 03 00 FC
+2017-03-15 22:23:33.227 : Do message, 185, msg:2017-03-15 22:23:33.196, now:2017-03-15 22:23:33.227, time delay: 31 (doQueue)
+2017-03-15 22:23:33.237 : message from A1(10300, v5)
+2017-03-15 22:23:33.246 : Check board for A on table with TBS, round 1 to 5: 50/60 (DB_check_BoardResult)
+2017-03-15 22:23:33.258 : Save result(TBS):A1,17,5,1,3,0,0,4 H,W,=,D2,
+2017-03-15 22:23:33.260 : Get board deal: 17 (Get_AllDeal)
+2017-03-15 22:23:33.262 : Get traveler feedback data
+2017-03-15 22:23:33.270 : TX => FF 28 3C 07 33 1C 27 09 14 2B 07 01 30
+2017-03-15 22:24:14.407 : Check game data
+2017-03-15 22:24:17.624 : RX <= FF 28 3A 02 58 11 00 CD
+2017-03-15 22:24:17.644 : Do message, 186, msg:2017-03-15 22:24:17.610, now:2017-03-15 22:24:17.644, time delay: 34 (doQueue)
+2017-03-15 22:24:17.647 : message from A3(10298, v5)
+2017-03-15 22:24:17.650 : Check board for A on table with TBS, round 1 to 5: 51/60 (DB_check_BoardResult)
+2017-03-15 22:24:17.651 : Get dealt card
+2017-03-15 22:24:17.652 : Get board deal: 17 (Get_AllDeal)
+2017-03-15 22:24:17.653 : TX => FF 28 3A 1B 59 11 07 2F 2E DF 8D 13 45 6A 98 B3 68 D0 D9 81 C2 26 24 3B 7B 9A 26 24 3B 7B 9A 0B 4C
+2017-03-15 22:24:43.287 : RX <= FF 28 3B 07 52 12 01 19 00 00 00 00 E8
+2017-03-15 22:24:43.296 : Do message, 187, msg:2017-03-15 22:24:43.281, now:2017-03-15 22:24:43.296, time delay: 15 (doQueue)
+2017-03-15 22:24:43.306 : message from A2(10299, v5)
+2017-03-15 22:24:43.314 : Check board for A on table with TBS, round 1 to 5: 51/60 (DB_check_BoardResult)
+2017-03-15 22:24:43.332 : Bid sequence:1S,PASS,PASS,PASS (doMsg)
+2017-03-15 22:24:43.333 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 22:24:47.005 : RX <= FF 28 3C 02 58 11 00 CF
+2017-03-15 22:24:47.005 : Do message, 188, msg:2017-03-15 22:24:47.002, now:2017-03-15 22:24:47.005, time delay: 3 (doQueue)
+2017-03-15 22:24:47.009 : message from A1(10300, v5)
+2017-03-15 22:24:47.013 : Check board for A on table with TBS, round 1 to 5: 51/60 (DB_check_BoardResult)
+2017-03-15 22:24:47.014 : Get dealt card
+2017-03-15 22:24:47.014 : Get board deal: 17 (Get_AllDeal)
+2017-03-15 22:24:47.016 : TX => FF 28 3C 1B 59 11 07 2F 2E DF 8D 13 45 6A 98 B3 68 D0 D9 81 C2 26 24 3B 7B 9A 26 24 3B 7B 9A 0B 4E
+2017-03-15 22:25:14.436 : Check game data
+2017-03-15 22:26:14.437 : Check game data
+2017-03-15 22:26:51.149 : RX <= FF 28 3A 0B 52 12 01 19 00 21 00 1A 00 00 00 01 26
+2017-03-15 22:26:51.149 : Do message, 189, msg:2017-03-15 22:26:51.099, now:2017-03-15 22:26:51.149, time delay: 50 (doQueue)
+2017-03-15 22:26:51.154 : message from A3(10298, v5)
+2017-03-15 22:26:51.158 : Check board for A on table with TBS, round 1 to 5: 51/60 (DB_check_BoardResult)
+2017-03-15 22:26:51.181 : Bid sequence:1S,PASS,1NT,PASS,2S,PASS,PASS,PASS (doMsg)
+2017-03-15 22:26:51.183 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 22:27:14.469 : Check game data
+2017-03-15 22:28:14.470 : Check game data
+2017-03-15 22:28:21.814 : RX <= FF 28 3C 0B 52 12 01 19 00 21 00 1A 00 00 00 01 28
+2017-03-15 22:28:21.835 : Do message, 190, msg:2017-03-15 22:28:21.773, now:2017-03-15 22:28:21.835, time delay: 62 (doQueue)
+2017-03-15 22:28:21.839 : message from A1(10300, v5)
+2017-03-15 22:28:21.841 : Check board for A on table with TBS, round 1 to 5: 51/60 (DB_check_BoardResult)
+2017-03-15 22:28:21.862 : Bid sequence:1S,PASS,1NT,PASS,2S,PASS,PASS,PASS (doMsg)
+2017-03-15 22:28:21.863 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 22:28:38.286 : RX <= FF 28 3C 07 34 12 1A 1D 2D 01 03 01 19
+2017-03-15 22:28:38.286 : Do message, 191, msg:2017-03-15 22:28:38.275, now:2017-03-15 22:28:38.286, time delay: 11 (doQueue)
+2017-03-15 22:28:38.290 : message from A1(10300, v5)
+2017-03-15 22:28:38.295 : Check board for A on table with TBS, round 1 to 5: 51/60 (DB_check_BoardResult)
+2017-03-15 22:28:38.300 : Save result(TBS):A1,18,5,1,3,0,0,2 S,E,-1,DJ,
+2017-03-15 22:28:38.301 : Get board deal: 18 (Get_AllDeal)
+2017-03-15 22:28:38.302 : Get traveler feedback data
+2017-03-15 22:28:38.305 : TX => FF 28 3C 01 33 00 98
+2017-03-15 22:28:38.408 : RX <= FF 28 3B 07 34 12 19 1D 0F 05 02 00 FC
+2017-03-15 22:28:38.429 : Do message, 192, msg:2017-03-15 22:28:38.401, now:2017-03-15 22:28:38.429, time delay: 28 (doQueue)
+2017-03-15 22:28:38.436 : message from A2(10299, v5)
+2017-03-15 22:28:38.443 : Check board for A on table with TBS, round 1 to 5: 52/60 (DB_check_BoardResult)
+2017-03-15 22:28:38.452 : Save result(TBS):A2,18,5,5,2,0,0,1 S,E,=,S3,
+2017-03-15 22:28:38.453 : Get board deal: 18 (Get_AllDeal)
+2017-03-15 22:28:38.455 : Get traveler feedback data
+2017-03-15 22:28:38.460 : TX => FF 28 3B 04 33 1A 1D 2D 00 FE
+2017-03-15 22:29:14.499 : Check game data
+2017-03-15 22:29:55.650 : RX <= FF 28 3C 02 58 12 00 D0
+2017-03-15 22:29:55.651 : Do message, 193, msg:2017-03-15 22:29:55.633, now:2017-03-15 22:29:55.651, time delay: 18 (doQueue)
+2017-03-15 22:29:55.661 : message from A1(10300, v5)
+2017-03-15 22:29:55.670 : Check board for A on table with TBS, round 1 to 5: 53/60 (DB_check_BoardResult)
+2017-03-15 22:29:55.673 : Get dealt card
+2017-03-15 22:29:55.675 : Get board deal: 18 (Get_AllDeal)
+2017-03-15 22:29:55.678 : TX => FF 28 3C 1B 59 12 65 E1 5E 2C 7C 1E 91 28 CB 7E 4C 4E 3A 00 6E 98 76 64 56 75 98 76 64 56 75 0B 12
+2017-03-15 22:30:14.501 : Check game data
+2017-03-15 22:31:14.499 : Check game data
+2017-03-15 22:32:14.523 : Check game data
+2017-03-15 22:32:23.250 : RX <= FF 28 3C 0F 52 13 02 01 00 09 11 00 12 0B 00 23 00 00 00 01 35
+2017-03-15 22:32:23.251 : Do message, 194, msg:2017-03-15 22:32:23.244, now:2017-03-15 22:32:23.250, time delay: 6 (doQueue)
+2017-03-15 22:32:23.257 : message from A1(10300, v5)
+2017-03-15 22:32:23.262 : Check board for A on table with TBS, round 1 to 5: 53/60 (DB_check_BoardResult)
+2017-03-15 22:32:23.299 : Bid sequence:1C,PASS,1D,1H,PASS,2H,3D,PASS,3NT,PASS,PASS,PASS (doMsg)
+2017-03-15 22:32:23.300 : TX => FF 28 3C 02 53 00 00 B9
+2017-03-15 22:33:14.532 : Check game data
+2017-03-15 22:34:14.547 : Check game data
+2017-03-15 22:35:14.569 : Check game data
+2017-03-15 22:36:09.776 : RX <= FF 28 3B 11 52 13 02 01 00 09 40 11 00 0A 00 00 1A 0B 00 00 00 01 65
+2017-03-15 22:36:09.777 : Do message, 195, msg:2017-03-15 22:36:09.757, now:2017-03-15 22:36:09.777, time delay: 20 (doQueue)
+2017-03-15 22:36:09.787 : message from A2(10299, v5)
+2017-03-15 22:36:09.795 : Check board for A on table with TBS, round 1 to 5: 53/60 (DB_check_BoardResult)
+2017-03-15 22:36:09.838 : Bid sequence:1C,PASS,1D,X,1H,PASS,2D,PASS,PASS,2S,3D,PASS,PASS,PASS (doMsg)
+2017-03-15 22:36:09.839 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 22:36:14.575 : Check game data
+2017-03-15 22:36:22.986 : RX <= FF 28 3B 07 34 13 0B 1C 1F 05 02 00 FE
+2017-03-15 22:36:23.005 : Do message, 196, msg:2017-03-15 22:36:22.978, now:2017-03-15 22:36:23.005, time delay: 27 (doQueue)
+2017-03-15 22:36:23.015 : message from A2(10299, v5)
+2017-03-15 22:36:23.023 : Check board for A on table with TBS, round 1 to 5: 53/60 (DB_check_BoardResult)
+2017-03-15 22:36:23.036 : Save result(TBS):A2,19,5,5,2,0,0,3 D,N,-2,S7,
+2017-03-15 22:36:23.037 : Get board deal: 19 (Get_AllDeal)
+2017-03-15 22:36:23.038 : Get traveler feedback data
+2017-03-15 22:36:23.042 : TX => FF 28 3B 01 33 00 97
+2017-03-15 22:37:14.595 : Check game data
+2017-03-15 22:37:25.955 : RX <= FF 28 3A 0D 52 13 02 01 00 09 00 11 00 0A 00 00 00 00 FB
+2017-03-15 22:37:25.973 : Do message, 197, msg:2017-03-15 22:37:25.923, now:2017-03-15 22:37:25.973, time delay: 50 (doQueue)
+2017-03-15 22:37:25.977 : message from A3(10298, v5)
+2017-03-15 22:37:25.980 : Check board for A on table with TBS, round 1 to 5: 54/60 (DB_check_BoardResult)
+2017-03-15 22:37:26.003 : Bid sequence:1C,PASS,1D,PASS,1H,PASS,2D,PASS,PASS,PASS (doMsg)
+2017-03-15 22:37:26.005 : TX => FF 28 3A 02 53 00 00 B7
+2017-03-15 22:37:50.108 : RX <= FF 28 3C 07 34 13 23 22 2E 01 03 01 29
+2017-03-15 22:37:50.127 : Do message, 198, msg:2017-03-15 22:37:50.103, now:2017-03-15 22:37:50.127, time delay: 24 (doQueue)
+2017-03-15 22:37:50.130 : message from A1(10300, v5)
+2017-03-15 22:37:50.134 : Check board for A on table with TBS, round 1 to 5: 54/60 (DB_check_BoardResult)
+2017-03-15 22:37:50.138 : Save result(TBS):A1,19,5,1,3,0,0,3 NT,S,-1,HJ,
+2017-03-15 22:37:50.139 : Get board deal: 19 (Get_AllDeal)
+2017-03-15 22:37:50.140 : Get traveler feedback data
+2017-03-15 22:37:50.145 : TX => FF 28 3C 04 33 0B 1C 1F 00 E1
+2017-03-15 22:38:14.643 : Check game data
+2017-03-15 22:39:13.021 : RX <= FF 28 3C 02 58 13 00 D1
+2017-03-15 22:39:13.022 : Do message, 199, msg:2017-03-15 22:39:13.017, now:2017-03-15 22:39:13.022, time delay: 5 (doQueue)
+2017-03-15 22:39:13.027 : message from A1(10300, v5)
+2017-03-15 22:39:13.031 : Check board for A on table with TBS, round 1 to 5: 55/60 (DB_check_BoardResult)
+2017-03-15 22:39:13.032 : Get dealt card
+2017-03-15 22:39:13.032 : Get board deal: 19 (Get_AllDeal)
+2017-03-15 22:39:13.034 : TX => FF 28 3C 1B 59 13 BE E0 4D 66 FF A5 44 B2 01 2D 1D C6 B8 80 8C 47 44 68 59 85 47 44 67 59 75 0C 3C
+2017-03-15 22:39:14.641 : Check game data
+2017-03-15 22:40:14.674 : Check game data
+2017-03-15 22:41:14.692 : Check game data
+2017-03-15 22:41:40.237 : RX <= FF 28 3B 10 52 14 03 00 09 00 11 19 21 1A 13 00 14 00 00 00 01 71
+2017-03-15 22:41:40.257 : Do message, 200, msg:2017-03-15 22:41:40.217, now:2017-03-15 22:41:40.257, time delay: 40 (doQueue)
+2017-03-15 22:41:40.261 : message from A2(10299, v5)
+2017-03-15 22:41:40.264 : Check board for A on table with TBS, round 1 to 5: 55/60 (DB_check_BoardResult)
+2017-03-15 22:41:40.308 : Bid sequence:PASS,1D,PASS,1H,1S,1NT,2S,3H,PASS,4H,PASS,PASS,PASS (doMsg)
+2017-03-15 22:41:40.309 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 22:41:44.989 : RX <= FF 28 3A 07 34 13 0A 1C 1B 06 04 00 FB
+2017-03-15 22:41:45.009 : Do message, 201, msg:2017-03-15 22:41:44.983, now:2017-03-15 22:41:45.009, time delay: 26 (doQueue)
+2017-03-15 22:41:45.019 : message from A3(10298, v5)
+2017-03-15 22:41:45.027 : Check board for A on table with TBS, round 1 to 5: 55/60 (DB_check_BoardResult)
+2017-03-15 22:41:45.035 : Save result(TBS):A3,19,5,6,4,0,0,2 D,N,-1,S6,
+2017-03-15 22:41:45.037 : Get board deal: 19 (Get_AllDeal)
+2017-03-15 22:41:45.038 : Get traveler feedback data
+2017-03-15 22:41:45.044 : TX => FF 28 3A 07 33 23 22 2E 0B 1C 1F 01 55
+2017-03-15 22:42:00.193 : RX <= FF 28 3B 10 52 14 03 00 09 00 11 19 21 1A 13 00 14 00 00 00 01 71
+2017-03-15 22:42:00.202 : Do message, 202, msg:2017-03-15 22:42:00.169, now:2017-03-15 22:42:00.202, time delay: 33 (doQueue)
+2017-03-15 22:42:00.212 : message from A2(10299, v5)
+2017-03-15 22:42:00.221 : Check board for A on table with TBS, round 1 to 5: 56/60 (DB_check_BoardResult)
+2017-03-15 22:42:00.262 : Bid sequence:PASS,1D,PASS,1H,1S,1NT,2S,3H,PASS,4H,PASS,PASS,PASS (doMsg)
+2017-03-15 22:42:00.264 : TX => FF 28 3B 02 53 00 00 B8
+2017-03-15 22:42:01.597 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:42:01.597 Flush previous log buffer
