@@ -1927,3 +1927,8 @@
 2017-03-15 22:46:05.015 Flush previous log buffer
 2017-03-15 22:46:08.302 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
 2017-03-15 22:46:08.302 Flush previous log buffer
+2017-03-15 22:46:14.765 : Check game data
+2017-03-15 22:46:15.628 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:46:15.628 Flush previous log buffer
+2017-03-15 22:46:22.203 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:46:22.203 Flush previous log buffer
