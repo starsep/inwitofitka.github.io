@@ -1,4 +1,4 @@
-000000003539
+000000003644
 <h2>6: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -102,7 +102,11 @@
 <td rowspan="2">3</td>
 <td class="left" rowspan="2"><a href="javascript:loadHistory(1);">Maksym Wałaszewski - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(9);">9</td><td>EW</td>
-<td colspan="5"></td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>N</td>
+<td><img src="img/clubs.gif" />8</td>
+<td>=</td>
+<td class="right">+420</td>
 <td class="right">11.00</td>
 <td class="right">0.00</td>
 </tr>
@@ -122,7 +126,7 @@
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>5</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
