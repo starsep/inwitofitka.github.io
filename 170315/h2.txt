@@ -1,5 +1,5 @@
-000000001636
-<h2>2:  - </h2>
+000000001704
+<h2>2: Anna Nożyńska - Zbigniew Santkiewicz</h2>
 <table class="datatable">
 <thead>
 <tr>
@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td rowspan="3">1</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(1);"> - </a></td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(1);">Maksym Wałaszewski - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
 <td>2<img src="img/clubs.gif" /></td>
 <td>W</td>

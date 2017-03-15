@@ -1,4 +1,4 @@
-000000001878
+000000002010
 <table id="protocol" class="datatable">
 <thead>
 <tr>
@@ -11,8 +11,8 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="javascript:hideTooltip();loadHistory(1);"onmouseover="showTooltip(' - ', event);"onmouseout="hideTooltip();">1</a></td>
-<td><a href="javascript:hideTooltip();loadHistory(2);"onmouseover="showTooltip(' - ', event);"onmouseout="hideTooltip();">2</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(1);"onmouseover="showTooltip('Maksym Wałaszewski - Grzegorz Gardynik', event);"onmouseout="hideTooltip();">1</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(2);"onmouseover="showTooltip('Anna Nożyńska - Zbigniew Santkiewicz', event);"onmouseout="hideTooltip();">2</a></td>
 <td>4<img src="img/spades.gif" /></td>
 <td>S</td>
 <td><img src="img/diamonds.gif" />6</td>
@@ -22,8 +22,8 @@
 <td class="right">-6.50</td>
 </tr>
 <tr>
-<td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip(' - ', event);"onmouseout="hideTooltip();">5</a></td>
-<td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip(' - ', event);"onmouseout="hideTooltip();">6</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip('Ewa Łukowska - Jarek Markowski', event);"onmouseout="hideTooltip();">5</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Wojciech Grzegorzewski - Filip Czaplicki', event);"onmouseout="hideTooltip();">6</a></td>
 <td>4<img src="img/spades.gif" /></td>
 <td>S</td>
 <td><img src="img/hearts.gif" />6</td>
