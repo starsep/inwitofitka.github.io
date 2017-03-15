@@ -2017,3 +2017,16 @@
 2017-03-15 22:50:06.021 Flush previous log buffer
 2017-03-15 22:50:10.390 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
 2017-03-15 22:50:10.390 Flush previous log buffer
+2017-03-15 22:50:12.760 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:50:12.760 Flush previous log buffer
+2017-03-15 22:50:15.802 : Check game data
+2017-03-15 22:50:16.690 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:50:16.690 Flush previous log buffer
+2017-03-15 22:50:19.509 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:50:19.509 Flush previous log buffer
+2017-03-15 22:50:23.062 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:50:23.062 Flush previous log buffer
+2017-03-15 22:50:24.977 : Modify board result:A1,5,1,3
+2017-03-15 22:50:24.980 : Save result(BSC):A1,20,5,1,3,0,0,5 H,S,-2,,
+2017-03-15 22:50:25.427 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:50:25.427 Flush previous log buffer
