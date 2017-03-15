@@ -1961,3 +1961,35 @@
 2017-03-15 22:48:08.218 Flush previous log buffer
 2017-03-15 22:48:13.578 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
 2017-03-15 22:48:13.578 Flush previous log buffer
+2017-03-15 22:48:14.802 : Check game data
+2017-03-15 22:48:17.499 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:48:17.499 Flush previous log buffer
+2017-03-15 22:48:19.722 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:48:19.722 Flush previous log buffer
+2017-03-15 22:48:23.948 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:48:23.948 Flush previous log buffer
+2017-03-15 22:48:25.005 : Stop game.
+2017-03-15 22:48:25.005 Flush previous log buffer
+2017-03-15 22:48:25.558 : Start game.
+2017-03-15 22:48:25.638 : Player name list from database: 0
+2017-03-15 22:48:25.638 : Player name list from file: 18647
+2017-03-15 22:48:25.638 : Merge player name list from database and file
+2017-03-15 22:48:25.646 : Sorting player name by QuickSort
+2017-03-15 22:48:25.667 : Checking name search performance
+2017-03-15 22:48:25.667 : Search time: 0ms (Time_SearchPlayer)
+2017-03-15 22:48:25.667 : Player name list in memory: 18647
+2017-03-15 22:48:25.669 : Check game data
+2017-03-15 22:48:25.677 : Preload movement message data from memory
+2017-03-15 22:48:25.717 : Setup grid (cboSection)
+2017-03-15 22:48:25.722 : Setup grid completed (cboSection)
+2017-03-15 22:48:25.727 : Load data to grid (cboView)
+2017-03-15 22:48:25.751 : Load data to grid compeleted (cboView)
+2017-03-15 22:48:25.752 : Load data to grid (cboView)
+2017-03-15 22:48:25.775 : Load data to grid compeleted (cboView)
+2017-03-15 22:48:25.777 : Process Queue is reset and ready.
+2017-03-15 22:48:26.242 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:48:26.242 Flush previous log buffer
+2017-03-15 22:48:27.364 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:48:27.364 Flush previous log buffer
+2017-03-15 22:48:29.744 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:48:29.744 Flush previous log buffer
