@@ -2072,3 +2072,12 @@
 2017-03-15 22:51:35.718 Flush previous log buffer
 2017-03-15 22:51:40.116 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
 2017-03-15 22:51:40.116 Flush previous log buffer
+2017-03-15 22:51:42.259 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:51:42.259 Flush previous log buffer
+2017-03-15 22:51:42.751 : Get board deal: 18 (Get_AllDeal)
+2017-03-15 22:51:47.377 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:51:47.377 Flush previous log buffer
+2017-03-15 22:51:49.754 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:51:49.754 Flush previous log buffer
+2017-03-15 22:51:54.777 run-err13 Type mismatch ;line:2017-03-15 22:42:01.584 S (5 s) (timerPort_Timer)
+2017-03-15 22:51:54.777 Flush previous log buffer
