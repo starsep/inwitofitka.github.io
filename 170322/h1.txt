@@ -1,5 +1,5 @@
-000000001569
-<h2>1:  - </h2>
+000000001629
+<h2>1: Michał Kalita - Witold Stachnik</h2>
 <table class="datatable">
 <thead>
 <tr>
@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td rowspan="4">1</td>
-<td class="left" rowspan="4"><a href="javascript:loadHistory(2);"> - </a></td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(2);">Grzegorz Gardynik - Cezary Przasnek</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>NS</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>E</td>
