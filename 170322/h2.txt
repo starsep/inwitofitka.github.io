@@ -1,4 +1,4 @@
-000000002848
+000000002994
 <h2>2: Grzegorz Gardynik - Cezary Przasnek</h2>
 <table class="datatable">
 <thead>
@@ -57,8 +57,8 @@
 <td class="right">-11.50</td>
 </tr>
 <tr>
-<td rowspan="3">2</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(6);">Bartosz Ćwiek - Karol Konopko</a></td>
+<td rowspan="4">2</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(6);">Bartosz Ćwiek - Karol Konopko</a></td>
 <td><a href="javascript:loadBoard(5);">5</td><td>NS</td>
 <td>3<img src="img/diamonds.gif" />x</td>
 <td>S</td>
@@ -86,6 +86,12 @@
 <td>=</td>
 <td class="right">+110</td>
 <td class="right">3.00</td>
+<td class="right">0.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(8);">8</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">0.00</td>
 </tr>
 <tr>
