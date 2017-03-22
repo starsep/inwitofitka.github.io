@@ -1,4 +1,4 @@
-000000006135
+000000006366
 <h2>3: Anna Nożyńska - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -196,27 +196,39 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">10.00</td>
-<td class="right">-18.50</td>
+<td>4<img src="img/spades.gif" /></td>
+<td>W</td>
+<td></td>
+<td>=</td>
+<td class="right">-420</td>
+<td class="right">8.50</td>
+<td class="right">-20.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(19);">19</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-18.50</td>
+<td>3<img src="img/clubs.gif" /></td>
+<td>N</td>
+<td></td>
+<td>-1</td>
+<td class="right">-50</td>
+<td class="right">2.00</td>
+<td class="right">-18.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-18.50</td>
+<td>2<img src="img/spades.gif" /></td>
+<td>W</td>
+<td></td>
+<td>+1</td>
+<td class="right">-140</td>
+<td class="right">-2.00</td>
+<td class="right">-20.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-18.50</td>
+<td>-20.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
