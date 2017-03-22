@@ -52,3 +52,4 @@ Section;Table;Round;Board;PairNS;PairEW;Declarer;NS/EW;Contract;Result;LeadCard;
 1;2;3;10;4;5;4;N;4 H;-1;DT;-100
 1;2;3;11;4;5;5;E;4 H;-1;D6;50
 1;2;3;12;4;5;4;N;3 NT;+2;S3;660
+1;1;4;13;1;5;1;S;4 H;=;CK;620
