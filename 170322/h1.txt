@@ -1,4 +1,4 @@
-000000002870
+000000002865
 <h2>1: Michał Kalita - Witold Stachnik</h2>
 <table class="datatable">
 <thead>
@@ -73,10 +73,10 @@
 <td>5<img src="img/diamonds.gif" />x</td>
 <td>W</td>
 <td><img src="img/clubs.gif" />K</td>
-<td>-11</td>
-<td class="right">+3200</td>
-<td class="right">17.00</td>
-<td class="right">28.50</td>
+<td>-1</td>
+<td class="right">+200</td>
+<td class="right">-5.00</td>
+<td class="right">6.50</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(7);">7</td><td>NS</td>
@@ -86,19 +86,19 @@
 <td>+1</td>
 <td class="right">+110</td>
 <td class="right">3.00</td>
-<td class="right">31.50</td>
+<td class="right">9.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>31.50</td>
+<td>9.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>1</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
