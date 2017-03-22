@@ -1,4 +1,4 @@
-000000004287
+000000004717
 <h2>3: Anna Nożyńska - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -138,6 +138,20 @@
 <td>+1</td>
 <td class="right">+630</td>
 <td class="right">0.50</td>
+<td class="right">-27.50</td>
+</tr>
+<tr>
+<td rowspan="2">5</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(1);">Michał Kalita - Witold Stachnik</a></td>
+<td><a href="javascript:loadBoard(17);">17</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
+<td class="right">-27.50</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-27.50</td>
 </tr>
 <tr>
