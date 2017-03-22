@@ -23,3 +23,5 @@ site/_site/
 test/dest
 tmp/*
 IF*
+*.log
+*.ldb
