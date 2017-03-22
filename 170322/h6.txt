@@ -1,4 +1,4 @@
-000000003830
+000000004046
 <h2>6: Bartosz Ćwiek - Karol Konopko</h2>
 <table class="datatable">
 <thead>
@@ -102,33 +102,41 @@
 <td rowspan="4">3</td>
 <td class="left" rowspan="4"><a href="javascript:loadHistory(1);">Michał Kalita - Witold Stachnik</a></td>
 <td><a href="javascript:loadBoard(9);">9</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-10.50</td>
+<td>5<img src="img/clubs.gif" /></td>
+<td>W</td>
+<td><img src="img/clubs.gif" />8</td>
+<td>+1</td>
+<td class="right">-620</td>
+<td class="right">-6.50</td>
+<td class="right">-17.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(10);">10</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-10.50</td>
+<td>2<img src="img/hearts.gif" /></td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />5</td>
+<td>+2</td>
+<td class="right">+170</td>
+<td class="right">-7.00</td>
+<td class="right">-24.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(11);">11</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
-<td class="right">-10.50</td>
+<td class="right">-24.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(12);">12</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
-<td class="right">-10.50</td>
+<td class="right">-24.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-10.50</td>
+<td>-24.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
