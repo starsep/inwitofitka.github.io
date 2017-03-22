@@ -1,4 +1,4 @@
-000000002503
+000000002614
 <h2>1: Michał Kalita - Witold Stachnik</h2>
 <table class="datatable">
 <thead>
@@ -70,7 +70,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(6);">6</td><td>NS</td>
-<td colspan="5"></td>
+<td>5<img src="img/diamonds.gif" />x</td>
+<td>W</td>
+<td><img src="img/clubs.gif" />K</td>
+<td>-11</td>
+<td class="right">+3200</td>
 <td class="right">17.00</td>
 <td class="right">28.50</td>
 </tr>
