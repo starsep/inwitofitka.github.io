@@ -1,4 +1,4 @@
-000000004276
+000000004534
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -138,6 +138,14 @@
 <td>+2</td>
 <td class="right">+660</td>
 <td class="right">1.00</td>
+<td class="right">3.00</td>
+</tr>
+<tr>
+<td>4</td>
+<td class="left"><a href="javascript:loadHistory(2);">Grzegorz Gardynik - Cezary Przasnek</a></td>
+<td><a href="javascript:loadBoard(13);">13</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">3.00</td>
 </tr>
 <tr>
