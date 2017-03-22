@@ -1,4 +1,4 @@
-000000004996
+000000005177
 <h2>5: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -144,14 +144,22 @@
 <td rowspan="4">4</td>
 <td class="left" rowspan="4"><a href="javascript:loadHistory(1);">Michał Kalita - Witold Stachnik</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">23.50</td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>S</td>
+<td><img src="img/clubs.gif" />K</td>
+<td>=</td>
+<td class="right">+620</td>
+<td class="right">0.50</td>
+<td class="right">24.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(14);">14</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">5.00</td>
+<td>3<img src="img/clubs.gif" /></td>
+<td>S</td>
+<td></td>
+<td>-1</td>
+<td class="right">-50</td>
+<td class="right">4.50</td>
 <td class="right">28.50</td>
 </tr>
 <tr>
