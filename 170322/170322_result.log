@@ -73,3 +73,5 @@ Section;Table;Round;Board;PairNS;PairEW;Declarer;NS/EW;Contract;Result;LeadCard;
 1;2;4;14;6;3;6;S;3 N;=;;400
 1;2;4;15;6;3;3;E;4 S;=;;-420
 1;2;4;16;6;3;6;N;4 H;+2;;480
+1;2;5;17;5;2;2;E;3 N;=;;-400
+1;2;5;18;5;2;2;W;3 N;=;;-400

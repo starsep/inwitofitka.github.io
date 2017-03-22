@@ -1,4 +1,4 @@
-000000005177
+000000005669
 <h2>5: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -164,21 +164,41 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">2.00</td>
-<td class="right">30.50</td>
+<td>3<img src="img/spades.gif" /></td>
+<td>E</td>
+<td></td>
+<td>+1</td>
+<td class="right">-170</td>
+<td class="right">-2.00</td>
+<td class="right">26.50</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">-9.00</td>
-<td class="right">21.50</td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>N</td>
+<td></td>
+<td>+2</td>
+<td class="right">+480</td>
+<td class="right">-4.50</td>
+<td class="right">22.00</td>
+</tr>
+<tr>
+<td>5</td>
+<td class="left"><a href="javascript:loadHistory(2);">Grzegorz Gardynik - Cezary Przasnek</a></td>
+<td><a href="javascript:loadBoard(17);">17</td><td>NS</td>
+<td>3<img src="img/clubs.gif" /></td>
+<td>E</td>
+<td></td>
+<td>=</td>
+<td class="right">-110</td>
+<td class="right">0.50</td>
+<td class="right">22.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>21.50</td>
+<td>22.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
