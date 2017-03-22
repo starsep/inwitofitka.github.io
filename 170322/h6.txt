@@ -1,4 +1,4 @@
-000000000769
+000000000993
 <h2>6:  - </h2>
 <table class="datatable">
 <thead>
@@ -14,6 +14,14 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>1</td>
+<td class="left"><a href="javascript:loadHistory(5);"> - </a></td>
+<td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
+<td class="right">0.00</td>
+</tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
