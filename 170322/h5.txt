@@ -1,4 +1,4 @@
-000000006370
+000000006378
 <h2>5: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -154,13 +154,13 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(14);">14</td><td>EW</td>
-<td>3<img src="img/clubs.gif" /></td>
+<td>3<img src="img/notrump.gif" /></td>
 <td>S</td>
 <td></td>
 <td>-1</td>
 <td class="right">-50</td>
-<td class="right">4.50</td>
-<td class="right">28.50</td>
+<td class="right">10.00</td>
+<td class="right">34.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
@@ -169,8 +169,8 @@
 <td></td>
 <td>+1</td>
 <td class="right">-170</td>
-<td class="right">-2.00</td>
-<td class="right">26.50</td>
+<td class="right">-6.00</td>
+<td class="right">28.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
@@ -180,29 +180,29 @@
 <td>+2</td>
 <td class="right">+480</td>
 <td class="right">0.00</td>
-<td class="right">26.50</td>
+<td class="right">28.00</td>
 </tr>
 <tr>
 <td rowspan="4">5</td>
 <td class="left" rowspan="4"><a href="javascript:loadHistory(2);">Grzegorz Gardynik - Cezary Przasnek</a></td>
 <td><a href="javascript:loadBoard(17);">17</td><td>NS</td>
-<td>3<img src="img/clubs.gif" /></td>
+<td>3<img src="img/notrump.gif" /></td>
 <td>E</td>
 <td></td>
 <td>=</td>
-<td class="right">-110</td>
+<td class="right">-400</td>
 <td class="right">0.50</td>
-<td class="right">27.00</td>
+<td class="right">28.50</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>NS</td>
-<td>3<img src="img/clubs.gif" /></td>
+<td>3<img src="img/notrump.gif" /></td>
 <td>W</td>
 <td></td>
 <td>=</td>
-<td class="right">-110</td>
-<td class="right">1.50</td>
-<td class="right">28.50</td>
+<td class="right">-400</td>
+<td class="right">-4.50</td>
+<td class="right">24.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
@@ -212,7 +212,7 @@
 <td>=</td>
 <td class="right">+110</td>
 <td class="right">4.00</td>
-<td class="right">32.50</td>
+<td class="right">28.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>NS</td>
@@ -222,13 +222,13 @@
 <td>-3</td>
 <td class="right">-300</td>
 <td class="right">-4.00</td>
-<td class="right">28.50</td>
+<td class="right">24.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>28.50</td>
+<td>24.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
