@@ -1,4 +1,4 @@
-000000005211
+000000005395
 <h2>2: Zbigniew Santkiewicz - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -164,13 +164,21 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/clubs.gif" />2</td>
+<td>=</td>
+<td class="right">+600</td>
 <td class="right">1.00</td>
 <td class="right">-16.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>S</td>
+<td></td>
+<td>=</td>
+<td class="right">+400</td>
 <td class="right">-10.00</td>
 <td class="right">-26.00</td>
 </tr>
