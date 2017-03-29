@@ -1,4 +1,4 @@
-000000001946
+000000003094
 <h2>5: Rafał Marks - Wojciech Grzegorzewski</h2>
 <table class="datatable">
 <thead>
@@ -57,10 +57,52 @@
 <td class="right">20.00</td>
 </tr>
 <tr>
+<td rowspan="4">2</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(3);">Anna Zaręba - Hanna Ciuńczyk</a></td>
+<td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
+<td>4<img src="img/diamonds.gif" />x</td>
+<td>E</td>
+<td><img src="img/spades.gif" />3</td>
+<td>-7</td>
+<td class="right">+1700</td>
+<td class="right">-16.00</td>
+<td class="right">4.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(6);">6</td><td>EW</td>
+<td>3<img src="img/diamonds.gif" /></td>
+<td>E</td>
+<td><img src="img/clubs.gif" />9</td>
+<td>-2</td>
+<td class="right">+200</td>
+<td class="right">-2.00</td>
+<td class="right">2.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(7);">7</td><td>EW</td>
+<td>4<img src="img/hearts.gif" />x</td>
+<td>E</td>
+<td><img src="img/spades.gif" />7</td>
+<td>-3</td>
+<td class="right">+800</td>
+<td class="right">-7.00</td>
+<td class="right">-5.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(8);">8</td><td>EW</td>
+<td>3<img src="img/hearts.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />3</td>
+<td>-1</td>
+<td class="right">-50</td>
+<td class="right">6.50</td>
+<td class="right">1.50</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>20.00</td>
+<td>1.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
