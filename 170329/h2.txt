@@ -1,4 +1,4 @@
-000000004263
+000000004517
 <h2>2: Zbigniew Santkiewicz - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -138,6 +138,14 @@
 <td>-3</td>
 <td class="right">-300</td>
 <td class="right">-8.00</td>
+<td class="right">-13.00</td>
+</tr>
+<tr>
+<td>4</td>
+<td class="left"><a href="javascript:loadHistory(4);">Karol Konopko - Bartosz Ćwiek</a></td>
+<td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-13.00</td>
 </tr>
 <tr>
