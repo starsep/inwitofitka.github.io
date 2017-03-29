@@ -1,4 +1,4 @@
-000000004688
+000000004837
 <h2>1: Anna Nożyńska - Sławomir Niajko</h2>
 <table class="datatable">
 <thead>
@@ -141,8 +141,8 @@
 <td class="right">-2.50</td>
 </tr>
 <tr>
-<td rowspan="2">4</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(5);">Rafał Marks - Wojciech Grzegorzewski</a></td>
+<td rowspan="3">4</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(5);">Rafał Marks - Wojciech Grzegorzewski</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">-7.00</td>
@@ -152,6 +152,12 @@
 <td><a href="javascript:loadBoard(14);">14</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">5.00</td>
+<td class="right">-4.50</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(15);">15</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-4.50</td>
 </tr>
 <tr>
