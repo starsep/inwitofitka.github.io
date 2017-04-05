@@ -1,4 +1,4 @@
-000000006763
+000000006792
 <h2>8: Zbigniew Santkiewicz - Paweł Jończyk</h2>
 <table class="datatable">
 <thead>
@@ -148,7 +148,7 @@
 <td><a href="javascript:loadBoard(13);">13</td><td>NS</td>
 <td>2<img src="img/spades.gif" /></td>
 <td>W</td>
-<td></td>
+<td><img src="img/hearts.gif" />K</td>
 <td>+2</td>
 <td class="right">-170</td>
 <td class="right">-4.33</td>

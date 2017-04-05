@@ -1,4 +1,4 @@
-000000002512
+000000002541
 <table id="protocol" class="datatable">
 <thead>
 <tr>
@@ -48,7 +48,7 @@
 <td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Ireneusz Jędrzejewski - Maksym Wałaszewski', event);"onmouseout="hideTooltip();">4</a></td>
 <td>2<img src="img/spades.gif" /></td>
 <td>W</td>
-<td></td>
+<td><img src="img/hearts.gif" />K</td>
 <td>+2</td>
 <td class="zapis"></td><td class="zapis">170</td>
 <td class="right">-4.33</td>
