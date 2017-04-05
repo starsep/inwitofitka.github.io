@@ -1,4 +1,4 @@
-000000003231
+000000003489
 <h2>1: Rafał Marks - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -79,8 +79,8 @@
 <td class="right">12.00</td>
 </tr>
 <tr>
-<td rowspan="2">3</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(7);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
+<td rowspan="3">3</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(7);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
 <td><a href="javascript:loadBoard(7);">7</td><td>NS</td>
 <td>4<img src="img/hearts.gif" /></td>
 <td>E</td>
@@ -101,16 +101,26 @@
 <td class="right">12.67</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(9);">9</td><td>NS</td>
+<td>2<img src="img/diamonds.gif" />x</td>
+<td>W</td>
+<td><img src="img/hearts.gif" />Q</td>
+<td>-3</td>
+<td class="right">+800</td>
+<td class="right">12.00</td>
+<td class="right">24.67</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>12.67</td>
+<td>24.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>2</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
