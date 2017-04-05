@@ -1,4 +1,4 @@
-000000005818
+000000005967
 <h2>8: Zbigniew Santkiewicz - Paweł Jończyk</h2>
 <table class="datatable">
 <thead>
@@ -175,8 +175,8 @@
 <td class="right">2.33</td>
 </tr>
 <tr>
-<td rowspan="2">6</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(1);">Rafał Marks - Grzegorz Gardynik</a></td>
+<td rowspan="3">6</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(1);">Rafał Marks - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
 <td>3<img src="img/hearts.gif" /></td>
 <td>N</td>
@@ -193,16 +193,22 @@
 <td class="right">11.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">6.00</td>
+<td class="right">17.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>11.00</td>
+<td>17.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>4</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
