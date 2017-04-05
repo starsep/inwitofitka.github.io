@@ -1,4 +1,4 @@
-000000001960
+000000002132
 <h2>5: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -47,11 +47,17 @@
 <td class="right">-12.00</td>
 </tr>
 <tr>
-<td>2</td>
-<td class="left"><a href="javascript:loadHistory(1);">Rafał Marks - Grzegorz Gardynik</a></td>
+<td rowspan="2">2</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(1);">Rafał Marks - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">-11.50</td>
+<td class="right">-23.50</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-23.50</td>
 </tr>
 <tr>
