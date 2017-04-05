@@ -1,4 +1,4 @@
-000000005188
+000000005294
 <h2>2: Jolanta Krogulska - Jerzy Zaremba</h2>
 <table class="datatable">
 <thead>
@@ -166,15 +166,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">6.00</td>
-<td class="right">17.00</td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>S</td>
+<td><img src="img/clubs.gif" />T</td>
+<td>-1</td>
+<td class="right">-100</td>
+<td class="right">4.00</td>
+<td class="right">15.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>17.00</td>
+<td>15.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
