@@ -89,7 +89,7 @@ function inject_contract_history(row) {
     var contract_td = row.find("td>img").first().parent();
     var pair = ajaxHistory;
     var board = contract_td.prev().prev().children().first().html();
-    contract_td.html(contract_td.html() + contract_html(pair, board) + forum_html(pair, selected));
+    contract_td.html(contract_td.html() + contract_html(pair, board) + forum_html(pair, board));
 }
 
 function inject_contracts_histories() {
