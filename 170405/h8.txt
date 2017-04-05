@@ -1,5 +1,5 @@
-000000001421
-<h2>8:  - </h2>
+000000001491
+<h2>8: Zbigniew Santkiewicz - Paweł Jończyk</h2>
 <table class="datatable">
 <thead>
 <tr>
@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td rowspan="3">1</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(7);"> - </a></td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(7);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>N</td>

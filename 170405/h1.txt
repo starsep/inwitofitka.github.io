@@ -1,5 +1,5 @@
-000000001103
-<h2>1:  - </h2>
+000000001161
+<h2>1: Rafał Marks - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
 <tr>
@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td>1</td>
-<td class="left"><a href="javascript:loadHistory(2);"> - </a></td>
+<td class="left"><a href="javascript:loadHistory(2);">Jolanta Krogulska - Jerzy Zaremba</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>NS</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>N</td>
