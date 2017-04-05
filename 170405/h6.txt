@@ -1,4 +1,4 @@
-000000002604
+000000002974
 <h2>6: Anna Nożyńska - Krystyna Jędrzejewska</h2>
 <table class="datatable">
 <thead>
@@ -79,16 +79,28 @@
 <td class="right">23.67</td>
 </tr>
 <tr>
+<td>3</td>
+<td class="left"><a href="javascript:loadHistory(8);">Zbigniew Santkiewicz - Paweł Jończyk</a></td>
+<td><a href="javascript:loadBoard(7);">7</td><td>NS</td>
+<td>4<img src="img/clubs.gif" />x</td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />A</td>
+<td>-5</td>
+<td class="right">-1400</td>
+<td class="right">-13.00</td>
+<td class="right">10.67</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>23.67</td>
+<td>10.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>1</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
