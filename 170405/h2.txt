@@ -1,4 +1,4 @@
-000000006785
+000000006893
 <h2>2: Jolanta Krogulska - Jerzy Zaremba</h2>
 <table class="datatable">
 <thead>
@@ -210,7 +210,11 @@
 <td rowspan="3">7</td>
 <td class="left" rowspan="3"><a href="javascript:loadHistory(8);">Zbigniew Santkiewicz - Paweł Jończyk</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
-<td colspan="5"></td>
+<td>6<img src="img/clubs.gif" /></td>
+<td>E</td>
+<td><img src="img/diamonds.gif" />A</td>
+<td>=</td>
+<td class="right">-1370</td>
 <td class="right">-13.00</td>
 <td class="right">9.33</td>
 </tr>
@@ -236,7 +240,7 @@
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>4</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
