@@ -1,4 +1,4 @@
-000000006907
+000000007016
 <h2>3: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -220,7 +220,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
-<td colspan="5"></td>
+<td>6<img src="img/hearts.gif" /></td>
+<td>W</td>
+<td><img src="img/diamonds.gif" />3</td>
+<td>-1</td>
+<td class="right">+100</td>
 <td class="right">-13.00</td>
 <td class="right">-45.00</td>
 </tr>

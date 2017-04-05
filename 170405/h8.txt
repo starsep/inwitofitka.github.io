@@ -1,4 +1,4 @@
-000000006900
+000000007006
 <h2>8: Zbigniew Santkiewicz - Paweł Jończyk</h2>
 <table class="datatable">
 <thead>
@@ -220,21 +220,25 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">6.50</td>
-<td class="right">31.17</td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>W</td>
+<td><img src="img/clubs.gif" />5</td>
+<td>+3</td>
+<td class="right">-710</td>
+<td class="right">5.00</td>
+<td class="right">29.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(21);">21</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">-5.50</td>
-<td class="right">25.67</td>
+<td class="right">24.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>25.67</td>
+<td>24.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
