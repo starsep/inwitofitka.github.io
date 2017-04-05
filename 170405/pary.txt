@@ -67,7 +67,7 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
 <td rowspan="2" class="right">-0.17</td>
-<td rowspan="2" class="dealcount">7</td>
+<td rowspan="2" class="dealcount">8</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17362" target="_blank">Jarek Markowski</a></td>
@@ -97,7 +97,7 @@
 <td class="up">MA</td>
 <td class="nazwiskoup">KBS Legionowianin 2</td>
 <td rowspan="2" class="right">-8.50</td>
-<td rowspan="2" class="dealcount">7</td>
+<td rowspan="2" class="dealcount">8</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7025" target="_blank">Jerzy Zaremba</a></td>
@@ -138,7 +138,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 05-04-2017 19:34:12
+, znacznik czasowy: 05-04-2017 19:34:42
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
