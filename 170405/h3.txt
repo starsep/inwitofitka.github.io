@@ -1,4 +1,4 @@
-000000001965
+000000001962
 <h2>3: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -51,20 +51,20 @@
 <td class="left"><a href="javascript:loadHistory(8);">Zbigniew Santkiewicz - Paweł Jończyk</a></td>
 <td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
 <td colspan="5"></td>
-<td class="right">10.00</td>
-<td class="right">11.67</td>
+<td class="right">1.50</td>
+<td class="right">3.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>11.67</td>
+<td>3.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>3</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
