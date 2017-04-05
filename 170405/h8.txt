@@ -1,4 +1,4 @@
-000000003505
+000000003757
 <h2>8: Zbigniew Santkiewicz - Paweł Jończyk</h2>
 <table class="datatable">
 <thead>
@@ -108,6 +108,14 @@
 <td>+2</td>
 <td class="right">+150</td>
 <td class="right">3.00</td>
+<td class="right">7.33</td>
+</tr>
+<tr>
+<td>4</td>
+<td class="left"><a href="javascript:loadHistory(5);">Karol Konopko - Bartosz Ćwiek</a></td>
+<td><a href="javascript:loadBoard(10);">10</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">7.33</td>
 </tr>
 <tr>
