@@ -1,4 +1,4 @@
-000000006604
+000000006752
 <h2>4: Ireneusz Jędrzejewski - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -207,8 +207,8 @@
 <td class="right">0.33</td>
 </tr>
 <tr>
-<td rowspan="2">7</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(7);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
+<td rowspan="3">7</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(7);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">8.00</td>
@@ -216,6 +216,12 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
+<td class="right">8.33</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(21);">21</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
 <td class="right">8.33</td>
