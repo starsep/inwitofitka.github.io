@@ -1,4 +1,4 @@
-000000005528
+000000005633
 <h2>4: Ireneusz Jędrzejewski - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -178,15 +178,19 @@
 <td>6</td>
 <td class="left"><a href="javascript:loadHistory(2);">Jolanta Krogulska - Jerzy Zaremba</a></td>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">2.50</td>
-<td class="right">10.17</td>
+<td>2<img src="img/hearts.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />5</td>
+<td>+2</td>
+<td class="right">+170</td>
+<td class="right">1.33</td>
+<td class="right">9.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>10.17</td>
+<td>9.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>

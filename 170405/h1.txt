@@ -1,4 +1,4 @@
-000000005300
+000000005669
 <h2>1: Rafał Marks - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -175,10 +175,22 @@
 <td class="right">35.67</td>
 </tr>
 <tr>
+<td>6</td>
+<td class="left"><a href="javascript:loadHistory(8);">Zbigniew Santkiewicz - Paweł Jończyk</a></td>
+<td><a href="javascript:loadBoard(16);">16</td><td>NS</td>
+<td>3<img src="img/hearts.gif" /></td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />5</td>
+<td>=</td>
+<td class="right">+140</td>
+<td class="right">-2.67</td>
+<td class="right">33.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>35.67</td>
+<td>33.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
