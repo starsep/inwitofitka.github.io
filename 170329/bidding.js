@@ -121,12 +121,13 @@ function make_bidding() {
     inject_contracts();
 }
 
-function remove_bidding_links() {
+function remove_links() {
     $('a.biddingLink').remove();
+    $('a.forumLink').remove();
 }
 
 function make_bidding_with_timeout() {
-    remove_bidding_links();
+    remove_links();
     setTimeout(
         function () {
             make_bidding();
