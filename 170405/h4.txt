@@ -29,26 +29,26 @@
 <tr>
 <td><a href="javascript:loadBoard(2);">2</td><td>EW</td>
 <td colspan="5"></td>
-<td class="right">12.50</td>
-<td class="right">12.83</td>
+<td class="right">8.50</td>
+<td class="right">8.83</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(3);">3</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">-11.00</td>
-<td class="right">1.83</td>
+<td class="right">-2.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>1.83</td>
+<td>-2.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>1</td>
+<td>6</td>
 </tr>
 </tbody>
 </table>
