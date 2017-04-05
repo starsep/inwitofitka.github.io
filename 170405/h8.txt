@@ -1,4 +1,4 @@
-000000001106
+000000001277
 <h2>8:  - </h2>
 <table class="datatable">
 <thead>
@@ -15,8 +15,8 @@
 </thead>
 <tbody>
 <tr>
-<td>1</td>
-<td class="left"><a href="javascript:loadHistory(7);"> - </a></td>
+<td rowspan="2">1</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(7);"> - </a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>N</td>
@@ -24,6 +24,12 @@
 <td>+2</td>
 <td class="right">+150</td>
 <td class="right">-1.00</td>
+<td class="right">-1.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(2);">2</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-1.00</td>
 </tr>
 <tr>
