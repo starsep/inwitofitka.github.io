@@ -27,10 +27,10 @@
 <td>4<img src="img/hearts.gif" /></td>
 <td>W</td>
 <td><img src="img/diamonds.gif" />2</td>
-<td>+1</td>
-<td class="zapis"></td><td class="zapis">650</td>
-<td class="right">-3.00</td>
-<td class="right">3.00</td>
+<td>+2</td>
+<td class="zapis"></td><td class="zapis">680</td>
+<td class="right">-3.67</td>
+<td class="right">3.67</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Ireneusz Jędrzejewski - Maksym Wałaszewski', event);"onmouseout="hideTooltip();">4</a></td>
@@ -40,8 +40,8 @@
 <td><img src="img/hearts.gif" />6</td>
 <td>+3</td>
 <td class="zapis"></td><td class="zapis">710</td>
-<td class="right">-5.00</td>
-<td class="right">5.00</td>
+<td class="right">-4.67</td>
+<td class="right">4.67</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(2);"onmouseover="showTooltip('Jolanta Krogulska - Jerzy Zaremba', event);"onmouseout="hideTooltip();">2</a></td>
@@ -51,8 +51,8 @@
 <td><img src="img/clubs.gif" />5</td>
 <td>+3</td>
 <td class="zapis"></td><td class="zapis">710</td>
-<td class="right">-5.00</td>
-<td class="right">5.00</td>
+<td class="right">-4.67</td>
+<td class="right">4.67</td>
 </tr>
 </tbody>
 </table>
