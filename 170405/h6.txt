@@ -1,4 +1,4 @@
-000000002071
+000000002349
 <h2>6: Anna Nożyńska - Krystyna Jędrzejewska</h2>
 <table class="datatable">
 <thead>
@@ -47,8 +47,8 @@
 <td class="right">12.00</td>
 </tr>
 <tr>
-<td>2</td>
-<td class="left"><a href="javascript:loadHistory(4);">Ireneusz Jędrzejewski - Maksym Wałaszewski</a></td>
+<td rowspan="2">2</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(4);">Ireneusz Jędrzejewski - Maksym Wałaszewski</a></td>
 <td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
 <td>5<img src="img/diamonds.gif" />x</td>
 <td>E</td>
@@ -59,10 +59,20 @@
 <td class="right">13.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
+<td>3<img src="img/diamonds.gif" /></td>
+<td>E</td>
+<td><img src="img/clubs.gif" />6</td>
+<td>-1</td>
+<td class="right">+50</td>
+<td class="right">3.00</td>
+<td class="right">16.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>13.00</td>
+<td>16.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
