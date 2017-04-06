@@ -3,48 +3,33 @@
 
 // based on https://github.com/emkael/jfrpary-bidding-data/blob/master/res/javas/bidding.js
 
-var standard_get;
+/*global $, jQuery, alert*/
 
-var columns_number;
-var contract_column;
+"use strict";
 
-function count_columns() {
-    columns_number = 0;
-    contract_column = -1;
+var standardGet;
+
+var columnsNumber;
+var contractColumn;
+
+function countColumns() {
+    columnsNumber = 0;
+    contractColumn = -1;
     for (var x = $("td[rowspan=2]:contains('ns')"); x.html() !== undefined; x = x.next()) {
         if (x.html() === 'kont.') {
-            contract_column = columns_number;
+            contractColumn = columnsNumber;
         }
-        columns_number++;
+        columnsNumber++;
     }
-    columns_number += 2;
+    columnsNumber += 2;
 }
 
-function remove_popups() {
-    $(".bidding_popup").remove();
+function removePopups() {
+    $(".biddingPopup").remove();
 }
 
-function show_bidding() {
-    var elem = $(this);
-    show_popup('bid-', elem);
-}
-
-function show_forum() {
-    var elem = $(this);
-    show_popup('forum-', elem);
-}
-
-function show_popup(prefix, elem) {
-    var board = elem.attr('data-board');
-    var pair = elem.attr('data-pair');
-    standard_get(prefix + board + '-' + pair + '.html', function (data) {
-        remove_popups();
-        display_popup(elem, data);
-    });
-}
-
-function display_popup(element, content) {
-    var popup = $('<div class="bidding_popup"></div>');
+function displayPopup(element, content) {
+    var popup = $('<div class="biddingPopup"></div>');
     popup.css({
         'position': 'absolute',
         'width': '250px',
@@ -55,14 +40,33 @@ function display_popup(element, content) {
     $('body').append(popup);
 }
 
-function contract_html(pair, board) {
+function showPopup(prefix, elem) {
+    var board = elem.attr('data-board');
+    var pair = elem.attr('data-pair');
+    standardGet(prefix + board + '-' + pair + '.html', function (data) {
+        removePopups();
+        displayPopup(elem, data);
+    });
+}
+
+function showBidding() {
+    var elem = $(this);
+    showPopup('bid-', elem);
+}
+
+function showForum() {
+    var elem = $(this);
+    showPopup('forum-', elem);
+}
+
+function contractHtml(pair, board) {
     var result = ' <a href="javascript:void(0)" class="biddingLink" data-pair="' + pair + '" data-board="' + board + '">';
     result += '<img src="img/link.png" />';
     result += '</a>';
     return result;
 }
 
-function forum_html(pair, board) {
+function forumHtml(pair, board) {
     var result = ' <a href="javascript:void(0)" class="forumLink" data-pair="' + pair + '" data-board="' + board + '">';
     result += '<img src="img/forum.png" />';
     result += '</a>';
@@ -70,80 +74,80 @@ function forum_html(pair, board) {
 }
 
 
-function inject_contract_board(row) {
-    var contract_td = row.children().first();
-    var pair = contract_td.children().first().html();
-    for (var i = 0; i < contract_column; i++) {
-        contract_td = contract_td.next();
+function injectContractBoard(row) {
+    var contractTd = row.children().first();
+    var pair = contractTd.children().first().html();
+    for (var i = 0; i < contractColumn; i++) {
+        contractTd = contractTd.next();
     }
-    contract_td.html(contract_td.html() + contract_html(pair, selected) + forum_html(pair, selected));
+    contractTd.html(contractTd.html() + contractHtml(pair, selected) + forumHtml(pair, selected));
 }
 
-function inject_contracts_boards() {
-    var results_rows = $("td[rowspan=2]:contains('ns')").parent().parent().next().children();
-    var row = results_rows.first();
-    for (var i = 0; i < results_rows.length; i++, row = row.next()) {
-        inject_contract_board(row);
+function injectContractsBoards() {
+    var resultsRows = $("td[rowspan=2]:contains('ns')").parent().parent().next().children();
+    var row = resultsRows.first();
+    for (var i = 0; i < resultsRows.length; i++, row = row.next()) {
+        injectContractBoard(row);
     }
 }
 
-function inject_contract_history(row) {
-    var contract_td = row.find("td>img").first().parent();
+function injectContractHistory(row) {
+    var contractTd = row.find("td>img").first().parent();
     var pair = ajaxHistory;
-    var board = contract_td.prev().prev().children().first().html();
-    contract_td.html(contract_td.html() + contract_html(pair, board) + forum_html(pair, board));
+    var board = contractTd.prev().prev().children().first().html();
+    contractTd.html(contractTd.html() + contractHtml(pair, board) + forumHtml(pair, board));
 }
 
-function inject_contracts_histories() {
+function injectContractsHistories() {
     var history = $('td>a[href="javascript:loadBoard(1);"]');
     if (history.size() === 0) {
         return;
     }
-    var results_rows = history.parent().parent().parent().children();
-    var row = results_rows.first();
-    for (var i = 0; i < results_rows.length; i++, row = row.next()) {
-        inject_contract_history(row);
+    var resultsRows = history.parent().parent().parent().children();
+    var row = resultsRows.first();
+    for (var i = 0; i < resultsRows.length; i++, row = row.next()) {
+        injectContractHistory(row);
     }
 
 }
 
-function inject_contracts() {
-    inject_contracts_boards();
-    inject_contracts_histories();
+function injectContracts() {
+    injectContractsBoards();
+    injectContractsHistories();
     $('a.biddingLink').each(function() {
-        $(this).unbind('click').click(show_bidding);
+        $(this).unbind('click').click(showBidding);
     });
     $('a.forumLink').each(function() {
-        $(this).unbind('click').click(show_forum);
+        $(this).unbind('click').click(showForum);
     });
 }
 
-function make_bidding() {
-    remove_links();
-    count_columns();
-    inject_contracts();
+function makeBidding() {
+    removeLinks();
+    countColumns();
+    injectContracts();
 }
 
-function remove_links() {
+function removeLinks() {
     $('a.biddingLink').remove();
     $('a.forumLink').remove();
 }
 
-function init_bidding() {
-    $(document).click(remove_popups);
-    hack_get();
-    make_bidding();
+function initBidding() {
+    $(document).click(removePopups);
+    hackGet();
+    makeBidding();
 }
 
-function hack_get() {
-    standard_get = $.get;
+function hackGet() {
+    standardGet = $.get;
     $.get = function (a, d, e, f) {
-        return standard_get(a, function(x) {
+        return standardGet(a, function(x) {
             d(x);
-            make_bidding();
+            makeBidding();
         }, e, f);
     };
 }
 
-init_bidding();
+initBidding();
 

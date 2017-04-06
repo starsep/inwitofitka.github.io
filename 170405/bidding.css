@@ -3,13 +3,13 @@
 /* Based on https://github.com/emkael/jfrpary-bidding-data/blob/master/res/css/bidding.css */
 
 /* Tabelka licytacji */
-.bidding_popup { background-color: white; padding: 10px; border-radius: 10px; border: 1px solid black;
+.biddingPopup { background-color: white; padding: 10px; border-radius: 10px; border: 1px solid black;
     -webkit-box-shadow: 2px 2px 5px 0 rgba(0,0,0,0.75);
     -moz-box-shadow: 2px 2px 5px 0 rgba(0,0,0,0.75);
     box-shadow: 2px 2px 5px 0 rgba(0,0,0,0.75);
     z-index: 1000;
 }
-.bidding_popup table { width: 100%; text-align: center; }
-.bidding_popup table th { text-align: center; }
+.biddingPopup table { width: 100%; text-align: center; }
+.biddingPopup table th { text-align: center; }
 td.nol {position:relative; min-height: 16px; padding: 2px 21px 2px 2px}
-.bidding_popup td { border: 0; }
+.biddingPopup td { border: 0; }
