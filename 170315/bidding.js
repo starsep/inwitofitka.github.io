@@ -20,8 +20,8 @@ function count_columns() {
     columns_number += 2;
 }
 
-function remove_popup() {
-    $("#bidding_popup").remove();
+function remove_popups() {
+    $(".bidding_popup").remove();
 }
 
 function show_bidding() {
@@ -35,7 +35,7 @@ function show_forum() {
 }
 
 function show_popup(prefix, elem) {
-    remove_popup();
+    remove_popups();
     var board = elem.attr('data-board');
     var pair = elem.attr('data-pair');
     standard_get(prefix + board + '-' + pair + '.html', function (data) {
@@ -44,7 +44,7 @@ function show_popup(prefix, elem) {
 }
 
 function display_popup(element, content) {
-    var popup = $('<div id="bidding_popup"></div>');
+    var popup = $('<div class="bidding_popup"></div>');
     popup.css({
         'position': 'absolute',
         'width': '250px',
@@ -130,7 +130,7 @@ function remove_links() {
 }
 
 function init_bidding() {
-    $(document).click(remove_popup);
+    $(document).click(remove_popups);
     hack_get();
     make_bidding();
 }
