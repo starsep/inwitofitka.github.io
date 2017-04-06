@@ -35,10 +35,10 @@ function show_forum() {
 }
 
 function show_popup(prefix, elem) {
-    remove_popups();
     var board = elem.attr('data-board');
     var pair = elem.attr('data-pair');
     standard_get(prefix + board + '-' + pair + '.html', function (data) {
+        remove_popups();
         display_popup(elem, data);
     });
 }
