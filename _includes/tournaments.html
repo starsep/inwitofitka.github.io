@@ -1,0 +1,3 @@
+{% for t in site.data.tournaments %}
+  <a class="sidebar-nav-item" href="{{ site.baseurl }}{{ t }}">Trening {{ t | slice: 4, 2 }}.{{ t | slice: 2, 2 }}.{{ t | slice: 0, 2 }}r.</a>
+{% endfor %}

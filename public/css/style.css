@@ -1,0 +1,16 @@
+.resultLink {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  border: solid 1px black;
+  border-radius: 100px;
+  line-height: 100px;
+  vertical-align: middle;
+  margin: 10px;
+  background-color: #90a959;
+  text-align: center;
+}
+
+.resultLink > a {
+  color: white !important ;
+}
