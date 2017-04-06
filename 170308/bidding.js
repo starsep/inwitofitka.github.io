@@ -3,6 +3,8 @@
 
 // based on https://github.com/emkael/jfrpary-bidding-data/blob/master/res/javas/bidding.js
 
+var standard_get;
+
 var columns_number;
 var contract_column;
 
@@ -36,8 +38,8 @@ function show_popup(prefix, elem) {
     remove_popup();
     var board = elem.attr('data-board');
     var pair = elem.attr('data-pair');
-    $.get(prefix + board + '-' + pair + '.html', function (data) {
-        setTimeout(display_popup(elem, data), 50);
+    standard_get(prefix + board + '-' + pair + '.html', function (data) {
+        display_popup(elem, data);
     });
 }
 
@@ -117,6 +119,7 @@ function inject_contracts() {
 }
 
 function make_bidding() {
+    remove_links();
     count_columns();
     inject_contracts();
 }
@@ -126,17 +129,21 @@ function remove_links() {
     $('a.forumLink').remove();
 }
 
-function make_bidding_with_timeout() {
-    remove_links();
-    setTimeout(
-        function () {
-            make_bidding();
-        }, 200);
-}
-
 function init_bidding() {
     $(document).click(remove_popup);
-    $(window).hashchange(make_bidding_with_timeout);
+    hack_get();
+    make_bidding();
+}
+
+function hack_get() {
+    standard_get = $.get;
+    $.get = function (a, d, e, f) {
+        return standard_get(a, function(x) {
+            d(x);
+            make_bidding();
+        }, e, f);
+    };
 }
 
 init_bidding();
+
