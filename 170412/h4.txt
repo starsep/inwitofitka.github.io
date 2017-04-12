@@ -1,4 +1,4 @@
-000000000747
+000000001453
 <h2>4: Zbigniew Santkiewicz - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -6,6 +6,7 @@
 <td>rnd.</td><td>przeciwnik</td><td>rzd.</td><td>linia</td>
 <td>kont.</td>
 <td>gra</td>
+<td>wist</td>
 <td>lew</td>
 <td>zapis</td>
 <td>wynik</td>
@@ -14,13 +15,35 @@
 </thead>
 <tbody>
 <tr>
-<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
-
-<td><b>wynik</b></td>
-<td>0.00</td>
+<td rowspan="2">1</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(3);">Anna Nożyńska - Krystyna Jędrzejewska</a></td>
+<td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
+<td>1<img src="img/notrump.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />K</td>
+<td>+1</td>
+<td class="right">+120</td>
+<td class="right">6.00</td>
+<td class="right">6.00</td>
 </tr>
 <tr>
-<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+<td><a href="javascript:loadBoard(2);">2</td><td>EW</td>
+<td>6<img src="img/spades.gif" />x</td>
+<td>E</td>
+<td><img src="img/clubs.gif" />7</td>
+<td>=</td>
+<td class="right">-1210</td>
+<td class="right">13.00</td>
+<td class="right">19.00</td>
+</tr>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>wynik</b></td>
+<td>19.00</td>
+</tr>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
 <td>1</td>
