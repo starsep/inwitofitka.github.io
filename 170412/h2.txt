@@ -1,4 +1,4 @@
-000000006850
+000000007109
 <h2>2: Piotr Żak - Jerzy Zaremba</h2>
 <table class="datatable">
 <thead>
@@ -207,8 +207,8 @@
 <td class="right">34.33</td>
 </tr>
 <tr>
-<td rowspan="2">7</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(8);">Dariusz Sierocki - Maciej Kulikowski</a></td>
+<td rowspan="3">7</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(8);">Dariusz Sierocki - Maciej Kulikowski</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>S</td>
@@ -229,10 +229,20 @@
 <td class="right">37.67</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(21);">21</td><td>NS</td>
+<td>2<img src="img/spades.gif" /></td>
+<td>E</td>
+<td><img src="img/diamonds.gif" />4</td>
+<td>+1</td>
+<td class="right">-140</td>
+<td class="right">-5.00</td>
+<td class="right">32.67</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>37.67</td>
+<td>32.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>

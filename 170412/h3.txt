@@ -1,4 +1,4 @@
-000000006994
+000000007104
 <h2>3: Anna Nożyńska - Krystyna Jędrzejewska</h2>
 <table class="datatable">
 <thead>
@@ -230,7 +230,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(21);">21</td><td>EW</td>
-<td colspan="5"></td>
+<td>5<img src="img/diamonds.gif" />x</td>
+<td>E</td>
+<td><img src="img/spades.gif" />3</td>
+<td>-4</td>
+<td class="right">+800</td>
 <td class="right">-14.00</td>
 <td class="right">-33.67</td>
 </tr>
