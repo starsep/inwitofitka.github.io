@@ -1,4 +1,4 @@
-000000006602
+000000006884
 <h2>8: Dariusz Sierocki - Maciej Kulikowski</h2>
 <table class="datatable">
 <thead>
@@ -207,8 +207,8 @@
 <td class="right">-56.67</td>
 </tr>
 <tr>
-<td>7</td>
-<td class="left"><a href="javascript:loadHistory(2);">Piotr Żak - Jerzy Zaremba</a></td>
+<td rowspan="2">7</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(2);">Piotr Żak - Jerzy Zaremba</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>EW</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>S</td>
@@ -216,6 +216,16 @@
 <td>+1</td>
 <td class="right">+120</td>
 <td class="right">1.67</td>
+<td class="right">-55.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
+<td>2<img src="img/diamonds.gif" /></td>
+<td>E</td>
+<td><img src="img/clubs.gif" />A</td>
+<td>+1</td>
+<td class="right">-110</td>
+<td class="right">0.00</td>
 <td class="right">-55.00</td>
 </tr>
 <tr>
