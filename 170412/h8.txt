@@ -1,4 +1,4 @@
-000000002620
+000000002872
 <h2>8: Dariusz Sierocki - Maciej Kulikowski</h2>
 <table class="datatable">
 <thead>
@@ -76,6 +76,14 @@
 <td>-1</td>
 <td class="right">-50</td>
 <td class="right">-2.00</td>
+<td class="right">-32.00</td>
+</tr>
+<tr>
+<td>3</td>
+<td class="left"><a href="javascript:loadHistory(6);">Karol Konopko - Bartosz Ćwiek</a></td>
+<td><a href="javascript:loadBoard(7);">7</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-32.00</td>
 </tr>
 <tr>
