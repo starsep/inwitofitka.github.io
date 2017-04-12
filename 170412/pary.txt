@@ -1,4 +1,4 @@
-000000005050
+000000005402
 <p style="text-align: center">
 <img src="running.gif" /> <b>wyniki na bieżąco (21 rozdań)</b> <img src="running.gif" />
 </p>
@@ -48,31 +48,30 @@
 <tr>
 <td rowspan="2"></td>
 <td rowspan="2"><a href="javascript:loadHistory(3);">3</a></td>
-<td class="nazwiskoup"></td>
-<td class="up"></td>
-<td rowspan="2"></td>
-<td rowspan="2" class="left"></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17692" target="_blank">Anna Nożyńska</a></td>
+<td class="up">1.0</td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">IF22</td>
 <td rowspan="2" class="right">0.00</td>
 <td rowspan="2" class="dealcount">0</td>
 </tr>
 <tr>
-<td class="nazwiskodown"></td>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=18014" target="_blank">Krystyna Jędrzejewska</a></td>
 <td class="down"></td>
 </tr>
 <tr>
 <td rowspan="2"></td>
 <td rowspan="2"><a href="javascript:loadHistory(4);">4</a></td>
-<td class="nazwiskoup"></td>
-<td class="up"></td>
-<td class="up"></td>
-<td class="nazwiskoup"></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7840" target="_blank">Zbigniew Santkiewicz</a></td>
+<td class="up">2.0</td>
+<td rowspan="2">MA</td>
+<td class="nazwiskoup">SAMOVOLKA Warszawa</td>
 <td rowspan="2" class="right">0.00</td>
 <td rowspan="2" class="dealcount">0</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14569" target="_blank">Maksym Wałaszewski</a></td>
 <td class="down">1.0</td>
-<td class="down">MA</td>
 <td class="nazwiskodown">AZS UW Warszawa VI Orły Feldiego</td>
 </tr>
 <tr>
@@ -135,7 +134,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 12-04-2017 18:37:27
+, znacznik czasowy: 12-04-2017 18:38:27
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
