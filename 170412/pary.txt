@@ -23,8 +23,8 @@
 <td class="up">7.0</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">AZS UW Warszawa</td>
-<td rowspan="2" class="right">58.67</td>
-<td rowspan="2" class="dealcount">20</td>
+<td rowspan="2" class="right">59.67</td>
+<td rowspan="2" class="dealcount">21</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=1305" target="_blank">Grzegorz Gardynik</a></td>
@@ -52,7 +52,7 @@
 <td class="up">1.5</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">24.33</td>
+<td rowspan="2" class="right">25.33</td>
 <td rowspan="2" class="dealcount">21</td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">SAMOVOLKA Warszawa</td>
-<td rowspan="2" class="right">-4.67</td>
+<td rowspan="2" class="right">-5.67</td>
 <td rowspan="2" class="dealcount">21</td>
 </tr>
 <tr>
@@ -109,8 +109,8 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">-26.33</td>
-<td rowspan="2" class="dealcount">20</td>
+<td rowspan="2" class="right">-27.33</td>
+<td rowspan="2" class="dealcount">21</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14971" target="_blank">Bartosz Ćwiek</a></td>
@@ -134,7 +134,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 12-04-2017 22:58:18
+, znacznik czasowy: 12-04-2017 22:58:48
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
