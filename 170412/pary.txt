@@ -1,4 +1,4 @@
-000000005417
+000000005416
 <p style="text-align: center">
 <img src="running.gif" /> <b>wyniki na bieżąco (21 rozdań)</b> <img src="running.gif" />
 </p>
@@ -23,8 +23,8 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">SAMOVOLKA Warszawa</td>
-<td rowspan="2" class="right">19.00</td>
-<td rowspan="2" class="dealcount">3</td>
+<td rowspan="2" class="right">30.00</td>
+<td rowspan="2" class="dealcount">4</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14569" target="_blank">Maksym Wałaszewski</a></td>
@@ -33,20 +33,6 @@
 </tr>
 <tr>
 <td rowspan="2">2</td>
-<td rowspan="2"><a href="javascript:loadHistory(7);">7</a></td>
-<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=16053" target="_blank">Filip Czaplicki</a></td>
-<td class="up">1.5</td>
-<td rowspan="2">MA</td>
-<td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">13.67</td>
-<td rowspan="2" class="dealcount">4</td>
-</tr>
-<tr>
-<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
-<td class="down">1.5</td>
-</tr>
-<tr>
-<td rowspan="2">3</td>
 <td rowspan="2"><a href="javascript:loadHistory(1);">1</a></td>
 <td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=13438" target="_blank">Rafał Marks</a></td>
 <td class="up">7.0</td>
@@ -61,18 +47,32 @@
 <td class="nazwiskodown">Inwitofitka</td>
 </tr>
 <tr>
-<td rowspan="2">4</td>
-<td rowspan="2"><a href="javascript:loadHistory(6);">6</a></td>
-<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17214" target="_blank">Karol Konopko</a></td>
-<td class="up">2.0</td>
-<td rowspan="2">MA</td>
-<td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">1.67</td>
-<td rowspan="2" class="dealcount">3</td>
+<td rowspan="2">3</td>
+<td rowspan="2"><a href="javascript:loadHistory(2);">2</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7044" target="_blank">Piotr Żak</a></td>
+<td class="up">19.0</td>
+<td rowspan="2">WP</td>
+<td rowspan="2" class="left">CONSUS Kalisz</td>
+<td rowspan="2" class="right">4.00</td>
+<td rowspan="2" class="dealcount">4</td>
 </tr>
 <tr>
-<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14971" target="_blank">Bartosz Ćwiek</a></td>
-<td class="down">2.5</td>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7025" target="_blank">Jerzy Zaremba</a></td>
+<td class="down">21.0</td>
+</tr>
+<tr>
+<td rowspan="2">4</td>
+<td rowspan="2"><a href="javascript:loadHistory(7);">7</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=16053" target="_blank">Filip Czaplicki</a></td>
+<td class="up">1.5</td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">Inwitofitka</td>
+<td rowspan="2" class="right">2.67</td>
+<td rowspan="2" class="dealcount">4</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
+<td class="down">1.5</td>
 </tr>
 <tr>
 <td rowspan="2">5</td>
@@ -90,17 +90,17 @@
 </tr>
 <tr>
 <td rowspan="2">6</td>
-<td rowspan="2"><a href="javascript:loadHistory(2);">2</a></td>
-<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7044" target="_blank">Piotr Żak</a></td>
-<td class="up">19.0</td>
-<td rowspan="2">WP</td>
-<td rowspan="2" class="left">CONSUS Kalisz</td>
-<td rowspan="2" class="right">-7.00</td>
+<td rowspan="2"><a href="javascript:loadHistory(6);">6</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17214" target="_blank">Karol Konopko</a></td>
+<td class="up">2.0</td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">Inwitofitka</td>
+<td rowspan="2" class="right">-9.33</td>
 <td rowspan="2" class="dealcount">4</td>
 </tr>
 <tr>
-<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7025" target="_blank">Jerzy Zaremba</a></td>
-<td class="down">21.0</td>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14971" target="_blank">Bartosz Ćwiek</a></td>
+<td class="down">2.5</td>
 </tr>
 <tr>
 <td rowspan="2">7</td>
@@ -134,7 +134,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 12-04-2017 19:08:58
+, znacznik czasowy: 12-04-2017 19:09:57
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
