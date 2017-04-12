@@ -1,4 +1,4 @@
-000000004722
+000000004721
 <h2>6: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -143,26 +143,26 @@
 <tr>
 <td><a href="javascript:loadBoard(14);">14</td><td>NS</td>
 <td colspan="5"></td>
-<td class="right">-7.00</td>
-<td class="right">-7.33</td>
+<td class="right">0.00</td>
+<td class="right">-0.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
-<td class="right">-7.33</td>
+<td class="right">-0.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-7.33</td>
+<td>-0.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>6</td>
+<td>5</td>
 </tr>
 </tbody>
 </table>
