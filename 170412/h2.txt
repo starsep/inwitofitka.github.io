@@ -1,4 +1,4 @@
-000000005578
+000000005835
 <h2>2: Piotr Żak - Jerzy Zaremba</h2>
 <table class="datatable">
 <thead>
@@ -143,8 +143,8 @@
 <td class="right">21.00</td>
 </tr>
 <tr>
-<td rowspan="2">5</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(5);">Ewa Łukowska - Ireneusz Jędrzejewski</a></td>
+<td rowspan="3">5</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(5);">Ewa Łukowska - Ireneusz Jędrzejewski</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>S</td>
@@ -165,6 +165,16 @@
 <td class="right">28.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>W</td>
+<td><img src="img/hearts.gif" />9</td>
+<td>+1</td>
+<td class="right">-430</td>
+<td class="right">0.33</td>
+<td class="right">28.33</td>
+</tr>
+<tr>
 <td rowspan="2">6</td>
 <td class="left" rowspan="2"><a href="javascript:loadHistory(4);">Zbigniew Santkiewicz - Maksym Wałaszewski</a></td>
 <td><a href="javascript:loadBoard(16);">16</td><td>NS</td>
@@ -174,19 +184,19 @@
 <td>+2</td>
 <td class="right">+480</td>
 <td class="right">0.67</td>
-<td class="right">28.67</td>
+<td class="right">29.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(17);">17</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
-<td class="right">28.67</td>
+<td class="right">29.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>28.67</td>
+<td>29.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>

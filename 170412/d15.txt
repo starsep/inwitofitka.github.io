@@ -1,2 +1,94 @@
-000000000054
-<p style="margin-bottom: 20px"><b>Rozdanie 15</b></p>
+000000002803
+<table class="noborder">
+<tr>
+<td>
+<table id="diagram">
+<tr>
+<td style="text-align: center">
+<h1 style="margin-bottom: 0px">15</h1>
+<p class="small" style="margin-top: 0px">NS / S</p>
+</td><td>
+<img src="img/spades.gif" /> AK82<br />
+<img src="img/hearts.gif" /> 1096<br />
+<img src="img/diamonds.gif" /> 63<br />
+<img src="img/clubs.gif" /> J1073
+</td><td></td></tr><tr><td>
+<img src="img/spades.gif" /> J94<br />
+<img src="img/hearts.gif" /> AK3<br />
+<img src="img/diamonds.gif" /> AQJ5<br />
+<img src="img/clubs.gif" /> A86
+</td><td>
+<img src="img/15.gif" />
+</td><td>
+<img src="img/spades.gif" /> Q765<br />
+<img src="img/hearts.gif" /> Q54<br />
+<img src="img/diamonds.gif" /> K2<br />
+<img src="img/clubs.gif" /> Q942
+</td></tr><tr><td></td><td>
+<img src="img/spades.gif" /> 103<br />
+<img src="img/hearts.gif" /> J872<br />
+<img src="img/diamonds.gif" /> 109874<br />
+<img src="img/clubs.gif" /> K5
+</td><td></td></tr>
+</table>
+</td>
+<td>
+<p>
+<b>minimax: </b>
+3<img src="img/notrump.gif" /> E&nbsp;&nbsp;-430
+</p>
+<table class="minimax" style="margin-bottom: 20px">
+<tr>
+<td style="width: 20px; border-right: 1px solid #aaa; border-bottom: 1px solid #aaa"></td>
+<td style="border-bottom: 1px solid #aaa; padding-bottom: 3px"><img src="img/notrump.gif" /></td>
+<td style="border-bottom: 1px solid #aaa; padding-bottom: 3px"><img src="img/spades.gif" /></td>
+<td style="border-bottom: 1px solid #aaa; padding-bottom: 3px"><img src="img/hearts.gif" /></td>
+<td style="border-bottom: 1px solid #aaa; padding-bottom: 3px"><img src="img/diamonds.gif" /></td>
+<td style="border-bottom: 1px solid #aaa; padding-bottom: 3px"><img src="img/clubs.gif" /></td>
+</tr>
+<tr>
+<td style="border-right: 1px solid #aaa"><b>N</b></td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<td style="border-right: 1px solid #aaa"><b>S</b></td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+</table>
+<table class="minimax">
+<tr>
+<td style="width: 20px; border-right: 1px solid #aaa; border-bottom: 1px solid #aaa"></td>
+<td style="border-bottom: 1px solid #aaa; padding-bottom: 3px"><img src="img/notrump.gif" /></td>
+<td style="border-bottom: 1px solid #aaa; padding-bottom: 3px"><img src="img/spades.gif" /></td>
+<td style="border-bottom: 1px solid #aaa; padding-bottom: 3px"><img src="img/hearts.gif" /></td>
+<td style="border-bottom: 1px solid #aaa; padding-bottom: 3px"><img src="img/diamonds.gif" /></td>
+<td style="border-bottom: 1px solid #aaa; padding-bottom: 3px"><img src="img/clubs.gif" /></td>
+</tr>
+<tr>
+<td style="border-right: 1px solid #aaa"><b>W</b></td>
+<td>10</td>
+<td>10</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+</tr>
+<tr>
+<td style="border-right: 1px solid #aaa"><b>E</b></td>
+<td>10</td>
+<td>10</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
