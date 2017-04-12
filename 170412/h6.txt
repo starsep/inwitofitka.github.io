@@ -1,4 +1,4 @@
-000000005194
+000000005562
 <h2>6: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -171,10 +171,22 @@
 <td class="right">-3.17</td>
 </tr>
 <tr>
+<td>6</td>
+<td class="left"><a href="javascript:loadHistory(3);">Anna Nożyńska - Krystyna Jędrzejewska</a></td>
+<td><a href="javascript:loadBoard(16);">16</td><td>NS</td>
+<td>4<img src="img/spades.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />5</td>
+<td>+2</td>
+<td class="right">+480</td>
+<td class="right">0.67</td>
+<td class="right">-2.50</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-3.17</td>
+<td>-2.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
