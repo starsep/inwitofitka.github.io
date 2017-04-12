@@ -1,4 +1,4 @@
-000000001713
+000000001972
 <h2>3: Anna Nożyńska - Krystyna Jędrzejewska</h2>
 <table class="datatable">
 <thead>
@@ -47,16 +47,24 @@
 <td class="right">-19.00</td>
 </tr>
 <tr>
+<td>2</td>
+<td class="left"><a href="javascript:loadHistory(8);">Dariusz Sierocki - Maciej Kulikowski</a></td>
+<td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">4.50</td>
+<td class="right">-14.50</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-19.00</td>
+<td>-14.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>8</td>
+<td>7</td>
 </tr>
 </tbody>
 </table>
