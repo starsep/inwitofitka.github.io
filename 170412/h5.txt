@@ -1,4 +1,4 @@
-000000004200
+000000004308
 <h2>5: Ewa Łukowska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -124,7 +124,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(11);">11</td><td>EW</td>
-<td colspan="5"></td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />2</td>
+<td>=</td>
+<td class="right">+420</td>
 <td class="right">0.00</td>
 <td class="right">-12.67</td>
 </tr>
@@ -144,7 +148,7 @@
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>6</td>
+<td>5</td>
 </tr>
 </tbody>
 </table>
