@@ -1,4 +1,4 @@
-000000007109
+000000007108
 <h2>1: Rafał Marks - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -235,14 +235,14 @@
 <td><img src="img/diamonds.gif" />4</td>
 <td>=</td>
 <td class="right">-110</td>
-<td class="right">-4.00</td>
-<td class="right">52.67</td>
+<td class="right">5.33</td>
+<td class="right">62.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>52.67</td>
+<td>62.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>

@@ -1,4 +1,4 @@
-000000002548
+000000002549
 <table id="protocol" class="datatable">
 <thead>
 <tr>
@@ -11,17 +11,6 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip('Ewa Łukowska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">5</a></td>
-<td><a href="javascript:hideTooltip();loadHistory(3);"onmouseover="showTooltip('Anna Nożyńska - Krystyna Jędrzejewska', event);"onmouseout="hideTooltip();">3</a></td>
-<td>5<img src="img/diamonds.gif" />x</td>
-<td>E</td>
-<td><img src="img/spades.gif" />3</td>
-<td>-4</td>
-<td class="zapis">800</td><td class="zapis"></td>
-<td class="right">14.00</td>
-<td class="right">-14.00</td>
-</tr>
-<tr>
 <td><a href="javascript:hideTooltip();loadHistory(1);"onmouseover="showTooltip('Rafał Marks - Grzegorz Gardynik', event);"onmouseout="hideTooltip();">1</a></td>
 <td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Karol Konopko - Bartosz Ćwiek', event);"onmouseout="hideTooltip();">6</a></td>
 <td>2<img src="img/spades.gif" /></td>
@@ -29,8 +18,8 @@
 <td><img src="img/diamonds.gif" />4</td>
 <td>=</td>
 <td class="zapis"></td><td class="zapis">110</td>
-<td class="right">-4.00</td>
-<td class="right">4.00</td>
+<td class="right">5.33</td>
+<td class="right">-5.33</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Zbigniew Santkiewicz - Maksym Wałaszewski', event);"onmouseout="hideTooltip();">4</a></td>
@@ -40,8 +29,8 @@
 <td><img src="img/spades.gif" />4</td>
 <td>+1</td>
 <td class="zapis"></td><td class="zapis">140</td>
-<td class="right">-5.00</td>
-<td class="right">5.00</td>
+<td class="right">4.33</td>
+<td class="right">-4.33</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(2);"onmouseover="showTooltip('Piotr Żak - Jerzy Zaremba', event);"onmouseout="hideTooltip();">2</a></td>
@@ -51,8 +40,19 @@
 <td><img src="img/diamonds.gif" />4</td>
 <td>+1</td>
 <td class="zapis"></td><td class="zapis">140</td>
-<td class="right">-5.00</td>
-<td class="right">5.00</td>
+<td class="right">4.33</td>
+<td class="right">-4.33</td>
+</tr>
+<tr>
+<td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip('Ewa Łukowska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">5</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(3);"onmouseover="showTooltip('Anna Nożyńska - Krystyna Jędrzejewska', event);"onmouseout="hideTooltip();">3</a></td>
+<td>5<img src="img/diamonds.gif" />x</td>
+<td>N</td>
+<td><img src="img/spades.gif" />3</td>
+<td>-4</td>
+<td class="zapis"></td><td class="zapis">1100</td>
+<td class="right">-14.00</td>
+<td class="right">14.00</td>
 </tr>
 </tbody>
 </table>

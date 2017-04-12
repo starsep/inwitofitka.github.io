@@ -1,4 +1,4 @@
-000000007085
+000000007086
 <h2>6: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -235,20 +235,20 @@
 <td><img src="img/diamonds.gif" />4</td>
 <td>=</td>
 <td class="right">-110</td>
-<td class="right">4.00</td>
-<td class="right">-20.33</td>
+<td class="right">-5.33</td>
+<td class="right">-29.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-20.33</td>
+<td>-29.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>6</td>
+<td>7</td>
 </tr>
 </tbody>
 </table>

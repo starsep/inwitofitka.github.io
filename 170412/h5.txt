@@ -1,4 +1,4 @@
-000000007138
+000000007144
 <h2>5: Ewa Łukowska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -231,24 +231,24 @@
 <tr>
 <td><a href="javascript:loadBoard(21);">21</td><td>NS</td>
 <td>5<img src="img/diamonds.gif" />x</td>
-<td>E</td>
+<td>N</td>
 <td><img src="img/spades.gif" />3</td>
 <td>-4</td>
-<td class="right">+800</td>
-<td class="right">14.00</td>
-<td class="right">4.00</td>
+<td class="right">-1100</td>
+<td class="right">-14.00</td>
+<td class="right">-24.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>4.00</td>
+<td>-24.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>4</td>
+<td>6</td>
 </tr>
 </tbody>
 </table>
