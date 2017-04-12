@@ -1,4 +1,4 @@
-000000006203
+000000006467
 <h2>4: Zbigniew Santkiewicz - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -204,6 +204,14 @@
 <td>=</td>
 <td class="right">-120</td>
 <td class="right">-2.67</td>
+<td class="right">11.67</td>
+</tr>
+<tr>
+<td>7</td>
+<td class="left"><a href="javascript:loadHistory(7);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
+<td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">11.67</td>
 </tr>
 <tr>
