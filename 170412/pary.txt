@@ -1,7 +1,4 @@
-000000005621
-<p style="text-align: center">
-<img src="running.gif" /> <b>wyniki na bieżąco (21 rozdań)</b> <img src="running.gif" />
-</p>
+000000005149
 <table id="pairlist" class="datatable">
 <thead>
 <tr>
@@ -12,7 +9,6 @@
 <td>okręg</td>
 <td>klub</td>
 <td>wynik</td>
-<td>#</td>
 <td>PKL</td>
 </tr>
 </thead>
@@ -25,7 +21,6 @@
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">AZS UW Warszawa</td>
 <td rowspan="2" class="right">62.00</td>
-<td rowspan="2" class="dealcount">21</td>
 <td rowspan="2">7</td>
 </tr>
 <tr>
@@ -41,7 +36,6 @@
 <td rowspan="2">WP</td>
 <td rowspan="2" class="left">CONSUS Kalisz</td>
 <td rowspan="2" class="right">42.00</td>
-<td rowspan="2" class="dealcount">21</td>
 <td rowspan="2">4</td>
 </tr>
 <tr>
@@ -56,7 +50,6 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
 <td rowspan="2" class="right">21.00</td>
-<td rowspan="2" class="dealcount">21</td>
 <td rowspan="2">2</td>
 </tr>
 <tr>
@@ -71,7 +64,6 @@
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">SAMOVOLKA Warszawa</td>
 <td rowspan="2" class="right">-1.33</td>
-<td rowspan="2" class="dealcount">21</td>
 <td rowspan="2">1</td>
 </tr>
 <tr>
@@ -87,7 +79,6 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
 <td rowspan="2" class="right">-5.67</td>
-<td rowspan="2" class="dealcount">21</td>
 <td rowspan="2"></td>
 </tr>
 <tr>
@@ -102,7 +93,6 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
 <td rowspan="2" class="right">-24.00</td>
-<td rowspan="2" class="dealcount">21</td>
 <td rowspan="2"></td>
 </tr>
 <tr>
@@ -117,7 +107,6 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
 <td rowspan="2" class="right">-29.67</td>
-<td rowspan="2" class="dealcount">21</td>
 <td rowspan="2"></td>
 </tr>
 <tr>
@@ -132,7 +121,6 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">MKS Arnica Przasnysz</td>
 <td rowspan="2" class="right">-64.33</td>
-<td rowspan="2" class="dealcount">21</td>
 <td rowspan="2"></td>
 </tr>
 <tr>
@@ -143,7 +131,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 12-04-2017 23:13:49
+, znacznik czasowy: 12-04-2017 23:14:12
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
