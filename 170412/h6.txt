@@ -1,4 +1,4 @@
-000000002348
+000000002495
 <h2>6: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -47,8 +47,8 @@
 <td class="right">1.67</td>
 </tr>
 <tr>
-<td rowspan="2">2</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(4);">Zbigniew Santkiewicz - Maksym Wałaszewski</a></td>
+<td rowspan="3">2</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(4);">Zbigniew Santkiewicz - Maksym Wałaszewski</a></td>
 <td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
 <td>3<img src="img/diamonds.gif" /></td>
 <td>W</td>
@@ -66,6 +66,12 @@
 <td>=</td>
 <td class="right">+620</td>
 <td class="right">-2.67</td>
+<td class="right">-6.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(6);">6</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-6.00</td>
 </tr>
 <tr>
