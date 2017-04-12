@@ -1,4 +1,4 @@
-000000002225
+000000002334
 <h2>2: Piotr Żak - Jerzy Zaremba</h2>
 <table class="datatable">
 <thead>
@@ -60,15 +60,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.50</td>
-<td class="right">1.50</td>
+<td>4<img src="img/spades.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />2</td>
+<td>=</td>
+<td class="right">+620</td>
+<td class="right">-2.67</td>
+<td class="right">-1.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>1.50</td>
+<td>-1.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
