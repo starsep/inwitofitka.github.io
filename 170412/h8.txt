@@ -1,4 +1,4 @@
-000000002364
+000000002620
 <h2>8: Dariusz Sierocki - Maciej Kulikowski</h2>
 <table class="datatable">
 <thead>
@@ -47,8 +47,8 @@
 <td class="right">-13.67</td>
 </tr>
 <tr>
-<td rowspan="2">2</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(3);">Anna Nożyńska - Krystyna Jędrzejewska</a></td>
+<td rowspan="3">2</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(3);">Anna Nożyńska - Krystyna Jędrzejewska</a></td>
 <td><a href="javascript:loadBoard(4);">4</td><td>NS</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>W</td>
@@ -69,10 +69,20 @@
 <td class="right">-30.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(6);">6</td><td>NS</td>
+<td>5<img src="img/notrump.gif" /></td>
+<td>S</td>
+<td><img src="img/spades.gif" />A</td>
+<td>-1</td>
+<td class="right">-50</td>
+<td class="right">-2.00</td>
+<td class="right">-32.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-30.00</td>
+<td>-32.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
