@@ -1,4 +1,4 @@
-000000006029
+000000006030
 <h2>8: Dariusz Sierocki - Maciej Kulikowski</h2>
 <table class="datatable">
 <thead>
@@ -195,14 +195,14 @@
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-46.33</td>
+<td class="right">-6.00</td>
+<td class="right">-52.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-46.33</td>
+<td>-52.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
