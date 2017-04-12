@@ -1,4 +1,4 @@
-000000005199
+000000005448
 <h2>4: Zbigniew Santkiewicz - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -166,6 +166,14 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
+<td class="right">17.33</td>
+</tr>
+<tr>
+<td>6</td>
+<td class="left"><a href="javascript:loadHistory(2);">Piotr Żak - Jerzy Zaremba</a></td>
+<td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
 <td class="right">17.33</td>
