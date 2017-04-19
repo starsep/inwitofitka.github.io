@@ -1,4 +1,4 @@
-000000004685
+000000004791
 <h2>3: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -146,21 +146,25 @@
 <td>5</td>
 <td class="left"><a href="javascript:loadHistory(1);">Anna Nożyńska - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">-6.00</td>
-<td class="right">-27.00</td>
+<td>2<img src="img/spades.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />Q</td>
+<td>=</td>
+<td class="right">+110</td>
+<td class="right">-5.67</td>
+<td class="right">-26.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-27.00</td>
+<td>-26.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>6</td>
+<td>7</td>
 </tr>
 </tbody>
 </table>
