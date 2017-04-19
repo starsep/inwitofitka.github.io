@@ -23,7 +23,7 @@
 <td class="up">7.0</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">AZS UW Warszawa</td>
-<td rowspan="2" class="right">72.33</td>
+<td rowspan="2" class="right">75.33</td>
 <td rowspan="2" class="dealcount">19</td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@
 <td class="up">1.0</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">IF22</td>
-<td rowspan="2" class="right">26.00</td>
+<td rowspan="2" class="right">23.00</td>
 <td rowspan="2" class="dealcount">19</td>
 </tr>
 <tr>
@@ -81,8 +81,8 @@
 <td class="up">1.5</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">-5.33</td>
-<td rowspan="2" class="dealcount">18</td>
+<td rowspan="2" class="right">-8.33</td>
+<td rowspan="2" class="dealcount">19</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
@@ -95,8 +95,8 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">AZS UW Warszawa V</td>
-<td rowspan="2" class="right">-16.67</td>
-<td rowspan="2" class="dealcount">18</td>
+<td rowspan="2" class="right">-13.67</td>
+<td rowspan="2" class="dealcount">19</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17030" target="_blank">Anna Zaręba</a></td>
@@ -136,7 +136,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 19-04-2017 22:11:33
+, znacznik czasowy: 19-04-2017 22:12:03
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
