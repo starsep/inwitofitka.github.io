@@ -54,7 +54,7 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
 <td rowspan="2" class="right">1.33</td>
-<td rowspan="2" class="dealcount">16</td>
+<td rowspan="2" class="dealcount">17</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17214" target="_blank">Karol Konopko</a></td>
@@ -82,7 +82,7 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
 <td rowspan="2" class="right">0.00</td>
-<td rowspan="2" class="dealcount">16</td>
+<td rowspan="2" class="dealcount">17</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
@@ -136,7 +136,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 19-04-2017 21:51:03
+, znacznik czasowy: 19-04-2017 21:51:33
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
