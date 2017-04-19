@@ -24,7 +24,7 @@
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">AZS UW Warszawa</td>
 <td rowspan="2" class="right">72.33</td>
-<td rowspan="2" class="dealcount">18</td>
+<td rowspan="2" class="dealcount">19</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14569" target="_blank">Maksym Wałaszewski</a></td>
@@ -39,7 +39,7 @@
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">IF22</td>
 <td rowspan="2" class="right">26.00</td>
-<td rowspan="2" class="dealcount">18</td>
+<td rowspan="2" class="dealcount">19</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=1305" target="_blank">Grzegorz Gardynik</a></td>
@@ -136,7 +136,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 19-04-2017 22:10:03
+, znacznik czasowy: 19-04-2017 22:11:03
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
