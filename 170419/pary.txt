@@ -1,7 +1,4 @@
-000000005481
-<p style="text-align: center">
-<img src="running.gif" /> <b>wyniki na bieżąco (21 rozdań)</b> <img src="running.gif" />
-</p>
+000000005202
 <table id="pairlist" class="datatable">
 <thead>
 <tr>
@@ -12,7 +9,7 @@
 <td>okręg</td>
 <td>klub</td>
 <td>wynik</td>
-<td>#</td>
+<td>PKL</td>
 </tr>
 </thead>
 <tbody>
@@ -24,7 +21,7 @@
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">AZS UW Warszawa</td>
 <td rowspan="2" class="right">75.67</td>
-<td rowspan="2" class="dealcount">21</td>
+<td rowspan="2">5</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14569" target="_blank">Maksym Wałaszewski</a></td>
@@ -39,7 +36,7 @@
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">IF22</td>
 <td rowspan="2" class="right">22.67</td>
-<td rowspan="2" class="dealcount">21</td>
+<td rowspan="2">3</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=1305" target="_blank">Grzegorz Gardynik</a></td>
@@ -54,7 +51,7 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
 <td rowspan="2" class="right">6.33</td>
-<td rowspan="2" class="dealcount">21</td>
+<td rowspan="2">1</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=18015" target="_blank">Ireneusz Jędrzejewski</a></td>
@@ -68,7 +65,7 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
 <td rowspan="2" class="right">3.33</td>
-<td rowspan="2" class="dealcount">21</td>
+<td rowspan="2">1</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17214" target="_blank">Karol Konopko</a></td>
@@ -82,7 +79,7 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">AZS UW Warszawa V</td>
 <td rowspan="2" class="right">-9.33</td>
-<td rowspan="2" class="dealcount">21</td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17030" target="_blank">Anna Zaręba</a></td>
@@ -96,7 +93,7 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
 <td rowspan="2" class="right">-12.67</td>
-<td rowspan="2" class="dealcount">21</td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
@@ -110,7 +107,7 @@
 <td class="up">MA</td>
 <td class="nazwiskoup">AZS UW Warszawa</td>
 <td rowspan="2" class="right">-40.67</td>
-<td rowspan="2" class="dealcount">21</td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=9357" target="_blank">Arkadiusz Majcher</a></td>
@@ -126,7 +123,7 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
 <td rowspan="2" class="right">-45.33</td>
-<td rowspan="2" class="dealcount">21</td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17362" target="_blank">Jarek Markowski</a></td>
@@ -136,7 +133,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 19-04-2017 22:28:03
+, znacznik czasowy: 19-04-2017 22:28:13
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
