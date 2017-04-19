@@ -1,4 +1,4 @@
-000000006593
+000000006873
 <h2>2: Rafał Marks - Arkadiusz Majcher</h2>
 <table class="datatable">
 <thead>
@@ -207,8 +207,8 @@
 <td class="right">-40.00</td>
 </tr>
 <tr>
-<td>7</td>
-<td class="left"><a href="javascript:loadHistory(8);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
+<td rowspan="2">7</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(8);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>W</td>
@@ -216,6 +216,16 @@
 <td>+2</td>
 <td class="right">-660</td>
 <td class="right">0.67</td>
+<td class="right">-39.33</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(20);">20</td><td>NS</td>
+<td>4<img src="img/spades.gif" /></td>
+<td>S</td>
+<td><img src="img/clubs.gif" />2</td>
+<td>+2</td>
+<td class="right">+680</td>
+<td class="right">0.00</td>
 <td class="right">-39.33</td>
 </tr>
 <tr>
