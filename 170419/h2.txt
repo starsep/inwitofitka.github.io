@@ -1,4 +1,4 @@
-000000005208
+000000005319
 <h2>2: Rafał Marks - Arkadiusz Majcher</h2>
 <table class="datatable">
 <thead>
@@ -166,15 +166,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.50</td>
-<td class="right">-38.50</td>
+<td>1<img src="img/notrump.gif" /></td>
+<td>E</td>
+<td><img src="img/diamonds.gif" />Q</td>
+<td>+2</td>
+<td class="right">-150</td>
+<td class="right">-2.00</td>
+<td class="right">-41.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-38.50</td>
+<td>-41.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
