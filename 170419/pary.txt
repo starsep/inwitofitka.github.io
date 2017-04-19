@@ -1,4 +1,4 @@
-000000005470
+000000005472
 <p style="text-align: center">
 <img src="running.gif" /> <b>wyniki na bieżąco (21 rozdań)</b> <img src="running.gif" />
 </p>
@@ -23,8 +23,8 @@
 <td class="up">1.0</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">IF22</td>
-<td rowspan="2" class="right">16.67</td>
-<td rowspan="2" class="dealcount">2</td>
+<td rowspan="2" class="right">23.67</td>
+<td rowspan="2" class="dealcount">3</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=1305" target="_blank">Grzegorz Gardynik</a></td>
@@ -38,7 +38,7 @@
 <td class="up"></td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">9.67</td>
+<td rowspan="2" class="right">12.17</td>
 <td rowspan="2" class="dealcount">3</td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">AZS UW Warszawa V</td>
-<td rowspan="2" class="right">0.33</td>
+<td rowspan="2" class="right">4.83</td>
 <td rowspan="2" class="dealcount">3</td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">-0.33</td>
+<td rowspan="2" class="right">-4.83</td>
 <td rowspan="2" class="dealcount">3</td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@
 <td class="up">1.5</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">-9.67</td>
+<td rowspan="2" class="right">-12.17</td>
 <td rowspan="2" class="dealcount">3</td>
 </tr>
 <tr>
@@ -123,8 +123,8 @@
 <td class="up">7.0</td>
 <td class="up">MA</td>
 <td class="nazwiskoup">AZS UW Warszawa</td>
-<td rowspan="2" class="right">-16.67</td>
-<td rowspan="2" class="dealcount">2</td>
+<td rowspan="2" class="right">-23.67</td>
+<td rowspan="2" class="dealcount">3</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=9357" target="_blank">Arkadiusz Majcher</a></td>
@@ -136,7 +136,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 19-04-2017 18:42:31
+, znacznik czasowy: 19-04-2017 18:43:01
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
