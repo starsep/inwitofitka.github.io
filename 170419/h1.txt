@@ -1,4 +1,4 @@
-000000001271
+000000001378
 <h2>1:  - </h2>
 <table class="datatable">
 <thead>
@@ -28,15 +28,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(2);">2</td><td>NS</td>
-<td colspan="5"></td>
-<td class="right">11.50</td>
-<td class="right">15.83</td>
+<td>2<img src="img/hearts.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />K</td>
+<td>-1</td>
+<td class="right">-100</td>
+<td class="right">12.33</td>
+<td class="right">16.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>15.83</td>
+<td>16.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>

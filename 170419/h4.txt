@@ -1,4 +1,4 @@
-000000001274
+000000001384
 <h2>4:  - </h2>
 <table class="datatable">
 <thead>
@@ -28,21 +28,25 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(2);">2</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">-1.50</td>
-<td class="right">6.83</td>
+<td>3<img src="img/spades.gif" />x</td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />6</td>
+<td>-2</td>
+<td class="right">-500</td>
+<td class="right">-5.00</td>
+<td class="right">3.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>6.83</td>
+<td>3.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>3</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
