@@ -1,4 +1,4 @@
-000000005310
+000000005568
 <h2>8: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -175,10 +175,18 @@
 <td class="right">-2.67</td>
 </tr>
 <tr>
+<td>6</td>
+<td class="left"><a href="javascript:loadHistory(1);">Anna Nożyńska - Grzegorz Gardynik</a></td>
+<td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">-4.00</td>
+<td class="right">-6.67</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-2.67</td>
+<td>-6.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
