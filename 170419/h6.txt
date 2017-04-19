@@ -1,4 +1,4 @@
-000000005092
+000000005198
 <h2>6: Mateusz Stępiński - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -156,21 +156,25 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(14);">14</td><td>NS</td>
-<td colspan="5"></td>
-<td class="right">3.00</td>
-<td class="right">54.33</td>
+<td>2<img src="img/hearts.gif" /></td>
+<td>S</td>
+<td><img src="img/spades.gif" />7</td>
+<td>=</td>
+<td class="right">+110</td>
+<td class="right">2.67</td>
+<td class="right">54.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
-<td class="right">54.33</td>
+<td class="right">54.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>54.33</td>
+<td>54.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
