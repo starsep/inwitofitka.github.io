@@ -1,5 +1,5 @@
-000000001379
-<h2>6:  - </h2>
+000000001440
+<h2>6: Mateusz Stępiński - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
 <tr>
@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td rowspan="2">1</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(5);"> - </a></td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(5);">Bartosz Ćwiek - Karol Konopko</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
 <td>2<img src="img/spades.gif" /></td>
 <td>W</td>
