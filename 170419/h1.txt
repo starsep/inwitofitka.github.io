@@ -1,4 +1,4 @@
-000000006999
+000000007000
 <h2>1: Anna Nożyńska - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -231,14 +231,14 @@
 <tr>
 <td><a href="javascript:loadBoard(21);">21</td><td>NS</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">24.33</td>
+<td class="right">-5.00</td>
+<td class="right">19.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>24.33</td>
+<td>19.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
