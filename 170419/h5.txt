@@ -1,4 +1,4 @@
-000000002592
+000000002843
 <h2>5: Bartosz Ćwiek - Karol Konopko</h2>
 <table class="datatable">
 <thead>
@@ -79,16 +79,24 @@
 <td class="right">-7.67</td>
 </tr>
 <tr>
+<td>3</td>
+<td class="left"><a href="javascript:loadHistory(4);">Hanna Ciuńczyk - Anna Zaręba</a></td>
+<td><a href="javascript:loadBoard(7);">7</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">-1.50</td>
+<td class="right">-9.17</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-7.67</td>
+<td>-9.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>5</td>
+<td>6</td>
 </tr>
 </tbody>
 </table>
