@@ -1,4 +1,4 @@
-000000005897
+000000006003
 <h2>2: Rafał Marks - Arkadiusz Majcher</h2>
 <table class="datatable">
 <thead>
@@ -178,27 +178,31 @@
 <td rowspan="3">6</td>
 <td class="left" rowspan="3"><a href="javascript:loadHistory(4);">Hanna Ciuńczyk - Anna Zaręba</a></td>
 <td><a href="javascript:loadBoard(16);">16</td><td>NS</td>
-<td colspan="5"></td>
-<td class="right">-4.00</td>
-<td class="right">-45.00</td>
+<td>5<img src="img/clubs.gif" />x</td>
+<td>W</td>
+<td><img src="img/spades.gif" />6</td>
+<td>=</td>
+<td class="right">-750</td>
+<td class="right">-7.67</td>
+<td class="right">-48.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(17);">17</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
-<td class="right">-45.00</td>
+<td class="right">-48.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
-<td class="right">-45.00</td>
+<td class="right">-48.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-45.00</td>
+<td>-48.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
