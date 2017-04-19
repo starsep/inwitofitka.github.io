@@ -1,4 +1,4 @@
-000000006589
+000000006763
 <h2>4: Hanna Ciuńczyk - Anna Zaręba</h2>
 <table class="datatable">
 <thead>
@@ -207,8 +207,8 @@
 <td class="right">-16.67</td>
 </tr>
 <tr>
-<td>7</td>
-<td class="left"><a href="javascript:loadHistory(7);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
+<td rowspan="2">7</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(7);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>E</td>
@@ -216,6 +216,12 @@
 <td>=</td>
 <td class="right">-600</td>
 <td class="right">2.67</td>
+<td class="right">-14.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(20);">20</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-14.00</td>
 </tr>
 <tr>
