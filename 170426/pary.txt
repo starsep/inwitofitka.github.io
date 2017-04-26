@@ -1,4 +1,4 @@
-000000005708
+000000005707
 <p style="text-align: center">
 <img src="running.gif" /> <b>wyniki na bieżąco (21 rozdań)</b> <img src="running.gif" />
 </p>
@@ -24,7 +24,7 @@
 <td class="up">21.0</td>
 <td rowspan="2">WP</td>
 <td rowspan="2" class="left">CONSUS Kalisz</td>
-<td rowspan="2" class="right">53.83</td>
+<td rowspan="2" class="right">57.33</td>
 <td rowspan="2" class="dealcount">21</td>
 <td rowspan="2">7</td>
 </tr>
@@ -55,7 +55,7 @@
 <td class="up"></td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">IF22</td>
-<td rowspan="2" class="right">20.33</td>
+<td rowspan="2" class="right">14.33</td>
 <td rowspan="2" class="dealcount">21</td>
 <td rowspan="2">2</td>
 </tr>
@@ -71,8 +71,8 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">AZS UW Warszawa V</td>
-<td rowspan="2" class="right">16.67</td>
-<td rowspan="2" class="dealcount">20</td>
+<td rowspan="2" class="right">7.17</td>
+<td rowspan="2" class="dealcount">21</td>
 <td rowspan="2">1</td>
 </tr>
 <tr>
@@ -96,12 +96,27 @@
 </tr>
 <tr>
 <td rowspan="2">6</td>
+<td rowspan="2"><a href="javascript:loadHistory(7);">7</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7817" target="_blank">Ewa Łukowska</a></td>
+<td class="up">2.0</td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">IF22</td>
+<td rowspan="2" class="right">-20.50</td>
+<td rowspan="2" class="dealcount">21</td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17362" target="_blank">Jarek Markowski</a></td>
+<td class="down">1.5</td>
+</tr>
+<tr>
+<td rowspan="2">7</td>
 <td rowspan="2"><a href="javascript:loadHistory(8);">8</a></td>
 <td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14569" target="_blank">Maksym Wałaszewski</a></td>
 <td class="up">1.0</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">AZS UW Warszawa VI Orły Feldiego</td>
-<td rowspan="2" class="right">-25.50</td>
+<td rowspan="2" class="right">-29.00</td>
 <td rowspan="2" class="dealcount">21</td>
 <td rowspan="2"></td>
 </tr>
@@ -111,28 +126,13 @@
 <td class="nazwiskodown">SAMOVOLKA Warszawa</td>
 </tr>
 <tr>
-<td rowspan="2">7</td>
-<td rowspan="2"><a href="javascript:loadHistory(7);">7</a></td>
-<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7817" target="_blank">Ewa Łukowska</a></td>
-<td class="up">2.0</td>
-<td rowspan="2">MA</td>
-<td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">-30.00</td>
-<td rowspan="2" class="dealcount">20</td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17362" target="_blank">Jarek Markowski</a></td>
-<td class="down">1.5</td>
-</tr>
-<tr>
 <td rowspan="2">8</td>
 <td rowspan="2"><a href="javascript:loadHistory(1);">1</a></td>
 <td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=11104" target="_blank">Sławomir Niajko</a></td>
 <td class="up">12.0</td>
 <td class="up">ZP</td>
 <td class="nazwiskoup">ZOIM & FIORI Szczecin</td>
-<td rowspan="2" class="right">-54.33</td>
+<td rowspan="2" class="right">-48.33</td>
 <td rowspan="2" class="dealcount">21</td>
 <td rowspan="2"></td>
 </tr>
@@ -146,7 +146,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 26-04-2017 22:42:03
+, znacznik czasowy: 26-04-2017 22:42:33
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
