@@ -1,4 +1,4 @@
-000000004698
+000000004847
 <h2>2: Jerzy Zaremba - Piotr Żak</h2>
 <table class="datatable">
 <thead>
@@ -135,8 +135,8 @@
 <td class="right">35.50</td>
 </tr>
 <tr>
-<td rowspan="2">7</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(8);">Maksym Wałaszewski - Zbigniew Santkiewicz</a></td>
+<td rowspan="3">7</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(8);">Maksym Wałaszewski - Zbigniew Santkiewicz</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">15.00</td>
@@ -146,6 +146,12 @@
 <td><a href="javascript:loadBoard(20);">20</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">-1.50</td>
+<td class="right">49.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(21);">21</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">49.00</td>
 </tr>
 <tr>
