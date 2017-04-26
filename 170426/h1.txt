@@ -1,4 +1,4 @@
-000000004277
+000000004542
 <h2>1: Sławomir Niajko - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -135,10 +135,18 @@
 <td class="right">-48.67</td>
 </tr>
 <tr>
+<td>7</td>
+<td class="left"><a href="javascript:loadHistory(6);">Ireneusz Jędrzejewski - Filip Czaplicki</a></td>
+<td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">-7.50</td>
+<td class="right">-56.17</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-48.67</td>
+<td>-56.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
