@@ -1,0 +1,70 @@
+000000001943
+<h2>2: Jerzy Zaremba - Piotr Żak</h2>
+<table class="datatable">
+<thead>
+<tr>
+<td>rnd.</td><td>przeciwnik</td><td>rzd.</td><td>linia</td>
+<td>kont.</td>
+<td>gra</td>
+<td>wist</td>
+<td>lew</td>
+<td>zapis</td>
+<td>wynik</td>
+<td>bieżący</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">1</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(1);">Sławomir Niajko - Grzegorz Gardynik</a></td>
+<td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">-11.00</td>
+<td class="right">-11.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(2);">2</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">-1.50</td>
+<td class="right">-12.50</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(3);">3</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">14.00</td>
+<td class="right">1.50</td>
+</tr>
+<tr>
+<td rowspan="3">2</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(7);">Ewa Łukowska - Jarek Markowski</a></td>
+<td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">2.67</td>
+<td class="right">4.17</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">11.67</td>
+<td class="right">15.83</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(6);">6</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">-1.67</td>
+<td class="right">14.17</td>
+</tr>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>wynik</b></td>
+<td>14.17</td>
+</tr>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>miejsce</b></td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
