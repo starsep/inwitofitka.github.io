@@ -1,4 +1,4 @@
-000000003689
+000000004260
 <h2>4: Hanna Ciuńczyk - Anna Zaręba</h2>
 <table class="datatable">
 <thead>
@@ -112,6 +112,26 @@
 <td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">-8.33</td>
+<td class="right">22.00</td>
+</tr>
+<tr>
+<td rowspan="3">6</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(2);">Jerzy Zaremba - Piotr Żak</a></td>
+<td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
+<td class="right">22.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(17);">17</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
+<td class="right">22.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">22.00</td>
 </tr>
 <tr>
