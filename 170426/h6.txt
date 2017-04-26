@@ -1,4 +1,4 @@
-000000004114
+000000004263
 <h2>6: Ireneusz Jędrzejewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -115,8 +115,8 @@
 <td class="right">5.17</td>
 </tr>
 <tr>
-<td rowspan="2">6</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(3);">Anna Nożyńska - Bartosz Ćwiek</a></td>
+<td rowspan="3">6</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(3);">Anna Nożyńska - Bartosz Ćwiek</a></td>
 <td><a href="javascript:loadBoard(16);">16</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">-3.00</td>
@@ -129,10 +129,16 @@
 <td class="right">13.17</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(18);">18</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">1.50</td>
+<td class="right">14.67</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>13.17</td>
+<td>14.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
