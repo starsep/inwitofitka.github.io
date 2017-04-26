@@ -39,8 +39,8 @@
 <td class="up">1.0</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">IF22</td>
-<td rowspan="2" class="right">33.67</td>
-<td rowspan="2" class="dealcount">16</td>
+<td rowspan="2" class="right">22.67</td>
+<td rowspan="2" class="dealcount">17</td>
 <td rowspan="2">4</td>
 </tr>
 <tr>
@@ -70,8 +70,8 @@
 <td class="up"></td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">IF22</td>
-<td rowspan="2" class="right">2.17</td>
-<td rowspan="2" class="dealcount">16</td>
+<td rowspan="2" class="right">13.17</td>
+<td rowspan="2" class="dealcount">17</td>
 <td rowspan="2">1</td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">-9.17</td>
+<td rowspan="2" class="right">-3.67</td>
 <td rowspan="2" class="dealcount">18</td>
 <td rowspan="2"></td>
 </tr>
@@ -101,7 +101,7 @@
 <td class="up">1.0</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">AZS UW Warszawa VI Orły Feldiego</td>
-<td rowspan="2" class="right">-12.67</td>
+<td rowspan="2" class="right">-7.17</td>
 <td rowspan="2" class="dealcount">18</td>
 <td rowspan="2"></td>
 </tr>
@@ -117,7 +117,7 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">-28.33</td>
+<td rowspan="2" class="right">-33.83</td>
 <td rowspan="2" class="dealcount">18</td>
 <td rowspan="2"></td>
 </tr>
@@ -132,7 +132,7 @@
 <td class="up">12.0</td>
 <td class="up">ZP</td>
 <td class="nazwiskoup">ZOIM & FIORI Szczecin</td>
-<td rowspan="2" class="right">-43.17</td>
+<td rowspan="2" class="right">-48.67</td>
 <td rowspan="2" class="dealcount">18</td>
 <td rowspan="2"></td>
 </tr>
@@ -146,7 +146,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 26-04-2017 21:59:33
+, znacznik czasowy: 26-04-2017 22:00:03
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
