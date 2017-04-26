@@ -1,4 +1,4 @@
-000000004842
+000000007090
 <h2>3: Anna Nożyńska - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -18,19 +18,31 @@
 <td rowspan="3">1</td>
 <td class="left" rowspan="3"><a href="javascript:loadHistory(4);">Hanna Ciuńczyk - Anna Zaręba</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>NS</td>
-<td colspan="5"></td>
+<td>5<img src="img/spades.gif" /></td>
+<td>E</td>
+<td><img src="img/hearts.gif" />3</td>
+<td>=</td>
+<td class="right">-450</td>
 <td class="right">-3.67</td>
 <td class="right">-3.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(2);">2</td><td>NS</td>
-<td colspan="5"></td>
+<td>3<img src="img/spades.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />J</td>
+<td>-2</td>
+<td class="right">-200</td>
 <td class="right">-4.33</td>
 <td class="right">-8.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(3);">3</td><td>NS</td>
-<td colspan="5"></td>
+<td>5<img src="img/clubs.gif" />x</td>
+<td>S</td>
+<td><img src="img/hearts.gif" />A</td>
+<td>=</td>
+<td class="right">+550</td>
 <td class="right">8.67</td>
 <td class="right">0.67</td>
 </tr>
@@ -38,19 +50,31 @@
 <td rowspan="3">2</td>
 <td class="left" rowspan="3"><a href="javascript:loadHistory(8);">Maksym Wałaszewski - Zbigniew Santkiewicz</a></td>
 <td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
-<td colspan="5"></td>
+<td>4<img src="img/clubs.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />A</td>
+<td>-2</td>
+<td class="right">-200</td>
 <td class="right">6.00</td>
 <td class="right">6.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
-<td colspan="5"></td>
+<td>4<img src="img/hearts.gif" />x</td>
+<td>E</td>
+<td><img src="img/spades.gif" />K</td>
+<td>-1</td>
+<td class="right">+100</td>
 <td class="right">-2.67</td>
 <td class="right">4.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(6);">6</td><td>EW</td>
-<td colspan="5"></td>
+<td>2<img src="img/spades.gif" /></td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />K</td>
+<td>-3</td>
+<td class="right">-150</td>
 <td class="right">-1.67</td>
 <td class="right">2.33</td>
 </tr>
@@ -58,19 +82,31 @@
 <td rowspan="3">3</td>
 <td class="left" rowspan="3"><a href="javascript:loadHistory(2);">Jerzy Zaremba - Piotr Żak</a></td>
 <td><a href="javascript:loadBoard(7);">7</td><td>NS</td>
-<td colspan="5"></td>
+<td>2<img src="img/spades.gif" /></td>
+<td>S</td>
+<td><img src="img/clubs.gif" />6</td>
+<td>+1</td>
+<td class="right">+140</td>
 <td class="right">4.67</td>
 <td class="right">7.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(8);">8</td><td>NS</td>
-<td colspan="5"></td>
+<td>4<img src="img/spades.gif" /></td>
+<td>E</td>
+<td><img src="img/hearts.gif" />A</td>
+<td>+1</td>
+<td class="right">-450</td>
 <td class="right">-0.33</td>
 <td class="right">6.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(9);">9</td><td>NS</td>
-<td colspan="5"></td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>E</td>
+<td><img src="img/spades.gif" />4</td>
+<td>-1</td>
+<td class="right">+100</td>
 <td class="right">-0.67</td>
 <td class="right">6.00</td>
 </tr>
@@ -78,19 +114,31 @@
 <td rowspan="3">4</td>
 <td class="left" rowspan="3"><a href="javascript:loadHistory(7);">Ewa Łukowska - Jarek Markowski</a></td>
 <td><a href="javascript:loadBoard(10);">10</td><td>NS</td>
-<td colspan="5"></td>
+<td>3<img src="img/diamonds.gif" /></td>
+<td>S</td>
+<td><img src="img/spades.gif" />6</td>
+<td>-2</td>
+<td class="right">-200</td>
 <td class="right">-11.33</td>
 <td class="right">-5.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(11);">11</td><td>NS</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>W</td>
+<td><img src="img/spades.gif" />8</td>
+<td>-1</td>
+<td class="right">+50</td>
 <td class="right">10.00</td>
 <td class="right">4.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(12);">12</td><td>NS</td>
-<td colspan="5"></td>
+<td>6<img src="img/hearts.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />A</td>
+<td>=</td>
+<td class="right">+1430</td>
 <td class="right">12.33</td>
 <td class="right">17.00</td>
 </tr>
@@ -98,19 +146,31 @@
 <td rowspan="3">5</td>
 <td class="left" rowspan="3"><a href="javascript:loadHistory(1);">Sławomir Niajko - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
-<td colspan="5"></td>
+<td>2<img src="img/clubs.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />K</td>
+<td>-1</td>
+<td class="right">-100</td>
 <td class="right">3.00</td>
 <td class="right">20.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(14);">14</td><td>EW</td>
-<td colspan="5"></td>
+<td>3<img src="img/hearts.gif" /></td>
+<td>S</td>
+<td><img src="img/clubs.gif" />8</td>
+<td>+1</td>
+<td class="right">+170</td>
 <td class="right">2.00</td>
 <td class="right">22.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />K</td>
+<td>-1</td>
+<td class="right">-100</td>
 <td class="right">6.33</td>
 <td class="right">28.33</td>
 </tr>
@@ -118,19 +178,31 @@
 <td rowspan="3">6</td>
 <td class="left" rowspan="3"><a href="javascript:loadHistory(6);">Ireneusz Jędrzejewski - Filip Czaplicki</a></td>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
-<td colspan="5"></td>
+<td>3<img src="img/diamonds.gif" /></td>
+<td>N</td>
+<td><img src="img/clubs.gif" />2</td>
+<td>-2</td>
+<td class="right">-100</td>
 <td class="right">1.33</td>
 <td class="right">29.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(17);">17</td><td>EW</td>
-<td colspan="5"></td>
+<td>6<img src="img/hearts.gif" /></td>
+<td>E</td>
+<td><img src="img/clubs.gif" />J</td>
+<td>-1</td>
+<td class="right">+50</td>
 <td class="right">-11.00</td>
 <td class="right">18.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
-<td colspan="5"></td>
+<td>5<img src="img/diamonds.gif" /></td>
+<td>E</td>
+<td><img src="img/spades.gif" />8</td>
+<td>=</td>
+<td class="right">-400</td>
 <td class="right">-5.00</td>
 <td class="right">13.67</td>
 </tr>
@@ -138,19 +210,31 @@
 <td rowspan="3">7</td>
 <td class="left" rowspan="3"><a href="javascript:loadHistory(5);">Karol Konopko - Wojciech Grzegorzewski</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>EW</td>
-<td colspan="5"></td>
+<td>6<img src="img/spades.gif" /></td>
+<td>W</td>
+<td><img src="img/clubs.gif" />K</td>
+<td>=</td>
+<td class="right">-1430</td>
 <td class="right">5.00</td>
 <td class="right">18.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
-<td colspan="5"></td>
+<td>2<img src="img/diamonds.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />K</td>
+<td>=</td>
+<td class="right">+90</td>
 <td class="right">1.67</td>
 <td class="right">20.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(21);">21</td><td>EW</td>
-<td colspan="5"></td>
+<td>2<img src="img/spades.gif" /></td>
+<td>S</td>
+<td><img src="img/diamonds.gif" />8</td>
+<td>+2</td>
+<td class="right">+170</td>
 <td class="right">-2.00</td>
 <td class="right">18.33</td>
 </tr>
