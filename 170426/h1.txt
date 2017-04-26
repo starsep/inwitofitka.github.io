@@ -1,4 +1,4 @@
-000000004275
+000000004276
 <h2>1: Sławomir Niajko - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -131,14 +131,14 @@
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>NS</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-40.17</td>
+<td class="right">-3.00</td>
+<td class="right">-43.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-40.17</td>
+<td>-43.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
