@@ -8,7 +8,7 @@
 <script>
 var ajaxKey = 112;
 $(document).ready(function() {
-
+syncData(30000);
 $(window).hashchange(function() { loadData(false); }); $(window).hashchange(); loadData(true); 
 });
 </script>
@@ -31,19 +31,6 @@ $(window).hashchange(function() { loadData(false); }); $(window).hashchange(); l
 <div id="historyUsage" style="font-size: 8pt; text-align: center">kliknij na numer pary, aby obejrzeć historię</div>
 <div id="pairscontent">
 </div>
-</div>
-</div>
-<div id="rightpanel">
-<div id="nav" class="rounded">
-</div>
-<div id="boards" class="rounded">
-<div class="table">
-<div class="row">
-<div id="rightleft"></div>
-</div>
-<div class="row">
-<div id="rightright">
-<div id="boardscontent"></div>
 </div>
 </div>
 </div>
