@@ -1,4 +1,4 @@
-000000004515
+000000004688
 <h2>4: Hanna Ciuńczyk - Anna Zaręba</h2>
 <table class="datatable">
 <thead>
@@ -135,11 +135,17 @@
 <td class="right">22.00</td>
 </tr>
 <tr>
-<td>7</td>
-<td class="left"><a href="javascript:loadHistory(7);">Ewa Łukowska - Jarek Markowski</a></td>
+<td rowspan="2">7</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(7);">Ewa Łukowska - Jarek Markowski</a></td>
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">-4.67</td>
+<td class="right">17.33</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(20);">20</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">17.33</td>
 </tr>
 <tr>
