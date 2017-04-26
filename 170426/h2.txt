@@ -1,4 +1,4 @@
-000000004847
+000000004850
 <h2>2: Jerzy Zaremba - Piotr Żak</h2>
 <table class="datatable">
 <thead>
@@ -125,14 +125,14 @@
 <tr>
 <td><a href="javascript:loadBoard(17);">17</td><td>NS</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">35.50</td>
+<td class="right">-3.67</td>
+<td class="right">31.83</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>NS</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">35.50</td>
+<td class="right">-12.00</td>
+<td class="right">19.83</td>
 </tr>
 <tr>
 <td rowspan="3">7</td>
@@ -140,25 +140,25 @@
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">15.00</td>
-<td class="right">50.50</td>
+<td class="right">34.83</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">-0.67</td>
-<td class="right">49.83</td>
+<td class="right">34.17</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(21);">21</td><td>NS</td>
 <td colspan="5"></td>
 <td class="right">6.33</td>
-<td class="right">56.17</td>
+<td class="right">40.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>56.17</td>
+<td>40.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
