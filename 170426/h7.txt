@@ -111,14 +111,14 @@
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
 <td colspan="5"></td>
-<td class="right">-7.50</td>
-<td class="right">-26.83</td>
+<td class="right">-9.00</td>
+<td class="right">-28.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-26.83</td>
+<td>-28.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
