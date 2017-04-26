@@ -1,4 +1,4 @@
-000000004697
+000000004698
 <h2>2: Jerzy Zaremba - Piotr Żak</h2>
 <table class="datatable">
 <thead>
@@ -145,14 +145,14 @@
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>NS</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">50.50</td>
+<td class="right">-1.50</td>
+<td class="right">49.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>50.50</td>
+<td>49.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
