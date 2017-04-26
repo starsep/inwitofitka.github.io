@@ -11,17 +11,6 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="javascript:hideTooltip();loadHistory(7);"onmouseover="showTooltip('Ewa Łukowska - Jarek Markowski', event);"onmouseout="hideTooltip();">7</a></td>
-<td><a href="javascript:hideTooltip();loadHistory(8);"onmouseover="showTooltip('Maksym Wałaszewski - Zbigniew Santkiewicz', event);"onmouseout="hideTooltip();">8</a></td>
-<td>4<img src="img/hearts.gif" />x</td>
-<td>W</td>
-<td></td>
-<td>-5</td>
-<td class="zapis">1100</td><td class="zapis"></td>
-<td class="right">16.00</td>
-<td class="right">-16.00</td>
-</tr>
-<tr>
 <td><a href="javascript:hideTooltip();loadHistory(1);"onmouseover="showTooltip('Sławomir Niajko - Grzegorz Gardynik', event);"onmouseout="hideTooltip();">1</a></td>
 <td><a href="javascript:hideTooltip();loadHistory(2);"onmouseover="showTooltip('Jerzy Zaremba - Piotr Żak', event);"onmouseout="hideTooltip();">2</a></td>
 <td>3<img src="img/spades.gif" /></td>
@@ -29,8 +18,8 @@
 <td><img src="img/hearts.gif" />J</td>
 <td>-2</td>
 <td class="zapis"></td><td class="zapis">200</td>
-<td class="right">-4.33</td>
-<td class="right">4.33</td>
+<td class="right">6.00</td>
+<td class="right">-6.00</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(3);"onmouseover="showTooltip('Anna Nożyńska - Bartosz Ćwiek', event);"onmouseout="hideTooltip();">3</a></td>
@@ -40,8 +29,8 @@
 <td><img src="img/hearts.gif" />J</td>
 <td>-2</td>
 <td class="zapis"></td><td class="zapis">200</td>
-<td class="right">-4.33</td>
-<td class="right">4.33</td>
+<td class="right">6.00</td>
+<td class="right">-6.00</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip('Karol Konopko - Wojciech Grzegorzewski', event);"onmouseout="hideTooltip();">5</a></td>
@@ -51,8 +40,19 @@
 <td><img src="img/hearts.gif" />J</td>
 <td>-3</td>
 <td class="zapis"></td><td class="zapis">300</td>
-<td class="right">-7.33</td>
-<td class="right">7.33</td>
+<td class="right">3.00</td>
+<td class="right">-3.00</td>
+</tr>
+<tr>
+<td><a href="javascript:hideTooltip();loadHistory(7);"onmouseover="showTooltip('Ewa Łukowska - Jarek Markowski', event);"onmouseout="hideTooltip();">7</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(8);"onmouseover="showTooltip('Maksym Wałaszewski - Zbigniew Santkiewicz', event);"onmouseout="hideTooltip();">8</a></td>
+<td>4<img src="img/spades.gif" />x</td>
+<td>N</td>
+<td></td>
+<td>-5</td>
+<td class="zapis"></td><td class="zapis">1400</td>
+<td class="right">-15.00</td>
+<td class="right">15.00</td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-000000007090
+000000007095
 <h2>3: Anna Nożyńska - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -33,8 +33,8 @@
 <td><img src="img/hearts.gif" />J</td>
 <td>-2</td>
 <td class="right">-200</td>
-<td class="right">-4.33</td>
-<td class="right">-8.00</td>
+<td class="right">6.00</td>
+<td class="right">2.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(3);">3</td><td>NS</td>
@@ -44,7 +44,7 @@
 <td>=</td>
 <td class="right">+550</td>
 <td class="right">8.67</td>
-<td class="right">0.67</td>
+<td class="right">11.00</td>
 </tr>
 <tr>
 <td rowspan="3">2</td>
@@ -56,7 +56,7 @@
 <td>-2</td>
 <td class="right">-200</td>
 <td class="right">6.00</td>
-<td class="right">6.67</td>
+<td class="right">17.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
@@ -66,7 +66,7 @@
 <td>-1</td>
 <td class="right">+100</td>
 <td class="right">-2.67</td>
-<td class="right">4.00</td>
+<td class="right">14.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(6);">6</td><td>EW</td>
@@ -76,7 +76,7 @@
 <td>-3</td>
 <td class="right">-150</td>
 <td class="right">-1.67</td>
-<td class="right">2.33</td>
+<td class="right">12.67</td>
 </tr>
 <tr>
 <td rowspan="3">3</td>
@@ -88,7 +88,7 @@
 <td>+1</td>
 <td class="right">+140</td>
 <td class="right">4.67</td>
-<td class="right">7.00</td>
+<td class="right">17.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(8);">8</td><td>NS</td>
@@ -98,7 +98,7 @@
 <td>+1</td>
 <td class="right">-450</td>
 <td class="right">-0.33</td>
-<td class="right">6.67</td>
+<td class="right">17.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(9);">9</td><td>NS</td>
@@ -108,7 +108,7 @@
 <td>-1</td>
 <td class="right">+100</td>
 <td class="right">-0.67</td>
-<td class="right">6.00</td>
+<td class="right">16.33</td>
 </tr>
 <tr>
 <td rowspan="3">4</td>
@@ -120,7 +120,7 @@
 <td>-2</td>
 <td class="right">-200</td>
 <td class="right">-11.33</td>
-<td class="right">-5.33</td>
+<td class="right">5.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(11);">11</td><td>NS</td>
@@ -130,7 +130,7 @@
 <td>-1</td>
 <td class="right">+50</td>
 <td class="right">10.00</td>
-<td class="right">4.67</td>
+<td class="right">15.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(12);">12</td><td>NS</td>
@@ -140,7 +140,7 @@
 <td>=</td>
 <td class="right">+1430</td>
 <td class="right">12.33</td>
-<td class="right">17.00</td>
+<td class="right">27.33</td>
 </tr>
 <tr>
 <td rowspan="3">5</td>
@@ -152,7 +152,7 @@
 <td>-1</td>
 <td class="right">-100</td>
 <td class="right">3.00</td>
-<td class="right">20.00</td>
+<td class="right">30.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(14);">14</td><td>EW</td>
@@ -162,7 +162,7 @@
 <td>+1</td>
 <td class="right">+170</td>
 <td class="right">2.00</td>
-<td class="right">22.00</td>
+<td class="right">32.33</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
@@ -172,7 +172,7 @@
 <td>-1</td>
 <td class="right">-100</td>
 <td class="right">6.33</td>
-<td class="right">28.33</td>
+<td class="right">38.67</td>
 </tr>
 <tr>
 <td rowspan="3">6</td>
@@ -184,7 +184,7 @@
 <td>-2</td>
 <td class="right">-100</td>
 <td class="right">1.33</td>
-<td class="right">29.67</td>
+<td class="right">40.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(17);">17</td><td>EW</td>
@@ -194,7 +194,7 @@
 <td>-1</td>
 <td class="right">+50</td>
 <td class="right">-11.00</td>
-<td class="right">18.67</td>
+<td class="right">29.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
@@ -204,7 +204,7 @@
 <td>=</td>
 <td class="right">-400</td>
 <td class="right">-5.00</td>
-<td class="right">13.67</td>
+<td class="right">24.00</td>
 </tr>
 <tr>
 <td rowspan="3">7</td>
@@ -216,7 +216,7 @@
 <td>=</td>
 <td class="right">-1430</td>
 <td class="right">5.00</td>
-<td class="right">18.67</td>
+<td class="right">29.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
@@ -226,7 +226,7 @@
 <td>=</td>
 <td class="right">+90</td>
 <td class="right">1.67</td>
-<td class="right">20.33</td>
+<td class="right">30.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(21);">21</td><td>EW</td>
@@ -236,19 +236,19 @@
 <td>+2</td>
 <td class="right">+170</td>
 <td class="right">-2.00</td>
-<td class="right">18.33</td>
+<td class="right">28.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>18.33</td>
+<td>28.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>4</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
