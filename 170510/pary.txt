@@ -1,7 +1,4 @@
-000000004386
-<p style="text-align: center">
-<img src="running.gif" /> <b>wyniki na bieżąco (20 rozdań)</b> <img src="running.gif" />
-</p>
+000000003998
 <table id="pairlist" class="datatable">
 <thead>
 <tr>
@@ -12,7 +9,6 @@
 <td>okręg</td>
 <td>klub</td>
 <td>wynik</td>
-<td>#</td>
 <td>PKL</td>
 </tr>
 </thead>
@@ -25,7 +21,6 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
 <td rowspan="2" class="right">47.50</td>
-<td rowspan="2" class="dealcount">20</td>
 <td rowspan="2">3</td>
 </tr>
 <tr>
@@ -40,7 +35,6 @@
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">IF22</td>
 <td rowspan="2" class="right">25.00</td>
-<td rowspan="2" class="dealcount">20</td>
 <td rowspan="2">1</td>
 </tr>
 <tr>
@@ -56,7 +50,6 @@
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">SAMOVOLKA Warszawa</td>
 <td rowspan="2" class="right">3.00</td>
-<td rowspan="2" class="dealcount">20</td>
 <td rowspan="2">1</td>
 </tr>
 <tr>
@@ -72,7 +65,6 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
 <td rowspan="2" class="right">-12.00</td>
-<td rowspan="2" class="dealcount">20</td>
 <td rowspan="2"></td>
 </tr>
 <tr>
@@ -87,7 +79,6 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
 <td rowspan="2" class="right">-31.50</td>
-<td rowspan="2" class="dealcount">20</td>
 <td rowspan="2"></td>
 </tr>
 <tr>
@@ -102,7 +93,6 @@
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">AZS UW Warszawa V</td>
 <td rowspan="2" class="right">-32.00</td>
-<td rowspan="2" class="dealcount">20</td>
 <td rowspan="2"></td>
 </tr>
 <tr>
@@ -113,7 +103,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 10-05-2017 22:46:06
+, znacznik czasowy: 10-05-2017 22:46:18
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
