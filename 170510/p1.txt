@@ -1,4 +1,4 @@
-000000002001
+000000001975
 <table id="protocol" class="datatable">
 <thead>
 <tr>
@@ -18,19 +18,8 @@
 <td><img src="img/hearts.gif" />K</td>
 <td>-4</td>
 <td class="zapis">800</td><td class="zapis"></td>
-<td class="right">12.50</td>
-<td class="right">-12.50</td>
-</tr>
-<tr>
-<td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip('Krystyna Jędrzejewska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">5</a></td>
-<td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Karol Konopko - Bartosz Ćwiek', event);"onmouseout="hideTooltip();">6</a></td>
-<td>2<img src="img/spades.gif" /></td>
-<td>S</td>
-<td><img src="img/clubs.gif" />A</td>
-<td>=</td>
-<td class="zapis">110</td><td class="zapis"></td>
-<td class="right">-4.00</td>
-<td class="right">4.00</td>
+<td class="right">13.50</td>
+<td class="right">-13.50</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(3);"onmouseover="showTooltip('Anna Zaręba - Hanna Ciuńczyk', event);"onmouseout="hideTooltip();">3</a></td>
@@ -40,8 +29,19 @@
 <td><img src="img/clubs.gif" />K</td>
 <td>-1</td>
 <td class="zapis"></td><td class="zapis">50</td>
-<td class="right">-8.50</td>
-<td class="right">8.50</td>
+<td class="right">-5.50</td>
+<td class="right">5.50</td>
+</tr>
+<tr>
+<td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip('Krystyna Jędrzejewska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">5</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Karol Konopko - Bartosz Ćwiek', event);"onmouseout="hideTooltip();">6</a></td>
+<td>4<img src="img/diamonds.gif" /></td>
+<td>E</td>
+<td></td>
+<td>=</td>
+<td class="zapis"></td><td class="zapis">130</td>
+<td class="right">-8.00</td>
+<td class="right">8.00</td>
 </tr>
 </tbody>
 </table>
