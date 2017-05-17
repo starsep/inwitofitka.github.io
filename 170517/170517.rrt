@@ -611,14 +611,14 @@
 <wpis>
 <ns>1</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 H</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>SQ</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>50</zapis>
 </wpis>
 <wpis>
 <ns>2</ns>
