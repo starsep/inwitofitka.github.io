@@ -459,14 +459,14 @@
 <wpis>
 <ns>5</ns>
 <ew>6</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 H</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>=</wynik>
+<wist>ST</wist>
 <grupa/>
 <runda>1</runda>
 <stół>A3</stół>
-<zapis/>
+<zapis>620</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
