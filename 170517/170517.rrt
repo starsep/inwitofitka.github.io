@@ -4,7 +4,7 @@
 <outputDir>C:\Users\Grzegorz Gardynik\inwitofitka.github.io\170517</outputDir>
 <plikPBN/>
 <favicon/>
-<nabiezaco>1</nabiezaco>
+<nabiezaco>0</nabiezaco>
 <adresFTP/>
 <loginFTP/>
 <nazwa>Szkoła IF, 17.05.17</nazwa>
@@ -1063,14 +1063,14 @@
 <wpis>
 <ns>5</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 H X</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>D8</wist>
 <grupa/>
 <runda>5</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>-200</zapis>
 </wpis>
 <wpis>
 <ns>6</ns>
@@ -1107,14 +1107,14 @@
 <wpis>
 <ns>5</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 S X</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>-4</wynik>
+<wist>CK</wist>
 <grupa/>
 <runda>5</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>-800</zapis>
 </wpis>
 <wpis>
 <ns>6</ns>
@@ -1151,14 +1151,14 @@
 <wpis>
 <ns>5</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 NT</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>=</wynik>
+<wist>SK</wist>
 <grupa/>
 <runda>5</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>-120</zapis>
 </wpis>
 <wpis>
 <ns>6</ns>
