@@ -1,4 +1,4 @@
-000000004660
+000000005139
 <h2>3: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -141,8 +141,8 @@
 <td class="right">-29.00</td>
 </tr>
 <tr>
-<td>4</td>
-<td class="left"><a href="javascript:loadHistory(6);">Karol Konopko - Bartosz Ćwiek</a></td>
+<td rowspan="4">4</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(6);">Karol Konopko - Bartosz Ćwiek</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
 <td>3<img src="img/clubs.gif" /></td>
 <td>W</td>
@@ -153,10 +153,28 @@
 <td class="right">-32.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(14);">14</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">-10.00</td>
+<td class="right">-42.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">-12.00</td>
+<td class="right">-54.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">-8.00</td>
+<td class="right">-62.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-32.00</td>
+<td>-62.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
