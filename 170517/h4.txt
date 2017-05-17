@@ -1,4 +1,4 @@
-000000003108
+000000003370
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -96,6 +96,14 @@
 <td>-1</td>
 <td class="right">+50</td>
 <td class="right">4.00</td>
+<td class="right">23.00</td>
+</tr>
+<tr>
+<td>3</td>
+<td class="left"><a href="javascript:loadHistory(5);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
+<td><a href="javascript:loadBoard(9);">9</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">23.00</td>
 </tr>
 <tr>
