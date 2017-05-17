@@ -1,4 +1,4 @@
-000000004646
+000000005439
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -141,8 +141,8 @@
 <td class="right">1.50</td>
 </tr>
 <tr>
-<td>4</td>
-<td class="left"><a href="javascript:loadHistory(2);">Maksym Wałaszewski - Zbigniew Santkiewicz</a></td>
+<td rowspan="4">4</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(2);">Maksym Wałaszewski - Zbigniew Santkiewicz</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>NS</td>
 <td>3<img src="img/spades.gif" />x</td>
 <td>N</td>
@@ -153,16 +153,46 @@
 <td class="right">-6.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(14);">14</td><td>NS</td>
+<td>1<img src="img/notrump.gif" /></td>
+<td>E</td>
+<td><img src="img/spades.gif" />6</td>
+<td>-1</td>
+<td class="right">+50</td>
+<td class="right">-0.50</td>
+<td class="right">-6.50</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(15);">15</td><td>NS</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />J</td>
+<td>+1</td>
+<td class="right">+630</td>
+<td class="right">6.50</td>
+<td class="right">0.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(16);">16</td><td>NS</td>
+<td>2<img src="img/spades.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />A</td>
+<td>-1</td>
+<td class="right">-50</td>
+<td class="right">-1.50</td>
+<td class="right">-1.50</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-6.00</td>
+<td>-1.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>4</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
