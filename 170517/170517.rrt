@@ -1051,14 +1051,14 @@
 <wpis>
 <ns>1</ns>
 <ew>3</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 H</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>=</wynik>
+<wist>D8</wist>
 <grupa/>
 <runda>5</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>110</zapis>
 </wpis>
 <wpis>
 <ns>5</ns>
@@ -1075,14 +1075,14 @@
 <wpis>
 <ns>6</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 C</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>=</wynik>
+<wist>H7</wist>
 <grupa/>
 <runda>5</runda>
 <stół>A3</stół>
-<zapis/>
+<zapis>-90</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
