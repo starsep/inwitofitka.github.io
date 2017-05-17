@@ -1,4 +1,4 @@
-000000002746
+000000002854
 <h2>2: Maksym Wałaszewski - Zbigniew Santkiewicz</h2>
 <table class="datatable">
 <thead>
@@ -80,15 +80,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(7);">7</td><td>NS</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-26.50</td>
+<td>2<img src="img/hearts.gif" /></td>
+<td>W</td>
+<td><img src="img/spades.gif" />6</td>
+<td>+1</td>
+<td class="right">-140</td>
+<td class="right">-0.50</td>
+<td class="right">-27.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-26.50</td>
+<td>-27.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
