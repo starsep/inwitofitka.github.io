@@ -1,4 +1,4 @@
-000000002001
+000000002005
 <table id="protocol" class="datatable">
 <thead>
 <tr>
@@ -23,7 +23,7 @@
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(3);"onmouseover="showTooltip('Ewa Łukowska - Jarek Markowski', event);"onmouseout="hideTooltip();">3</a></td>
-<td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Ireneusz Jędrzejewski - Alojzy Ziółkowski', event);"onmouseout="hideTooltip();">4</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Krystyna Jędrzejewska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">4</a></td>
 <td>4<img src="img/hearts.gif" /></td>
 <td>N</td>
 <td><img src="img/hearts.gif" />9</td>
