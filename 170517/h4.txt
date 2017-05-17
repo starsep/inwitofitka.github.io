@@ -1,4 +1,4 @@
-000000002215
+000000002324
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -60,15 +60,19 @@
 <td>2</td>
 <td class="left"><a href="javascript:loadHistory(1);">Anna Nożyńska - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">-3.00</td>
-<td class="right">25.00</td>
+<td>3<img src="img/diamonds.gif" /></td>
+<td>E</td>
+<td><img src="img/hearts.gif" />J</td>
+<td>-3</td>
+<td class="right">+150</td>
+<td class="right">-5.50</td>
+<td class="right">22.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>25.00</td>
+<td>22.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
