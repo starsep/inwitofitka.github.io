@@ -623,14 +623,14 @@
 <wpis>
 <ns>2</ns>
 <ew>6</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 S X</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>-2</wynik>
+<wist>H2</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>300</zapis>
 </wpis>
 <wpis>
 <ns>3</ns>

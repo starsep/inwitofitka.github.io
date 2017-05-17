@@ -1,4 +1,4 @@
-000000002854
+000000003002
 <h2>2: Maksym Wałaszewski - Zbigniew Santkiewicz</h2>
 <table class="datatable">
 <thead>
@@ -57,8 +57,8 @@
 <td class="right">-23.00</td>
 </tr>
 <tr>
-<td rowspan="3">2</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(6);">Karol Konopko - Bartosz Ćwiek</a></td>
+<td rowspan="4">2</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(6);">Karol Konopko - Bartosz Ćwiek</a></td>
 <td><a href="javascript:loadBoard(5);">5</td><td>NS</td>
 <td>2<img src="img/spades.gif" /></td>
 <td>E</td>
@@ -86,6 +86,12 @@
 <td>+1</td>
 <td class="right">-140</td>
 <td class="right">-0.50</td>
+<td class="right">-27.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(8);">8</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-27.00</td>
 </tr>
 <tr>
