@@ -1,0 +1,47 @@
+000000001999
+<table id="protocol" class="datatable">
+<thead>
+<tr>
+<td rowspan="2">ns</td><td rowspan="2">ew</td><td rowspan="2">kont.</td><td rowspan="2">rg.</td><td rowspan="2">wist</td><td rowspan="2">lew</td><td colspan="2">zapis</td><td colspan="2">wynik</td>
+</tr>
+<tr>
+<td>ns</td><td>ew</td>
+<td>ns</td><td>ew</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="javascript:hideTooltip();loadHistory(1);"onmouseover="showTooltip('Anna Nożyńska - Grzegorz Gardynik', event);"onmouseout="hideTooltip();">1</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(2);"onmouseover="showTooltip('Maksym Wałaszewski - Zbigniew Santkiewicz', event);"onmouseout="hideTooltip();">2</a></td>
+<td>3<img src="img/spades.gif" /></td>
+<td>W</td>
+<td><img src="img/clubs.gif" />J</td>
+<td>=</td>
+<td class="zapis"></td><td class="zapis">140</td>
+<td class="right">5.50</td>
+<td class="right">-5.50</td>
+</tr>
+<tr>
+<td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip('Filip Czaplicki - Wojciech Grzegorzewski', event);"onmouseout="hideTooltip();">5</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Karol Konopko - Bartosz Ćwiek', event);"onmouseout="hideTooltip();">6</a></td>
+<td>3<img src="img/spades.gif" /></td>
+<td>E</td>
+<td><img src="img/clubs.gif" />4</td>
+<td>=</td>
+<td class="zapis"></td><td class="zapis">140</td>
+<td class="right">5.50</td>
+<td class="right">-5.50</td>
+</tr>
+<tr>
+<td><a href="javascript:hideTooltip();loadHistory(3);"onmouseover="showTooltip('Ewa Łukowska - Jarek Markowski', event);"onmouseout="hideTooltip();">3</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Ireneusz Jędrzejewski - Alojzy Ziółkowski', event);"onmouseout="hideTooltip();">4</a></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>E</td>
+<td><img src="img/hearts.gif" />3</td>
+<td>+3</td>
+<td class="zapis"></td><td class="zapis">690</td>
+<td class="right">-11.00</td>
+<td class="right">11.00</td>
+</tr>
+</tbody>
+</table>
