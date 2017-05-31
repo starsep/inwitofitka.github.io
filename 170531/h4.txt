@@ -1,4 +1,4 @@
-000000002469
+000000002578
 <h2>4: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -70,21 +70,25 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(6);">6</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">-4.00</td>
-<td class="right">6.50</td>
+<td>4<img src="img/spades.gif" />x</td>
+<td>N</td>
+<td><img src="img/hearts.gif" />J</td>
+<td>-3</td>
+<td class="right">-500</td>
+<td class="right">2.00</td>
+<td class="right">12.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>6.50</td>
+<td>12.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>3</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
