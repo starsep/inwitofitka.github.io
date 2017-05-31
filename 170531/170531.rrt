@@ -899,14 +899,14 @@
 <wpis>
 <ns>4</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 D X</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>S3</wist>
 <grupa/>
 <runda>4</runda>
 <stół>A3</stół>
-<zapis/>
+<zapis>610</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
