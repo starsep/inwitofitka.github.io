@@ -943,14 +943,14 @@
 <wpis>
 <ns>4</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>+3</wynik>
+<wist>H3</wist>
 <grupa/>
 <runda>4</runda>
 <stół>A3</stół>
-<zapis/>
+<zapis>-490</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
