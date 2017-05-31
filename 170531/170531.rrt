@@ -887,14 +887,14 @@
 <wpis>
 <ns>6</ns>
 <ew>3</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+3</wynik>
+<wist>H5</wist>
 <grupa/>
 <runda>4</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>490</zapis>
 </wpis>
 <wpis>
 <ns>4</ns>
