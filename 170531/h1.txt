@@ -71,4 +71,10 @@
 <td>13.00</td>
 </tr>
 <tr>
-<td class="empt
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>miejsce</b></td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
