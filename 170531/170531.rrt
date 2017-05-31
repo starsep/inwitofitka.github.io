@@ -1119,14 +1119,14 @@
 <wpis>
 <ns>6</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 H</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>C9</wist>
 <grupa/>
 <runda>5</runda>
 <stół>A3</stół>
-<zapis/>
+<zapis>-50</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
