@@ -1,4 +1,4 @@
-000000004816
+000000004926
 <h2>2: Filip Czaplicki - Wojciech Grzegorzewski</h2>
 <table class="datatable">
 <thead>
@@ -154,15 +154,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(14);">14</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">-3.00</td>
-<td class="right">-41.00</td>
+<td>4<img src="img/diamonds.gif" />x</td>
+<td>S</td>
+<td><img src="img/spades.gif" />3</td>
+<td>+1</td>
+<td class="right">+610</td>
+<td class="right">-4.00</td>
+<td class="right">-42.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-41.00</td>
+<td>-42.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
