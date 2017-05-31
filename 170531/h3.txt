@@ -1,4 +1,4 @@
-000000002588
+000000002842
 <h2>3: Hanna Ciuńczyk - Anna Zaręba</h2>
 <table class="datatable">
 <thead>
@@ -57,8 +57,8 @@
 <td class="right">-9.00</td>
 </tr>
 <tr>
-<td rowspan="2">2</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(5);">Anna Nożyńska - Zbigniew Santkiewicz</a></td>
+<td rowspan="3">2</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(5);">Anna Nożyńska - Zbigniew Santkiewicz</a></td>
 <td><a href="javascript:loadBoard(5);">5</td><td>NS</td>
 <td>3<img src="img/hearts.gif" /></td>
 <td>W</td>
@@ -76,6 +76,16 @@
 <td>+2</td>
 <td class="right">-170</td>
 <td class="right">9.00</td>
+<td class="right">1.50</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(7);">7</td><td>NS</td>
+<td>3<img src="img/clubs.gif" /></td>
+<td>E</td>
+<td><img src="img/diamonds.gif" />2</td>
+<td>-1</td>
+<td class="right">+100</td>
+<td class="right">0.00</td>
 <td class="right">1.50</td>
 </tr>
 <tr>
