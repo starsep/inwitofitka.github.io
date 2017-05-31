@@ -1,4 +1,4 @@
-000000005325
+000000005433
 <h2>3: Hanna Ciuńczyk - Anna Zaręba</h2>
 <table class="datatable">
 <thead>
@@ -174,7 +174,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
-<td colspan="5"></td>
+<td>2<img src="img/spades.gif" /></td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />Q</td>
+<td>=</td>
+<td class="right">+110</td>
 <td class="right">0.00</td>
 <td class="right">9.50</td>
 </tr>
