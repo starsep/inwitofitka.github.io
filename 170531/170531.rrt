@@ -579,14 +579,14 @@
 <wpis>
 <ns>2</ns>
 <ew>6</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 C</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>C8</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>100</zapis>
 </wpis>
 <wpis>
 <ns>3</ns>
