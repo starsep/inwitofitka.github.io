@@ -1,4 +1,4 @@
-000000004245
+000000004509
 <h2>4: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -138,6 +138,14 @@
 <td>-2</td>
 <td class="right">-200</td>
 <td class="right">-7.00</td>
+<td class="right">22.00</td>
+</tr>
+<tr>
+<td>4</td>
+<td class="left"><a href="javascript:loadHistory(2);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
+<td><a href="javascript:loadBoard(13);">13</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">22.00</td>
 </tr>
 <tr>
