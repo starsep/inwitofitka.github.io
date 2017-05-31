@@ -1,4 +1,4 @@
-000000003121
+000000003120
 <h2>6: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -95,14 +95,14 @@
 <td><img src="img/clubs.gif" />6</td>
 <td>-3</td>
 <td class="right">-500</td>
-<td class="right">10.00</td>
-<td class="right">21.00</td>
+<td class="right">9.50</td>
+<td class="right">20.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>21.00</td>
+<td>20.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
