@@ -1,4 +1,4 @@
-000000005683
+000000005789
 <h2>4: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -186,15 +186,19 @@
 <td>5</td>
 <td class="left"><a href="javascript:loadHistory(6);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
 <td><a href="javascript:loadBoard(17);">17</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">2.00</td>
-<td class="right">27.50</td>
+<td>2<img src="img/spades.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />4</td>
+<td>=</td>
+<td class="right">+110</td>
+<td class="right">0.50</td>
+<td class="right">26.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>27.50</td>
+<td>26.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
