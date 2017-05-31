@@ -1,4 +1,4 @@
-000000005417
+000000005669
 <h2>1: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -179,6 +179,14 @@
 <td><img src="img/diamonds.gif" />Q</td>
 <td>=</td>
 <td class="right">+110</td>
+<td class="right">0.00</td>
+<td class="right">-3.50</td>
+</tr>
+<tr>
+<td>5</td>
+<td class="left"><a href="javascript:loadHistory(3);">Hanna Ciuńczyk - Anna Zaręba</a></td>
+<td><a href="javascript:loadBoard(17);">17</td><td>NS</td>
+<td colspan="5"></td>
 <td class="right">0.00</td>
 <td class="right">-3.50</td>
 </tr>
