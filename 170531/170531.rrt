@@ -503,14 +503,14 @@
 <wpis>
 <ns>3</ns>
 <ew>5</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 H</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>=</wynik>
+<wist>D4</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A3</stół>
-<zapis/>
+<zapis>-140</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
