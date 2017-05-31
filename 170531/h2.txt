@@ -1,4 +1,4 @@
-000000003760
+000000003910
 <h2>2: Filip Czaplicki - Wojciech Grzegorzewski</h2>
 <table class="datatable">
 <thead>
@@ -99,8 +99,8 @@
 <td class="right">-29.50</td>
 </tr>
 <tr>
-<td rowspan="2">3</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(3);">Hanna Ciuńczyk - Anna Zaręba</a></td>
+<td rowspan="3">3</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(3);">Hanna Ciuńczyk - Anna Zaręba</a></td>
 <td><a href="javascript:loadBoard(9);">9</td><td>NS</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>E</td>
@@ -118,6 +118,12 @@
 <td>-1</td>
 <td class="right">+100</td>
 <td class="right">6.00</td>
+<td class="right">-37.50</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(11);">11</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-37.50</td>
 </tr>
 <tr>
