@@ -1,4 +1,4 @@
-000000004534
+000000004641
 <h2>2: Filip Czaplicki - Wojciech Grzegorzewski</h2>
 <table class="datatable">
 <thead>
@@ -144,15 +144,19 @@
 <td>4</td>
 <td class="left"><a href="javascript:loadHistory(4);">Ewa Łukowska - Jarek Markowski</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">-9.00</td>
-<td class="right">-41.00</td>
+<td>4<img src="img/spades.gif" /></td>
+<td>W</td>
+<td><img src="img/spades.gif" />T</td>
+<td>-2</td>
+<td class="right">+200</td>
+<td class="right">-6.00</td>
+<td class="right">-38.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-41.00</td>
+<td>-38.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
