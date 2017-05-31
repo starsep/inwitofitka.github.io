@@ -1075,14 +1075,14 @@
 <wpis>
 <ns>6</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 H</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>=</wynik>
+<wist>DA</wist>
 <grupa/>
 <runda>5</runda>
 <stół>A3</stół>
-<zapis/>
+<zapis>-140</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
