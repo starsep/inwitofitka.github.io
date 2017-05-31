@@ -667,14 +667,14 @@
 <wpis>
 <ns>4</ns>
 <ew>5</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT X</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>-3</wynik>
+<wist>H4</wist>
 <grupa/>
 <runda>3</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>800</zapis>
 </wpis>
 <wpis>
 <ns>2</ns>

@@ -1,4 +1,4 @@
-000000003091
+000000003466
 <h2>1: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -96,6 +96,18 @@
 <td>-3</td>
 <td class="right">-150</td>
 <td class="right">1.50</td>
+<td class="right">11.00</td>
+</tr>
+<tr>
+<td>3</td>
+<td class="left"><a href="javascript:loadHistory(6);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
+<td><a href="javascript:loadBoard(9);">9</td><td>NS</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>E</td>
+<td><img src="img/spades.gif" />J</td>
+<td>-1</td>
+<td class="right">+100</td>
+<td class="right">0.00</td>
 <td class="right">11.00</td>
 </tr>
 <tr>
