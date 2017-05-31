@@ -1,4 +1,4 @@
-000000006475
+000000006474
 <h2>3: Hanna Ciuńczyk - Anna Zaręba</h2>
 <table class="datatable">
 <thead>
@@ -217,14 +217,14 @@
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">11.50</td>
+<td class="right">-5.00</td>
+<td class="right">6.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>11.50</td>
+<td>6.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
