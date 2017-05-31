@@ -1,0 +1,72 @@
+000000001947
+<h2>3: Hanna Ciuńczyk - Anna Zaręba</h2>
+<table class="datatable">
+<thead>
+<tr>
+<td>rnd.</td><td>przeciwnik</td><td>rzd.</td><td>linia</td>
+<td>kont.</td>
+<td>gra</td>
+<td>wist</td>
+<td>lew</td>
+<td>zapis</td>
+<td>wynik</td>
+<td>bieżący</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">1</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(4);">Ewa Łukowska - Jarek Markowski</a></td>
+<td><a href="javascript:loadBoard(1);">1</td><td>NS</td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>E</td>
+<td><img src="img/diamonds.gif" />J</td>
+<td>+1</td>
+<td class="right">-450</td>
+<td class="right">-14.00</td>
+<td class="right">-14.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(2);">2</td><td>NS</td>
+<td>4<img src="img/spades.gif" /></td>
+<td>E</td>
+<td><img src="img/hearts.gif" />J</td>
+<td>-1</td>
+<td class="right">+50</td>
+<td class="right">0.00</td>
+<td class="right">-14.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(3);">3</td><td>NS</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />K</td>
+<td>+1</td>
+<td class="right">+430</td>
+<td class="right">6.50</td>
+<td class="right">-7.50</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(4);">4</td><td>NS</td>
+<td>1<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/clubs.gif" />7</td>
+<td>-2</td>
+<td class="right">-200</td>
+<td class="right">-1.50</td>
+<td class="right">-9.00</td>
+</tr>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>wynik</b></td>
+<td>-9.00</td>
+</tr>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>miejsce</b></td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
