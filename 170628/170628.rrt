@@ -1032,13 +1032,13 @@
 <ns>6</ns>
 <ew>4</ew>
 <kontrakt>1 NT</kontrakt>
-<rozgrywajacy>N</rozgrywajacy>
+<rozgrywajacy>E</rozgrywajacy>
 <wynik>+1</wynik>
 <wist>H6</wist>
 <grupa/>
 <runda>5</runda>
 <stół>A3</stół>
-<zapis>120</zapis>
+<zapis>-120</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
@@ -1096,13 +1096,13 @@
 <ns>1</ns>
 <ew>3</ew>
 <kontrakt>1 NT</kontrakt>
-<rozgrywajacy>N</rozgrywajacy>
+<rozgrywajacy>E</rozgrywajacy>
 <wynik>+1</wynik>
 <wist>DJ</wist>
 <grupa/>
 <runda>5</runda>
 <stół>A1</stół>
-<zapis>120</zapis>
+<zapis>-120</zapis>
 </wpis>
 <wpis>
 <ns>5</ns>
