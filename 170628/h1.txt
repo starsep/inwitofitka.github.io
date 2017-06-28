@@ -1,4 +1,4 @@
-000000002958
+000000002766
 <h2>1: Cezary Przasnek - Karol Konopko</h2>
 <table class="datatable">
 <thead>
@@ -57,17 +57,8 @@
 <td class="right">-1.50</td>
 </tr>
 <tr>
-<td rowspan="4">2</td>
-<td class="left" rowspan="4"><a href="javascript:loadHistory(4);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
-<td><a href="javascript:loadBoard(5);">5</td><td>NS</td>
-<td>4 pasy</td>
-<td></td><td></td>
-<td></td>
-<td class="right">0</td>
-<td class="right">9.50</td>
-<td class="right">8.00</td>
-</tr>
-<tr>
+<td rowspan="3">2</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(4);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
 <td><a href="javascript:loadBoard(6);">6</td><td>NS</td>
 <td>5<img src="img/clubs.gif" />x</td>
 <td>S</td>
@@ -75,7 +66,7 @@
 <td>-2</td>
 <td class="right">-300</td>
 <td class="right">-1.50</td>
-<td class="right">6.50</td>
+<td class="right">-3.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(7);">7</td><td>NS</td>
@@ -85,25 +76,25 @@
 <td>+1</td>
 <td class="right">+150</td>
 <td class="right">7.00</td>
-<td class="right">13.50</td>
+<td class="right">4.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(8);">8</td><td>NS</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">13.50</td>
+<td class="right">-11.00</td>
+<td class="right">-7.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>13.50</td>
+<td>-7.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>2</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
