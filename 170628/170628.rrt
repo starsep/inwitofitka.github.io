@@ -875,26 +875,26 @@
 <wpis>
 <ns>1</ns>
 <ew>5</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 D X</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>=</wynik>
+<wist>SA</wist>
 <grupa/>
 <runda>4</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>470</zapis>
 </wpis>
 <wpis>
 <ns>6</ns>
 <ew>3</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 S</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>D8</wist>
 <grupa/>
 <runda>4</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>-170</zapis>
 </wpis>
 <wpis>
 <ns>4</ns>
