@@ -1,4 +1,4 @@
-000000005254
+000000005362
 <h2>1: Cezary Przasnek - Karol Konopko</h2>
 <table class="datatable">
 <thead>
@@ -164,21 +164,25 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(15);">15</td><td>NS</td>
-<td colspan="5"></td>
-<td class="right">7.00</td>
-<td class="right">-17.50</td>
+<td>4<img src="img/clubs.gif" /></td>
+<td>E</td>
+<td><img src="img/spades.gif" />8</td>
+<td>+1</td>
+<td class="right">-150</td>
+<td class="right">1.00</td>
+<td class="right">-23.50</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(16);">16</td><td>NS</td>
 <td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-17.50</td>
+<td class="right">-10.00</td>
+<td class="right">-33.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-17.50</td>
+<td>-33.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
