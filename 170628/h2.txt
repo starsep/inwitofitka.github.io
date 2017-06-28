@@ -1,4 +1,4 @@
-000000004548
+000000004655
 <h2>2: Grzegorz Darkiewicz-Moniuszko - Piotr Krajewski</h2>
 <table class="datatable">
 <thead>
@@ -144,21 +144,25 @@
 <td>4</td>
 <td class="left"><a href="javascript:loadHistory(4);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">38.50</td>
+<td>3<img src="img/clubs.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />A</td>
+<td>+1</td>
+<td class="right">+130</td>
+<td class="right">-5.50</td>
+<td class="right">33.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>38.50</td>
+<td>33.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>1</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
