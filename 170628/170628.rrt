@@ -4,7 +4,7 @@
 <outputDir>C:\Users\Grzegorz Gardynik\inwitofitka.github.io\170628</outputDir>
 <plikPBN/>
 <favicon/>
-<nabiezaco>1</nabiezaco>
+<nabiezaco>0</nabiezaco>
 <adresFTP/>
 <loginFTP/>
 <nazwa>Szkoła IF, 28.06.17</nazwa>
@@ -1180,19 +1180,19 @@
 <thirdColumn>nagroda</thirdColumn>
 <wpis>
 <miejsce>1</miejsce>
-<pkl/>
+<pkl>4</pkl>
 <pdf/>
 <nagroda/>
 </wpis>
 <wpis>
 <miejsce>2</miejsce>
-<pkl/>
+<pkl>2</pkl>
 <pdf/>
 <nagroda/>
 </wpis>
 <wpis>
 <miejsce>3</miejsce>
-<pkl/>
+<pkl>1</pkl>
 <pdf/>
 <nagroda/>
 </wpis>
