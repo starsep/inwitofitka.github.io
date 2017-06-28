@@ -975,14 +975,14 @@
 <wpis>
 <ns>6</ns>
 <ew>3</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 H</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>SK</wist>
 <grupa/>
 <runda>4</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>450</zapis>
 </wpis>
 <wpis>
 <ns>4</ns>

@@ -1,4 +1,4 @@
-000000005346
+000000005451
 <h2>2: Grzegorz Darkiewicz-Moniuszko - Piotr Krajewski</h2>
 <table class="datatable">
 <thead>
@@ -174,21 +174,25 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">-10.00</td>
-<td class="right">24.50</td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />K</td>
+<td>=</td>
+<td class="right">+420</td>
+<td class="right">-4.50</td>
+<td class="right">30.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>24.50</td>
+<td>30.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>3</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
