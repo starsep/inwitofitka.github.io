@@ -1,4 +1,4 @@
-000000004933
+000000005232
 <h2>5: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -141,8 +141,8 @@
 <td class="right">22.50</td>
 </tr>
 <tr>
-<td rowspan="2">4</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(1);">Cezary Przasnek - Karol Konopko</a></td>
+<td rowspan="4">4</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(1);">Cezary Przasnek - Karol Konopko</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
 <td>3<img src="img/hearts.gif" /></td>
 <td>N</td>
@@ -163,10 +163,22 @@
 <td class="right">21.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">-7.00</td>
+<td class="right">14.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
+<td class="right">14.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>21.00</td>
+<td>14.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>

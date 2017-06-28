@@ -1,4 +1,4 @@
-000000004950
+000000005100
 <h2>3: Anna Nożyńska - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -141,8 +141,8 @@
 <td class="right">-40.50</td>
 </tr>
 <tr>
-<td rowspan="2">4</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(6);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
+<td rowspan="3">4</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(6);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
 <td>3<img src="img/clubs.gif" /></td>
 <td>N</td>
@@ -163,10 +163,16 @@
 <td class="right">-43.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">7.00</td>
+<td class="right">-36.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-43.00</td>
+<td>-36.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
