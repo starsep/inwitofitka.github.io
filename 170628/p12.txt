@@ -1,4 +1,4 @@
-000000002013
+000000002012
 <table id="protocol" class="datatable">
 <thead>
 <tr>
@@ -11,6 +11,17 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="javascript:hideTooltip();loadHistory(1);"onmouseover="showTooltip('Cezary Przasnek - Karol Konopko', event);"onmouseout="hideTooltip();">1</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Krystyna Jędrzejewska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">6</a></td>
+<td>6<img src="img/clubs.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />9</td>
+<td>=</td>
+<td class="zapis">1370</td><td class="zapis"></td>
+<td class="right">6.50</td>
+<td class="right">-6.50</td>
+</tr>
+<tr>
 <td><a href="javascript:hideTooltip();loadHistory(2);"onmouseover="showTooltip('Grzegorz Darkiewicz-Moniuszko - Piotr Krajewski', event);"onmouseout="hideTooltip();">2</a></td>
 <td><a href="javascript:hideTooltip();loadHistory(3);"onmouseover="showTooltip('Anna Nożyńska - Maksym Wałaszewski', event);"onmouseout="hideTooltip();">3</a></td>
 <td>6<img src="img/clubs.gif" /></td>
@@ -18,8 +29,8 @@
 <td><img src="img/spades.gif" />J</td>
 <td>=</td>
 <td class="zapis">1370</td><td class="zapis"></td>
-<td class="right">15.00</td>
-<td class="right">-15.00</td>
+<td class="right">6.50</td>
+<td class="right">-6.50</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Wojciech Grzegorzewski - Filip Czaplicki', event);"onmouseout="hideTooltip();">4</a></td>
@@ -29,19 +40,8 @@
 <td><img src="img/spades.gif" />J</td>
 <td>+1</td>
 <td class="zapis">620</td><td class="zapis"></td>
-<td class="right">2.00</td>
-<td class="right">-2.00</td>
-</tr>
-<tr>
-<td><a href="javascript:hideTooltip();loadHistory(1);"onmouseover="showTooltip('Cezary Przasnek - Karol Konopko', event);"onmouseout="hideTooltip();">1</a></td>
-<td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Krystyna Jędrzejewska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">6</a></td>
-<td>6<img src="img/clubs.gif" /></td>
-<td>W</td>
-<td><img src="img/hearts.gif" />9</td>
-<td>=</td>
-<td class="zapis"></td><td class="zapis">920</td>
-<td class="right">-17.00</td>
-<td class="right">17.00</td>
+<td class="right">-13.00</td>
+<td class="right">13.00</td>
 </tr>
 </tbody>
 </table>
