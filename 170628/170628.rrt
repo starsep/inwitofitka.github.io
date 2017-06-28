@@ -799,14 +799,14 @@
 <wpis>
 <ns>4</ns>
 <ew>5</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>5 C</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>SJ</wist>
 <grupa/>
 <runda>3</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>620</zapis>
 </wpis>
 <wpis>
 <ns>2</ns>
