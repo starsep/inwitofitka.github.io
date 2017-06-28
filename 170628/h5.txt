@@ -1,4 +1,4 @@
-000000002900
+000000003007
 <h2>5: Ewa Łukowska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -60,7 +60,11 @@
 <td rowspan="4">2</td>
 <td class="left" rowspan="4"><a href="javascript:loadHistory(3);">Anna Nożyńska - Maksym Wałaszewski</a></td>
 <td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
-<td colspan="5"></td>
+<td>4<img src="img/spades.gif" /></td>
+<td>W</td>
+<td><img src="img/hearts.gif" />6</td>
+<td>+1</td>
+<td class="right">-450</td>
 <td class="right">1.00</td>
 <td class="right">11.00</td>
 </tr>
