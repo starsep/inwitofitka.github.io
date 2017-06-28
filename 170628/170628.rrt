@@ -655,14 +655,14 @@
 <wpis>
 <ns>1</ns>
 <ew>6</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 H</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>SJ</wist>
 <grupa/>
 <runda>3</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>140</zapis>
 </wpis>
 <wpis>
 <ns>4</ns>
