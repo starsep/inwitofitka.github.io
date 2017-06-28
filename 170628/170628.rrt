@@ -755,14 +755,14 @@
 <wpis>
 <ns>4</ns>
 <ew>5</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 NT</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>D3</wist>
 <grupa/>
 <runda>3</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>-180</zapis>
 </wpis>
 <wpis>
 <ns>2</ns>
