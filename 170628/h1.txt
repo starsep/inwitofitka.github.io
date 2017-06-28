@@ -1,5 +1,5 @@
-000000002849
-<h2>1:  - </h2>
+000000002958
+<h2>1: Cezary Przasnek - Karol Konopko</h2>
 <table class="datatable">
 <thead>
 <tr>
@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td rowspan="4">1</td>
-<td class="left" rowspan="4"><a href="javascript:loadHistory(2);"> - </a></td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(2);">Grzegorz Darkiewicz-Moniuszko - Piotr Krajewski</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>NS</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>W</td>
@@ -58,7 +58,7 @@
 </tr>
 <tr>
 <td rowspan="4">2</td>
-<td class="left" rowspan="4"><a href="javascript:loadHistory(4);"> - </a></td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(4);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
 <td><a href="javascript:loadBoard(5);">5</td><td>NS</td>
 <td>4 pasy</td>
 <td></td><td></td>

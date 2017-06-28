@@ -1,5 +1,5 @@
-000000002840
-<h2>4:  - </h2>
+000000002936
+<h2>4: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
 <tr>
@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td rowspan="4">1</td>
-<td class="left" rowspan="4"><a href="javascript:loadHistory(3);"> - </a></td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(3);">Anna Nożyńska - Maksym Wałaszewski</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
 <td>3<img src="img/hearts.gif" /></td>
 <td>S</td>
@@ -58,7 +58,7 @@
 </tr>
 <tr>
 <td rowspan="4">2</td>
-<td class="left" rowspan="4"><a href="javascript:loadHistory(1);"> - </a></td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(1);">Cezary Przasnek - Karol Konopko</a></td>
 <td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
 <td>4 pasy</td>
 <td></td><td></td>

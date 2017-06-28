@@ -11,8 +11,8 @@
 <data>2017-06-179</data>
 <html>&lt;h1&gt;#nazwa&lt;/h1&gt;
 &lt;a href="https://inwitofitka.club"&gt;[Strona główna]&lt;/a&gt; &lt;br /&gt;
-&lt;a href="https://inwitofitka.club/prev?from=ID"&gt;[Poprzedni trening]&lt;/a&gt;
-&lt;a href="https://inwitofitka.club/next?from=ID"&gt;[Następny trening]&lt;/a&gt;
+&lt;a href="https://inwitofitka.club/prev?from=170628"&gt;[Poprzedni trening]&lt;/a&gt;
+&lt;a href="https://inwitofitka.club/next?from=170628"&gt;[Następny trening]&lt;/a&gt;
 &lt;script src="bidding.js"&gt;&lt;/script&gt;
 &lt;link rel="stylesheet" href="bidding.css" /&gt;
 &lt;link rel="shortcut icon" href="../favicon.ico" /&gt;</html>
@@ -40,41 +40,41 @@
 <para>
 <numer>1</numer>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
+<nazwisko>Cezary Przasnek</nazwisko>
+<id>6866</id>
+<wk>5.0</wk>
+<okreg>MA</okreg>
+<klub>Inwitofitka</klub>
 <status/>
 <kolorwk/>
 </gracz>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Karol Konopko</nazwisko>
+<id>17214</id>
+<wk>2.0</wk>
+<okreg>MA</okreg>
+<klub>Inwitofitka</klub>
+<status>J</status>
 <kolorwk/>
 </gracz>
 </para>
 <para>
 <numer>2</numer>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
+<nazwisko>Grzegorz Darkiewicz-Moniuszko</nazwisko>
+<id>15922</id>
+<wk>5.0</wk>
+<okreg>MA</okreg>
+<klub>MKS MAZOVIA Mińsk Mazowiecki</klub>
 <status/>
 <kolorwk/>
 </gracz>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
+<nazwisko>Piotr Krajewski</nazwisko>
+<id>6714</id>
+<wk>11.0</wk>
+<okreg>MA</okreg>
+<klub>MKS MAZOVIA Mińsk Mazowiecki</klub>
 <status/>
 <kolorwk/>
 </gracz>
@@ -82,62 +82,62 @@
 <para>
 <numer>3</numer>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Maksym Wałaszewski</nazwisko>
+<id>14569</id>
+<wk>1.5</wk>
+<okreg>MA</okreg>
+<klub>AZS UW Warszawa VI Orły Feldiego</klub>
+<status>J</status>
 <kolorwk/>
 </gracz>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Anna Nożyńska</nazwisko>
+<id>17692</id>
+<wk>1.5</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
+<status>K</status>
 <kolorwk/>
 </gracz>
 </para>
 <para>
 <numer>4</numer>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Wojciech Grzegorzewski</nazwisko>
+<id>17451</id>
+<wk>2.0</wk>
+<okreg>MA</okreg>
+<klub>Inwitofitka</klub>
+<status>J</status>
 <kolorwk/>
 </gracz>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Filip Czaplicki</nazwisko>
+<id>16053</id>
+<wk>2.0</wk>
+<okreg>MA</okreg>
+<klub>Inwitofitka</klub>
+<status>J</status>
 <kolorwk/>
 </gracz>
 </para>
 <para>
 <numer>5</numer>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Ewa Łukowska</nazwisko>
+<id>7817</id>
+<wk>2.0</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
+<status>K</status>
 <kolorwk/>
 </gracz>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
+<nazwisko>Jarek Markowski</nazwisko>
+<id>17362</id>
+<wk>1.5</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
 <status/>
 <kolorwk/>
 </gracz>
@@ -145,21 +145,21 @@
 <para>
 <numer>6</numer>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Ireneusz Jędrzejewski</nazwisko>
+<id>18015</id>
+<wk>1.0</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
+<status>S</status>
 <kolorwk/>
 </gracz>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Krystyna Jędrzejewska</nazwisko>
+<id>18014</id>
+<wk>1.0</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
+<status>KS</status>
 <kolorwk/>
 </gracz>
 </para>

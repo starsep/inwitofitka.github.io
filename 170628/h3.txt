@@ -1,5 +1,5 @@
-000000002762
-<h2>3:  - </h2>
+000000002857
+<h2>3: Anna Nożyńska - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
 <tr>
@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td rowspan="4">1</td>
-<td class="left" rowspan="4"><a href="javascript:loadHistory(4);"> - </a></td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(4);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>NS</td>
 <td>3<img src="img/hearts.gif" /></td>
 <td>S</td>
@@ -58,7 +58,7 @@
 </tr>
 <tr>
 <td rowspan="3">2</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(5);"> - </a></td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(5);">Ewa Łukowska - Jarek Markowski</a></td>
 <td><a href="javascript:loadBoard(5);">5</td><td>NS</td>
 <td>4<img src="img/spades.gif" /></td>
 <td>W</td>
