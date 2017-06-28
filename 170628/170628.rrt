@@ -768,13 +768,13 @@
 <ns>2</ns>
 <ew>3</ew>
 <kontrakt>2 NT</kontrakt>
-<rozgrywajacy>N</rozgrywajacy>
+<rozgrywajacy>E</rozgrywajacy>
 <wynik>+1</wynik>
 <wist>C5</wist>
 <grupa/>
 <runda>3</runda>
 <stół>A3</stół>
-<zapis>150</zapis>
+<zapis>-150</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
