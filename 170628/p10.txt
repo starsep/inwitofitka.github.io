@@ -1,1 +1,47 @@
-000000000000
+000000002019
+<table id="protocol" class="datatable">
+<thead>
+<tr>
+<td rowspan="2">ns</td><td rowspan="2">ew</td><td rowspan="2">kont.</td><td rowspan="2">rg.</td><td rowspan="2">wist</td><td rowspan="2">lew</td><td colspan="2">zapis</td><td colspan="2">wynik</td>
+</tr>
+<tr>
+<td>ns</td><td>ew</td>
+<td>ns</td><td>ew</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Wojciech Grzegorzewski - Filip Czaplicki', event);"onmouseout="hideTooltip();">4</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip('Ewa Łukowska - Jarek Markowski', event);"onmouseout="hideTooltip();">5</a></td>
+<td>5<img src="img/diamonds.gif" /></td>
+<td>W</td>
+<td><img src="img/hearts.gif" />A</td>
+<td>-1</td>
+<td class="zapis">100</td><td class="zapis"></td>
+<td class="right">6.50</td>
+<td class="right">-6.50</td>
+</tr>
+<tr>
+<td><a href="javascript:hideTooltip();loadHistory(2);"onmouseover="showTooltip('Grzegorz Darkiewicz-Moniuszko - Piotr Krajewski', event);"onmouseout="hideTooltip();">2</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(3);"onmouseover="showTooltip('Anna Nożyńska - Maksym Wałaszewski', event);"onmouseout="hideTooltip();">3</a></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>E</td>
+<td><img src="img/hearts.gif" />K</td>
+<td>-1</td>
+<td class="zapis">100</td><td class="zapis"></td>
+<td class="right">6.50</td>
+<td class="right">-6.50</td>
+</tr>
+<tr>
+<td><a href="javascript:hideTooltip();loadHistory(1);"onmouseover="showTooltip('Cezary Przasnek - Karol Konopko', event);"onmouseout="hideTooltip();">1</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Krystyna Jędrzejewska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">6</a></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>E</td>
+<td><img src="img/spades.gif" />6</td>
+<td>+4</td>
+<td class="zapis"></td><td class="zapis">720</td>
+<td class="right">-13.00</td>
+<td class="right">13.00</td>
+</tr>
+</tbody>
+</table>
