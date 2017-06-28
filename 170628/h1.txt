@@ -1,4 +1,4 @@
-000000006639
+000000006638
 <h2>1: Cezary Przasnek - Karol Konopko</h2>
 <table class="datatable">
 <thead>
@@ -191,8 +191,8 @@
 <td><img src="img/hearts.gif" />6</td>
 <td>-1</td>
 <td class="right">+50</td>
-<td class="right">1.50</td>
-<td class="right">-32.50</td>
+<td class="right">5.00</td>
+<td class="right">-29.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>NS</td>
@@ -202,16 +202,16 @@
 <td>-4</td>
 <td class="right">-1100</td>
 <td class="right">-14.00</td>
-<td class="right">-46.50</td>
+<td class="right">-43.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(19);">19</td><td>NS</td>
 <td>1<img src="img/notrump.gif" /></td>
-<td>N</td>
+<td>E</td>
 <td><img src="img/diamonds.gif" />J</td>
 <td>+1</td>
-<td class="right">+120</td>
-<td class="right">10.00</td>
+<td class="right">-120</td>
+<td class="right">6.50</td>
 <td class="right">-36.50</td>
 </tr>
 <tr>

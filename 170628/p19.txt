@@ -1,4 +1,4 @@
-000000002021
+000000002017
 <table id="protocol" class="datatable">
 <thead>
 <tr>
@@ -14,12 +14,12 @@
 <td><a href="javascript:hideTooltip();loadHistory(1);"onmouseover="showTooltip('Cezary Przasnek - Karol Konopko', event);"onmouseout="hideTooltip();">1</a></td>
 <td><a href="javascript:hideTooltip();loadHistory(3);"onmouseover="showTooltip('Anna Nożyńska - Maksym Wałaszewski', event);"onmouseout="hideTooltip();">3</a></td>
 <td>1<img src="img/notrump.gif" /></td>
-<td>N</td>
+<td>E</td>
 <td><img src="img/diamonds.gif" />J</td>
 <td>+1</td>
-<td class="zapis">120</td><td class="zapis"></td>
-<td class="right">10.00</td>
-<td class="right">-10.00</td>
+<td class="zapis"></td><td class="zapis">120</td>
+<td class="right">6.50</td>
+<td class="right">-6.50</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(5);"onmouseover="showTooltip('Ewa Łukowska - Jarek Markowski', event);"onmouseout="hideTooltip();">5</a></td>
@@ -29,8 +29,8 @@
 <td><img src="img/hearts.gif" />5</td>
 <td>+4</td>
 <td class="zapis"></td><td class="zapis">210</td>
-<td class="right">0.50</td>
-<td class="right">-0.50</td>
+<td class="right">3.00</td>
+<td class="right">-3.00</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Krystyna Jędrzejewska - Ireneusz Jędrzejewski', event);"onmouseout="hideTooltip();">6</a></td>
@@ -40,8 +40,8 @@
 <td><img src="img/hearts.gif" />5</td>
 <td>=</td>
 <td class="zapis"></td><td class="zapis">600</td>
-<td class="right">-10.50</td>
-<td class="right">10.50</td>
+<td class="right">-9.50</td>
+<td class="right">9.50</td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-000000006637
+000000006636
 <h2>3: Anna Nożyńska - Maksym Wałaszewski</h2>
 <table class="datatable">
 <thead>
@@ -191,8 +191,8 @@
 <td><img src="img/hearts.gif" />6</td>
 <td>-1</td>
 <td class="right">+50</td>
-<td class="right">-1.50</td>
-<td class="right">-41.50</td>
+<td class="right">-5.00</td>
+<td class="right">-45.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
@@ -202,16 +202,16 @@
 <td>-4</td>
 <td class="right">-1100</td>
 <td class="right">14.00</td>
-<td class="right">-27.50</td>
+<td class="right">-31.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(19);">19</td><td>EW</td>
 <td>1<img src="img/notrump.gif" /></td>
-<td>N</td>
+<td>E</td>
 <td><img src="img/diamonds.gif" />J</td>
 <td>+1</td>
-<td class="right">+120</td>
-<td class="right">-10.00</td>
+<td class="right">-120</td>
+<td class="right">-6.50</td>
 <td class="right">-37.50</td>
 </tr>
 <tr>
