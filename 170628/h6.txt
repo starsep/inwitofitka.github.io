@@ -1,4 +1,4 @@
-000000003135
+000000003389
 <h2>6: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -96,6 +96,14 @@
 <td>=</td>
 <td class="right">+420</td>
 <td class="right">-6.00</td>
+<td class="right">-27.00</td>
+</tr>
+<tr>
+<td>3</td>
+<td class="left"><a href="javascript:loadHistory(1);">Cezary Przasnek - Karol Konopko</a></td>
+<td><a href="javascript:loadBoard(9);">9</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-27.00</td>
 </tr>
 <tr>
