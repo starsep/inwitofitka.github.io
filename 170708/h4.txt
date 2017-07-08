@@ -1,4 +1,4 @@
-000000005929
+000000006080
 <h2>4: Ewa Łukowska - Paweł Jończyk</h2>
 <table class="datatable">
 <thead>
@@ -117,8 +117,8 @@
 <td class="right">64.00</td>
 </tr>
 <tr>
-<td rowspan="9">2</td>
-<td class="left" rowspan="9"><a href="javascript:loadHistory(1);">Karol Konopko - Grzegorz Gardynik</a></td>
+<td rowspan="10">2</td>
+<td class="left" rowspan="10"><a href="javascript:loadHistory(1);">Karol Konopko - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(11);">11</td><td>EW</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>E</td>
@@ -206,6 +206,12 @@
 <td>=</td>
 <td class="right">+420</td>
 <td class="right">-6.00</td>
+<td class="right">60.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">60.00</td>
 </tr>
 <tr>
