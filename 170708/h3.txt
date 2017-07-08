@@ -1,4 +1,4 @@
-000000005951
+000000006213
 <h2>3: Anna Nożyńska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -117,8 +117,8 @@
 <td class="right">-64.00</td>
 </tr>
 <tr>
-<td rowspan="9">2</td>
-<td class="left" rowspan="9"><a href="javascript:loadHistory(2);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
+<td rowspan="10">2</td>
+<td class="left" rowspan="10"><a href="javascript:loadHistory(2);">Wojciech Grzegorzewski - Filip Czaplicki</a></td>
 <td><a href="javascript:loadBoard(11);">11</td><td>EW</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>E</td>
@@ -206,6 +206,16 @@
 <td>+1</td>
 <td class="right">+170</td>
 <td class="right">6.00</td>
+<td class="right">-60.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(20);">20</td><td>EW</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />5</td>
+<td>+3</td>
+<td class="right">+690</td>
+<td class="right">0.00</td>
 <td class="right">-60.00</td>
 </tr>
 <tr>

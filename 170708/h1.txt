@@ -1,4 +1,4 @@
-000000006089
+000000006199
 <h2>1: Karol Konopko - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -210,7 +210,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(20);">20</td><td>NS</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />6</td>
+<td>+3</td>
+<td class="right">+690</td>
 <td class="right">0.00</td>
 <td class="right">68.00</td>
 </tr>
