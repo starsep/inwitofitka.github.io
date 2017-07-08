@@ -1,4 +1,4 @@
-000000002247
+000000002355
 <h2>3: Anna Nożyńska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -58,7 +58,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(5);">5</td><td>NS</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />6</td>
+<td>+1</td>
+<td class="right">+630</td>
 <td class="right">0.00</td>
 <td class="right">-27.00</td>
 </tr>

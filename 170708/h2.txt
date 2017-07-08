@@ -1,4 +1,4 @@
-000000001968
+000000002226
 <h2>2: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -15,8 +15,8 @@
 </thead>
 <tbody>
 <tr>
-<td rowspan="4">1</td>
-<td class="left" rowspan="4"><a href="javascript:loadHistory(1);">Karol Konopko - Grzegorz Gardynik</a></td>
+<td rowspan="5">1</td>
+<td class="left" rowspan="5"><a href="javascript:loadHistory(1);">Karol Konopko - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
 <td>5<img src="img/hearts.gif" /></td>
 <td>S</td>
@@ -54,6 +54,16 @@
 <td>-3</td>
 <td class="right">+800</td>
 <td class="right">-12.00</td>
+<td class="right">-27.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(5);">5</td><td>EW</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />7</td>
+<td>+1</td>
+<td class="right">+630</td>
+<td class="right">0.00</td>
 <td class="right">-27.00</td>
 </tr>
 <tr>
