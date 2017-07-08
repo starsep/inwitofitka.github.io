@@ -1,4 +1,4 @@
-000000005444
+000000005594
 <h2>2: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -117,8 +117,8 @@
 <td class="right">-64.00</td>
 </tr>
 <tr>
-<td rowspan="7">2</td>
-<td class="left" rowspan="7"><a href="javascript:loadHistory(3);">Anna Nożyńska - Jarek Markowski</a></td>
+<td rowspan="8">2</td>
+<td class="left" rowspan="8"><a href="javascript:loadHistory(3);">Anna Nożyńska - Jarek Markowski</a></td>
 <td><a href="javascript:loadBoard(11);">11</td><td>NS</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>E</td>
@@ -186,6 +186,12 @@
 <td>=</td>
 <td class="right">-420</td>
 <td class="right">-6.00</td>
+<td class="right">-66.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(18);">18</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-66.00</td>
 </tr>
 <tr>
