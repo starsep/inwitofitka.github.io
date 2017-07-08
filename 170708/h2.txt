@@ -1,5 +1,5 @@
-000000001643
-<h2>2:  - </h2>
+000000001710
+<h2>2: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
 <tr>
@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td rowspan="3">1</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(1);"> - </a></td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(1);">Karol Konopko - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
 <td>5<img src="img/hearts.gif" /></td>
 <td>S</td>
