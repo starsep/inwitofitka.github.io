@@ -18,12 +18,26 @@
 <tbody>
 <tr>
 <td rowspan="2">1</td>
+<td rowspan="2"><a href="javascript:loadHistory(1);">1</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17214" target="_blank">Karol Konopko</a></td>
+<td class="up">2.5</td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">Inwitofitka</td>
+<td rowspan="2" class="right">66.00</td>
+<td rowspan="2" class="dealcount">17</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=1305" target="_blank">Grzegorz Gardynik</a></td>
+<td class="down">19.0</td>
+</tr>
+<tr>
+<td rowspan="2">2</td>
 <td rowspan="2"><a href="javascript:loadHistory(4);">4</a></td>
 <td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7817" target="_blank">Ewa Łukowska</a></td>
 <td class="up">2.0</td>
 <td class="up">MA</td>
 <td class="nazwiskoup">IF22</td>
-<td rowspan="2" class="right">68.00</td>
+<td rowspan="2" class="right">62.00</td>
 <td rowspan="2" class="dealcount">17</td>
 </tr>
 <tr>
@@ -33,52 +47,38 @@
 <td class="nazwiskodown">CKS Czeladź</td>
 </tr>
 <tr>
-<td rowspan="2">2</td>
-<td rowspan="2"><a href="javascript:loadHistory(1);">1</a></td>
-<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17214" target="_blank">Karol Konopko</a></td>
-<td class="up">2.5</td>
-<td rowspan="2">MA</td>
-<td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">60.00</td>
-<td rowspan="2" class="dealcount">17</td>
-</tr>
-<tr>
-<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=1305" target="_blank">Grzegorz Gardynik</a></td>
-<td class="down">19.0</td>
-</tr>
-<tr>
 <td rowspan="2">3</td>
-<td rowspan="2"><a href="javascript:loadHistory(2);">2</a></td>
-<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
-<td class="up">2.0</td>
-<td rowspan="2">MA</td>
-<td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">-60.00</td>
-<td rowspan="2" class="dealcount">16</td>
-</tr>
-<tr>
-<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=16053" target="_blank">Filip Czaplicki</a></td>
-<td class="down">2.0</td>
-</tr>
-<tr>
-<td rowspan="2">4</td>
 <td rowspan="2"><a href="javascript:loadHistory(3);">3</a></td>
 <td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17692" target="_blank">Anna Nożyńska</a></td>
 <td class="up">1.5</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">-68.00</td>
-<td rowspan="2" class="dealcount">16</td>
+<td rowspan="2" class="right">-62.00</td>
+<td rowspan="2" class="dealcount">17</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17362" target="_blank">Jarek Markowski</a></td>
 <td class="down">1.5</td>
 </tr>
+<tr>
+<td rowspan="2">4</td>
+<td rowspan="2"><a href="javascript:loadHistory(2);">2</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
+<td class="up">2.0</td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">Inwitofitka</td>
+<td rowspan="2" class="right">-66.00</td>
+<td rowspan="2" class="dealcount">17</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=16053" target="_blank">Filip Czaplicki</a></td>
+<td class="down">2.0</td>
+</tr>
 </tbody>
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 08-07-2017 19:17:35
+, znacznik czasowy: 08-07-2017 19:18:35
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
