@@ -1,4 +1,4 @@
-000000005587
+000000005694
 <h2>3: Anna Nożyńska - Jarek Markowski</h2>
 <table class="datatable">
 <thead>
@@ -190,21 +190,25 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-62.00</td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>W</td>
+<td><img src="img/spades.gif" />7</td>
+<td>-1</td>
+<td class="right">+50</td>
+<td class="right">-4.00</td>
+<td class="right">-66.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-62.00</td>
+<td>-66.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>3</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>

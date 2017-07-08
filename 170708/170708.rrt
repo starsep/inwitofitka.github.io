@@ -740,14 +740,14 @@
 <wpis>
 <ns>1</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 D</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>HJ</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>-100</zapis>
 </wpis>
 <wpis>
 <ns>2</ns>
