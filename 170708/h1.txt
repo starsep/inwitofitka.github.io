@@ -1,4 +1,4 @@
-000000006559
+000000006840
 <h2>1: Karol Konopko - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -219,8 +219,8 @@
 <td class="right">68.00</td>
 </tr>
 <tr>
-<td>3</td>
-<td class="left"><a href="javascript:loadHistory(3);">Anna Nożyńska - Jarek Markowski</a></td>
+<td rowspan="2">3</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(3);">Anna Nożyńska - Jarek Markowski</a></td>
 <td><a href="javascript:loadBoard(21);">21</td><td>NS</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>E</td>
@@ -231,10 +231,20 @@
 <td class="right">69.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(22);">22</td><td>NS</td>
+<td>1<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />A</td>
+<td>+1</td>
+<td class="right">+120</td>
+<td class="right">6.00</td>
+<td class="right">75.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>69.00</td>
+<td>75.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>

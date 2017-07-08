@@ -1,4 +1,4 @@
-000000006752
+000000007009
 <h2>2: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -219,8 +219,8 @@
 <td class="right">-68.00</td>
 </tr>
 <tr>
-<td rowspan="2">3</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(4);">Ewa Łukowska - Paweł Jończyk</a></td>
+<td rowspan="3">3</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(4);">Ewa Łukowska - Paweł Jończyk</a></td>
 <td><a href="javascript:loadBoard(21);">21</td><td>EW</td>
 <td>2<img src="img/hearts.gif" /></td>
 <td>W</td>
@@ -232,21 +232,31 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(22);">22</td><td>EW</td>
+<td>1<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/clubs.gif" />6</td>
+<td>-2</td>
+<td class="right">-100</td>
+<td class="right">6.00</td>
+<td class="right">-61.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(23);">23</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
-<td class="right">-67.00</td>
+<td class="right">-61.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-67.00</td>
+<td>-61.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>4</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
