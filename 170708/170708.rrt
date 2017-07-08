@@ -836,14 +836,14 @@
 <wpis>
 <ns>1</ns>
 <ew>3</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>1 NT</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>=</wynik>
+<wist>C3</wist>
 <grupa/>
 <runda>3</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>-90</zapis>
 </wpis>
 <wpis>
 <ns>4</ns>
@@ -880,14 +880,14 @@
 <wpis>
 <ns>4</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>1 NT</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>-2</wynik>
+<wist>C6</wist>
 <grupa/>
 <runda>3</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>-100</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
