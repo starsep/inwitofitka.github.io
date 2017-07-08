@@ -234,14 +234,14 @@
 <wpis>
 <ns>3</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>D4</wist>
 <grupa/>
 <runda>1</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>-100</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
@@ -1165,9 +1165,4 @@
 </wpis>
 <wpis>
 <miejsce>4</miejsce>
-<pkl/>
-<pdf/>
-<nagroda/>
-</wpis>
-</varia>
-</turniej>
+<p
