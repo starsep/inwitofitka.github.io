@@ -1,4 +1,4 @@
-000000008150
+000000008300
 <h2>2: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -219,8 +219,8 @@
 <td class="right">-68.00</td>
 </tr>
 <tr>
-<td rowspan="7">3</td>
-<td class="left" rowspan="7"><a href="javascript:loadHistory(4);">Ewa Łukowska - Paweł Jończyk</a></td>
+<td rowspan="8">3</td>
+<td class="left" rowspan="8"><a href="javascript:loadHistory(4);">Ewa Łukowska - Paweł Jończyk</a></td>
 <td><a href="javascript:loadBoard(21);">21</td><td>EW</td>
 <td>2<img src="img/hearts.gif" /></td>
 <td>W</td>
@@ -287,6 +287,12 @@
 <td><img src="img/diamonds.gif" />K</td>
 <td>-1</td>
 <td class="right">+50</td>
+<td class="right">0.00</td>
+<td class="right">-56.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(28);">28</td><td>EW</td>
+<td colspan="5"></td>
 <td class="right">0.00</td>
 <td class="right">-56.00</td>
 </tr>
