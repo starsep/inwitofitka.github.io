@@ -1,4 +1,4 @@
-000000008819
+000000008927
 <h2>2: Wojciech Grzegorzewski - Filip Czaplicki</h2>
 <table class="datatable">
 <thead>
@@ -312,7 +312,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(30);">30</td><td>EW</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>W</td>
+<td><img src="img/spades.gif" />A</td>
+<td>-2</td>
+<td class="right">+100</td>
 <td class="right">0.00</td>
 <td class="right">-33.00</td>
 </tr>
