@@ -1,2 +1,36 @@
-000000000054
-<p style="margin-bottom: 20px"><b>Rozdanie 21</b></p>
+000000000956
+<table class="noborder">
+<tr>
+<td>
+<table id="diagram">
+<tr>
+<td style="text-align: center">
+<h1 style="margin-bottom: 0px">21</h1>
+<p class="small" style="margin-top: 0px">NS / N</p>
+</td><td>
+<img src="img/spades.gif" /> K52<br />
+<img src="img/hearts.gif" /> J53<br />
+<img src="img/diamonds.gif" /> A73<br />
+<img src="img/clubs.gif" /> Q1074
+</td><td></td></tr><tr><td>
+<img src="img/spades.gif" /> J108<br />
+<img src="img/hearts.gif" /> Q1084<br />
+<img src="img/diamonds.gif" /> 98642<br />
+<img src="img/clubs.gif" /> K
+</td><td>
+<img src="img/5.gif" />
+</td><td>
+<img src="img/spades.gif" /> AQ9<br />
+<img src="img/hearts.gif" /> K62<br />
+<img src="img/diamonds.gif" /> KQ105<br />
+<img src="img/clubs.gif" /> 986
+</td></tr><tr><td></td><td>
+<img src="img/spades.gif" /> 7643<br />
+<img src="img/hearts.gif" /> A97<br />
+<img src="img/diamonds.gif" /> J<br />
+<img src="img/clubs.gif" /> AJ532
+</td><td></td></tr>
+</table>
+</td>
+</tr>
+</table>

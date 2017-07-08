@@ -1,2 +1,36 @@
-000000000053
-<p style="margin-bottom: 20px"><b>Rozdanie 4</b></p>
+000000000960
+<table class="noborder">
+<tr>
+<td>
+<table id="diagram">
+<tr>
+<td style="text-align: center">
+<h1 style="margin-bottom: 0px">4</h1>
+<p class="small" style="margin-top: 0px">obie po / W</p>
+</td><td>
+<img src="img/spades.gif" /> Q87<br />
+<img src="img/hearts.gif" /> AQ1097<br />
+<img src="img/diamonds.gif" /> 9752<br />
+<img src="img/clubs.gif" /> 3
+</td><td></td></tr><tr><td>
+<img src="img/spades.gif" /> 52<br />
+<img src="img/hearts.gif" /> K8632<br />
+<img src="img/diamonds.gif" /> QJ84<br />
+<img src="img/clubs.gif" /> J9
+</td><td>
+<img src="img/4.gif" />
+</td><td>
+<img src="img/spades.gif" /> A10<br />
+<img src="img/hearts.gif" /> J54<br />
+<img src="img/diamonds.gif" /> AK10<br />
+<img src="img/clubs.gif" /> AQ1052
+</td></tr><tr><td></td><td>
+<img src="img/spades.gif" /> KJ9643<br />
+<img src="img/hearts.gif" /> <br />
+<img src="img/diamonds.gif" /> 63<br />
+<img src="img/clubs.gif" /> K8764
+</td><td></td></tr>
+</table>
+</td>
+</tr>
+</table>

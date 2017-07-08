@@ -1,2 +1,36 @@
-000000000054
-<p style="margin-bottom: 20px"><b>Rozdanie 17</b></p>
+000000000964
+<table class="noborder">
+<tr>
+<td>
+<table id="diagram">
+<tr>
+<td style="text-align: center">
+<h1 style="margin-bottom: 0px">17</h1>
+<p class="small" style="margin-top: 0px">obie przed / N</p>
+</td><td>
+<img src="img/spades.gif" /> 3<br />
+<img src="img/hearts.gif" /> 8652<br />
+<img src="img/diamonds.gif" /> KJ6432<br />
+<img src="img/clubs.gif" /> 62
+</td><td></td></tr><tr><td>
+<img src="img/spades.gif" /> Q107542<br />
+<img src="img/hearts.gif" /> A4<br />
+<img src="img/diamonds.gif" /> Q<br />
+<img src="img/clubs.gif" /> AQ43
+</td><td>
+<img src="img/1.gif" />
+</td><td>
+<img src="img/spades.gif" /> AK96<br />
+<img src="img/hearts.gif" /> Q10<br />
+<img src="img/diamonds.gif" /> 10875<br />
+<img src="img/clubs.gif" /> 987
+</td></tr><tr><td></td><td>
+<img src="img/spades.gif" /> J8<br />
+<img src="img/hearts.gif" /> KJ973<br />
+<img src="img/diamonds.gif" /> A9<br />
+<img src="img/clubs.gif" /> KJ105
+</td><td></td></tr>
+</table>
+</td>
+</tr>
+</table>

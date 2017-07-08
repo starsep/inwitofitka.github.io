@@ -1,2 +1,36 @@
-000000000054
-<p style="margin-bottom: 20px"><b>Rozdanie 16</b></p>
+000000000957
+<table class="noborder">
+<tr>
+<td>
+<table id="diagram">
+<tr>
+<td style="text-align: center">
+<h1 style="margin-bottom: 0px">16</h1>
+<p class="small" style="margin-top: 0px">EW / W</p>
+</td><td>
+<img src="img/spades.gif" /> 1086<br />
+<img src="img/hearts.gif" /> K63<br />
+<img src="img/diamonds.gif" /> 8<br />
+<img src="img/clubs.gif" /> J97543
+</td><td></td></tr><tr><td>
+<img src="img/spades.gif" /> 9<br />
+<img src="img/hearts.gif" /> AQ8742<br />
+<img src="img/diamonds.gif" /> J54<br />
+<img src="img/clubs.gif" /> 1086
+</td><td>
+<img src="img/16.gif" />
+</td><td>
+<img src="img/spades.gif" /> KJ72<br />
+<img src="img/hearts.gif" /> 1095<br />
+<img src="img/diamonds.gif" /> K107632<br />
+<img src="img/clubs.gif" /> 
+</td></tr><tr><td></td><td>
+<img src="img/spades.gif" /> AQ543<br />
+<img src="img/hearts.gif" /> J<br />
+<img src="img/diamonds.gif" /> AQ9<br />
+<img src="img/clubs.gif" /> AKQ2
+</td><td></td></tr>
+</table>
+</td>
+</tr>
+</table>

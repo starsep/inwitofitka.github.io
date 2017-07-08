@@ -1,2 +1,36 @@
-000000000054
-<p style="margin-bottom: 20px"><b>Rozdanie 30</b></p>
+000000000965
+<table class="noborder">
+<tr>
+<td>
+<table id="diagram">
+<tr>
+<td style="text-align: center">
+<h1 style="margin-bottom: 0px">30</h1>
+<p class="small" style="margin-top: 0px">obie przed / E</p>
+</td><td>
+<img src="img/spades.gif" /> AQ10632<br />
+<img src="img/hearts.gif" /> A104<br />
+<img src="img/diamonds.gif" /> 108<br />
+<img src="img/clubs.gif" /> 64
+</td><td></td></tr><tr><td>
+<img src="img/spades.gif" /> KJ<br />
+<img src="img/hearts.gif" /> J2<br />
+<img src="img/diamonds.gif" /> 963<br />
+<img src="img/clubs.gif" /> AQ10853
+</td><td>
+<img src="img/14.gif" />
+</td><td>
+<img src="img/spades.gif" /> 8754<br />
+<img src="img/hearts.gif" /> KQ5<br />
+<img src="img/diamonds.gif" /> K752<br />
+<img src="img/clubs.gif" /> K7
+</td></tr><tr><td></td><td>
+<img src="img/spades.gif" /> 9<br />
+<img src="img/hearts.gif" /> 98763<br />
+<img src="img/diamonds.gif" /> AQJ4<br />
+<img src="img/clubs.gif" /> J92
+</td><td></td></tr>
+</table>
+</td>
+</tr>
+</table>

@@ -1,2 +1,36 @@
-000000000054
-<p style="margin-bottom: 20px"><b>Rozdanie 26</b></p>
+000000000962
+<table class="noborder">
+<tr>
+<td>
+<table id="diagram">
+<tr>
+<td style="text-align: center">
+<h1 style="margin-bottom: 0px">26</h1>
+<p class="small" style="margin-top: 0px">obie po / E</p>
+</td><td>
+<img src="img/spades.gif" /> AKQ86<br />
+<img src="img/hearts.gif" /> AJ976<br />
+<img src="img/diamonds.gif" /> 8<br />
+<img src="img/clubs.gif" /> 109
+</td><td></td></tr><tr><td>
+<img src="img/spades.gif" /> 103<br />
+<img src="img/hearts.gif" /> Q<br />
+<img src="img/diamonds.gif" /> Q109763<br />
+<img src="img/clubs.gif" /> AKQ5
+</td><td>
+<img src="img/10.gif" />
+</td><td>
+<img src="img/spades.gif" /> 972<br />
+<img src="img/hearts.gif" /> K3<br />
+<img src="img/diamonds.gif" /> AJ2<br />
+<img src="img/clubs.gif" /> J7642
+</td></tr><tr><td></td><td>
+<img src="img/spades.gif" /> J54<br />
+<img src="img/hearts.gif" /> 108542<br />
+<img src="img/diamonds.gif" /> K54<br />
+<img src="img/clubs.gif" /> 83
+</td><td></td></tr>
+</table>
+</td>
+</tr>
+</table>
