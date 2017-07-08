@@ -580,14 +580,14 @@
 <wpis>
 <ns>1</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>6 S</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>=</wynik>
+<wist>CQ</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>-1430</zapis>
 </wpis>
 <wpis>
 <ns>2</ns>
