@@ -1094,12 +1094,12 @@
 <ew>3</ew>
 <kontrakt>3 NT</kontrakt>
 <rozgrywajacy>N</rozgrywajacy>
-<wynik>+1</wynik>
+<wynik>=</wynik>
 <wist>S6</wist>
 <grupa/>
 <runda>3</runda>
 <stół>A1</stół>
-<zapis>630</zapis>
+<zapis>600</zapis>
 </wpis>
 <wpis>
 <ns>4</ns>
