@@ -1174,14 +1174,14 @@
 <wpis>
 <ns>5</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 D</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>DA</wist>
 <grupa/>
 <runda>5</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>150</zapis>
 </wpis>
 <wpis>
 <ns>8</ns>
