@@ -1,4 +1,4 @@
-000000002544
+000000002542
 <table id="protocol" class="datatable">
 <thead>
 <tr>
@@ -18,8 +18,19 @@
 <td><img src="img/diamonds.gif" />A</td>
 <td>=</td>
 <td class="zapis">470</td><td class="zapis"></td>
-<td class="right">10.33</td>
-<td class="right">-10.33</td>
+<td class="right">9.33</td>
+<td class="right">-9.33</td>
+</tr>
+<tr>
+<td><a href="javascript:hideTooltip();loadHistory(2);"onmouseover="showTooltip('Mariusz Bartkowski - Piotr Jurek', event);"onmouseout="hideTooltip();">2</a></td>
+<td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Karol Konopko - Bartosz Ćwiek', event);"onmouseout="hideTooltip();">4</a></td>
+<td>2<img src="img/hearts.gif" /></td>
+<td>S</td>
+<td><img src="img/clubs.gif" />6</td>
+<td>=</td>
+<td class="zapis">110</td><td class="zapis"></td>
+<td class="right">-0.67</td>
+<td class="right">0.67</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(1);"onmouseover="showTooltip('Grzegorz Darkiewicz-Moniuszko - Piotr Krajewski', event);"onmouseout="hideTooltip();">1</a></td>
@@ -29,8 +40,8 @@
 <td><img src="img/clubs.gif" />2</td>
 <td>-1</td>
 <td class="zapis">50</td><td class="zapis"></td>
-<td class="right">-0.67</td>
-<td class="right">0.67</td>
+<td class="right">-2.67</td>
+<td class="right">2.67</td>
 </tr>
 <tr>
 <td><a href="javascript:hideTooltip();loadHistory(6);"onmouseover="showTooltip('Ewa Łukowska - Anna Nożyńska', event);"onmouseout="hideTooltip();">6</a></td>
@@ -40,19 +51,8 @@
 <td><img src="img/clubs.gif" />4</td>
 <td>-1</td>
 <td class="zapis"></td><td class="zapis">50</td>
-<td class="right">-4.00</td>
-<td class="right">4.00</td>
-</tr>
-<tr>
-<td><a href="javascript:hideTooltip();loadHistory(2);"onmouseover="showTooltip('Mariusz Bartkowski - Piotr Jurek', event);"onmouseout="hideTooltip();">2</a></td>
-<td><a href="javascript:hideTooltip();loadHistory(4);"onmouseover="showTooltip('Karol Konopko - Bartosz Ćwiek', event);"onmouseout="hideTooltip();">4</a></td>
-<td>2<img src="img/hearts.gif" /></td>
-<td>W</td>
-<td><img src="img/clubs.gif" />6</td>
-<td>=</td>
-<td class="zapis"></td><td class="zapis">110</td>
-<td class="right">-5.67</td>
-<td class="right">5.67</td>
+<td class="right">-6.00</td>
+<td class="right">6.00</td>
 </tr>
 </tbody>
 </table>
