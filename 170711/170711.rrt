@@ -1330,14 +1330,14 @@
 <wpis>
 <ns>1</ns>
 <ew>8</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 S</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>C2</wist>
 <grupa/>
 <runda>6</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>50</zapis>
 </wpis>
 <wpis>
 <ns>7</ns>
