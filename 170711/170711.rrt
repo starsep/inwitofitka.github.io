@@ -1286,14 +1286,14 @@
 <wpis>
 <ns>7</ns>
 <ew>5</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 NT</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>=</wynik>
+<wist>SJ</wist>
 <grupa/>
 <runda>6</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>120</zapis>
 </wpis>
 <wpis>
 <ns>6</ns>
