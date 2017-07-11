@@ -738,14 +738,14 @@
 <wpis>
 <ns>7</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>CJ</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A3</stół>
-<zapis/>
+<zapis>100</zapis>
 </wpis>
 <wpis>
 <ns>4</ns>
