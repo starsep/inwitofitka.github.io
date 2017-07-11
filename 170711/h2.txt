@@ -1,4 +1,4 @@
-000000001975
+000000002085
 <h2>2: Mariusz Bartkowski - Piotr Jurek</h2>
 <table class="datatable">
 <thead>
@@ -50,15 +50,19 @@
 <td>2</td>
 <td class="left"><a href="javascript:loadHistory(7);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
 <td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">-13.67</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>W</td>
+<td><img src="img/diamonds.gif" />8</td>
+<td>+2</td>
+<td class="right">-660</td>
+<td class="right">0.33</td>
+<td class="right">-13.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-13.67</td>
+<td>-13.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
