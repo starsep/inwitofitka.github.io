@@ -1062,14 +1062,14 @@
 <wpis>
 <ns>2</ns>
 <ew>6</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
+<kontrakt>1 NT X</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>=</wynik>
 <wist/>
 <grupa/>
 <runda>4</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>180</zapis>
 </wpis>
 <wpis>
 <ns>3</ns>
