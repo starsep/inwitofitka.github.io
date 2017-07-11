@@ -1,4 +1,4 @@
-000000005322
+000000005694
 <h2>5: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -175,16 +175,28 @@
 <td class="right">-29.67</td>
 </tr>
 <tr>
+<td>6</td>
+<td class="left"><a href="javascript:loadHistory(7);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
+<td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
+<td>2<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />J</td>
+<td>=</td>
+<td class="right">+120</td>
+<td class="right">0.33</td>
+<td class="right">-29.33</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-29.67</td>
+<td>-29.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>8</td>
+<td>7</td>
 </tr>
 </tbody>
 </table>
