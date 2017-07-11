@@ -1,4 +1,4 @@
-000000005456
+000000005457
 <p style="text-align: center">
 <img src="running.gif" /> <b>wyniki na bieżąco (21 rozdań)</b> <img src="running.gif" />
 </p>
@@ -23,8 +23,8 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">21.33</td>
-<td rowspan="2" class="dealcount">14</td>
+<td rowspan="2" class="right">22.33</td>
+<td rowspan="2" class="dealcount">15</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
@@ -37,7 +37,7 @@
 <td class="up">5.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">MKS MAZOVIA Mińsk Mazowiecki</td>
-<td rowspan="2" class="right">17.00</td>
+<td rowspan="2" class="right">18.00</td>
 <td rowspan="2" class="dealcount">15</td>
 </tr>
 <tr>
@@ -79,8 +79,8 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">0.67</td>
-<td rowspan="2" class="dealcount">14</td>
+<td rowspan="2" class="right">-0.33</td>
+<td rowspan="2" class="dealcount">15</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17692" target="_blank">Anna Nożyńska</a></td>
@@ -93,7 +93,7 @@
 <td class="up">19.0</td>
 <td rowspan="2">MA</td>
 <td class="nazwiskoup">Inwitofitka</td>
-<td rowspan="2" class="right">-4.00</td>
+<td rowspan="2" class="right">-5.00</td>
 <td rowspan="2" class="dealcount">15</td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 11-07-2017 21:22:03
+, znacznik czasowy: 11-07-2017 21:22:33
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
