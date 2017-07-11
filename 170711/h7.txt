@@ -157,14 +157,14 @@
 <tr>
 <td><a href="javascript:loadBoard(14);">14</td><td>EW</td>
 <td colspan="5"></td>
-<td class="right">7.00</td>
-<td class="right">23.67</td>
+<td class="right">3.50</td>
+<td class="right">20.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>23.67</td>
+<td>20.17</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
