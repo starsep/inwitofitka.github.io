@@ -1,0 +1,62 @@
+000000001705
+<h2>1: Grzegorz Darkiewicz-Moniuszko - Piotr Krajewski</h2>
+<table class="datatable">
+<thead>
+<tr>
+<td>rnd.</td><td>przeciwnik</td><td>rzd.</td><td>linia</td>
+<td>kont.</td>
+<td>gra</td>
+<td>wist</td>
+<td>lew</td>
+<td>zapis</td>
+<td>wynik</td>
+<td>bieżący</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">1</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(2);">Mariusz Bartkowski - Piotr Jurek</a></td>
+<td><a href="javascript:loadBoard(1);">1</td><td>NS</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />J</td>
+<td>=</td>
+<td class="right">+400</td>
+<td class="right">2.00</td>
+<td class="right">2.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(2);">2</td><td>NS</td>
+<td>4<img src="img/clubs.gif" /></td>
+<td>W</td>
+<td><img src="img/hearts.gif" />K</td>
+<td>-1</td>
+<td class="right">+50</td>
+<td class="right">7.67</td>
+<td class="right">9.67</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(3);">3</td><td>NS</td>
+<td>2<img src="img/spades.gif" /></td>
+<td>N</td>
+<td><img src="img/diamonds.gif" />K</td>
+<td>+1</td>
+<td class="right">+140</td>
+<td class="right">4.00</td>
+<td class="right">13.67</td>
+</tr>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>wynik</b></td>
+<td>13.67</td>
+</tr>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>miejsce</b></td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
