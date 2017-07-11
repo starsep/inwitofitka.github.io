@@ -1,4 +1,4 @@
-000000005275
+000000005525
 <h2>3: Grzegorz Gardynik - Rafał Marks</h2>
 <table class="datatable">
 <thead>
@@ -175,16 +175,24 @@
 <td class="right">-4.67</td>
 </tr>
 <tr>
+<td>6</td>
+<td class="left"><a href="javascript:loadHistory(6);">Ewa Łukowska - Anna Nożyńska</a></td>
+<td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">7.00</td>
+<td class="right">2.33</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-4.67</td>
+<td>2.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>6</td>
+<td>5</td>
 </tr>
 </tbody>
 </table>
