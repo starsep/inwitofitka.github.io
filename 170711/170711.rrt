@@ -658,14 +658,14 @@
 <wpis>
 <ns>1</ns>
 <ew>5</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>=</wynik>
+<wist>HJ</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>600</zapis>
 </wpis>
 <wpis>
 <ns>8</ns>
