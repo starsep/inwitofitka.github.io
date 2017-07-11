@@ -1,4 +1,4 @@
-000000002337
+000000002483
 <h2>6: Ewa Łukowska - Anna Nożyńska</h2>
 <table class="datatable">
 <thead>
@@ -47,8 +47,8 @@
 <td class="right">3.33</td>
 </tr>
 <tr>
-<td rowspan="2">2</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(4);">Karol Konopko - Bartosz Ćwiek</a></td>
+<td rowspan="3">2</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(4);">Karol Konopko - Bartosz Ćwiek</a></td>
 <td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>E</td>
@@ -69,16 +69,22 @@
 <td class="right">3.33</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(6);">6</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">6.00</td>
+<td class="right">9.33</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>3.33</td>
+<td>9.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>4</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>

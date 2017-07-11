@@ -1,4 +1,4 @@
-000000005449
+000000005447
 <p style="text-align: center">
 <img src="running.gif" /> <b>wyniki na bieżąco (21 rozdań)</b> <img src="running.gif" />
 </p>
@@ -46,49 +46,34 @@
 </tr>
 <tr>
 <td rowspan="2">3</td>
-<td rowspan="2"><a href="javascript:loadHistory(4);">4</a></td>
-<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17214" target="_blank">Karol Konopko</a></td>
-<td class="up">2.5</td>
-<td rowspan="2">MA</td>
-<td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">12.00</td>
-<td rowspan="2" class="dealcount">5</td>
-</tr>
-<tr>
-<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14971" target="_blank">Bartosz Ćwiek</a></td>
-<td class="down">2.5</td>
-</tr>
-<tr>
-<td rowspan="2">4</td>
 <td rowspan="2"><a href="javascript:loadHistory(6);">6</a></td>
 <td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7817" target="_blank">Ewa Łukowska</a></td>
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">3.33</td>
-<td rowspan="2" class="dealcount">5</td>
+<td rowspan="2" class="right">9.33</td>
+<td rowspan="2" class="dealcount">6</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17692" target="_blank">Anna Nożyńska</a></td>
 <td class="down">1.5</td>
 </tr>
 <tr>
-<td rowspan="2">5</td>
-<td rowspan="2"><a href="javascript:loadHistory(3);">3</a></td>
-<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=1305" target="_blank">Grzegorz Gardynik</a></td>
-<td class="up">19.0</td>
+<td rowspan="2">4</td>
+<td rowspan="2"><a href="javascript:loadHistory(4);">4</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17214" target="_blank">Karol Konopko</a></td>
+<td class="up">2.5</td>
 <td rowspan="2">MA</td>
-<td class="nazwiskoup">Inwitofitka</td>
-<td rowspan="2" class="right">-1.33</td>
+<td rowspan="2" class="left">Inwitofitka</td>
+<td rowspan="2" class="right">6.00</td>
 <td rowspan="2" class="dealcount">6</td>
 </tr>
 <tr>
-<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=13438" target="_blank">Rafał Marks</a></td>
-<td class="down">9.0</td>
-<td class="nazwiskodown">AZS UW Warszawa</td>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14971" target="_blank">Bartosz Ćwiek</a></td>
+<td class="down">2.5</td>
 </tr>
 <tr>
-<td rowspan="2">6</td>
+<td rowspan="2">5</td>
 <td rowspan="2"><a href="javascript:loadHistory(5);">5</a></td>
 <td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=18014" target="_blank">Krystyna Jędrzejewska</a></td>
 <td class="up">1.0</td>
@@ -102,18 +87,33 @@
 <td class="down">1.0</td>
 </tr>
 <tr>
-<td rowspan="2">7</td>
+<td rowspan="2">6</td>
 <td rowspan="2"><a href="javascript:loadHistory(8);">8</a></td>
 <td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=7854" target="_blank">Witalis Talar</a></td>
 <td class="up">13.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Bez sponsora</td>
-<td rowspan="2" class="right">-12.33</td>
+<td rowspan="2" class="right">-6.33</td>
 <td rowspan="2" class="dealcount">6</td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=10450" target="_blank">Jacek Dmowski</a></td>
 <td class="down">13.0</td>
+</tr>
+<tr>
+<td rowspan="2">7</td>
+<td rowspan="2"><a href="javascript:loadHistory(3);">3</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=1305" target="_blank">Grzegorz Gardynik</a></td>
+<td class="up">19.0</td>
+<td rowspan="2">MA</td>
+<td class="nazwiskoup">Inwitofitka</td>
+<td rowspan="2" class="right">-7.33</td>
+<td rowspan="2" class="dealcount">6</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=13438" target="_blank">Rafał Marks</a></td>
+<td class="down">9.0</td>
+<td class="nazwiskodown">AZS UW Warszawa</td>
 </tr>
 <tr>
 <td rowspan="2">8</td>
@@ -135,7 +135,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 11-07-2017 19:23:26
+, znacznik czasowy: 11-07-2017 19:23:56
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
