@@ -1,4 +1,4 @@
-000000005952
+000000006103
 <h2>8: Witalis Talar - Jacek Dmowski</h2>
 <table class="datatable">
 <thead>
@@ -175,8 +175,8 @@
 <td class="right">11.67</td>
 </tr>
 <tr>
-<td rowspan="2">6</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(1);">Grzegorz Darkiewicz-Moniuszko - Piotr Krajewski</a></td>
+<td rowspan="3">6</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(1);">Grzegorz Darkiewicz-Moniuszko - Piotr Krajewski</a></td>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>S</td>
@@ -197,10 +197,16 @@
 <td class="right">2.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">-5.00</td>
+<td class="right">-3.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>2.00</td>
+<td>-3.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
