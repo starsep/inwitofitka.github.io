@@ -1,4 +1,4 @@
-000000006080
+000000006187
 <h2>4: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -198,7 +198,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>W</td>
+<td><img src="img/hearts.gif" />Q</td>
+<td>-1</td>
+<td class="right">+50</td>
 <td class="right">-5.00</td>
 <td class="right">10.33</td>
 </tr>

@@ -1,4 +1,4 @@
-000000006103
+000000006209
 <h2>8: Witalis Talar - Jacek Dmowski</h2>
 <table class="datatable">
 <thead>
@@ -198,7 +198,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
-<td colspan="5"></td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>W</td>
+<td><img src="img/clubs.gif" />4</td>
+<td>-1</td>
+<td class="right">+50</td>
 <td class="right">-5.00</td>
 <td class="right">-3.00</td>
 </tr>

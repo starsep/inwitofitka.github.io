@@ -1,4 +1,4 @@
-000000006063
+000000006169
 <h2>3: Grzegorz Gardynik - Rafał Marks</h2>
 <table class="datatable">
 <thead>
@@ -198,15 +198,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">10.00</td>
-<td class="right">17.33</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>W</td>
+<td><img src="img/clubs.gif" />5</td>
+<td>+1</td>
+<td class="right">-430</td>
+<td class="right">9.00</td>
+<td class="right">16.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>17.33</td>
+<td>16.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
