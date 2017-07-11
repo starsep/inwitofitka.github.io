@@ -1466,14 +1466,14 @@
 <wpis>
 <ns>2</ns>
 <ew>8</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 S</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>=</wynik>
+<wist>H4</wist>
 <grupa/>
 <runda>7</runda>
 <stół>A3</stół>
-<zapis/>
+<zapis>420</zapis>
 </wpis>
 <wpis>
 <ns>5</ns>

@@ -1,4 +1,4 @@
-000000006206
+000000006461
 <h2>8: Witalis Talar - Jacek Dmowski</h2>
 <table class="datatable">
 <thead>
@@ -204,6 +204,14 @@
 <td>-1</td>
 <td class="right">+50</td>
 <td class="right">-5.00</td>
+<td class="right">1.33</td>
+</tr>
+<tr>
+<td>7</td>
+<td class="left"><a href="javascript:loadHistory(2);">Mariusz Bartkowski - Piotr Jurek</a></td>
+<td><a href="javascript:loadBoard(19);">19</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">1.33</td>
 </tr>
 <tr>
