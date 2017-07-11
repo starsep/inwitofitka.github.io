@@ -33,7 +33,7 @@
 <showDealsOption>1</showDealsOption>
 <vpTable/>
 <netSafetyLevel>3</netSafetyLevel>
-<whiteList/>
+<whiteList>127.0.0.1</whiteList>
 </ustawienia>
 <closedFinals/>
 <lista>
