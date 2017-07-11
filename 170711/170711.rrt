@@ -626,14 +626,14 @@
 <wpis>
 <ns>7</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>D8</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A3</stół>
-<zapis/>
+<zapis>-660</zapis>
 </wpis>
 <wpis>
 <ns>4</ns>

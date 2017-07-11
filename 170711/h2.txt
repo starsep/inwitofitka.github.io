@@ -1,4 +1,4 @@
-000000001712
+000000001975
 <h2>2: Mariusz Bartkowski - Piotr Jurek</h2>
 <table class="datatable">
 <thead>
@@ -44,6 +44,14 @@
 <td>+1</td>
 <td class="right">+140</td>
 <td class="right">-4.00</td>
+<td class="right">-13.67</td>
+</tr>
+<tr>
+<td>2</td>
+<td class="left"><a href="javascript:loadHistory(7);">Filip Czaplicki - Wojciech Grzegorzewski</a></td>
+<td><a href="javascript:loadBoard(4);">4</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-13.67</td>
 </tr>
 <tr>
