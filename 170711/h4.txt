@@ -1,4 +1,4 @@
-000000004644
+000000004752
 <h2>4: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -146,21 +146,25 @@
 <td>5</td>
 <td class="left"><a href="javascript:loadHistory(8);">Witalis Talar - Jacek Dmowski</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">5.50</td>
-<td class="right">14.50</td>
+<td>1<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />3</td>
+<td>-1</td>
+<td class="right">-100</td>
+<td class="right">2.67</td>
+<td class="right">11.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>14.50</td>
+<td>11.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>2</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
