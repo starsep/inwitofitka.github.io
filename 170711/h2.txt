@@ -189,20 +189,20 @@
 <tr>
 <td><a href="javascript:loadBoard(17);">17</td><td>NS</td>
 <td colspan="5"></td>
-<td class="right">-4.00</td>
-<td class="right">-34.00</td>
+<td class="right">-7.50</td>
+<td class="right">-37.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-34.00</td>
+<td>-37.50</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>8</td>
+<td>7</td>
 </tr>
 </tbody>
 </table>
