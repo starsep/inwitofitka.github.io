@@ -1354,14 +1354,14 @@
 <wpis>
 <ns>6</ns>
 <ew>3</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>C4</wist>
 <grupa/>
 <runda>6</runda>
 <stół>A3</stół>
-<zapis/>
+<zapis>-430</zapis>
 </wpis>
 <wpis>
 <ns>2</ns>
