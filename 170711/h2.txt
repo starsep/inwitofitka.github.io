@@ -1,4 +1,4 @@
-000000004921
+000000005032
 <h2>2: Mariusz Bartkowski - Piotr Jurek</h2>
 <table class="datatable">
 <thead>
@@ -156,15 +156,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(14);">14</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">3.50</td>
-<td class="right">-25.50</td>
+<td>3<img src="img/diamonds.gif" /></td>
+<td>S</td>
+<td><img src="img/diamonds.gif" />A</td>
+<td>+2</td>
+<td class="right">+150</td>
+<td class="right">4.67</td>
+<td class="right">-24.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>-25.50</td>
+<td>-24.33</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>

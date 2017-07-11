@@ -1,4 +1,4 @@
-000000004898
+000000005006
 <h2>6: Ewa Łukowska - Anna Nożyńska</h2>
 <table class="datatable">
 <thead>
@@ -156,15 +156,19 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(14);">14</td><td>NS</td>
-<td colspan="5"></td>
-<td class="right">-3.50</td>
-<td class="right">1.83</td>
+<td>1<img src="img/notrump.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />3</td>
+<td>+2</td>
+<td class="right">+150</td>
+<td class="right">-4.67</td>
+<td class="right">0.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>1.83</td>
+<td>0.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
