@@ -1422,14 +1422,14 @@
 <wpis>
 <ns>2</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>HQ</wist>
 <grupa/>
 <runda>6</runda>
 <stół>A4</stół>
-<zapis/>
+<zapis>50</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
