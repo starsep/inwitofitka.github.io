@@ -602,14 +602,14 @@
 <wpis>
 <ns>1</ns>
 <ew>5</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>HT</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>-660</zapis>
 </wpis>
 <wpis>
 <ns>8</ns>
@@ -638,14 +638,14 @@
 <wpis>
 <ns>4</ns>
 <ew>6</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>S5</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A4</stół>
-<zapis/>
+<zapis>-660</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
