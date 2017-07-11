@@ -1,4 +1,4 @@
-000000004910
+000000005059
 <h2>3: Grzegorz Gardynik - Rafał Marks</h2>
 <table class="datatable">
 <thead>
@@ -143,8 +143,8 @@
 <td class="right">4.67</td>
 </tr>
 <tr>
-<td rowspan="2">5</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(1);">Grzegorz Darkiewicz-Moniuszko - Piotr Krajewski</a></td>
+<td rowspan="3">5</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(1);">Grzegorz Darkiewicz-Moniuszko - Piotr Krajewski</a></td>
 <td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
 <td>1<img src="img/notrump.gif" /></td>
 <td>N</td>
@@ -158,6 +158,12 @@
 <td><a href="javascript:loadBoard(14);">14</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">-7.00</td>
+<td class="right">-6.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-6.00</td>
 </tr>
 <tr>

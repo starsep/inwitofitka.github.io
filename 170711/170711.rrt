@@ -1218,14 +1218,14 @@
 <wpis>
 <ns>1</ns>
 <ew>3</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 S</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>HJ</wist>
 <grupa/>
 <runda>5</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>650</zapis>
 </wpis>
 <wpis>
 <ns>5</ns>
