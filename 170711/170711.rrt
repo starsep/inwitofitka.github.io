@@ -11,8 +11,8 @@
 <data>2017-07-192</data>
 <html>&lt;h1&gt;#nazwa&lt;/h1&gt;
 &lt;a href="https://inwitofitka.club"&gt;[Strona główna]&lt;/a&gt; &lt;br /&gt;
-&lt;a href="https://inwitofitka.club/prev?from=c"&gt;[Poprzedni trening]&lt;/a&gt;
-&lt;a href="https://inwitofitka.club/next?from=ID"&gt;[Następny trening]&lt;/a&gt;
+&lt;a href="https://inwitofitka.club/prev?from=170711"&gt;[Poprzedni trening]&lt;/a&gt;
+&lt;a href="https://inwitofitka.club/next?from=170711"&gt;[Następny trening]&lt;/a&gt;
 &lt;script src="bidding.js"&gt;&lt;/script&gt;
 &lt;link rel="stylesheet" href="bidding.css" /&gt;
 &lt;link rel="shortcut icon" href="../favicon.ico" /&gt;</html>
