@@ -193,8 +193,8 @@
 <td><img src="img/clubs.gif" />6</td>
 <td>=</td>
 <td class="right">-110</td>
-<td class="right">2.33</td>
-<td class="right">15.33</td>
+<td class="right">5.67</td>
+<td class="right">18.67</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
@@ -204,19 +204,19 @@
 <td>-1</td>
 <td class="right">+50</td>
 <td class="right">-5.00</td>
-<td class="right">10.33</td>
+<td class="right">13.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>10.33</td>
+<td>13.67</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>4</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
