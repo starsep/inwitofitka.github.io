@@ -1,4 +1,4 @@
-000000005930
+000000006079
 <h2>4: Karol Konopko - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -175,8 +175,8 @@
 <td class="right">6.67</td>
 </tr>
 <tr>
-<td rowspan="2">6</td>
-<td class="left" rowspan="2"><a href="javascript:loadHistory(2);">Mariusz Bartkowski - Piotr Jurek</a></td>
+<td rowspan="3">6</td>
+<td class="left" rowspan="3"><a href="javascript:loadHistory(2);">Mariusz Bartkowski - Piotr Jurek</a></td>
 <td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>S</td>
@@ -194,6 +194,12 @@
 <td>=</td>
 <td class="right">-110</td>
 <td class="right">2.33</td>
+<td class="right">15.33</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(18);">18</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">15.33</td>
 </tr>
 <tr>
