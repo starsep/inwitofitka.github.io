@@ -1,4 +1,4 @@
-000000004296
+000000004548
 <h2>7: Filip Czaplicki - Wojciech Grzegorzewski</h2>
 <table class="datatable">
 <thead>
@@ -136,6 +136,14 @@
 <td><a href="javascript:loadBoard(12);">12</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">2.50</td>
+<td class="right">20.17</td>
+</tr>
+<tr>
+<td>5</td>
+<td class="left"><a href="javascript:loadHistory(6);">Ewa Łukowska - Anna Nożyńska</a></td>
+<td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">20.17</td>
 </tr>
 <tr>
