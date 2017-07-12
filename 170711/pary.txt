@@ -132,7 +132,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 12-07-2017 11:15:55
+, znacznik czasowy: 12-07-2017 11:18:01
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
