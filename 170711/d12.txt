@@ -8,27 +8,27 @@
 <h1 style="margin-bottom: 0px">12</h1>
 <p class="small" style="margin-top: 0px">NS / W</p>
 </td><td>
-<img src="img/spades.gif" /> 94<br />
-<img src="img/hearts.gif" /> J82<br />
-<img src="img/diamonds.gif" /> AKJ963<br />
-<img src="img/clubs.gif" /> Q5
+<img src="img/spades.gif" /> AK9<br />
+<img src="img/hearts.gif" /> A72<br />
+<img src="img/diamonds.gif" /> Q1097<br />
+<img src="img/clubs.gif" /> 652
 </td><td></td></tr><tr><td>
-<img src="img/spades.gif" /> AQ2<br />
-<img src="img/hearts.gif" /> Q54<br />
-<img src="img/diamonds.gif" /> 85<br />
-<img src="img/clubs.gif" /> J10873
+<img src="img/spades.gif" /> Q72<br />
+<img src="img/hearts.gif" /> KJ83<br />
+<img src="img/diamonds.gif" /> AK<br />
+<img src="img/clubs.gif" /> KJ87
 </td><td>
 <img src="img/12.gif" />
 </td><td>
-<img src="img/spades.gif" /> K76<br />
-<img src="img/hearts.gif" /> K9763<br />
-<img src="img/diamonds.gif" /> 102<br />
-<img src="img/clubs.gif" /> A42
+<img src="img/spades.gif" /> 10865<br />
+<img src="img/hearts.gif" /> Q106<br />
+<img src="img/diamonds.gif" /> 863<br />
+<img src="img/clubs.gif" /> 943
 </td></tr><tr><td></td><td>
-<img src="img/spades.gif" /> J10853<br />
-<img src="img/hearts.gif" /> A10<br />
-<img src="img/diamonds.gif" /> Q74<br />
-<img src="img/clubs.gif" /> K96
+<img src="img/spades.gif" /> J43<br />
+<img src="img/hearts.gif" /> 954<br />
+<img src="img/diamonds.gif" /> J542<br />
+<img src="img/clubs.gif" /> AQ10
 </td><td></td></tr>
 </table>
 </td>
