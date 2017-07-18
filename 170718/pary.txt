@@ -24,8 +24,8 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">31.00</td>
-<td rowspan="2" class="dealcount">17</td>
+<td rowspan="2" class="right">28.00</td>
+<td rowspan="2" class="dealcount">18</td>
 <td rowspan="2">5</td>
 </tr>
 <tr>
@@ -39,8 +39,8 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">17.00</td>
-<td rowspan="2" class="dealcount">17</td>
+<td rowspan="2" class="right">20.00</td>
+<td rowspan="2" class="dealcount">18</td>
 <td rowspan="2">1</td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@
 <td class="up">2.0</td>
 <td class="up">SW</td>
 <td class="nazwiskoup">Bristol ART & Medical SPA</td>
-<td rowspan="2" class="right">-17.00</td>
+<td rowspan="2" class="right">-20.00</td>
 <td rowspan="2" class="dealcount">18</td>
 <td rowspan="2"></td>
 </tr>
@@ -71,7 +71,7 @@
 <td class="up">1.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">-31.00</td>
+<td rowspan="2" class="right">-28.00</td>
 <td rowspan="2" class="dealcount">18</td>
 <td rowspan="2"></td>
 </tr>
@@ -83,7 +83,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 18-07-2017 21:39:59
+, znacznik czasowy: 18-07-2017 21:41:59
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
