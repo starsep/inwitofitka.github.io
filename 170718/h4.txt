@@ -1,4 +1,4 @@
-000000008677
+000000008829
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -219,8 +219,8 @@
 <td class="right">-32.00</td>
 </tr>
 <tr>
-<td rowspan="9">3</td>
-<td class="left" rowspan="9"><a href="javascript:loadHistory(2);">Wojciech Grzegorzewski - Bartosz Ćwiek</a></td>
+<td rowspan="10">3</td>
+<td class="left" rowspan="10"><a href="javascript:loadHistory(2);">Wojciech Grzegorzewski - Bartosz Ćwiek</a></td>
 <td><a href="javascript:loadBoard(21);">21</td><td>NS</td>
 <td>4<img src="img/spades.gif" /></td>
 <td>S</td>
@@ -308,6 +308,12 @@
 <td>-2</td>
 <td class="right">+200</td>
 <td class="right">3.00</td>
+<td class="right">-47.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(30);">30</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-47.00</td>
 </tr>
 <tr>
