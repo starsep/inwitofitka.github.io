@@ -1,4 +1,4 @@
-000000004925
+000000005225
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -117,8 +117,8 @@
 <td class="right">-24.00</td>
 </tr>
 <tr>
-<td rowspan="5">2</td>
-<td class="left" rowspan="5"><a href="javascript:loadHistory(1);">Ryhor Abramovich - Grzegorz Gardynik</a></td>
+<td rowspan="7">2</td>
+<td class="left" rowspan="7"><a href="javascript:loadHistory(1);">Ryhor Abramovich - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(11);">11</td><td>EW</td>
 <td>2<img src="img/spades.gif" /></td>
 <td>W</td>
@@ -166,6 +166,18 @@
 <td>=</td>
 <td class="right">+140</td>
 <td class="right">-1.00</td>
+<td class="right">-25.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
+<td class="right">-25.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(17);">17</td><td>EW</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-25.00</td>
 </tr>
 <tr>
