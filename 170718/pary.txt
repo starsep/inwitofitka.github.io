@@ -1,4 +1,4 @@
-000000003117
+000000003116
 <p style="text-align: center">
 <img src="running.gif" /> <b>wyniki na bieżąco (30 rozdań)</b> <img src="running.gif" />
 </p>
@@ -24,7 +24,7 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">37.00</td>
+<td rowspan="2" class="right">39.00</td>
 <td rowspan="2" class="dealcount">22</td>
 <td rowspan="2">5</td>
 </tr>
@@ -39,8 +39,8 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">11.00</td>
-<td rowspan="2" class="dealcount">21</td>
+<td rowspan="2" class="right">9.00</td>
+<td rowspan="2" class="dealcount">22</td>
 <td rowspan="2">1</td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@
 <td class="up">2.0</td>
 <td class="up">SW</td>
 <td class="nazwiskoup">Bristol ART & Medical SPA</td>
-<td rowspan="2" class="right">-21.00</td>
+<td rowspan="2" class="right">-23.00</td>
 <td rowspan="2" class="dealcount">22</td>
 <td rowspan="2"></td>
 </tr>
@@ -71,8 +71,8 @@
 <td class="up">1.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">-27.00</td>
-<td rowspan="2" class="dealcount">21</td>
+<td rowspan="2" class="right">-25.00</td>
+<td rowspan="2" class="dealcount">22</td>
 <td rowspan="2"></td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 18-07-2017 22:30:30
+, znacznik czasowy: 18-07-2017 22:32:00
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
