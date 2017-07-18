@@ -1,4 +1,4 @@
-000000001170
+000000001341
 <h2>3: Ewa Łukowska - Anna Nożyńska</h2>
 <table class="datatable">
 <thead>
@@ -15,8 +15,8 @@
 </thead>
 <tbody>
 <tr>
-<td>1</td>
-<td class="left"><a href="javascript:loadHistory(4);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
+<td rowspan="2">1</td>
+<td class="left" rowspan="2"><a href="javascript:loadHistory(4);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
 <td><a href="javascript:loadBoard(1);">1</td><td>NS</td>
 <td>2<img src="img/notrump.gif" /></td>
 <td>S</td>
@@ -24,6 +24,12 @@
 <td>-2</td>
 <td class="right">-100</td>
 <td class="right">-2.00</td>
+<td class="right">-2.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(2);">2</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-2.00</td>
 </tr>
 <tr>
