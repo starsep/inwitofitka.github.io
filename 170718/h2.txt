@@ -1,4 +1,4 @@
-000000008404
+000000008661
 <h2>2: Wojciech Grzegorzewski - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -219,8 +219,8 @@
 <td class="right">16.00</td>
 </tr>
 <tr>
-<td rowspan="8">3</td>
-<td class="left" rowspan="8"><a href="javascript:loadHistory(4);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
+<td rowspan="9">3</td>
+<td class="left" rowspan="9"><a href="javascript:loadHistory(4);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
 <td><a href="javascript:loadBoard(21);">21</td><td>EW</td>
 <td>4<img src="img/spades.gif" /></td>
 <td>S</td>
@@ -301,10 +301,20 @@
 <td class="right">34.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(29);">29</td><td>EW</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>W</td>
+<td><img src="img/clubs.gif" />A</td>
+<td>-2</td>
+<td class="right">+200</td>
+<td class="right">-3.00</td>
+<td class="right">31.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>34.00</td>
+<td>31.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
