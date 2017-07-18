@@ -1,4 +1,4 @@
-000000008652
+000000008908
 <h2>3: Ewa Łukowska - Anna Nożyńska</h2>
 <table class="datatable">
 <thead>
@@ -219,8 +219,8 @@
 <td class="right">32.00</td>
 </tr>
 <tr>
-<td rowspan="9">3</td>
-<td class="left" rowspan="9"><a href="javascript:loadHistory(1);">Ryhor Abramovich - Grzegorz Gardynik</a></td>
+<td rowspan="10">3</td>
+<td class="left" rowspan="10"><a href="javascript:loadHistory(1);">Ryhor Abramovich - Grzegorz Gardynik</a></td>
 <td><a href="javascript:loadBoard(21);">21</td><td>EW</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>S</td>
@@ -311,10 +311,20 @@
 <td class="right">17.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(30);">30</td><td>EW</td>
+<td>5<img src="img/clubs.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />A</td>
+<td>=</td>
+<td class="right">+400</td>
+<td class="right">2.00</td>
+<td class="right">19.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>17.00</td>
+<td>19.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
