@@ -1,4 +1,4 @@
-000000002766
+000000002878
 <h2>2: Wojciech Grzegorzewski - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -78,21 +78,25 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(7);">7</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">8.00</td>
+<td>1<img src="img/spades.gif" /></td>
+<td>E</td>
+<td><img src="img/diamonds.gif" />2</td>
+<td>+2</td>
+<td class="right">-140</td>
+<td class="right">6.00</td>
+<td class="right">14.00</td>
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(8);">8</td><td>EW</td>
 <td colspan="5"></td>
 <td class="right">0.00</td>
-<td class="right">8.00</td>
+<td class="right">14.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>8.00</td>
+<td>14.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
