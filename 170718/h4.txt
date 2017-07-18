@@ -1,4 +1,4 @@
-000000000811
+000000001167
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -15,10 +15,22 @@
 </thead>
 <tbody>
 <tr>
+<td>1</td>
+<td class="left"><a href="javascript:loadHistory(3);">Ewa Łukowska - Anna Nożyńska</a></td>
+<td><a href="javascript:loadBoard(1);">1</td><td>EW</td>
+<td>2<img src="img/notrump.gif" /></td>
+<td>S</td>
+<td><img src="img/clubs.gif" />A</td>
+<td>-2</td>
+<td class="right">-100</td>
+<td class="right">2.00</td>
+<td class="right">2.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>0.00</td>
+<td>2.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>

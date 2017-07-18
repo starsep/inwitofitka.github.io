@@ -1,4 +1,4 @@
-000000003104
+000000003107
 <p style="text-align: center">
 <img src="running.gif" /> <b>wyniki na bieżąco (30 rozdań)</b> <img src="running.gif" />
 </p>
@@ -24,7 +24,7 @@
 <td class="up">2.0</td>
 <td class="up">SW</td>
 <td class="nazwiskoup">Bristol ART & Medical SPA</td>
-<td rowspan="2" class="right">0.00</td>
+<td rowspan="2" class="right">2.00</td>
 <td rowspan="2" class="dealcount">1</td>
 <td rowspan="2">5</td>
 </tr>
@@ -36,14 +36,29 @@
 </tr>
 <tr>
 <td rowspan="2"></td>
+<td rowspan="2"><a href="javascript:loadHistory(4);">4</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=18014" target="_blank">Krystyna Jędrzejewska</a></td>
+<td class="up">1.0</td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">IF22</td>
+<td rowspan="2" class="right">2.00</td>
+<td rowspan="2" class="dealcount">1</td>
+<td rowspan="2">1</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=18015" target="_blank">Ireneusz Jędrzejewski</a></td>
+<td class="down">1.0</td>
+</tr>
+<tr>
+<td rowspan="2">3</td>
 <td rowspan="2"><a href="javascript:loadHistory(2);">2</a></td>
 <td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">Inwitofitka</td>
-<td rowspan="2" class="right">0.00</td>
+<td rowspan="2" class="right">-2.00</td>
 <td rowspan="2" class="dealcount">1</td>
-<td rowspan="2">1</td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14971" target="_blank">Bartosz Ćwiek</a></td>
@@ -56,34 +71,19 @@
 <td class="up">2.0</td>
 <td rowspan="2">MA</td>
 <td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">0.00</td>
-<td rowspan="2" class="dealcount">0</td>
+<td rowspan="2" class="right">-2.00</td>
+<td rowspan="2" class="dealcount">1</td>
 <td rowspan="2"></td>
 </tr>
 <tr>
 <td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17692" target="_blank">Anna Nożyńska</a></td>
 <td class="down">1.5</td>
 </tr>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2"><a href="javascript:loadHistory(4);">4</a></td>
-<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=18014" target="_blank">Krystyna Jędrzejewska</a></td>
-<td class="up">1.0</td>
-<td rowspan="2">MA</td>
-<td rowspan="2" class="left">IF22</td>
-<td rowspan="2" class="right">0.00</td>
-<td rowspan="2" class="dealcount">0</td>
-<td rowspan="2"></td>
-</tr>
-<tr>
-<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=18015" target="_blank">Ireneusz Jędrzejewski</a></td>
-<td class="down">1.0</td>
-</tr>
 </tbody>
 </table>
 <div style="font-size: 8pt; margin: 10pt;">
 wygenerowano przy pomocy RRBridge 1.3.6b
-, znacznik czasowy: 18-07-2017 18:14:28
+, znacznik czasowy: 18-07-2017 18:15:28
 <br />Sędzia: Karol Konopko
 , e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
 </div>
