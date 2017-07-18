@@ -1,4 +1,4 @@
-000000007132
+000000007281
 <h2>1: Ryhor Abramovich - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -219,8 +219,8 @@
 <td class="right">-16.00</td>
 </tr>
 <tr>
-<td rowspan="3">3</td>
-<td class="left" rowspan="3"><a href="javascript:loadHistory(3);">Ewa Łukowska - Anna Nożyńska</a></td>
+<td rowspan="4">3</td>
+<td class="left" rowspan="4"><a href="javascript:loadHistory(3);">Ewa Łukowska - Anna Nożyńska</a></td>
 <td><a href="javascript:loadBoard(21);">21</td><td>NS</td>
 <td>3<img src="img/notrump.gif" /></td>
 <td>S</td>
@@ -248,6 +248,12 @@
 <td>=</td>
 <td class="right">+600</td>
 <td class="right">14.00</td>
+<td class="right">-9.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(24);">24</td><td>NS</td>
+<td colspan="5"></td>
+<td class="right">0.00</td>
 <td class="right">-9.00</td>
 </tr>
 <tr>
