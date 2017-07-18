@@ -1,4 +1,4 @@
-000000005170
+000000005426
 <h2>2: Wojciech Grzegorzewski - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -117,8 +117,8 @@
 <td class="right">24.00</td>
 </tr>
 <tr>
-<td rowspan="6">2</td>
-<td class="left" rowspan="6"><a href="javascript:loadHistory(3);">Ewa Łukowska - Anna Nożyńska</a></td>
+<td rowspan="7">2</td>
+<td class="left" rowspan="7"><a href="javascript:loadHistory(3);">Ewa Łukowska - Anna Nożyńska</a></td>
 <td><a href="javascript:loadBoard(11);">11</td><td>NS</td>
 <td>2<img src="img/spades.gif" /></td>
 <td>W</td>
@@ -176,6 +176,16 @@
 <td>-2</td>
 <td class="right">+200</td>
 <td class="right">-6.00</td>
+<td class="right">17.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(17);">17</td><td>NS</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>E</td>
+<td><img src="img/spades.gif" />2</td>
+<td>=</td>
+<td class="right">-400</td>
+<td class="right">0.00</td>
 <td class="right">17.00</td>
 </tr>
 <tr>
