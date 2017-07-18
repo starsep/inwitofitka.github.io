@@ -1,4 +1,4 @@
-000000004318
+000000004424
 <h2>1: Ryhor Abramovich - Grzegorz Gardynik</h2>
 <table class="datatable">
 <thead>
@@ -140,7 +140,11 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(13);">13</td><td>NS</td>
-<td colspan="5"></td>
+<td>2<img src="img/clubs.gif" /></td>
+<td>N</td>
+<td><img src="img/spades.gif" />5</td>
+<td>+1</td>
+<td class="right">+110</td>
 <td class="right">0.00</td>
 <td class="right">-24.00</td>
 </tr>
