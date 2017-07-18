@@ -1,0 +1,29 @@
+000000000742
+<h2>1: Ryhor Abramovich - Grzegorz Gardynik</h2>
+<table class="datatable">
+<thead>
+<tr>
+<td>rnd.</td><td>przeciwnik</td><td>rzd.</td><td>linia</td>
+<td>kont.</td>
+<td>gra</td>
+<td>lew</td>
+<td>zapis</td>
+<td>wynik</td>
+<td>bieżący</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>wynik</b></td>
+<td>0.00</td>
+</tr>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>miejsce</b></td>
+<td>1</td>
+</tr>
+</tbody>
+</table>

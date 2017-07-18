@@ -1,0 +1,84 @@
+000000002523
+<p style="text-align: center">
+<img src="running.gif" /> <b>wyniki na bieżąco (30 rozdań)</b> <img src="running.gif" />
+</p>
+<table id="pairlist" class="datatable">
+<thead>
+<tr>
+<td>m-ce</td>
+<td>№</td>
+<td>para</td>
+<td>wk</td>
+<td>okręg</td>
+<td>klub</td>
+<td>wynik</td>
+<td>#</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">1</td>
+<td rowspan="2"><a href="javascript:loadHistory(1);">1</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14142" target="_blank">Ryhor Abramovich</a></td>
+<td class="up">2.0</td>
+<td class="up">SW</td>
+<td class="nazwiskoup">Bristol ART & Medical SPA</td>
+<td rowspan="2" class="right">0.00</td>
+<td rowspan="2" class="dealcount">0</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=1305" target="_blank">Grzegorz Gardynik</a></td>
+<td class="down">19.0</td>
+<td class="down">MA</td>
+<td class="nazwiskodown">Inwitofitka</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2"><a href="javascript:loadHistory(2);">2</a></td>
+<td class="nazwiskoup"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=17451" target="_blank">Wojciech Grzegorzewski</a></td>
+<td class="up">2.0</td>
+<td rowspan="2">MA</td>
+<td rowspan="2" class="left">Inwitofitka</td>
+<td rowspan="2" class="right">0.00</td>
+<td rowspan="2" class="dealcount">0</td>
+</tr>
+<tr>
+<td class="nazwiskodown"><a href="http://www.msc.com.pl/cezar/index.php?s=&mycl=0&tmt=5&p=21&r=14971" target="_blank">Bartosz Ćwiek</a></td>
+<td class="down">2.5</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2"><a href="javascript:loadHistory(3);">3</a></td>
+<td class="nazwiskoup"></td>
+<td class="up"></td>
+<td rowspan="2"></td>
+<td rowspan="2" class="left"></td>
+<td rowspan="2" class="right">0.00</td>
+<td rowspan="2" class="dealcount">0</td>
+</tr>
+<tr>
+<td class="nazwiskodown"></td>
+<td class="down"></td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2"><a href="javascript:loadHistory(4);">4</a></td>
+<td class="nazwiskoup"></td>
+<td class="up"></td>
+<td rowspan="2"></td>
+<td rowspan="2" class="left"></td>
+<td rowspan="2" class="right">0.00</td>
+<td rowspan="2" class="dealcount">0</td>
+</tr>
+<tr>
+<td class="nazwiskodown"></td>
+<td class="down"></td>
+</tr>
+</tbody>
+</table>
+<div style="font-size: 8pt; margin: 10pt;">
+wygenerowano przy pomocy RRBridge 1.3.6b
+, znacznik czasowy: 18-07-2017 18:06:28
+<br />Sędzia: Karol Konopko
+, e-mail: <a href="mailto:karkon94@gmail.com">karkon94@gmail.com</a>
+</div>
