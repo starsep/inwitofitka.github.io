@@ -1,4 +1,4 @@
-000000004652
+000000004911
 <h2>2: Wojciech Grzegorzewski - Bartosz Ćwiek</h2>
 <table class="datatable">
 <thead>
@@ -117,8 +117,8 @@
 <td class="right">24.00</td>
 </tr>
 <tr>
-<td rowspan="4">2</td>
-<td class="left" rowspan="4"><a href="javascript:loadHistory(3);">Ewa Łukowska - Anna Nożyńska</a></td>
+<td rowspan="5">2</td>
+<td class="left" rowspan="5"><a href="javascript:loadHistory(3);">Ewa Łukowska - Anna Nożyńska</a></td>
 <td><a href="javascript:loadBoard(11);">11</td><td>NS</td>
 <td>2<img src="img/spades.gif" /></td>
 <td>W</td>
@@ -159,16 +159,26 @@
 <td class="right">24.00</td>
 </tr>
 <tr>
+<td><a href="javascript:loadBoard(15);">15</td><td>NS</td>
+<td>2<img src="img/diamonds.gif" /></td>
+<td>E</td>
+<td><img src="img/hearts.gif" />J</td>
+<td>-2</td>
+<td class="right">+100</td>
+<td class="right">-1.00</td>
+<td class="right">23.00</td>
+</tr>
+<tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>24.00</td>
+<td>23.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>1</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
