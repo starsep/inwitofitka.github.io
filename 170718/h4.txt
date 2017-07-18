@@ -1,4 +1,4 @@
-000000001591
+000000001705
 <h2>4: Krystyna Jędrzejewska - Ireneusz Jędrzejewski</h2>
 <table class="datatable">
 <thead>
@@ -38,21 +38,25 @@
 </tr>
 <tr>
 <td><a href="javascript:loadBoard(3);">3</td><td>EW</td>
-<td colspan="5"></td>
-<td class="right">0.00</td>
-<td class="right">4.00</td>
+<td>6<img src="img/diamonds.gif" />x</td>
+<td>E</td>
+<td><img src="img/spades.gif" />A</td>
+<td>-1</td>
+<td class="right">+200</td>
+<td class="right">-12.00</td>
+<td class="right">-8.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>wynik</b></td>
-<td>4.00</td>
+<td>-8.00</td>
 </tr>
 <tr>
 <td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
 
 <td><b>miejsce</b></td>
-<td>1</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
