@@ -208,14 +208,14 @@
 <wpis>
 <ns>3</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 D X</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>-5</wynik>
+<wist>DT</wist>
 <grupa/>
 <runda>1</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>-1100</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
