@@ -228,14 +228,14 @@
 <wpis>
 <ns>1</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>-3</wynik>
+<wist>D4</wist>
 <grupa/>
 <runda>1</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>150</zapis>
 </wpis>
 <wpis>
 <ns>3</ns>
