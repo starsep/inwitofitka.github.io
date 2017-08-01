@@ -388,14 +388,14 @@
 <wpis>
 <ns>1</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 S</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>H7</wist>
 <grupa/>
 <runda>1</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>-100</zapis>
 </wpis>
 <wpis>
 <ns>3</ns>
