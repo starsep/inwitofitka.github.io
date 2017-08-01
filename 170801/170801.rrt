@@ -260,14 +260,14 @@
 <wpis>
 <ns>1</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 H</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>D4</wist>
 <grupa/>
 <runda>1</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>450</zapis>
 </wpis>
 <wpis>
 <ns>3</ns>
