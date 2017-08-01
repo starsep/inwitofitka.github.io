@@ -784,14 +784,14 @@
 <wpis>
 <ns>4</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 H</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>C3</wist>
 <grupa/>
 <runda>3</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>170</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
