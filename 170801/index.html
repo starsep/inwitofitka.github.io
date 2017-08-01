@@ -1,0 +1,57 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="newstyle.css" />
+<script type="text/javascript" src="jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="jquery.ba-hashchange.min.js"></script>
+<script type="text/javascript" src="script.js"></script>
+<script>
+var ajaxKey = 112;
+$(document).ready(function() {
+
+$(window).hashchange(function() { loadData(false); }); $(window).hashchange(); loadData(true); 
+});
+</script>
+<title></title>
+</head>
+<body>
+<div id="table">
+<div class="row">
+<div id="leftpanel">
+<div id="header" class="rounded">
+<h1></h1>
+<a href="https://inwitofitka.club">[Strona główna]</a> <br />
+<a href="https://inwitofitka.club/prev?from=170801">[Poprzedni trening]</a>
+<a href="https://inwitofitka.club/next?from=170801">[Następny trening]</a>
+<script src="bidding.js"></script>
+<link rel="stylesheet" href="bidding.css" />
+<link rel="shortcut icon" href="../favicon.ico" />
+</div>
+<div id="pairs" class="rounded">
+<div id="historyUsage" style="font-size: 8pt; text-align: center">kliknij na numer pary, aby obejrzeć historię</div>
+<div id="pairscontent">
+</div>
+</div>
+</div>
+<div id="rightpanel">
+<div id="nav" class="rounded">
+</div>
+<div id="boards" class="rounded">
+<div class="table">
+<div class="row">
+<div id="rightleft"></div>
+</div>
+<div class="row">
+<div id="rightright">
+<div id="boardscontent"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="history-link-template" style="display: none">
+<p style="text-align: left;"><a href="javascript:loadResults();"><img src="img/back.png" style="vertical-align: middle;" /> wróć do wyników</a></p>
+</div>
+</body>
+</html>

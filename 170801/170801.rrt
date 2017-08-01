@@ -40,20 +40,20 @@
 <para>
 <numer>1</numer>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
+<nazwisko>Grzegorz Darkiewicz-Moniuszko</nazwisko>
+<id>15922</id>
+<wk>5.0</wk>
+<okreg>MA</okreg>
+<klub>MKS MAZOVIA Mińsk Mazowiecki</klub>
 <status/>
 <kolorwk/>
 </gracz>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
+<nazwisko>Piotr Krajewski</nazwisko>
+<id>6714</id>
+<wk>11.0</wk>
+<okreg>MA</okreg>
+<klub>MKS MAZOVIA Mińsk Mazowiecki</klub>
 <status/>
 <kolorwk/>
 </gracz>
@@ -61,20 +61,20 @@
 <para>
 <numer>2</numer>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Wojciech Grzegorzewski</nazwisko>
+<id>17451</id>
+<wk>2.0</wk>
+<okreg>MA</okreg>
+<klub>Inwitofitka</klub>
+<status>J</status>
 <kolorwk/>
 </gracz>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
+<nazwisko>Cezary Przasnek</nazwisko>
+<id>6866</id>
+<wk>5.0</wk>
+<okreg>MA</okreg>
+<klub>Inwitofitka</klub>
 <status/>
 <kolorwk/>
 </gracz>
@@ -82,20 +82,20 @@
 <para>
 <numer>3</numer>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Anna Nożyńska</nazwisko>
+<id>17692</id>
+<wk>1.5</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
+<status>K</status>
 <kolorwk/>
 </gracz>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
+<nazwisko>Jarek Markowski</nazwisko>
+<id>17362</id>
+<wk>1.5</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
 <status/>
 <kolorwk/>
 </gracz>
@@ -103,21 +103,21 @@
 <para>
 <numer>4</numer>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Karol Konopko</nazwisko>
+<id>17214</id>
+<wk>2.5</wk>
+<okreg>MA</okreg>
+<klub>Inwitofitka</klub>
+<status>J</status>
 <kolorwk/>
 </gracz>
 <gracz>
-<nazwisko/>
-<id/>
-<wk/>
-<okreg/>
-<klub/>
-<status/>
+<nazwisko>Bartosz Ćwiek</nazwisko>
+<id>14971</id>
+<wk>2.5</wk>
+<okreg>MA</okreg>
+<klub>Inwitofitka</klub>
+<status>J</status>
 <kolorwk/>
 </gracz>
 </para>
@@ -624,14 +624,14 @@
 <wpis>
 <ns>2</ns>
 <ew>3</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 H</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>C3</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>50</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
