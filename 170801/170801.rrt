@@ -324,14 +324,14 @@
 <wpis>
 <ns>1</ns>
 <ew>2</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 S</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>=</wynik>
+<wist>C2</wist>
 <grupa/>
 <runda>1</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>620</zapis>
 </wpis>
 <wpis>
 <ns>3</ns>
