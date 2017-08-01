@@ -304,14 +304,14 @@
 <wpis>
 <ns>3</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>4 S X</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>-2</wynik>
+<wist>SA</wist>
 <grupa/>
 <runda>1</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>-500</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
