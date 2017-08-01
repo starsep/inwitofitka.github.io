@@ -10,6 +10,9 @@ baseurl:             "/"
 url:                 "https://inwitofitka.club"
 paginate:            5
 
+# number of tournaments on list
+ntours:              12
+
 # Custom vars
 
 # Gems
