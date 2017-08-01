@@ -240,14 +240,14 @@
 <wpis>
 <ns>3</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>2 NT</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>=</wynik>
+<wist>D4</wist>
 <grupa/>
 <runda>1</runda>
 <stół>A2</stół>
-<zapis/>
+<zapis>-120</zapis>
 </wpis>
 </rozdanie>
 <rozdanie>
