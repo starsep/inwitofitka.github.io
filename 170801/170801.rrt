@@ -548,14 +548,14 @@
 <wpis>
 <ns>1</ns>
 <ew>4</ew>
-<kontrakt/>
-<rozgrywajacy/>
-<wynik/>
-<wist/>
+<kontrakt>3 D</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>-4</wynik>
+<wist>C5</wist>
 <grupa/>
 <runda>2</runda>
 <stół>A1</stół>
-<zapis/>
+<zapis>200</zapis>
 </wpis>
 <wpis>
 <ns>2</ns>
