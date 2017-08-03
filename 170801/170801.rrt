@@ -7,7 +7,7 @@
 <nabiezaco>0</nabiezaco>
 <adresFTP/>
 <loginFTP/>
-<nazwa/>
+<nazwa>Szkoła IF, 01.08.17</nazwa>
 <data>2017-08-213</data>
 <html>&lt;h1&gt;#nazwa&lt;/h1&gt;
 &lt;a href="https://inwitofitka.club"&gt;[Strona główna]&lt;/a&gt; &lt;br /&gt;
@@ -961,13 +961,13 @@
 <thirdColumn>nagroda</thirdColumn>
 <wpis>
 <miejsce>1</miejsce>
-<pkl/>
+<pkl>5</pkl>
 <pdf/>
 <nagroda/>
 </wpis>
 <wpis>
 <miejsce>2</miejsce>
-<pkl/>
+<pkl>1</pkl>
 <pdf/>
 <nagroda/>
 </wpis>
