@@ -1,0 +1,194 @@
+000000005114
+<h2>3: Ewa Łukowska - Jarek Markowski</h2>
+<table class="datatable">
+<thead>
+<tr>
+<td>rnd.</td><td>przeciwnik</td><td>rzd.</td><td>linia</td>
+<td>kont.</td>
+<td>gra</td>
+<td>wist</td>
+<td>lew</td>
+<td>zapis</td>
+<td>wynik</td>
+<td>bieżący</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="8">1</td>
+<td class="left" rowspan="8"><a href="javascript:loadHistory(4);">Krystyna Jędrzejewska - Ireneusz Jędrzejewski</a></td>
+<td><a href="javascript:loadBoard(1);">1</td><td>NS</td>
+<td>4<img src="img/spades.gif" /></td>
+<td>S</td>
+<td><img src="img/clubs.gif" />9</td>
+<td>-1</td>
+<td class="right">-50</td>
+<td class="right">-6.00</td>
+<td class="right">-6.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(2);">2</td><td>NS</td>
+<td>4<img src="img/spades.gif" /></td>
+<td>W</td>
+<td><img src="img/clubs.gif" />Q</td>
+<td>-2</td>
+<td class="right">+100</td>
+<td class="right">-12.00</td>
+<td class="right">-18.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(3);">3</td><td>NS</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>W</td>
+<td></td>
+<td>=</td>
+<td class="right">-600</td>
+<td class="right">0.00</td>
+<td class="right">-18.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(4);">4</td><td>NS</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />4</td>
+<td>+2</td>
+<td class="right">+660</td>
+<td class="right">0.00</td>
+<td class="right">-18.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(5);">5</td><td>NS</td>
+<td>5<img src="img/spades.gif" /></td>
+<td>W</td>
+<td><img src="img/hearts.gif" />J</td>
+<td>+1</td>
+<td class="right">-480</td>
+<td class="right">11.00</td>
+<td class="right">-7.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(6);">6</td><td>NS</td>
+<td>4<img src="img/hearts.gif" />x</td>
+<td>S</td>
+<td><img src="img/diamonds.gif" />Q</td>
+<td>-1</td>
+<td class="right">-100</td>
+<td class="right">11.00</td>
+<td class="right">4.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(7);">7</td><td>NS</td>
+<td>3<img src="img/hearts.gif" />x</td>
+<td>W</td>
+<td><img src="img/spades.gif" />2</td>
+<td>-2</td>
+<td class="right">+500</td>
+<td class="right">12.00</td>
+<td class="right">16.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(8);">8</td><td>NS</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>N</td>
+<td><img src="img/hearts.gif" />5</td>
+<td>+1</td>
+<td class="right">+430</td>
+<td class="right">8.00</td>
+<td class="right">24.00</td>
+</tr>
+<tr>
+<td rowspan="8">2</td>
+<td class="left" rowspan="8"><a href="javascript:loadHistory(2);">Cezary Przasnek - Zbigniew Santkiewicz</a></td>
+<td><a href="javascript:loadBoard(9);">9</td><td>EW</td>
+<td>4<img src="img/hearts.gif" /></td>
+<td>W</td>
+<td></td>
+<td>=</td>
+<td class="right">-620</td>
+<td class="right">13.00</td>
+<td class="right">37.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(10);">10</td><td>EW</td>
+<td>3<img src="img/hearts.gif" /></td>
+<td>W</td>
+<td><img src="img/diamonds.gif" />9</td>
+<td>+2</td>
+<td class="right">-200</td>
+<td class="right">2.00</td>
+<td class="right">39.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(11);">11</td><td>EW</td>
+<td>5<img src="img/clubs.gif" /></td>
+<td>W</td>
+<td><img src="img/hearts.gif" />A</td>
+<td>-1</td>
+<td class="right">+50</td>
+<td class="right">-11.00</td>
+<td class="right">28.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(12);">12</td><td>EW</td>
+<td>4<img src="img/spades.gif" /></td>
+<td>E</td>
+<td><img src="img/clubs.gif" />4</td>
+<td>+1</td>
+<td class="right">-450</td>
+<td class="right">0.00</td>
+<td class="right">28.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(13);">13</td><td>EW</td>
+<td>3<img src="img/clubs.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />5</td>
+<td>+1</td>
+<td class="right">+130</td>
+<td class="right">0.00</td>
+<td class="right">28.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(14);">14</td><td>EW</td>
+<td>2<img src="img/hearts.gif" /></td>
+<td>S</td>
+<td><img src="img/diamonds.gif" />2</td>
+<td>=</td>
+<td class="right">+110</td>
+<td class="right">-6.00</td>
+<td class="right">22.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(15);">15</td><td>EW</td>
+<td>3<img src="img/notrump.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />7</td>
+<td>+4</td>
+<td class="right">+720</td>
+<td class="right">0.00</td>
+<td class="right">22.00</td>
+</tr>
+<tr>
+<td><a href="javascript:loadBoard(16);">16</td><td>EW</td>
+<td>1<img src="img/notrump.gif" /></td>
+<td>S</td>
+<td><img src="img/hearts.gif" />8</td>
+<td>+1</td>
+<td class="right">+120</td>
+<td class="right">-7.00</td>
+<td class="right">15.00</td>
+</tr>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>wynik</b></td>
+<td>15.00</td>
+</tr>
+<tr>
+<td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td>
+
+<td><b>miejsce</b></td>
+<td>2</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<turniej>
+<ustawienia>
+<outputDir>C:\Users\Grzegorz Gardynik\inwitofitka.github.io\170912</outputDir>
+<plikPBN/>
+<favicon/>
+<nabiezaco>0</nabiezaco>
+<adresFTP/>
+<loginFTP/>
+<nazwa>Szkoła IF, 12.09.17</nazwa>
+<data>2017-09-255</data>
+<html>&lt;h1&gt;#nazwa&lt;/h1&gt;
+&lt;a href="https://inwitofitka.club"&gt;[Strona główna]&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://inwitofitka.club/prev?from=ID"&gt;[Poprzedni trening]&lt;/a&gt;
+&lt;a href="https://inwitofitka.club/next?from=ID"&gt;[Następny trening]&lt;/a&gt;
+&lt;script src="bidding.js"&gt;&lt;/script&gt;
+&lt;link rel="stylesheet" href="bidding.css" /&gt;
+&lt;link rel="shortcut icon" href="../favicon.ico" /&gt;</html>
+<liczenie>imp</liczenie>
+<tryb>kontrakty</tryb>
+<tylkoWyniki>0</tylkoWyniki>
+<prosteHistorieFTP>0</prosteHistorieFTP>
+<cezarStatus>0</cezarStatus>
+<wkVisibility>1</wkVisibility>
+<okręgVisibility>1</okręgVisibility>
+<klubVisibility>1</klubVisibility>
+<wyrównaniaVisibility>1</wyrównaniaVisibility>
+<podglądRozdań>1</podglądRozdań>
+<tabelkaRozdań>1</tabelkaRozdań>0<odrzucaneZapisy>0</odrzucaneZapisy>
+<impLimit>0</impLimit>
+<wersjaTabelki/>
+<limitPokazywanychRozdań>0</limitPokazywanychRozdań>
+<showDealsOption>1</showDealsOption>
+<vpTable/>
+<netSafetyLevel>3</netSafetyLevel>
+<whiteList/>
+</ustawienia>
+<closedFinals/>
+<lista>
+<para>
+<numer>1</numer>
+<gracz>
+<nazwisko>Anna Nożyńska</nazwisko>
+<id>17692</id>
+<wk>1.5</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
+<status>K</status>
+<kolorwk/>
+</gracz>
+<gracz>
+<nazwisko>Grzegorz Gardynik</nazwisko>
+<id>1305</id>
+<wk>19.0</wk>
+<okreg>MA</okreg>
+<klub>Inwitofitka</klub>
+<status>S</status>
+<kolorwk/>
+</gracz>
+</para>
+<para>
+<numer>2</numer>
+<gracz>
+<nazwisko>Cezary Przasnek</nazwisko>
+<id>6866</id>
+<wk>5.0</wk>
+<okreg>MA</okreg>
+<klub>Inwitofitka</klub>
+<status/>
+<kolorwk/>
+</gracz>
+<gracz>
+<nazwisko>Zbigniew Santkiewicz</nazwisko>
+<id>7840</id>
+<wk>2.0</wk>
+<okreg>MA</okreg>
+<klub>SAMOVOLKA Warszawa</klub>
+<status>S</status>
+<kolorwk/>
+</gracz>
+</para>
+<para>
+<numer>3</numer>
+<gracz>
+<nazwisko>Ewa Łukowska</nazwisko>
+<id>7817</id>
+<wk>2.0</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
+<status>K</status>
+<kolorwk/>
+</gracz>
+<gracz>
+<nazwisko>Jarek Markowski</nazwisko>
+<id>17362</id>
+<wk>1.5</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
+<status/>
+<kolorwk/>
+</gracz>
+</para>
+<para>
+<numer>4</numer>
+<gracz>
+<nazwisko>Ireneusz Jędrzejewski</nazwisko>
+<id>18015</id>
+<wk>1.5</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
+<status>S</status>
+<kolorwk/>
+</gracz>
+<gracz>
+<nazwisko>Krystyna Jędrzejewska</nazwisko>
+<id>18014</id>
+<wk>1.0</wk>
+<okreg>MA</okreg>
+<klub>IF22</klub>
+<status>KS</status>
+<kolorwk/>
+</gracz>
+</para>
+</lista>
+<wyrownania/>
+<monitor>
+<rozdNaRunde>8</rozdNaRunde>
+<stoly>
+<stol>
+<id>1</id>
+<sektor>A</sektor>
+<numer>1</numer>
+</stol>
+<stol>
+<id>2</id>
+<sektor>A</sektor>
+<numer>2</numer>
+</stol>
+</stoly>
+</monitor>
+<rundy>
+<runda>
+<id>1</id>
+<stol>
+<id>1</id>
+<ns>1</ns>
+<ew>2</ew>
+<kpl>1</kpl>
+</stol>
+<stol>
+<id>2</id>
+<ns>3</ns>
+<ew>4</ew>
+<kpl>1</kpl>
+</stol>
+</runda>
+<runda>
+<id>2</id>
+<stol>
+<id>1</id>
+<ns>1</ns>
+<ew>4</ew>
+<kpl>2</kpl>
+</stol>
+<stol>
+<id>2</id>
+<ns>2</ns>
+<ew>3</ew>
+<kpl>2</kpl>
+</stol>
+</runda>
+</rundy>
+<rozdania>
+<rozdanie>
+<numer>1</numer>
+<numerNaSali>1</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "N:T9432.Q.KT9.QJ32 .AJ98.QJ64.AK854 AKQ87.7542.A8.76 J65.KT63.7532.T9"]</diagram>
+<ability>[Ability "N:69445 E:63997 S:69335 W:63997"]</ability>
+<minimax>[Minimax "4DDW100"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>2</ew>
+<kontrakt>3 S</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>C9</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A1</stół>
+<zapis>200</zapis>
+</wpis>
+<wpis>
+<ns>3</ns>
+<ew>4</ew>
+<kontrakt>4 S</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>C9</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A2</stół>
+<zapis>-50</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>2</numer>
+<numerNaSali>2</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "E:KJ8643.8752.T8.8 AT2.Q4.J4.AT9742 Q95..KQ7632.K653 7.AKJT963.A95.QJ"]</diagram>
+<ability>[Ability "N:B5B5A E:17171 S:B5B5A W:17171"]</ability>
+<minimax>[Minimax "4NS660"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>2</ew>
+<kontrakt>5 H</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>+2</wynik>
+<wist/>
+<grupa/>
+<runda>1</runda>
+<stół>A1</stół>
+<zapis>710</zapis>
+</wpis>
+<wpis>
+<ns>3</ns>
+<ew>4</ew>
+<kontrakt>4 S</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>-2</wynik>
+<wist>CQ</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A2</stół>
+<zapis>100</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>3</numer>
+<numerNaSali>3</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "S:KT7.J2.KJ94.T643 AJ83.63.A5.AKJ98 Q964.KT94.72.752 52.AQ875.QT863.Q"]</diagram>
+<ability>[Ability "N:34322 E:999BA S:34322 W:999AA"]</ability>
+<minimax>[Minimax "3NE-600"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>2</ew>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>=</wynik>
+<wist/>
+<grupa/>
+<runda>1</runda>
+<stół>A1</stół>
+<zapis>-600</zapis>
+</wpis>
+<wpis>
+<ns>3</ns>
+<ew>4</ew>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>=</wynik>
+<wist/>
+<grupa/>
+<runda>1</runda>
+<stół>A2</stół>
+<zapis>-600</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>4</numer>
+<numerNaSali>4</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "W:972.82.KQT52.AJ8 AK4.AQJ9.A4.KT63 JT86.76543.973.4 Q53.KT.J86.Q9752"]</diagram>
+<ability>[Ability "N:8997B E:14461 S:B997B W:14461"]</ability>
+<minimax>[Minimax "5NS660"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>2</ew>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>SJ</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A1</stół>
+<zapis>660</zapis>
+</wpis>
+<wpis>
+<ns>3</ns>
+<ew>4</ew>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>H4</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A2</stół>
+<zapis>660</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>5</numer>
+<numerNaSali>5</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "N:4.JT63.AQ6.T8542 6.AK75.K8742.Q93 983.982.JT953.AJ AKQJT752.Q4..K76"]</diagram>
+<ability>[Ability "N:11364 E:BC878 S:11364 W:BC878"]</ability>
+<minimax>[Minimax "6SW-980"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>2</ew>
+<kontrakt>6 S</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>=</wynik>
+<wist>HJ</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A1</stół>
+<zapis>-980</zapis>
+</wpis>
+<wpis>
+<ns>3</ns>
+<ew>4</ew>
+<kontrakt>5 S</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>HJ</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A2</stół>
+<zapis>-480</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>6</numer>
+<numerNaSali>6</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "E:Q96.A75.AK98.J98 JT7.QJ984..AT762 K853.K.QJ7.KQ543 A42.T632.T65432."]</diagram>
+<ability>[Ability "N:36854 E:96489 S:36854 W:96489"]</ability>
+<minimax>[Minimax "4HDS-300"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>2</ew>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>=</wynik>
+<wist>HQ</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A1</stół>
+<zapis>-600</zapis>
+</wpis>
+<wpis>
+<ns>3</ns>
+<ew>4</ew>
+<kontrakt>4 H X</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>DQ</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A2</stół>
+<zapis>-100</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>7</numer>
+<numerNaSali>7</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "S:KQ95.75.KQ2.Q842 AJT.JT964.J53.96 82.832.A64.AKJT5 7643.AKQ.T987.73"]</diagram>
+<ability>[Ability "N:7767A E:46753 S:7767A W:46753"]</ability>
+<minimax>[Minimax "2CN130"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>2</ew>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>-2</wynik>
+<wist>HK</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A1</stół>
+<zapis>-200</zapis>
+</wpis>
+<wpis>
+<ns>3</ns>
+<ew>4</ew>
+<kontrakt>3 H X</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>-2</wynik>
+<wist>S2</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A2</stół>
+<zapis>500</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>8</numer>
+<numerNaSali>8</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "W:Q4.KQ973.J93.AJ3 KJT95.AJT4.T8.Q8 A832.865.K52.965 76.2.AQ764.KT742"]</diagram>
+<ability>[Ability "N:9A8AA E:43533 S:9A8AA W:43533"]</ability>
+<minimax>[Minimax "4SN420"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>2</ew>
+<kontrakt>2 H X</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>CQ</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A1</stół>
+<zapis>100</zapis>
+</wpis>
+<wpis>
+<ns>3</ns>
+<ew>4</ew>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>H5</wist>
+<grupa/>
+<runda>1</runda>
+<stół>A2</stół>
+<zapis>430</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>9</numer>
+<numerNaSali>9</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "N:QT4.642.765.QT62 K965..AQJ83.A975 A873.KQ5.KT42.K3 J2.AJT9873.9.J84"]</diagram>
+<ability>[Ability "N:76475 E:67968 S:75465 W:67968"]</ability>
+<minimax>[Minimax "3HW-140"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>4</ew>
+<kontrakt>3 H</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>=</wynik>
+<wist/>
+<grupa/>
+<runda>2</runda>
+<stół>A1</stół>
+<zapis>140</zapis>
+</wpis>
+<wpis>
+<ns>2</ns>
+<ew>3</ew>
+<kontrakt>4 H</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>=</wynik>
+<wist/>
+<grupa/>
+<runda>2</runda>
+<stół>A2</stół>
+<zapis>-620</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>10</numer>
+<numerNaSali>10</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "E:A97.AT9.QJ.QJT43 J865.83.AK532.K2 Q.KJ654.74.A9876 KT432.Q72.T986.5"]</diagram>
+<ability>[Ability "N:29270 E:94B4B S:29270 W:94B4B"]</ability>
+<minimax>[Minimax "5SDN-500"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>4</ew>
+<kontrakt>3 C</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>DA</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A1</stół>
+<zapis>-150</zapis>
+</wpis>
+<wpis>
+<ns>2</ns>
+<ew>3</ew>
+<kontrakt>3 H</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>D9</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A2</stół>
+<zapis>-200</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>11</numer>
+<numerNaSali>11</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "S:2.98532.98762.85 T9.K64.A54.QJT32 A8765.A7.QT3.974 KQJ43.QJT.KJ.AK6"]</diagram>
+<ability>[Ability "N:22452 E:BB97A S:22442 W:BB97A"]</ability>
+<minimax>[Minimax "3NE-460"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>4</ew>
+<kontrakt>3 D X</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>-3</wynik>
+<wist>CA</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A1</stół>
+<zapis>-500</zapis>
+</wpis>
+<wpis>
+<ns>2</ns>
+<ew>3</ew>
+<kontrakt>5 C</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>-1</wynik>
+<wist>HA</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A2</stół>
+<zapis>50</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>12</numer>
+<numerNaSali>12</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "W:A762.JT84.Q976.2 J.9632.JT83.QJ85 QT9543.K.A.AT976 K8.AQ75.K542.K43"]</diagram>
+<ability>[Ability "N:42674 E:8B668 S:42674 W:8B668"]</ability>
+<minimax>[Minimax "4SE-450"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>4</ew>
+<kontrakt>4 S</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>CK</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A1</stół>
+<zapis>-450</zapis>
+</wpis>
+<wpis>
+<ns>2</ns>
+<ew>3</ew>
+<kontrakt>4 S</kontrakt>
+<rozgrywajacy>E</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>C4</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A2</stół>
+<zapis>-450</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>13</numer>
+<numerNaSali>13</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "N:AJ98.T6.JT2.KQ97 QT7654.KQ87.74.6 K.A54.K9853.AT52 32.J932.AQ6.J843"]</diagram>
+<ability>[Ability "N:85699 E:57733 S:85699 W:57733"]</ability>
+<minimax>[Minimax "1NS120"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>4</ew>
+<kontrakt>2 D</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+2</wynik>
+<wist>H2</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A1</stół>
+<zapis>130</zapis>
+</wpis>
+<wpis>
+<ns>2</ns>
+<ew>3</ew>
+<kontrakt>3 C</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>H5</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A2</stół>
+<zapis>130</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>14</numer>
+<numerNaSali>14</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "E:Q942.AQ94.K4.AT7 J87.KT862.J985.Q 65.J.QT62.J96532 AKT3.753.A73.K84"]</diagram>
+<ability>[Ability "N:66874 E:66569 S:66874 W:66569"]</ability>
+<minimax>[Minimax "3HDS-100"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>4</ew>
+<kontrakt>3 C</kontrakt>
+<rozgrywajacy>W</rozgrywajacy>
+<wynik>=</wynik>
+<wist>SA</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A1</stół>
+<zapis>-110</zapis>
+</wpis>
+<wpis>
+<ns>2</ns>
+<ew>3</ew>
+<kontrakt>2 H</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>=</wynik>
+<wist>D2</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A2</stół>
+<zapis>110</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>15</numer>
+<numerNaSali>15</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "S:AQT.AK854.A7.AJ4 8753.976.T962.83 KJ9.JT2.43.K7652 642.Q3.KQJ85.QT9"]</diagram>
+<ability>[Ability "N:DBD8D E:01050 S:DBD8D W:01050"]</ability>
+<minimax>[Minimax "7NN2220"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>4</ew>
+<kontrakt>4 H</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+3</wynik>
+<wist>D9</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A1</stół>
+<zapis>710</zapis>
+</wpis>
+<wpis>
+<ns>2</ns>
+<ew>3</ew>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+4</wynik>
+<wist>H7</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A2</stół>
+<zapis>720</zapis>
+</wpis>
+</rozdanie>
+<rozdanie>
+<numer>16</numer>
+<numerNaSali>16</numerNaSali>
+<rozdAktywne>1</rozdAktywne>
+<diagram>[Deal "W:A83.T84.K72.KJT3 KJ64.AK6.T6.8762 T92.QJ93.J954.94 Q75.752.AQ83.AQ5"]</diagram>
+<ability>[Ability "N:89789 E:54554 S:89889 W:54554"]</ability>
+<minimax>[Minimax "1SN140"]</minimax>
+<wpis>
+<ns>1</ns>
+<ew>4</ew>
+<kontrakt>3 NT</kontrakt>
+<rozgrywajacy>N</rozgrywajacy>
+<wynik>-3</wynik>
+<wist>H3</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A1</stół>
+<zapis>-150</zapis>
+</wpis>
+<wpis>
+<ns>2</ns>
+<ew>3</ew>
+<kontrakt>1 NT</kontrakt>
+<rozgrywajacy>S</rozgrywajacy>
+<wynik>+1</wynik>
+<wist>H8</wist>
+<grupa/>
+<runda>2</runda>
+<stół>A2</stół>
+<zapis>120</zapis>
+</wpis>
+</rozdanie>
+</rozdania>
+<varia>
+<firstColumn>PKL</firstColumn>
+<secondColumn>PDF</secondColumn>
+<thirdColumn>nagroda</thirdColumn>
+<wpis>
+<miejsce>1</miejsce>
+<pkl>5</pkl>
+<pdf/>
+<nagroda/>
+</wpis>
+<wpis>
+<miejsce>2</miejsce>
+<pkl>1</pkl>
+<pdf/>
+<nagroda/>
+</wpis>
+<wpis>
+<miejsce>3</miejsce>
+<pkl/>
+<pdf/>
+<nagroda/>
+</wpis>
+<wpis>
+<miejsce>4</miejsce>
+<pkl/>
+<pdf/>
+<nagroda/>
+</wpis>
+</varia>
+</turniej>
