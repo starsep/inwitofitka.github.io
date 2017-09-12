@@ -8,7 +8,7 @@ title: Ostatnie treningi
 {% assign reversedTournaments = site.data.tournaments | reverse %}
 {% for t in reversedTournaments limit:site.ntours %}
   <div class="resultLink">
-    <a href="{{ t }}">
+    <a href="{{ site.baseurl }}{{ t }}/">
       {{ t | slice: 4, 2 }}.{{ t | slice: 2, 2 }}.{{ t | slice: 0, 2 }}r.
     </a>
   </div>

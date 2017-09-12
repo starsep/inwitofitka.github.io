@@ -5,7 +5,7 @@ title: Wszystkie treningi
 
 {% for t in site.data.tournaments reversed %}
   <div class="resultLink">
-    <a href="{{ t }}">
+    <a href="{{ site.baseurl }}{{ t }}/">
       {{ t | slice: 4, 2 }}.{{ t | slice: 2, 2 }}.{{ t | slice: 0, 2 }}r.
     </a>
   </div>
