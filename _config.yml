@@ -3,7 +3,6 @@ permalink:           pretty
 
 # Setup
 title:               Szkoła IF
-tagline:             Szkoła IF
 description:         ""
 email:               filipczaplicki@gmail.com
 baseurl:             "/"
@@ -16,7 +15,7 @@ ntours:              12
 # Custom vars
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
